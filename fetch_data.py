@@ -6,11 +6,32 @@ from datetime import datetime, timezone, timedelta
 
 # --- Load API key from .env file ---
 def load_api_key():
-    with open(".env") as f:
-        for line in f:
-            if line.startswith("POLYGON_API_KEY"):
-                return line.strip().split("=")[1]
-    raise Exception("API key not found in .env file")
+    # First try environment variable (GitHub Actions)
+    key = os.environ.get("POLYGON_API_KEY")
+    if key:
+        return key
+    # Fall back to .env file (local development)
+    try:
+        with open(".env") as f:
+            for line in f:
+                if line.startswith("POLYGON_API_KEY"):
+                    return line.strip().split("=")[1]
+    except FileNotFoundError:
+        pass
+    raise Exception("API key not found")
+```
+
+---
+
+### Step 4 — Push the new files to GitHub
+```
+git add .
+```
+```
+git commit -m "add GitHub Actions workflow"
+```
+```
+git push
 
 API_KEY = load_api_key()
 BASE_URL = "https://api.polygon.io"
