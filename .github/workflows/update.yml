@@ -2,7 +2,7 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: '0 21 * * 1-5'  # weekdays at 21:00 UTC (after US market close)
+    - cron: '30 13 * * 1-5'  # weekdays at 8:30 AM EST (13:30 UTC)
   workflow_dispatch:         # also allows manual trigger from GitHub
 
 jobs:
