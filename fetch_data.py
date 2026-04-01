@@ -4,15 +4,12 @@ import os
 import time
 from datetime import datetime, timezone, timedelta
 
-# ─── Load API keys ────────────────────────────────────────────────
+# ─── Load API key (Finnhub only) ─────────────────────────────────
 def load_env():
     env = {}
-    # First try environment variables (GitHub Actions)
-    for key in ["POLYGON_API_KEY", "FINNHUB_API_KEY"]:
-        val = os.environ.get(key)
-        if val:
-            env[key] = val
-    # Fall back to .env file
+    key = os.environ.get("FINNHUB_API_KEY")
+    if key:
+        env["FINNHUB_API_KEY"] = key
     try:
         with open(".env") as f:
             for line in f:
@@ -26,166 +23,202 @@ def load_env():
     return env
 
 ENV = load_env()
-POLYGON_KEY = ENV.get("POLYGON_API_KEY")
 FINNHUB_KEY = ENV.get("FINNHUB_API_KEY")
-
-if not POLYGON_KEY:
-    raise Exception("POLYGON_API_KEY not found")
 if not FINNHUB_KEY:
     raise Exception("FINNHUB_API_KEY not found")
 
-POLYGON_BASE = "https://api.polygon.io"
-FINNHUB_BASE = "https://finnhub.io/api/v1"
+BASE = "https://finnhub.io/api/v1"
 
 # ─── Date helpers ─────────────────────────────────────────────────
 now_utc = datetime.now(timezone.utc)
-today = now_utc.strftime("%Y-%m-%d")
+today     = now_utc.strftime("%Y-%m-%d")
 yesterday = (now_utc - timedelta(days=1)).strftime("%Y-%m-%d")
-month_ago = (now_utc - timedelta(days=30)).strftime("%Y-%m-%d")
-year_ago = (now_utc - timedelta(days=365)).strftime("%Y-%m-%d")
 
-# ─── Fetch helpers ────────────────────────────────────────────────
-def polygon_get(endpoint, params=None):
-    params = params or {}
-    params["apiKey"] = POLYGON_KEY
-    r = requests.get(f"{POLYGON_BASE}{endpoint}", params=params, timeout=10)
-    r.raise_for_status()
-    time.sleep(13)  # free tier: 5 req/min
-    return r.json()
+# Unix timestamps for candle requests
+ts_now      = int(now_utc.timestamp())
+ts_30d_ago  = int((now_utc - timedelta(days=40)).timestamp())  # 40d buffer for weekends
 
-def finnhub_get(endpoint, params=None):
+# ─── Finnhub fetch helper ─────────────────────────────────────────
+def fh(endpoint, params=None):
     params = params or {}
     params["token"] = FINNHUB_KEY
-    r = requests.get(f"{FINNHUB_BASE}{endpoint}", params=params, timeout=10)
+    r = requests.get(f"{BASE}{endpoint}", params=params, timeout=10)
     r.raise_for_status()
-    time.sleep(1)  # free tier: 60 req/min
+    time.sleep(1)  # 60 req/min free tier
     return r.json()
+
+# ─── Candle → bars converter ──────────────────────────────────────
+# Finnhub returns {c:[...], h:[...], o:[...], l:[...], v:[...], t:[...], s:"ok"}
+# We convert to [{o,h,l,c,v,t}] matching our existing dashboard format
+def candles_to_bars(data, limit=30):
+    if not data or data.get("s") != "ok":
+        return []
+    keys = ["t", "o", "h", "l", "c", "v"]
+    arrays = {k: data.get(k, []) for k in keys}
+    n = len(arrays["t"])
+    bars = [
+        {k: arrays[k][i] for k in keys}
+        for i in range(n)
+    ]
+    # t is in seconds — multiply by 1000 for JS compatibility
+    for b in bars:
+        b["t"] = b["t"] * 1000
+    return bars[-limit:]  # last 30 trading days
+
+# ─── RVOL helper ──────────────────────────────────────────────────
+def calc_rvol(bars):
+    if len(bars) < 2:
+        return None
+    # average of previous 20 days (exclude today = last bar)
+    window = bars[-21:-1] if len(bars) >= 21 else bars[:-1]
+    if not window:
+        return None
+    avg = sum(b["v"] for b in window) / len(window)
+    return round(bars[-1]["v"] / avg, 2) if avg > 0 else None
 
 # ─── 1. EARNINGS CALENDAR ─────────────────────────────────────────
 print("\nFetching earnings calendar...")
 earnings_raw = []
-
-# Today + yesterday window to catch BMO today and AMC yesterday
 for date in [today, yesterday]:
     try:
-        data = finnhub_get("/calendar/earnings", {
-            "from": date,
-            "to": date
-        })
+        data = fh("/calendar/earnings", {"from": date, "to": date})
         items = data.get("earningsCalendar", [])
         for item in items:
-            # Only keep BMO today and AMC yesterday
             hour = item.get("hour", "")
             report_date = item.get("date", "")
-            if report_date == today and hour in ["bmo", "dmh"]:  # before market open
+            if report_date == today and hour in ["bmo", "dmh"]:
                 item["timing_label"] = "Today BMO"
                 earnings_raw.append(item)
-            elif report_date == yesterday and hour == "amc":  # after market close
+            elif report_date == yesterday and hour == "amc":
                 item["timing_label"] = "Yesterday AMC"
                 earnings_raw.append(item)
-        print(f"  OK {date}: {len(items)} earnings found")
+        print(f"  OK {date}: {len(items)} total, filtered to relevant")
     except Exception as e:
-        print(f"  WARN earnings {date}: {e}")
+        print(f"  WARN {date}: {e}")
 
-# ─── 2. EARNINGS SURPRISES (last 4 quarters per ticker) ──────────
-earnings_tickers = [e["symbol"] for e in earnings_raw if e.get("symbol")]
-earnings_tickers = list(dict.fromkeys(earnings_tickers))[:20]  # dedupe, max 20
+earnings_tickers = list(dict.fromkeys(
+    [e["symbol"] for e in earnings_raw if e.get("symbol")]
+))[:20]
 
-print(f"\nFetching earnings details for {len(earnings_tickers)} tickers...")
-earnings_details = {}
+# ─── 2. EARNINGS HISTORY ─────────────────────────────────────────
+print(f"\nFetching earnings history for {len(earnings_tickers)} tickers...")
+earnings_history = {}
 for ticker in earnings_tickers:
     try:
-        data = finnhub_get("/stock/earnings", {"symbol": ticker, "limit": 4})
-        earnings_details[ticker] = data if isinstance(data, list) else []
-        print(f"  OK {ticker}: {len(earnings_details[ticker])} quarters")
+        data = fh("/stock/earnings", {"symbol": ticker, "limit": 4})
+        earnings_history[ticker] = data if isinstance(data, list) else []
+        print(f"  OK {ticker}: {len(earnings_history[ticker])} quarters")
     except Exception as e:
         print(f"  WARN {ticker}: {e}")
-        earnings_details[ticker] = []
+        earnings_history[ticker] = []
 
-# ─── 3. PRICE + VOLUME + RVOL via Polygon ────────────────────────
-print(f"\nFetching price/volume data for earnings tickers...")
+# ─── 3. MARKET CAP ───────────────────────────────────────────────
+print(f"\nFetching market cap for earnings tickers...")
+market_caps = {}
+for ticker in earnings_tickers:
+    try:
+        data = fh("/stock/profile2", {"symbol": ticker})
+        mc = data.get("marketCapitalization")
+        market_caps[ticker] = mc * 1e6 if mc else None
+        print(f"  OK {ticker}: {mc}M")
+    except Exception as e:
+        print(f"  WARN {ticker}: {e}")
+        market_caps[ticker] = None
+
+# ─── 4. PRICE BARS FOR EARNINGS TICKERS ──────────────────────────
+print(f"\nFetching price bars for earnings tickers...")
 earnings_prices = {}
 for ticker in earnings_tickers:
     try:
-        data = polygon_get(
-            f"/v2/aggs/ticker/{ticker}/range/1/day/{month_ago}/{today}",
-            {"adjusted": "true", "sort": "asc", "limit": 30}
-        )
-        bars = data.get("results", [])
+        data = fh("/stock/candle", {
+            "symbol": ticker,
+            "resolution": "D",
+            "from": ts_30d_ago,
+            "to": ts_now
+        })
+        bars = candles_to_bars(data, limit=30)
         if len(bars) >= 2:
-            # Calculate 20-day average volume for RVOL
-            recent_bars = bars[-21:-1] if len(bars) >= 21 else bars[:-1]
-            avg_vol = sum(b["v"] for b in recent_bars) / len(recent_bars) if recent_bars else 0
+            rvol = calc_rvol(bars)
             last = bars[-1]
-            rvol = round(last["v"] / avg_vol, 2) if avg_vol > 0 else None
             earnings_prices[ticker] = {
                 "bars": bars,
                 "last_close": last["c"],
+                "prev_close": bars[-2]["c"],
                 "last_volume": last["v"],
-                "avg_volume": round(avg_vol),
-                "rvol": rvol,
-                "prev_close": bars[-2]["c"] if len(bars) >= 2 else None
+                "rvol": rvol
             }
-            print(f"  OK {ticker}: close={last['c']}, RVOL={rvol}")
+            print(f"  OK {ticker}: {len(bars)} bars, RVOL={rvol}")
         else:
-            print(f"  WARN {ticker}: not enough bars")
+            print(f"  WARN {ticker}: not enough bars ({len(bars)})")
     except Exception as e:
-        print(f"  WARN {ticker} price: {e}")
+        print(f"  WARN {ticker}: {e}")
 
-# ─── 4. REGULAR STOCKS (existing dashboard) ──────────────────────
+# ─── 5. REGULAR STOCKS ───────────────────────────────────────────
 print("\nFetching regular stocks...")
 STOCKS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN"]
 stocks = {}
 for ticker in STOCKS:
     try:
-        data = polygon_get(
-            f"/v2/aggs/ticker/{ticker}/range/1/day/{month_ago}/{today}",
-            {"adjusted": "true", "sort": "asc"}
-        )
-        bars = data.get("results", [])
-        recent = bars[-21:-1] if len(bars) >= 21 else bars[:-1]
-        avg_vol = sum(b["v"] for b in recent) / len(recent) if recent else 0
+        data = fh("/stock/candle", {
+            "symbol": ticker,
+            "resolution": "D",
+            "from": ts_30d_ago,
+            "to": ts_now
+        })
+        bars = candles_to_bars(data, limit=30)
         stocks[ticker] = {
             "bars": bars,
-            "rvol": round(bars[-1]["v"] / avg_vol, 2) if avg_vol > 0 and bars else None
+            "rvol": calc_rvol(bars)
         }
-        print(f"  OK {ticker}: {len(bars)} days")
+        print(f"  OK {ticker}: {len(bars)} bars")
     except Exception as e:
         print(f"  WARN {ticker}: {e}")
 
-# ─── 5. INDICES ───────────────────────────────────────────────────
+# ─── 6. INDICES (via ETF proxies) ────────────────────────────────
 print("\nFetching indices...")
 indices = {}
 for name, ticker in {"SP500": "SPY", "NASDAQ": "QQQ", "DOW": "DIA"}.items():
     try:
-        data = polygon_get(
-            f"/v2/aggs/ticker/{ticker}/range/1/day/{month_ago}/{today}",
-            {"adjusted": "true", "sort": "asc"}
-        )
-        indices[name] = {"bars": data.get("results", [])}
-        print(f"  OK {name}")
+        data = fh("/stock/candle", {
+            "symbol": ticker,
+            "resolution": "D",
+            "from": ts_30d_ago,
+            "to": ts_now
+        })
+        bars = candles_to_bars(data, limit=30)
+        indices[name] = {"bars": bars}
+        print(f"  OK {name}: {len(bars)} bars")
     except Exception as e:
         print(f"  WARN {name}: {e}")
 
-# ─── 6. CRYPTO ────────────────────────────────────────────────────
+# ─── 7. CRYPTO ───────────────────────────────────────────────────
 print("\nFetching crypto...")
 crypto = {}
-for pair in ["BTCUSD", "ETHUSD", "SOLUSD"]:
+# Finnhub crypto format: BINANCE:BTCUSDT
+crypto_map = {
+    "BTCUSD": "BINANCE:BTCUSDT",
+    "ETHUSD": "BINANCE:ETHUSDT",
+    "SOLUSD": "BINANCE:SOLUSDT"
+}
+for pair, symbol in crypto_map.items():
     try:
-        data = polygon_get(
-            f"/v2/aggs/ticker/X:{pair}/range/1/day/{month_ago}/{today}",
-            {"sort": "asc"}
-        )
-        crypto[pair] = {"bars": data.get("results", [])}
-        print(f"  OK {pair}")
+        data = fh("/crypto/candle", {
+            "symbol": symbol,
+            "resolution": "D",
+            "from": ts_30d_ago,
+            "to": ts_now
+        })
+        bars = candles_to_bars(data, limit=30)
+        crypto[pair] = {"bars": bars}
+        print(f"  OK {pair}: {len(bars)} bars")
     except Exception as e:
         print(f"  WARN {pair}: {e}")
 
-# ─── 7. MARKET NEWS ───────────────────────────────────────────────
-print("\nFetching market news...")
+# ─── 8. NEWS ─────────────────────────────────────────────────────
+print("\nFetching news...")
 news = []
 try:
-    data = finnhub_get("/news", {"category": "general", "minId": 0})
+    data = fh("/news", {"category": "general", "minId": 0})
     for item in (data or [])[:15]:
         news.append({
             "headline": item.get("headline", ""),
@@ -194,94 +227,92 @@ try:
             "datetime": item.get("datetime", 0),
             "summary": item.get("summary", "")[:200]
         })
-    print(f"  OK {len(news)} news items")
+    print(f"  OK {len(news)} items")
 except Exception as e:
     print(f"  WARN news: {e}")
 
-# ─── 8. FEAR & GREED (calculated from VIX proxy + momentum) ──────
-print("\nCalculating Fear & Greed sentiment...")
+# ─── 9. SENTIMENT (SPY momentum) ─────────────────────────────────
+print("\nCalculating sentiment...")
 sentiment_score = 50
 sentiment_label = "Neutral"
 try:
-    # Use SPY 30-day momentum as sentiment proxy
     spy_bars = indices.get("SP500", {}).get("bars", [])
     if len(spy_bars) >= 20:
         prices = [b["c"] for b in spy_bars]
-        # 20-day momentum
         momentum = (prices[-1] - prices[-20]) / prices[-20] * 100
-        # 5-day vs 20-day trend
-        ma5 = sum(prices[-5:]) / 5
+        ma5  = sum(prices[-5:])  / 5
         ma20 = sum(prices[-20:]) / 20
         trend = (ma5 - ma20) / ma20 * 100
-        # Volume trend (high volume on up days = greed)
-        recent_bars = spy_bars[-10:]
-        up_vol = sum(b["v"] for b in recent_bars if b["c"] > b["o"])
-        down_vol = sum(b["v"] for b in recent_bars if b["c"] <= b["o"])
+        recent = spy_bars[-10:]
+        up_vol   = sum(b["v"] for b in recent if b["c"] > b["o"])
+        down_vol = sum(b["v"] for b in recent if b["c"] <= b["o"])
         vol_ratio = up_vol / (up_vol + down_vol) * 100 if (up_vol + down_vol) > 0 else 50
-
-        # Weighted score
         raw = (momentum * 3) + (trend * 5) + (vol_ratio - 50)
-        sentiment_score = max(0, min(100, 50 + raw))
-        sentiment_score = round(sentiment_score)
-
-        if sentiment_score >= 75:
-            sentiment_label = "Extreme Greed"
-        elif sentiment_score >= 60:
-            sentiment_label = "Greed"
-        elif sentiment_score >= 45:
-            sentiment_label = "Neutral"
-        elif sentiment_score >= 25:
-            sentiment_label = "Fear"
-        else:
-            sentiment_label = "Extreme Fear"
-
+        sentiment_score = max(0, min(100, round(50 + raw)))
+        if   sentiment_score >= 75: sentiment_label = "Extreme Greed"
+        elif sentiment_score >= 60: sentiment_label = "Greed"
+        elif sentiment_score >= 45: sentiment_label = "Neutral"
+        elif sentiment_score >= 25: sentiment_label = "Fear"
+        else:                       sentiment_label = "Extreme Fear"
     print(f"  OK score={sentiment_score} ({sentiment_label})")
 except Exception as e:
     print(f"  WARN sentiment: {e}")
 
-# ─── 9. BUILD FULL EARNINGS LIST ─────────────────────────────────
+# ─── 10. BUILD EARNINGS OUTPUT ───────────────────────────────────
 earnings_output = []
 for item in earnings_raw:
     ticker = item.get("symbol", "")
     if not ticker:
         continue
     price_data = earnings_prices.get(ticker, {})
-    surprise_data = earnings_details.get(ticker, [])
-    latest = surprise_data[0] if surprise_data else {}
+    history    = earnings_history.get(ticker, [])
+
+    prev_quarters = []
+    for q in history[:2]:
+        prev_quarters.append({
+            "period":       q.get("period", ""),
+            "eps_actual":   q.get("actual"),
+            "eps_estimate": q.get("estimate"),
+            "surprise_pct": q.get("surprisePercent"),
+        })
+
+    lc = price_data.get("last_close")
+    pc = price_data.get("prev_close")
+    price_chg = round((lc - pc) / pc * 100, 2) if lc and pc else None
 
     earnings_output.append({
-        "symbol": ticker,
-        "timing": item.get("timing_label", ""),
-        "eps_estimate": item.get("epsEstimate"),
-        "eps_actual": item.get("epsActual"),
+        "symbol":           ticker,
+        "timing":           item.get("timing_label", ""),
+        "eps_estimate":     item.get("epsEstimate"),
+        "eps_actual":       item.get("epsActual"),
         "revenue_estimate": item.get("revenueEstimate"),
-        "revenue_actual": item.get("revenueActual"),
-        "surprise_pct": latest.get("surprisePercent"),
-        "last_close": price_data.get("last_close"),
-        "prev_close": price_data.get("prev_close"),
-        "volume": price_data.get("last_volume"),
-        "avg_volume": price_data.get("avg_volume"),
-        "rvol": price_data.get("rvol"),
-        "bars": price_data.get("bars", [])
+        "revenue_actual":   item.get("revenueActual"),
+        "market_cap":       market_caps.get(ticker),
+        "last_close":       lc,
+        "prev_close":       pc,
+        "price_change_pct": price_chg,
+        "volume":           price_data.get("last_volume"),
+        "rvol":             price_data.get("rvol"),
+        "prev_quarters":    prev_quarters,
+        "bars":             price_data.get("bars", [])
     })
 
-# ─── 10. SAVE OUTPUT ─────────────────────────────────────────────
+earnings_output.sort(key=lambda x: x.get("market_cap") or 0, reverse=True)
+
+# ─── SAVE ────────────────────────────────────────────────────────
 output = {
     "last_updated": today,
-    "earnings": earnings_output,
-    "stocks": stocks,
-    "indices": indices,
-    "crypto": crypto,
-    "news": news,
-    "sentiment": {
-        "score": sentiment_score,
-        "label": sentiment_label
-    }
+    "earnings":     earnings_output,
+    "stocks":       stocks,
+    "indices":      indices,
+    "crypto":       crypto,
+    "news":         news,
+    "sentiment":    {"score": sentiment_score, "label": sentiment_label}
 }
 
 os.makedirs("data", exist_ok=True)
 with open("data/market_data.json", "w") as f:
     json.dump(output, f, indent=2)
 
-print(f"\nDone! Saved {len(earnings_output)} earnings, {len(news)} news, sentiment={sentiment_label}")
-print("Data saved to data/market_data.json")
+print(f"\nDone! {len(earnings_output)} earnings · {len(news)} news · sentiment={sentiment_label}")
+print("Saved → data/market_data.json")
