@@ -23,7 +23,6 @@ jobs:
 
       - name: Fetch market data
         env:
-          POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python fetch_data.py
 
