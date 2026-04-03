@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02",
+  "last_updated": "2026-04-03",
   "earnings": [],
   "stocks": {
     "AAPL": {
@@ -283,9 +283,19 @@
           "l": 253.33,
           "t": 1775016000000,
           "n": 616606
+        },
+        {
+          "v": 31289369.636663,
+          "vw": 254.6924,
+          "o": 254.2,
+          "c": 255.92,
+          "h": 256.13,
+          "l": 250.65,
+          "t": 1775102400000,
+          "n": 533471
         }
       ],
-      "rvol": 0.98
+      "rvol": 0.76
     },
     "MSFT": {
       "bars": [
@@ -568,9 +578,19 @@
           "l": 368.2,
           "t": 1775016000000,
           "n": 742549
+        },
+        {
+          "v": 24099067.120161,
+          "vw": 370.5386,
+          "o": 367.205,
+          "c": 373.46,
+          "h": 373.64,
+          "l": 364.15,
+          "t": 1775102400000,
+          "n": 586928
         }
       ],
-      "rvol": 0.88
+      "rvol": 0.72
     },
     "GOOGL": {
       "bars": [
@@ -853,9 +873,19 @@
           "l": 290.41,
           "t": 1775016000000,
           "n": 840032
+        },
+        {
+          "v": 21666465.003928,
+          "vw": 294.7426,
+          "o": 290.69,
+          "c": 295.77,
+          "h": 298.08,
+          "l": 289.45,
+          "t": 1775102400000,
+          "n": 526429
         }
       ],
-      "rvol": 1.25
+      "rvol": 0.71
     },
     "NVDA": {
       "bars": [
@@ -1138,9 +1168,19 @@
           "l": 174.75,
           "t": 1775016000000,
           "n": 2199120
+        },
+        {
+          "v": 143143157.049265,
+          "vw": 175.561,
+          "o": 172.18,
+          "c": 177.39,
+          "h": 177.49,
+          "l": 171.37,
+          "t": 1775102400000,
+          "n": 1984046
         }
       ],
-      "rvol": 0.92
+      "rvol": 0.79
     },
     "AMZN": {
       "bars": [
@@ -1423,9 +1463,19 @@
           "l": 208.19,
           "t": 1775016000000,
           "n": 640071
+        },
+        {
+          "v": 31453039.744839,
+          "vw": 209.0338,
+          "o": 206.54,
+          "c": 209.77,
+          "h": 212.2125,
+          "l": 204.9,
+          "t": 1775102400000,
+          "n": 463395
         }
       ],
-      "rvol": 1.0
+      "rvol": 0.69
     }
   },
   "indices": {
@@ -1710,6 +1760,16 @@
           "l": 653,
           "t": 1775016000000,
           "n": 1311804
+        },
+        {
+          "v": 68358713.798754,
+          "vw": 653.1016,
+          "o": 646.42,
+          "c": 655.83,
+          "h": 658.2,
+          "l": 645.11,
+          "t": 1775102400000,
+          "n": 935078
         }
       ]
     },
@@ -1994,6 +2054,16 @@
           "l": 580.42,
           "t": 1775016000000,
           "n": 1242707
+        },
+        {
+          "v": 50941709.089793,
+          "vw": 580.6613,
+          "o": 573.97,
+          "c": 584.98,
+          "h": 586.05,
+          "l": 571.92,
+          "t": 1775102400000,
+          "n": 846566
         }
       ]
     },
@@ -2278,6 +2348,16 @@
           "l": 464.5,
           "t": 1775016000000,
           "n": 145802
+        },
+        {
+          "v": 3955899.114748,
+          "vw": 463.3662,
+          "o": 460.16,
+          "c": 465.06,
+          "h": 467.52,
+          "l": 458.88,
+          "t": 1775102400000,
+          "n": 90367
         }
       ]
     }
@@ -2285,16 +2365,6 @@
   "crypto": {
     "BTCUSD": {
       "bars": [
-        {
-          "v": 8264.38152116,
-          "vw": 68211.1854,
-          "o": 67998.2,
-          "c": 68051,
-          "h": 68762,
-          "l": 67516.93,
-          "t": 1771632000000,
-          "n": 447402
-        },
         {
           "v": 8215.74606098,
           "vw": 67733.6336,
@@ -2684,21 +2754,21 @@
           "l": 67525.59,
           "t": 1775001600000,
           "n": 1052640
+        },
+        {
+          "v": 14752.33951254,
+          "vw": 66834.8353,
+          "o": 68098.5,
+          "c": 66887.7,
+          "h": 68652,
+          "l": 65688,
+          "t": 1775088000000,
+          "n": 1095764
         }
       ]
     },
     "ETHUSD": {
       "bars": [
-        {
-          "v": 77304.19742334,
-          "vw": 1977.2537,
-          "o": 1968.35,
-          "c": 1973.58,
-          "h": 1998.2,
-          "l": 1955.04,
-          "t": 1771632000000,
-          "n": 202300
-        },
         {
           "v": 78774.63353725,
           "vw": 1958.2305,
@@ -3088,21 +3158,21 @@
           "l": 2080.26,
           "t": 1775001600000,
           "n": 541781
+        },
+        {
+          "v": 240300.8839686429,
+          "vw": 2059.0174,
+          "o": 2140.06,
+          "c": 2056.95,
+          "h": 2159.16,
+          "l": 2015.85,
+          "t": 1775088000000,
+          "n": 564748
         }
       ]
     },
     "SOLUSD": {
       "bars": [
-        {
-          "v": 990975.7579688712,
-          "vw": 85.541,
-          "o": 84.636,
-          "c": 85.22,
-          "h": 86.74,
-          "l": 83.95,
-          "t": 1771632000000,
-          "n": 154161
-        },
         {
           "v": 1023136.0597725172,
           "vw": 84.0986,
@@ -3492,119 +3562,129 @@
           "l": 80.754,
           "t": 1775001600000,
           "n": 269343
+        },
+        {
+          "v": 2535342.7941502226,
+          "vw": 79.0769,
+          "o": 81.19,
+          "c": 78.94,
+          "h": 81.77,
+          "l": 76.69,
+          "t": 1775088000000,
+          "n": 345556
         }
       ]
     }
   },
   "news": [
     {
-      "headline": "Regional sports networks are faltering even as ratings soar",
+      "headline": "US fighter jet shot down over Iran, search underway for crew, US official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI?oc=5",
+      "datetime": 1775225360,
+      "summary": "US fighter jet shot down over Iran, search underway for crew, US official says\u00a0\u00a0Reuters"
+    },
+    {
+      "headline": "Iran leaders join crowds on Tehran's streets to project control in wartime - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTlvY0ZNbVFubm1ocWIxUXFCTmxIcXc1QU83c1phNDdkTFlSVVRmWW5aa1QyM0tYUjJHdEpqYUk5VVZwaXJQOU5VTFJSWWxoUU1lTktsMHVmRmdBS2RLR21SMXE3UXoxLW0ySkw3cVhJRlNWVU5yazZYeWRBaHdsb0drR1RBRmF1WVJIb08xS2VmNFRVeUptcVhFblZ2TDRyVTJTU3hiR09NQkhTUkpRc0tnTWxjMmFrQWpj?oc=5",
+      "datetime": 1775221449,
+      "summary": "Iran leaders join crowds on Tehran's streets to project control in wartime\u00a0\u00a0Reuters"
+    },
+    {
+      "headline": "World food price rise set to continue if Iran war lasts, FAO says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM05VYlNLd1VKSlViMnZCMXhId3F1ellMZjFKUDZIbnY4VjE3RDJFWkRNQWJKbTFTUkQ5S0lTSnI1NE9WWDdoNVYwYVdXYU56ZEpQUW9NTklwNnRZeE5QRm9BYVF2SkNRMkRoRUJXQlVCNG5sc1hHSWJRV20wTUFwNE1Xd0VXRGt2VElMVUMtVHdmVWRVeldzUDEwWHhaTjFmUW1NNjNWamhzQQ?oc=5",
+      "datetime": 1775221279,
+      "summary": "World food price rise set to continue if Iran war lasts, FAO says\u00a0\u00a0Reuters"
+    },
+    {
+      "headline": "These master's degrees lead to fast-growing, in-demand jobs\u2014but offer low ROI",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/02/regional-sports-networks-are-faltering-even-as-ratings-soar.html",
-      "datetime": 1775140857,
-      "summary": "A group of regional sports networks is set to wind down, marking the demise of a once lucrative business that's faced significant pressure."
+      "url": "https://www.cnbc.com/2026/04/03/masters-degrees-low-roi.html",
+      "datetime": 1775221201,
+      "summary": "Getting a master's degrees in social work and psychology may not deliver the best return on investment. But job placement and fulfillment may come easier."
     },
     {
-      "headline": "Wall St drops over 1% after Trump's comments dent Iran resolution hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZMOVRDU0NuWFBVVHF2MEtHZWVrMEpRRU9OTzRiRk1sYkF1YmFaelI1S2dWa0pBZ0NOZmVXS20tZ3Vrek1kUnhUNE9ObjhMbExSU1J3Z0dpdkVQLXQtZ3A0RU9Bd0ktcTNER1FCdnRRZU9LT0RDR21ELTRVLUVtdGxJOW1iNzduYk5QMG91NTNGSDVVeFhSZzJoS2ZiMVdlTmVKU2NqQml4N1VDb054eEtfNA?oc=5",
-      "datetime": 1775139301,
-      "summary": "Wall St drops over 1% after Trump's comments dent Iran resolution hopes\u00a0\u00a0Reuters"
-    },
-    {
-      "headline": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2wteXFwajNBQUdCX0xBSmZ2bi02Nld6dERJODNsQVozQVgxVzhxTDlkdXNBN0dWby1lSGpxWjJ0YTF0OHdSRFY0M1RXUEJJWHNiWlZRcDNhUF9MUTdhMEVHWW9qZGR6SkhpcGwyNmRKZHlGR2ZwMHNuS2VIa3pFVmw3cUFxX1BkQlctRnRuNzV5YXRSTlVKeEY0dk15RklyM0RCQjNfUlJnX1pMZ3g5NmxOTjVrVHI3Z3RIV28xRW8?oc=5",
-      "datetime": 1775138383,
-      "summary": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade\u00a0\u00a0Reuters"
-    },
-    {
-      "headline": "UK to host talks with 35 countries on reopening Strait of Hormuz - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVNRbmdDQlNNM0t6Z3ptMlVkZTFTNXV0Sk82SjFfaHVxXzFGeF9uYmgxNzFNcjZJYmRQTlVDdkNwNzluejlRdmNKdDlLQlVlcTNQbnVqSFBFQ0pobF9RVkZOSFBwV3ZhU0tNZGp0d0dFVVFhbFc4UEhPd3NIOVRzSVVQTDdsNnhJbGR4UnFZbjlHeXJuOWtKc0xEUWx1MXJpSzUzYVNxVQ?oc=5",
-      "datetime": 1775135904,
-      "summary": "UK to host talks with 35 countries on reopening Strait of Hormuz\u00a0\u00a0Reuters"
-    },
-    {
-      "headline": "US defense stocks see no Iran war lift after early surge - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejBkbnpUN2o5QUlpZVFjdG14NHFLaGdsSDZ0Q2l1WEpScnJhbzhndFB2Tlk5MmxWbXMtTHJmbGdDSXdPRnhTeGpFM25UWjJKSWs1Q2sxT2NodUd2RHVNNU1NbTlZNTE1c01LV3ZzdWZJb1dlSVhqMm5YWnNkXzEyaS1JaXJ0eVo5SWhLSmRfTnlZMjVYVXBsbnlWVW0wR29FNWNN?oc=5",
-      "datetime": 1775133874,
-      "summary": "US defense stocks see no Iran war lift after early surge\u00a0\u00a0Reuters"
-    },
-    {
-      "headline": "Macron says it is unrealistic to open Hormuz Strait by force - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzY3dWNISUkyUXUxRVlOcHpGODhTODRRVWJEVkxxRUd6am9Ccm9sYkI2X2IwdER1YXZVbkI3TDFKd3FfQ0VrWnZwN2FfM3huLTIzc3plSkRkb2YwMUUxMm1XSmJhMzlkUnRhVUg3bVViNjNESkE3d3laUmRHdzVOM1hiTHVXV3BiaEIxZ0o3UXhESzM4NlNtR01QaGY2dDJ3?oc=5",
-      "datetime": 1775132132,
-      "summary": "Macron says it is unrealistic to open Hormuz Strait by force\u00a0\u00a0Reuters"
-    },
-    {
-      "headline": "Givers\u2019 regret: What happens when wealthy parents try to claw back fortunes from their kids",
+      "headline": "The cost to fly private is up as much as 20% with fuel prices soaring",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/02/tax-changes-rich-parents-claw-back-kids.html",
-      "datetime": 1775131201,
-      "summary": "The rich can save big by gifting assets before they die, but some end up in a cash crunch."
+      "url": "https://www.cnbc.com/2026/04/03/private-jet-travel-costs-rise-fuel-prices.html",
+      "datetime": 1775221201,
+      "summary": "Deep-pocketed travelers are less likely to get priced out as airfares rise, but they have to navigate unexpected fees related to the Iran war and rising fuel costs."
     },
     {
-      "headline": "Russia's Putin to host Egypt's foreign minister, focus on Iran war and Middle East - Reuters",
+      "headline": "Trump says US can take Strait of Hormuz with more time - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkpPdVM2N3NjUjdBaDdfb2tRVzdyWndrMWZ0elJveDJ3TmY4UjdFYTRPcUJJdFpfbFVmLTByMHlmOHd1cTZ5clFLS01SMWQ0akJzdC1oUG1jSnRLX0pTOEVhdDRMRDVjWGdDUjJCeXF0OWxNbk85V1c4S29ydXE4M0szNmFPMUtydWpnalgxenZJT1ZHVG1lTzZQSmFnRkJFeWdpWEk4cUdIMmpmaW4wdA?oc=5",
-      "datetime": 1775127583,
-      "summary": "Russia's Putin to host Egypt's foreign minister, focus on Iran war and Middle East\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3NZUFdvSjRQa0RDTkFaSEFjUzlvMFA0UjYyT0tQb1gtVC14ODdvUUlQMENhTlhJVlp2cWpNbVEwb2lXYmdOQkVBN2ZHcjRqTTF1WkloZy1GYTc5Y2NHU29tNEpxQ2tzNXQ2VFA2NnB6ZVdtRy12ZXlQV1FrcnlxTERQUGhoeDhsTEtjbmZLUTBOZw?oc=5",
+      "datetime": 1775219972,
+      "summary": "Trump says US can take Strait of Hormuz with more time\u00a0\u00a0Reuters"
     },
     {
-      "headline": "Stellantis-backed Leapmotor delivers more than 100,000 EVs for fourth-straight quarter as BYD sales fall",
+      "headline": "French-owned CMA CGM container ship passes Strait of Hormuz, data shows - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDRnWmxaNWhuWWtJTGhZUmhWRG9JSVQ5cF92NDJ0amZBQkNuZjBYRExXWGxad2RnY1RjUks0VVNVaU8tbmZPYThVbEtaRUJpUGE0eGxET3FOUExZOTNzWFdST2VrN21BbThQSTF3aEVUaFVoWGxKS1pzN1VET2ZaMmU1VzhNZmd4MVkzTXpvQkw5QjM2dUs1SEdPb2laU2xaNFlvbHZ1ZGlXTnpWcUJGMlFzN3lyU2s?oc=5",
+      "datetime": 1775218063,
+      "summary": "French-owned CMA CGM container ship passes Strait of Hormuz, data shows\u00a0\u00a0Reuters"
+    },
+    {
+      "headline": "United unveils basic Polaris business fare in premium cabin overhaul",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/02/stellantis-backed-leapmotor-hits-100000-sales-for-fourth-straight-quarter.html",
-      "datetime": 1775127130,
-      "summary": "Stellantis-backed Leapmotor delivered 110,155 new energy vehicles in the first three months of 2026, exceeding 100,000 deliveries for a fourth-straight quarter."
+      "url": "https://www.cnbc.com/2026/04/03/united-base-polaris-business-class.html",
+      "datetime": 1775217301,
+      "summary": "United is overhauling its fare classes, offering cheaper business class and premium economy fares that are more restrictive."
     },
     {
-      "headline": "Iran executes man arrested over January protests - Reuters",
+      "headline": "Drone hits aid warehouse in Iran, Red Cross says - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHNSSlFrWC1XUnBOOTd3S28tUktHMzQzemFuZDJkT2NqNEFfcW9GTTdKMUFxSm5ZQ1M1NnFBdHJSZjEwbDlvN3AxbXZKalFVWkM3RlJPbXhPRW8wN25FUnRjdGdsYlIxZjhvc2VJNjFqYUhjS09Ca0l3UVg5enZRX29abGVCbDVWamVFZTlJdzFIZWU5T3kxT1F2eXFXWXA5a29aNl9ZQTRrSm1ZdnkzYlFQSXMwLUZleXl1eGtKUnhHQQ?oc=5",
-      "datetime": 1775123346,
-      "summary": "Iran executes man arrested over January protests\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFhqQkdSSVVrR01Kb2NZZF9ESFd4aE1DakQzRjZCdTkydk9YbVFnM01tdVFTeDI5NklnZkNOVG95TUh0b0dYZDJKWUdHMkJHRXlhQmRlQ3NSSDRDOXFvdW9OVWlROF9JYTVmTzJOSjA5NDNickRFNEVzSk5Jc1lMNjU0VEJzYkFld1BOVVBvZmV3cm50LWJRR2F1dGNKZWM?oc=5",
+      "datetime": 1775217269,
+      "summary": "Drone hits aid warehouse in Iran, Red Cross says\u00a0\u00a0Reuters"
     },
     {
-      "headline": "Russia says it's ready to help resolve Iran conflict - Reuters",
+      "headline": "Pope Leo urges Israel's Herzog to end Iran war in phone call, Vatican says - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0Y5Wno3V051ekRublozZ1Vzd1o2allTdVhzbWdmci1CYjVOdFE4Q01WclhyNlBDeWh1M0kwZmljM1A2enJMN29ibTFDMmhMdmNlRWwtMjllRE9ja2o3SW9qUU1iZ2JtOGpWMUtrODZoVmxBTGdqZ2Z5eDU1c3U3R3lkOGVSUnE3bTdVX3lpRnhZUUg1?oc=5",
-      "datetime": 1775121582,
-      "summary": "Russia says it's ready to help resolve Iran conflict\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1dBLXBJVDdHNDZHWFVnRzNaQWhMdlZTWnNueEFuSkR6d2liUlpiSVJVbnVENEk3bjR6QVhjUUtaTEk4YWM2and6YjJsYnNFNXNVVlY0eDY0ZVZTdy1RRGxnN2FhUHFPbjIzczJTelJEMUtJVlExVHVRQ2NuaVVPbUxrRmVwclh2TWJEdndEWE5KTlVDdkRxTnpBcG8ya2VzQVZCazN2TWlJenFP?oc=5",
+      "datetime": 1775213662,
+      "summary": "Pope Leo urges Israel's Herzog to end Iran war in phone call, Vatican says\u00a0\u00a0Reuters"
     },
     {
-      "headline": "Iran to allow safe passage of Philippine ships, fuel supply through Strait of Hormuz, says Manila - Reuters",
+      "headline": "Drones hit Kuwait's Mina al-Ahmadi refinery, fires reported, no injuries - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlJEekpWYUlnYXVVYWZGYUVVaFpuNFotOHExVkJXREo3djBCUXVhR1FvNXRJMS1mQkNEdFBpT3dkOEJhQlVLZEYyQVVtR2JjeUdXVmZrcllleHQwS212VzVmSWtXeW12VjNOdTVRb3pvVFFlS0hfMWVZQTF1bHFTekJhR3d6bUNpdngwUlpBQTNLOEdHRGZKX2cyS2xBMEJMeUFERW1BWHZFajJCb251STlzbk5oaHM0NjJWeHpnZVRZS2NrcDdvcUlSVQ?oc=5",
-      "datetime": 1775120384,
-      "summary": "Iran to allow safe passage of Philippine ships, fuel supply through Strait of Hormuz, says Manila\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFNZU29yamFLb3FxN2JwRUhoM3FOWV92Z2R5cWIxQTItSjh2MzZENTQ0SlFmQmFkY1AxSlZHRmR3YW14YjBrYWtISGlNbW5sYl9JU1FCNHl6WWVIRTV6c2tJaTM3VDZ6YUlOS0FkR2VBX1BnWmVtNlUtRjZHbVFhbV9xMmFyZm1YZEdQM1F4UDIxcHNUbWxLM1pWdXlsNG1veFQwX2xCVGxIOW9ackdmMTNReW5PRzdwZlVqT05WbXA?oc=5",
+      "datetime": 1775191080,
+      "summary": "Drones hit Kuwait's Mina al-Ahmadi refinery, fires reported, no injuries\u00a0\u00a0Reuters"
     },
     {
-      "headline": "Exclusive: Vietnam aims to shore up battered stocks with stabilisation fund and influencers, documents show - Reuters",
+      "headline": "Bangladesh cuts working hours to save energy amid Middle East crisis - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWlyaVJqeHdab2lpVnQ0T0dUZDhiWERsWFpway1zY0E2N1NYbXN2d25WaTI2QlJsQW4yZy1KejJJb3M5STBKY3l0OFpFZzdVd202am5Pck1nUVZPdHRtS3N3NXUzSGFObVBSNW5HQkJ2cE9wM0xTVll3TTZsQUFEU3hYMENYQjJ5ajBEMzJrdEs0VkJFYWx0dEpKSjZqc0laalRWV3ZWMUFIc1Y4V0NZYy1aN0lVbF9YV2RWemRVTGJxTlppdzFIcmROOEJLMTQ?oc=5",
-      "datetime": 1775118934,
-      "summary": "Exclusive: Vietnam aims to shore up battered stocks with stabilisation fund and influencers, documents show\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTXVrRmQ3bUVMNklRcE5LVmRobndfaktMVWh5bFRVN1M0YVYweUVtWEtZUmpjQjcybTFqNzdtSVpLZWxmelh3U2pqdTdzODR5UDMwWDFmQ1N0SDRSMi02ZUpGeUppbkN4TW5Ha1VMYmxMeThMSV9PUXFtUDNBdGlncFU0ekx6N3BZUjBvLVlrNjFpQmFQYTczS083NnZ5Tklfdlg3WXlIMnFzbU5ZaGRTWS1qaWlWZHdMWDhGSGo5ek02RVFQU0dLUDE4LTVZSExrM21jYzlUY1E?oc=5",
+      "datetime": 1775190840,
+      "summary": "Bangladesh cuts working hours to save energy amid Middle East crisis\u00a0\u00a0Reuters"
     },
     {
-      "headline": "Iran army chief tells commanders to prepare for any attack, state media reports - Reuters",
+      "headline": "Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDJGSXo0QldFdFB5SEJqanBxcjFoenNRM2VWQkVvWE5jcFFXUFdDaFFiOEdBZ3hVMU9DcFlvRFU3RjA2RUd2cWk3aW5Bd19kUF9oYnlMUmtvSF96NGpTaUdEdUVWbjZ0ZlB2YVlrWkNIMFBMaERtZk11RWFnbFpjWk5xRHlacmxBRW1GdmJzaUtyNGlzLWZ4a1pJT0dOWlpnenRORWdqb1Fta0JqRnR3X1YxU1Z1OTlPYjVQQzQ4QnhBbHBFSXZBQ3ZB?oc=5",
-      "datetime": 1775118593,
-      "summary": "Iran army chief tells commanders to prepare for any attack, state media reports\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUQxejBWTi1ieGdGUmhOZ0ZRWHpfS0JwTng4SVFVVkVFQ3pycnYwcTU1N2JER0RrVmE1Q05nNUdNd2t6RHQwcHl5STVVMHlTR0ExVWx4Y1RNMjBxNUF5bkVSU05IenNJQTItR3VDSkVkYUlqZjJMSmtaWktzXzVzSjJHWkx0eWhOMGRsNmRRVXI2WnJyVElQbzBTdE1xLUxjOFVhNFBiS2tTbHJOVmRxUlVGRzlNdU9EWXZMTkd3?oc=5",
+      "datetime": 1775190420,
+      "summary": "Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz\u00a0\u00a0Reuters"
     },
     {
-      "headline": "From international outcast to mediator in Iran war, Pakistan's remarkable makeover - Reuters",
+      "headline": "BOJ keeps rate\u2011hike door open even as Iran war squeezes firms - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnFMX3ZMS2RPckxnNVZlU0VMQXVXVzNoSUE5VUJwQzc2NnZHaTdNREZCYVFTbWJVNXlJRUJzdlZVZnEyMGMwalFaNEtRUnVyWGJCQlY4NGw3SWNlNFB0Sms3UlhjVTN5V3VyY0M1UHA4cWVfU1czZzc1XzVrbEg5OUVGUDlmQUhPT2FLODdVc29VT24xNTI2NGpUMVNXeDBQY1B6MkVpTmoydE1sMndvbkxjRUVKOEFtbjAwc1RHcFZrUQ?oc=5",
-      "datetime": 1775117938,
-      "summary": "From international outcast to mediator in Iran war, Pakistan's remarkable makeover\u00a0\u00a0Reuters"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFAyb1FPMU1naGdONTc0WEJXM08wMC1FRFd0N2VEaUNEVGQxcE45MUlrUDlfQWU0SzVkQUZQUi1Bc3BsMVdUZTAtaDUwLVBicVdVTjBQaWNXOEZfMnBpSl8xbDZnRWhrYUszWWZndFRFYVVMMmpXZEROU29uZUFObVIxMzI5NDhqNlQzRF90bHoxb2FOU3FrdzNDTHUwcHBJT3RYamZNa2YtNVB0QTFIeEo0TzdMVncwMkpRV1Zn?oc=5",
+      "datetime": 1775188800,
+      "summary": "BOJ keeps rate\u2011hike door open even as Iran war squeezes firms\u00a0\u00a0Reuters"
+    },
+    {
+      "headline": "Trump threatens to strike Iran's bridges and electric power plants - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUS1DNHpZcG9LNUdON3hHamVsbmU0bVZEMnpFQUc2QjN2SnZ6YVRuZ1RScWJDMUxyNVB5WUp3aUtYbTVNVHM1d0xSUFBCd2JmZjBTVUpZWW1YMmtld1lYYTMwOEliQkpIWTJxdnN5YXViWjFrazY5ZjNhTmtrOU9peGtpNzRmWkI4RDI0WHMtT19kOFgtUTdIeERNN1RMRmIwQ2NxWkkydm5nQmNWZDRoRmR3?oc=5",
+      "datetime": 1775187300,
+      "summary": "Trump threatens to strike Iran's bridges and electric power plants\u00a0\u00a0Reuters"
     }
   ],
   "sentiment": {
-    "score": 16,
+    "score": 20,
     "label": "Extreme Fear"
   }
 }
