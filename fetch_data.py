@@ -39,8 +39,8 @@ today      = now_utc.strftime("%Y-%m-%d")
 yesterday  = (now_utc - timedelta(days=1)).strftime("%Y-%m-%d")
 week_ago   = (now_utc - timedelta(days=7)).strftime("%Y-%m-%d")
 month_ago  = (now_utc - timedelta(days=31)).strftime("%Y-%m-%d")
-year_ago   = (now_utc - timedelta(days=370)).strftime("%Y-%m-%d")  # 52 weeks + buffer
-fetch_from = (now_utc - timedelta(days=40)).strftime("%Y-%m-%d")   # buffer for weekends
+year_ago   = (now_utc - timedelta(days=370)).strftime("%Y-%m-%d")
+fetch_from = (now_utc - timedelta(days=40)).strftime("%Y-%m-%d")
 
 # ─── Fetch helpers ────────────────────────────────────────────────
 def polygon(endpoint, params=None):
@@ -67,10 +67,7 @@ def calc_rvol(bars):
     return round(bars[-1]["v"] / avg, 2) if avg > 0 else None
 
 def get_bars(ticker, from_date, asset="stock"):
-    if asset == "crypto":
-        endpoint = f"/v2/aggs/ticker/X:{ticker}/range/1/day/{from_date}/{today}"
-    else:
-        endpoint = f"/v2/aggs/ticker/{ticker}/range/1/day/{from_date}/{today}"
+    endpoint = f"/v2/aggs/ticker/{'X:' if asset=='crypto' else ''}{ticker}/range/1/day/{from_date}/{today}"
     params = {"sort": "asc", "limit": 400, "adjusted": "true"}
     data = polygon(endpoint, params)
     return data.get("results", [])
@@ -93,94 +90,110 @@ for date in [today, yesterday]:
             elif report_date == yesterday and hour == "amc":
                 item["timing_label"] = "amc"
                 earnings_raw.append(item)
-        print(f"  OK {date}: {len(items)} total earnings")
+        print(f"  OK {date}: {len(items)} total, {len(earnings_raw)} relevant so far")
     except Exception as e:
         print(f"  WARN {date}: {e}")
 
+# Deduplicate and cap at 100
 earnings_tickers = list(dict.fromkeys(
     [e["symbol"] for e in earnings_raw if e.get("symbol")]
-))[:20]
+))[:100]
+
+print(f"  → {len(earnings_tickers)} unique tickers to process (cap: 100)")
 
 # ════════════════════════════════════════════════════════════════
-# 2. EARNINGS HISTORY  (Finnhub)
+# OPTION C: Skip expensive Finnhub calls if no earnings today
 # ════════════════════════════════════════════════════════════════
-print(f"\nFetching earnings history for {len(earnings_tickers)} tickers...")
-earnings_history = {}
-for ticker in earnings_tickers:
-    try:
-        data = finnhub("/stock/earnings", {"symbol": ticker, "limit": 4})
-        earnings_history[ticker] = data if isinstance(data, list) else []
-        print(f"  OK {ticker}: {len(earnings_history[ticker])} quarters")
-    except Exception as e:
-        print(f"  WARN {ticker}: {e}")
-        earnings_history[ticker] = []
+has_earnings = len(earnings_tickers) > 0
 
-# ════════════════════════════════════════════════════════════════
-# 3. COMPANY PROFILES for earnings tickers  (Finnhub)
-# ════════════════════════════════════════════════════════════════
-print(f"\nFetching company profiles...")
-profiles = {}
-for ticker in earnings_tickers:
-    try:
-        data = finnhub("/stock/profile2", {"symbol": ticker})
-        mc = data.get("marketCapitalization")
-        profiles[ticker] = {
-            "name":       data.get("name", ticker),
-            "market_cap": mc * 1e6 if mc else None,
-            "industry":   data.get("finnhubIndustry", "")
-        }
-        print(f"  OK {ticker}: {profiles[ticker]['name']}")
-    except Exception as e:
-        print(f"  WARN {ticker}: {e}")
-        profiles[ticker] = {"name": ticker, "market_cap": None, "industry": ""}
+if not has_earnings:
+    print("\n  ℹ No earnings today/yesterday AMC — skipping profile/history/metrics calls")
+    earnings_history = {}
+    profiles = {}
+    e_metrics = {}
+    earnings_prices = {}
+else:
+    # ════════════════════════════════════════════════════════════
+    # 2. EARNINGS HISTORY  (Finnhub) — only if earnings exist
+    # ════════════════════════════════════════════════════════════
+    print(f"\nFetching earnings history for {len(earnings_tickers)} tickers...")
+    earnings_history = {}
+    for ticker in earnings_tickers:
+        try:
+            data = finnhub("/stock/earnings", {"symbol": ticker, "limit": 4})
+            earnings_history[ticker] = data if isinstance(data, list) else []
+            print(f"  OK {ticker}: {len(earnings_history[ticker])} quarters")
+        except Exception as e:
+            print(f"  WARN {ticker}: {e}")
+            earnings_history[ticker] = []
 
-# ════════════════════════════════════════════════════════════════
-# 4. 52-WEEK METRICS for earnings tickers  (Finnhub)
-# ════════════════════════════════════════════════════════════════
-print(f"\nFetching 52-week metrics for earnings tickers...")
-e_metrics = {}
-for ticker in earnings_tickers:
-    try:
-        data = finnhub("/stock/metric", {"symbol": ticker, "metric": "all"})
-        m = data.get("metric", {})
-        e_metrics[ticker] = {
-            "week52_high": m.get("52WeekHigh"),
-            "week52_low":  m.get("52WeekLow"),
-            "pe_ratio":    m.get("peBasicExclExtraTTM"),
-        }
-        print(f"  OK {ticker}")
-    except Exception as e:
-        print(f"  WARN {ticker}: {e}")
-        e_metrics[ticker] = {}
-
-# ════════════════════════════════════════════════════════════════
-# 5. PRICE + VOLUME for earnings tickers  (Polygon)
-# ════════════════════════════════════════════════════════════════
-print(f"\nFetching price/volume for earnings tickers...")
-earnings_prices = {}
-for ticker in earnings_tickers:
-    try:
-        bars = get_bars(ticker, fetch_from)
-        if len(bars) >= 2:
-            rvol = calc_rvol(bars)
-            last = bars[-1]
-            earnings_prices[ticker] = {
-                "bars":        bars,
-                "last_close":  last["c"],
-                "prev_close":  bars[-2]["c"],
-                "last_volume": last["v"],
-                "rvol":        rvol
+    # ════════════════════════════════════════════════════════════
+    # 3. COMPANY PROFILES  (Finnhub) — only if earnings exist
+    # ════════════════════════════════════════════════════════════
+    print(f"\nFetching company profiles...")
+    profiles = {}
+    for ticker in earnings_tickers:
+        try:
+            data = finnhub("/stock/profile2", {"symbol": ticker})
+            mc = data.get("marketCapitalization")
+            profiles[ticker] = {
+                "name":       data.get("name", ticker),
+                "market_cap": mc * 1e6 if mc else None,
+                "industry":   data.get("finnhubIndustry", "")
             }
-            print(f"  OK {ticker}: close={last['c']}, RVOL={rvol}")
-        else:
-            print(f"  WARN {ticker}: not enough bars")
-    except Exception as e:
-        print(f"  WARN {ticker}: {e}")
+            print(f"  OK {ticker}: {profiles[ticker]['name']}")
+        except Exception as e:
+            print(f"  WARN {ticker}: {e}")
+            profiles[ticker] = {"name": ticker, "market_cap": None, "industry": ""}
+
+    # ════════════════════════════════════════════════════════════
+    # 4. 52-WEEK METRICS  (Finnhub) — only if earnings exist
+    # ════════════════════════════════════════════════════════════
+    print(f"\nFetching 52-week metrics...")
+    e_metrics = {}
+    for ticker in earnings_tickers:
+        try:
+            data = finnhub("/stock/metric", {"symbol": ticker, "metric": "all"})
+            m = data.get("metric", {})
+            e_metrics[ticker] = {
+                "week52_high": m.get("52WeekHigh"),
+                "week52_low":  m.get("52WeekLow"),
+                "pe_ratio":    m.get("peBasicExclExtraTTM"),
+            }
+            print(f"  OK {ticker}")
+        except Exception as e:
+            print(f"  WARN {ticker}: {e}")
+            e_metrics[ticker] = {}
+
+    # ════════════════════════════════════════════════════════════
+    # 5. PRICE + VOLUME for earnings tickers  (Polygon)
+    # — only if earnings exist
+    # ════════════════════════════════════════════════════════════
+    print(f"\nFetching price/volume for {len(earnings_tickers)} earnings tickers...")
+    earnings_prices = {}
+    for ticker in earnings_tickers:
+        try:
+            bars = get_bars(ticker, fetch_from)
+            if len(bars) >= 2:
+                rvol = calc_rvol(bars)
+                last = bars[-1]
+                earnings_prices[ticker] = {
+                    "bars":        bars,
+                    "last_close":  last["c"],
+                    "prev_close":  bars[-2]["c"],
+                    "last_volume": last["v"],
+                    "rvol":        rvol
+                }
+                print(f"  OK {ticker}: close={last['c']}, RVOL={rvol}")
+            else:
+                print(f"  WARN {ticker}: not enough bars")
+        except Exception as e:
+            print(f"  WARN {ticker}: {e}")
 
 # ════════════════════════════════════════════════════════════════
-# 6. ETF DATA  (Polygon — 1 year of bars for all performance calcs)
+# 6. ETF DATA — always runs  (Polygon)
 # ════════════════════════════════════════════════════════════════
-print("\nFetching ETF data...")
+print("\nFetching ETF data (1 year of bars)...")
 
 ETF_LIST = [
     ("XTL",  "SPDR S&P Telecom ETF"),
@@ -207,16 +220,14 @@ ETF_LIST = [
 etfs = {}
 for ticker, name in ETF_LIST:
     try:
-        # Fetch 1 year of bars for week/month/52wk performance
         bars = get_bars(ticker, year_ago)
         if len(bars) < 2:
             print(f"  WARN {ticker}: not enough bars ({len(bars)})")
             continue
 
-        last  = bars[-1]
-        lc    = last["c"]
+        last = bars[-1]
+        lc   = last["c"]
 
-        # Find bar closest to 1 week ago
         def find_bar_near(target_date_str):
             for b in reversed(bars[:-1]):
                 bar_date = datetime.fromtimestamp(b["t"]/1000, tz=timezone.utc).strftime("%Y-%m-%d")
@@ -227,89 +238,81 @@ for ticker, name in ETF_LIST:
         bar_1d  = bars[-2] if len(bars) >= 2 else None
         bar_1w  = find_bar_near(week_ago)
         bar_1m  = find_bar_near(month_ago)
-        bar_52w = bars[0]  # oldest bar in 1yr window
 
         def perf(old_bar):
             if not old_bar or not old_bar.get("c"): return None
             return round((lc - old_bar["c"]) / old_bar["c"] * 100, 2)
 
-        day_perf   = perf(bar_1d)
-        week_perf  = perf(bar_1w)
-        month_perf = perf(bar_1m)
-        year_perf  = perf(bar_52w)
-
-        # 52-week high/low from all bars in window
-        highs  = [b["h"] for b in bars]
-        lows   = [b["l"] for b in bars]
-        w52h   = max(highs)
-        w52l   = min(lows)
-        # % above/below 52wk high (negative = below high)
-        pct_vs_52h = round((lc - w52h) / w52h * 100, 2) if w52h else None
-        # position in 52wk range (0% = at low, 100% = at high)
+        highs   = [b["h"] for b in bars]
+        lows    = [b["l"] for b in bars]
+        w52h    = max(highs)
+        w52l    = min(lows)
         w52_pos = round((lc - w52l) / (w52h - w52l) * 100, 1) if w52h != w52l else 50
+        pct_vs_52h = round((lc - w52h) / w52h * 100, 2) if w52h else None
 
         rvol = calc_rvol(bars[-30:] if len(bars) >= 30 else bars)
 
         etfs[ticker] = {
             "name":        name,
-            "bars":        bars[-30:],   # last 30 days for chart
+            "bars":        bars[-30:],
             "last_close":  lc,
             "volume":      last["v"],
             "rvol":        rvol,
-            "day_perf":    day_perf,
-            "week_perf":   week_perf,
-            "month_perf":  month_perf,
-            "year_perf":   year_perf,
+            "day_perf":    perf(bar_1d),
+            "week_perf":   perf(bar_1w),
+            "month_perf":  perf(bar_1m),
+            "year_perf":   perf(bars[0]),
             "week52_high": round(w52h, 2),
             "week52_low":  round(w52l, 2),
             "week52_pos":  w52_pos,
             "pct_vs_52h":  pct_vs_52h,
         }
-        print(f"  OK {ticker}: {lc} | 1d={day_perf}% 1w={week_perf}% 1m={month_perf}%")
+        print(f"  OK {ticker}: {lc} | 1d={etfs[ticker]['day_perf']}% 1w={etfs[ticker]['week_perf']}% 1m={etfs[ticker]['month_perf']}%")
     except Exception as e:
         print(f"  WARN {ticker}: {e}")
 
 # ════════════════════════════════════════════════════════════════
-# 7. NEWS — top stories  (Finnhub)
+# 7. NEWS — always runs  (Finnhub)
 # ════════════════════════════════════════════════════════════════
 print("\nFetching top market news...")
 news = []
 try:
     data = finnhub("/news", {"category": "general", "minId": 0})
-    # Filter for quality: prefer items with a summary and known source
-    quality_sources = {"Reuters","Bloomberg","CNBC","MarketWatch","WSJ","Financial Times",
-                       "Barron's","Seeking Alpha","Yahoo Finance","The Wall Street Journal",
-                       "Forbes","Business Insider","AP","Associated Press","Investopedia"}
+    quality_sources = {
+        "Reuters", "Bloomberg", "CNBC", "MarketWatch", "WSJ",
+        "Financial Times", "Barron's", "Seeking Alpha", "Yahoo Finance",
+        "The Wall Street Journal", "Forbes", "Business Insider",
+        "AP", "Associated Press", "Investopedia"
+    }
     scored = []
     for item in (data or []):
         score = 0
-        src = item.get("source","")
+        src = item.get("source", "")
         if any(qs.lower() in src.lower() for qs in quality_sources): score += 2
-        if item.get("summary",""): score += 1
-        if item.get("image",""): score += 1
+        if item.get("summary", ""): score += 1
+        if item.get("image", ""): score += 1
         scored.append((score, item))
-    scored.sort(key=lambda x: (-x[0], -x[1].get("datetime",0)))
+    scored.sort(key=lambda x: (-x[0], -x[1].get("datetime", 0)))
     for _, item in scored[:12]:
         news.append({
-            "headline": item.get("headline",""),
-            "source":   item.get("source",""),
-            "url":      item.get("url",""),
-            "datetime": item.get("datetime",0),
-            "summary":  item.get("summary","")[:220],
-            "image":    item.get("image","")
+            "headline": item.get("headline", ""),
+            "source":   item.get("source", ""),
+            "url":      item.get("url", ""),
+            "datetime": item.get("datetime", 0),
+            "summary":  item.get("summary", "")[:220],
+            "image":    item.get("image", "")
         })
     print(f"  OK {len(news)} top stories")
 except Exception as e:
     print(f"  WARN news: {e}")
 
 # ════════════════════════════════════════════════════════════════
-# 8. SENTIMENT  (SPY momentum from ETFs)
+# 8. SENTIMENT  (from XLK ETF bars)
 # ════════════════════════════════════════════════════════════════
 print("\nCalculating sentiment...")
 sentiment_score = 50
 sentiment_label = "Neutral"
 try:
-    # Use XLK (tech) + XLV (health) + XLP (staples) as proxy
     proxy_bars = etfs.get("XLK", {}).get("bars", [])
     if len(proxy_bars) >= 20:
         prices    = [b["c"] for b in proxy_bars]
@@ -337,7 +340,7 @@ except Exception as e:
 # ════════════════════════════════════════════════════════════════
 earnings_output = []
 for item in earnings_raw:
-    ticker = item.get("symbol","")
+    ticker = item.get("symbol", "")
     if not ticker: continue
 
     price_data = earnings_prices.get(ticker, {})
@@ -350,7 +353,7 @@ for item in earnings_raw:
         act = q.get("actual")
         est = q.get("estimate")
         revenue_streak.append({
-            "period":       q.get("period",""),
+            "period":       q.get("period", ""),
             "eps_actual":   act,
             "eps_estimate": est,
             "surprise_pct": q.get("surprisePercent"),
@@ -378,8 +381,8 @@ for item in earnings_raw:
     earnings_output.append({
         "symbol":           ticker,
         "name":             profile.get("name", ticker),
-        "industry":         profile.get("industry",""),
-        "timing":           item.get("timing_label",""),
+        "industry":         profile.get("industry", ""),
+        "timing":           item.get("timing_label", ""),
         "eps_estimate":     item.get("epsEstimate"),
         "eps_actual":       item.get("epsActual"),
         "revenue_estimate": rev_est,
@@ -397,10 +400,21 @@ for item in earnings_raw:
         "pe_ratio":         metric.get("pe_ratio"),
         "revenue_streak":   revenue_streak,
         "prev_quarters":    revenue_streak[:2],
-        "bars":             price_data.get("bars",[])
+        "bars":             price_data.get("bars", [])
     })
 
 earnings_output.sort(key=lambda x: x.get("market_cap") or 0, reverse=True)
+
+# ════════════════════════════════════════════════════════════════
+# TIMING ESTIMATE
+# ════════════════════════════════════════════════════════════════
+n = len(earnings_tickers)
+polygon_calls = (n * 1 if has_earnings else 0) + len(ETF_LIST)   # price bars
+finnhub_calls = (n * 3 if has_earnings else 0) + 2               # history+profile+metrics + news+calendar
+est_minutes   = round((polygon_calls * 13) / 60 + (finnhub_calls * 1) / 60, 1)
+print(f"\n  Polygon calls: {polygon_calls} (~{round(polygon_calls*13/60,1)} min)")
+print(f"  Finnhub calls: {finnhub_calls} (~{round(finnhub_calls/60,1)} min)")
+print(f"  Estimated total: ~{est_minutes} min")
 
 # ════════════════════════════════════════════════════════════════
 # SAVE
