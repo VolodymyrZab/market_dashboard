@@ -2,7 +2,7 @@ name: Update Market Data
 
 on:
   schedule:
-    - cron: '0 12 * * 1-5'  # 8:00 AM EDT (UTC-4)
+    - cron: '0 11 * * 1-5'  # 7:00 AM EDT (UTC-4)
   workflow_dispatch:         # also allows manual trigger from GitHub
 
 jobs:
