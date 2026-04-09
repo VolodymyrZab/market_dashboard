@@ -2139,10 +2139,10 @@
       "industry": "Aerospace & Defense",
       "timing": "bmo",
       "eps_estimate": 0.0791,
-      "eps_actual": null,
+      "eps_actual": 0.03,
       "revenue_estimate": 30206688,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 29050000,
+      "revenue_beat": false,
       "market_cap": 208708012.0471597,
       "last_close": 9.2,
       "prev_close": 9.33,
@@ -2154,6 +2154,16 @@
       "week52_pos": 1.8,
       "pe_ratio": 21.5452,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.03,
+          "eps_estimate": 0.0791,
+          "surprise_pct": -62.0733,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 29050000,
+          "rev_estimate": 30206688
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.14,
@@ -2174,29 +2184,25 @@
           "eps_estimate": 0.0826,
           "surprise_pct": 21.0654,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.07,
-          "eps_estimate": 0.0357,
-          "surprise_pct": 96.0784,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.03,
+          "eps_estimate": 0.0791,
+          "surprise_pct": -62.0733,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 29050000,
+          "rev_estimate": 30206688
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.14,
           "eps_estimate": 0.151,
           "surprise_pct": -7.2848,
           "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.09,
-          "eps_estimate": 0.0653,
-          "surprise_pct": 37.8254,
-          "beat": true
         }
       ],
       "bars": [
@@ -3168,10 +3174,10 @@
       "industry": "Chemicals",
       "timing": "bmo",
       "eps_estimate": 0.0204,
-      "eps_actual": null,
+      "eps_actual": 0.01,
       "revenue_estimate": 21522000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 22000000,
+      "revenue_beat": true,
       "market_cap": 75936007.90123458,
       "last_close": 8,
       "prev_close": 8.1,
@@ -3183,6 +3189,16 @@
       "week52_pos": 33.0,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.01,
+          "eps_estimate": 0.0204,
+          "surprise_pct": -50.9804,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 22000000,
+          "rev_estimate": 21522000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.04,
@@ -3203,28 +3219,24 @@
           "eps_estimate": 0.0408,
           "surprise_pct": -50.9804,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.03,
-          "eps_estimate": 0.0612,
-          "surprise_pct": -149.0196,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.01,
+          "eps_estimate": 0.0204,
+          "surprise_pct": -50.9804,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 22000000,
+          "rev_estimate": 21522000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.04,
           "eps_estimate": 0.051,
           "surprise_pct": -21.5686,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.06,
-          "eps_estimate": 0.0816,
-          "surprise_pct": -173.5294,
           "beat": false
         }
       ],
@@ -9510,99 +9522,99 @@
   },
   "news": [
     {
-      "headline": "As millions lose weight on GLP-1s, they're starting to turn to retailers to refresh their wardrobes",
+      "headline": "Jim Cramer says one thing surprises him most about Thursday's stock market",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/09/weight-loss-pills-glp-1s-stitch-fix-apparel-retailers.html",
-      "datetime": 1775732401,
-      "summary": "Apparel retailers could see an up to $13 billion annual boost in spending because of GLP-1 drugs, according to an estimate by equity research firm Bernstein.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285396-1774965895867-gettyimages-1395151836-40k_2000.jpeg?v=1775584345&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/04/09/cramer-says-one-thing-surprises-him-most-about-thursdays-stock-market.html",
+      "datetime": 1775750043,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108288644-17756572742026-04-08t140149z_723459142_rc21lkalpf5c_rtrmadp_0_usa-stocks.jpeg?v=1775657305&w=1920&h=1080"
     },
     {
-      "headline": "Olympic skier Lindsey Vonn doesn't rule out the 2030 games: 'I would only do it if I could be fast'",
+      "headline": "Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTJQR3N1VWw2dXc3bm5YbUQ1NkQwakVtMHNkbUtjVWU1VDlRWTdiSHhVNndZQk1nd3RXZm5RdjJnNE1OMmRZaFhNeF9TaWc2V2lNX1lLMmM3R080RTRlaVBfajZMQ09QQWVvcnRwWDkzQmFCSEZOMjE4LU9LWkxtaHQ4MlY4UFZJRUU2R3lGcU5Tdm1jTEgzMWdfYW00UG5xRjhWcks0aGZEcWFsam1VYWZSS3JUNzJVaWdsbXh3MFRNWWhPaTVhcmJOVU1OZw?oc=5",
+      "datetime": 1775747102,
+      "summary": "Hormuz at near standstill as Iran warns ships to keep to its waters\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Student loan forgiveness for public servants could be pricier to access, after new changes",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/04/09/olympic-skier-lindsey-vonn-2030-games.html",
-      "datetime": 1775730601,
-      "summary": "Lindsey Vonn told CNBC Sport she's not ruling out a return to the Olympics in 2030, at age 45, if she can still perform at a high level.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108288826-1775672299356-gettyimages-2259595431-AFP_96EB8XK.jpeg?v=1775672474&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/04/09/public-service-loan-forgiveness-may-be-pricier-to-access-after-changes.html",
+      "datetime": 1775744429,
+      "summary": "It may be pricier now for some student borrowers to access Public Service Loan Forgiveness, after new changes quietly rolled out by the Education Department.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289179-1775738818060-gettyimages-2238534319-mage25976.jpeg?v=1775738829&w=1920&h=1080"
+    },
+    {
+      "headline": "Why young Americans are buying $200 notebooks from a store in Paris",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/09/louise-carmen-notebooks-young-americans-journaling-trend.html",
+      "datetime": 1775743185,
+      "summary": "Notebooks made by Paris-based Louise Carmen have become a status symbol for a swath of young Americans, amid journaling's post-pandemic popularity.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108288099-1775584172406-Side_by_Side_template.jpg?v=1775743019&w=1920&h=1080"
     },
     {
       "headline": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnkwOWotSUd6QS0tWFNRQ3pybElMRF9IanZnVE9hU1ZoVENKSU5CUDF6clF6a3NSTjdGa2pGQUpOLTdiS3FoNTl5VF9fUlo3d3AxZ1JJTnpmWkxjQ0tPeWxCTTdpN25BQVAwSFgyam9jTXBkb2lRU3lzemtZRC1BczVscUpGaU9sU2JDWk9vRlc1NGUzM0NBeFNtWnJuRm4zSGNlcG91ck1kNzhKNG5RSDBGbUhBdmFKaURETm1tem4xc3MtX0VjSVBrNA?oc=5",
-      "datetime": 1775728188,
+      "datetime": 1775741760,
       "summary": "Exclusive: Iran war doubles Russia's main oil revenue to $9 bln in April, Reuters calculations show\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Italy says EU should consider pausing budget rules if Iran crisis persists - Reuters",
+      "headline": "Chevron sees Iran war oil boost, warns hedging to weigh - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1puQUw0cHdsVW9rTjBXbVZHR1RIM2dXdGMtMk5NWHV1NUZ5bUJkRE1sYS04OUliLVN1bHUycFJFTEM4M0M0aXhTalhTRGlYdlZIeDFSM0szeDlZZWFGWHl1ZFNpTk9EUE8zVmRVWFhGVVJlT1FuRnpPRkZvaFpVaTRIbUlBaW83c2MxdlpUN0tnVEZTZzV3VWZaYUE2bEd2Ql9aWHFkUzVaTEhoREd2YUFEemk2SHM?oc=5",
-      "datetime": 1775723853,
-      "summary": "Italy says EU should consider pausing budget rules if Iran crisis persists\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVThwNEgxZDdtNjlCeGhlcndOR2l0U05SV2VtbUhxeXdjVDQ0ZXJrRTdnT2NvYjYxcXo4UUZRekJJYThwTldyeHpyNy0wdldXRk5DQ0VMeF92LVp1cmlfR3hXaDJDNVZKTjlsS3RtQXZVNHZzNlFmT2I5YkJ5Z0tlcDhVY1VPR3pIeTIwQ0lTOU44XzRRLXlfVERxTzFjMmpMU3ZhOXNHYnR2cE5OOGZwVTdOQkRNbmd1Vlhpag?oc=5",
+      "datetime": 1775741385,
+      "summary": "Chevron sees Iran war oil boost, warns hedging to weigh\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Israeli military says it has killed nephew of Hezbollah chief Naim Qassem - Reuters",
+      "headline": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
+      "datetime": 1775741204,
+      "summary": "Sultan Ahmed Al Jaber demanded a full reopening of the Strait, warning that the oil supply disruption will increase if Iran maintains control of the passage.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108288701-1775661347346-gettyimages-2269811648-boivin-notitle260408_np0Aa.jpeg?v=1775661371&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "datetime": 1775739064,
+      "summary": "CoreWeave and Meta inked a $21 billion AI compute deal, and oil prices are rising again.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1775738509&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran to let no more than 15 vessels a day to pass Strait of Hormuz, TASS cites a senior Iranian source - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXcwUktpSkZsY3FaYXUxQm9IMUJJazQwQXFTZ1ZuQ0JlLVRxcXgzXzNSb0VCSGE4MjVKaFMzUWJDTXpJRGZHMEVmcTJlbW9haDlSaVJfT01vTHY2ZHNuWjNzNVNwbWhMa3laZ2dCNUZhcDFRREZfS0xIcF9YMmVfQXNDQzFEODV2dThyRXJCZm96TGx1dVJaWXNLamtvbUZDeW0tVVpBTm0zdGkxMnB5cWNIdzNFandMYmp2djUtRjcydw?oc=5",
-      "datetime": 1775721897,
-      "summary": "Israeli military says it has killed nephew of Hezbollah chief Naim Qassem\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanRZcUoyRUhPcjRwQnpCOEppZUg0dXNDYzVFcUcteWNjNndyODA1UXZzeVJ5V1NMTDdvNVVQUWxmRDUzYUVsUmZTOWNwWkJKOXhtRDM1OGplN3IzZ0RGYU5iQ3otSXlKZm9wOGc3ZjhfYU9BdXVPVEh0b0czbDdwNzVUbVM1WF9tdU54emUzdDdxT01QSzdfZXhmNUpaSjkxOS12RHNGTllOVzF4V3phVUdWYnpScTN6OE42c2VvYlFCZXdaZkE?oc=5",
+      "datetime": 1775738624,
+      "summary": "Iran to let no more than 15 vessels a day to pass Strait of Hormuz, TASS cites a senior Iranian source\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "China hopes 'relevant parties' can grasp chance at peace in Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnBQNW5BeVZIOHdwVnFVRzFObUx4Wjk1aC1seWlZOS1Za3FuT1V6M1FjRlpRRC1VdnlMMGtXdGN5YWhQUDBVbW9IMFV2a0Z2bUFtQ1pGSEN4VmdRdmdFaW4ta1pLWF9VWElZS19CVHM3NmhhcUlvZ2I1MDNjTTBEWWlMNHRBdE56aDdmUUhOY1FVQXhyRUw1Q1RaYjJhUzAtcTlYSFV2NENSUU5QVlVXOGtEUjJKUQ?oc=5",
-      "datetime": 1775721528,
-      "summary": "China hopes 'relevant parties' can grasp chance at peace in Iran war\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Spain condemns Israeli attacks on Lebanon, reopens Tehran embassy - Reuters",
+      "headline": "Spain ramps up criticism of Israel, US, defying Trump threats - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHNVeWRhRGpwbFNKbno2bnRVMUdPcUlsNl85MkE4dWRlakJqUUlLOEhEaUFlWTk2RVRvZDNOcjcxMGdvRTRTOGlxZmxlV0JXQ3pYaVVCeDZDQkJyYTYzaG9mM2VoTVVpMGNHRVVmNkZIdGQxTGFBeFJvN1F4OFNKeDMxZy1VZFVQRUphZElzbkt6YnFjcHNBTVNESnRhUjVycHpZQ2xjUDZvVUZXOEJj?oc=5",
-      "datetime": 1775720918,
-      "summary": "Spain condemns Israeli attacks on Lebanon, reopens Tehran embassy\u00a0\u00a0Reuters",
+      "datetime": 1775736256,
+      "summary": "Spain ramps up criticism of Israel, US, defying Trump threats\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Israeli military says it has killed Hezbollah chief Naim Qassem - Reuters",
+      "headline": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFItM3FaT0xEYTBpN1g3al9xTlVRZk9NU2FMWmlBaVg0amFkaWljelNFdUVLaGRXUWp6TnJneEpnQnpWTGVRci1PaDIzZldrcWRpYzJhcWdKNlhDTTVEQ0EwcXByMWZZbTJLVXRxWkJpaUFXZTZmWU1Eck54cmVzcndmeWZ2enU3dTFsbndUUmZtODNKdkhITFpfb3hYbnppaVhrZmNIeDhxaUhYRUJBZGotNm50dzBF?oc=5",
-      "datetime": 1775720755,
-      "summary": "Israeli military says it has killed Hezbollah chief Naim Qassem\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmlyTklsY3luLXQ4VllIVEJGazBLWU1WUEtsUjNGdDh1MmhOaXd0cTVjaTBYSXg1dy1uUzVpX2pMOHd0WW9zNEhUaGp1d1pUVnV5a1JnQUsxcXE4SGduaXRPNDFwYlVGbUN5eUtRcUNwaU9adERqNi1HUlEzaG5xdWxKRk41VmlsVnZ5bHhMZnkzNEZZSWVId2xaSzNrb2JyQVQ4MTJ1T24zZHNWVnVGOWlxY2xSY0NuTmd2RjRCbHJyZw?oc=5",
+      "datetime": 1775735890,
+      "summary": "Halt to Iran attacks means Netanyahu's corruption trial will resume on Sunday\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "OMV says higher energy prices to balance losses caused by Iran war - Reuters",
+      "headline": "Iran's president says Israeli strikes on Lebanon render negotiations meaningless - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEVOZ2VGZ25VR1VxbUU4YjFGbU1qQlF3OWhZbTFmQlNUZ292dkVvek1mSEwtMF9TLXY5cTUyWjBhbDNZWjJpcjFjamk0clJ0VHNFa1JONUpqcVNDdDBCSEpPSHBQaWp4SldMdTd2SXFiMGp2MlVrRXhyN0NrM3RlTnlOaFB2SnpQTEFSX1dTVEF2XzY2LUJWZmdwdVpzbTJmMVVGQ1UyVlFqTXdfNV9QcEdkQzNXdw?oc=5",
-      "datetime": 1775716260,
-      "summary": "OMV says higher energy prices to balance losses caused by Iran war\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israel launches fresh strikes on Lebanon after huge attacks jeopardise truce - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFEzUEk2UktwUExCbWdZb3V3akR1TW5RREtqVkJVaFpfdmV4R1ozS3VqU0IybTNTOHlBaWdteHZnRFMwVU4wV2p3MWRMS3BEenBYUENVWGdtOXo5MWQyampLendIcDlNOF84UHVocXZXM21rN19NNXhyOGQ4aWE2WE1LZkpkdlpTRHliVUk4eURNT21yWTNFV3NMcnNnRVdPU2dZUzRiemVDQUJfSFFQM3VFQWZoQQ?oc=5",
-      "datetime": 1775715780,
-      "summary": "Israel launches fresh strikes on Lebanon after huge attacks jeopardise truce\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran ceasefire eases fears but LNG sector left scarred, industry executive says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVV1T2lfWmhDckRTYTZzcklzakpmOFljaWRpbVpSWTRGOUItUVFRSkJjY2Y0ZkUwNXJMRFUwYTVvR0R2LVZWSERjS3A4M2wtejRYYkZ2cFJTXzFqbDhRdEFSWEJORkZtcTVDTnNOT3BiN1otSlVnY3JVUVBkcnY0aXNySGJaZk12RllzVTN0SE45U1p0X0EweUFEaG1vUlh6QVhzS0p2QUFNSEJhb2U5UVRYeGlmWVFfdGd5S2FPSThfSzVk?oc=5",
-      "datetime": 1775714580,
-      "summary": "Iran ceasefire eases fears but LNG sector left scarred, industry executive says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGtweFpLVndhNHNlZ21FR3pRc1Q2UDkzV0EzeXIwaXBhcS0wZG5oRHlxZkw3S19yZkVkaFBXOTZIMW9KcFRWNlctdmdDOUFEbnRXLWpqcTk2U2dXQWV1blNsdTYycEhkdFZxUGRNb3QxNlU3Zm5kQXI4RnQyaWdlMnMyWHFacC1TWDBXZEc2VmtQT1gtM2REU3hxNFZGOE9IWTFSWWc5Y1BFU0JReE16ZWNESkptZjExaFdQSUc0a3NLaW14YTliUA?oc=5",
-      "datetime": 1775713140,
-      "summary": "Iranian delegation to reach Islamabad Thursday, Iran's ambassador to Pakistan says\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1E3RGJiZGNoVGxrdkl0U25nTE95RHlBdzhpUFM4MUo4cE5FZEJ0R0g2bENtX21PcXc2Zzg3NDRGd0dxMmpPVVdLeHJxX2phNEc5M2E4bThtdlFjWFN1clMyNWNvRnFCYVpEeFprYnRSS1pLMHJBSDJpTHFPX1BlOTd4c1FCU0Q0WHVQZ0xFY2lHejdMV0JBT1ZlSUdiZ2dHV0ZSb3gxMDNubDdkbUFkSU1EeHZEY3g4RFNiR2Q5T3pSOVpiVU5nTzdB?oc=5",
+      "datetime": 1775735743,
+      "summary": "Iran's president says Israeli strikes on Lebanon render negotiations meaningless\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
