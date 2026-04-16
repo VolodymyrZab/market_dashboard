@@ -7,10 +7,10 @@
       "industry": "Beverages",
       "timing": "bmo",
       "eps_estimate": 1.566,
-      "eps_actual": null,
+      "eps_actual": 1.61,
       "revenue_estimate": 19130271125,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 19443000000,
+      "revenue_beat": true,
       "market_cap": 211670821709.84076,
       "last_close": 154.85,
       "prev_close": 155.72,
@@ -22,6 +22,16 @@
       "week52_pos": 62.1,
       "pe_ratio": 25.6882,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.61,
+          "eps_estimate": 1.566,
+          "surprise_pct": 2.8097,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 19443000000,
+          "rev_estimate": 19130271125
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 2.26,
@@ -42,28 +52,24 @@
           "eps_estimate": 2.0501,
           "surprise_pct": 3.4096,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 1.48,
-          "eps_estimate": 1.5009,
-          "surprise_pct": -1.3925,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.61,
+          "eps_estimate": 1.566,
+          "surprise_pct": 2.8097,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 19443000000,
+          "rev_estimate": 19130271125
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 2.26,
           "eps_estimate": 2.2597,
           "surprise_pct": 0.0133,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 2.29,
-          "eps_estimate": 2.2803,
-          "surprise_pct": 0.4254,
           "beat": true
         }
       ],
@@ -2719,10 +2725,10 @@
       "industry": "Banking",
       "timing": "bmo",
       "eps_estimate": 1.0998,
-      "eps_actual": null,
+      "eps_actual": 1.13,
       "revenue_estimate": 2184812335,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 2168000000,
+      "revenue_beat": false,
       "market_cap": 27705353284.632034,
       "last_close": 65.19,
       "prev_close": 64.87,
@@ -2734,6 +2740,16 @@
       "week52_pos": 89.7,
       "pe_ratio": 15.0431,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.13,
+          "eps_estimate": 1.0998,
+          "surprise_pct": 2.746,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 2168000000,
+          "rev_estimate": 2184812335
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 1.13,
@@ -2754,28 +2770,24 @@
           "eps_estimate": 0.8937,
           "surprise_pct": 2.9428,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.77,
-          "eps_estimate": 0.757,
-          "surprise_pct": 1.7173,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.13,
+          "eps_estimate": 1.0998,
+          "surprise_pct": 2.746,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 2168000000,
+          "rev_estimate": 2184812335
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 1.13,
           "eps_estimate": 1.1179,
           "surprise_pct": 1.0824,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 1.05,
-          "eps_estimate": 1.0368,
-          "surprise_pct": 1.2731,
           "beat": true
         }
       ],
@@ -7168,10 +7180,10 @@
       "industry": "Consumer products",
       "timing": "bmo",
       "eps_estimate": 0.0714,
-      "eps_actual": null,
+      "eps_actual": 0.08,
       "revenue_estimate": 75572310,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 66980000,
+      "revenue_beat": false,
       "market_cap": 153582499.60426703,
       "last_close": 14.25,
       "prev_close": 14.53,
@@ -7183,6 +7195,16 @@
       "week52_pos": 79.9,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.08,
+          "eps_estimate": 0.0714,
+          "surprise_pct": 12.0448,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 66980000,
+          "rev_estimate": 75572310
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -1.99,
@@ -7203,28 +7225,24 @@
           "eps_estimate": -0.1581,
           "surprise_pct": -83.4282,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.22,
-          "eps_estimate": 0.1581,
-          "surprise_pct": -239.1524,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.08,
+          "eps_estimate": 0.0714,
+          "surprise_pct": 12.0448,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 66980000,
+          "rev_estimate": 75572310
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -1.99,
           "eps_estimate": -0.1479,
           "surprise_pct": -1245.5037,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.31,
-          "eps_estimate": -0.1224,
-          "surprise_pct": -153.268,
           "beat": false
         }
       ],
@@ -18623,6 +18641,54 @@
   },
   "news": [
     {
+      "headline": "EasyJet warns Iran war to hit summer bookings, deepen first-half loss - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmhfWjMtWkZwa2dLQURfVlp4R2ktajVvU1BEcmRBRjZEb0liQ1dmZlRJTkhkeGlGMXdZSzVnVDl5RzN6MFFGVXk5NDBHa3lySXdKS3FJaXlPSkJVeHhFM1d2N0lMLXFNY2lVQ29PZ0RBUUJDam1DZ05XRjFORFdRWnhtcVo3ck5NeWZLZ19QcEhJdkNyenlKN0tlV2tBR3plYjVxaVZPUVBOTFpVdzNOa0hVX2VHWW8?oc=5",
+      "datetime": 1776337596,
+      "summary": "EasyJet warns Iran war to hit summer bookings, deepen first-half loss\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "UAE Fujairah marine fuel sales slump after US-Iran conflict disrupts activity - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUh3OHlxeGRLNEFlbUtyQmtMM0M1QUpDaEc4NWxBVmR3enNoTkp0UU5fZllObXltU0F2UG5tYzRkUnU3cTB1VDNGQ0JYeVhZUW02YnpiNHZ6M3ZMY3hUSlN0emlhQ0xfM1FMX3pIQ00wcEdFd2xCVHZURFNmT0hXLWY4WGo5U2Z1TzYxbXdJUmRyczdSMmZ0b1lKTGN4VVFFZGFhdmYwdkkxejJ6WXJTSDNsTWZvcmxmZTBaWlFZRVZEOFNxNUd3OQ?oc=5",
+      "datetime": 1776337461,
+      "summary": "UAE Fujairah marine fuel sales slump after US-Iran conflict disrupts activity\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "\u2018Guns vs. butter\u2019: IMF flags tough trade-offs as governments ramp up defense spending",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/16/defense-imf-guns-butter-social-spending-iran-war-russia-ukraine.html",
+      "datetime": 1776337415,
+      "summary": "The International Monetary Fund has raised the alarm over a global \u201cguns versus butter\u201d trade-off as countries ramp up defense spending.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292326-1776333644676-gettyimages-2268501924-mg0027.jpeg?v=1776333736&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran halts petrochemical exports until further notice - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0stSWw0QXdBZnZwWnRMREJHdzlqQnNWMk8tWDE0T0VDNjZaUERSUlJfaF9vblByTTJsMGxEQWpWaFp4WHpqR1R2VnlHMHBpQm51S1ZlaExGcjdubHRhNVlIbTFJZnhGOVpiaUVZZy1FOWcwWm56S1hlcWhlN1ZIQzBreEpjTjhsRzFKdW9FZmF5RUVhNDZhZEEwdjI0d1E3MXRwQUk0VjM?oc=5",
+      "datetime": 1776330154,
+      "summary": "Iran halts petrochemical exports until further notice\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iran, US narrow differences after Pakistani mediation but splits remain, senior Iranian official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1Y0N3FsTTQ0bnlyYU5yMXBuWklKNkVieEhtQzdvMkhHNGNFdmc0ZjZlX3NGOVBlYXJJendhY1NmZlJHQnBON0xmb1Y2c2pWNlMwc2pITzhNWDllLUpSbGx3OXk4V09BaU84NkJFajl4Zl9uUzhFUG9PMG5GUGpDbnAtOFItOUJZaDE5VVMwa3RhWjhBd1JOVm9vNjk2b3Q1MGt3M1hybVdHNFduTVdoYTZyWENNbmZ4RndaZmVJVkRaa2stTUtr?oc=5",
+      "datetime": 1776329503,
+      "summary": "Iran, US narrow differences after Pakistani mediation but splits remain, senior Iranian official says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Pakistan says no dates set for second round of US-Iran talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWVBZG5zRnEwRk9SLWlpUWZERkhNVXFYMmQ5MVV0VXBoOGFaazJIVjRTRWdZcmRoTUlJUXJ3Sy1tbHJOVi1qQVpUSF85U21lc0czZlVCUEdWb3hFbTRNek01X1A4SGZYclg2QjlST2YxVmt3VE9NZ1pOLU1DZU1kaXlNdEY1cUdKX01SRUZLVlRCanN1TTNBVkwtSjdZdkJrclJfWkRiOGNhcmEt?oc=5",
+      "datetime": 1776327734,
+      "summary": "Pakistan says no dates set for second round of US-Iran talks\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "The Iran war has shattered oil's price compass - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXp3OFlRQU95N0Jxc3RRM0o1MEx4UWl4QTVKM3lDNWJnaUNlb2RaWVpTelVTUkdIYTBhTW9nS2NvTmF3eExxcG1mQWQwZjN6T1VIVHRpcTEza2s3aHk0NEp3MjRNbDl4dDViU3NrLWJtUXpFWDFhZnJsRTQwbXJRWTVrM0U0a2wxVkVIYkpyNG1xYThJb3h6YXc4T3RpZw?oc=5",
@@ -18639,11 +18705,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Can Iran legally impose tolls on the Strait of Hormuz? - Reuters",
+      "headline": "Iran war clouds European corporate earnings outlook - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQi1JRERoWEhlaDBDYmVvUVF4dnNmTTh0bWFhQUJwNzFaT3V2bWwyeWxfMkJ0aXJNQkI2ZXdjeU1VeXRpei1ZU0FuMFR6UVdiT3N2SHVFWmhGRm5oeUFaUlB2b2hzcW9hY2c4YUQwYWJQSE9TWVg3eUJtQktVMWF3cTAxUGJfY1A5eHpsSnhsenRLYXN6dHNOdmtsQjhrcDF2anNHMmJIdkh1bzZUaTRBc2YxT19uY1U?oc=5",
+      "datetime": 1776319440,
+      "summary": "Iran war clouds European corporate earnings outlook\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Explainer: Can Iran legally impose tolls on the Strait of Hormuz? - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmoxVGpCRXNadFVtcklGN090cVVKaXF1clBhQUtSV2cxOGxjODhUazRDSDhMejdqbHl1M0h1M2JuUGR1WVNOUmxmcllmdjU0NTIwcEpnWXB5Mm5vS3dxLVRYR3lhem85Sl9CLVEtOGM5bzVJLXpzUFI2QXB1ZDRnX0ZZeDk0ZW1IaFU3aHAwWmpFQ3RuUWFzYllpMTk2QQ?oc=5",
       "datetime": 1776315840,
-      "summary": "Can Iran legally impose tolls on the Strait of Hormuz?\u00a0\u00a0Reuters",
+      "summary": "Explainer: Can Iran legally impose tolls on the Strait of Hormuz?\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -18655,67 +18729,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "UAE Fujairah marine fuel sales slump after US-Iran conflict disrupts activity - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUh3OHlxeGRLNEFlbUtyQmtMM0M1QUpDaEc4NWxBVmR3enNoTkp0UU5fZllObXltU0F2UG5tYzRkUnU3cTB1VDNGQ0JYeVhZUW02YnpiNHZ6M3ZMY3hUSlN0emlhQ0xfM1FMX3pIQ00wcEdFd2xCVHZURFNmT0hXLWY4WGo5U2Z1TzYxbXdJUmRyczdSMmZ0b1lKTGN4VVFFZGFhdmYwdkkxejJ6WXJTSDNsTWZvcmxmZTBaWlFZRVZEOFNxNUd3OQ?oc=5",
-      "datetime": 1776311400,
-      "summary": "UAE Fujairah marine fuel sales slump after US-Iran conflict disrupts activity\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "Gold gains on softer dollar as US-Iran peace deal hopes rise - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFM4QTNoUVdiNWc3T0xRdlA2MENCZW1XZC1PSEVub2MyRndLYmstX0ItT1VzMzdockxjSUh4T1NjS0RFR09sZHdla2FOS01kLTFwV0NzVFJiYldlYmJPRV8yLUJrT2NOaVJFdWkwRFNKNkppN3BlQmVNZV9YWFdLUjFfWnY2VG12T1VLWEJLeUFZcy1DVXlaUWM0NjJ5Xzg5S0FZdQ?oc=5",
       "datetime": 1776309840,
       "summary": "Gold gains on softer dollar as US-Iran peace deal hopes rise\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US-sanctioned supertankers enter Gulf despite blockade - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0dKbS1HTEhFNTMxZ0tXR3lOLVpxU1JrLUJoM2s3VXZPZThvZHBYcndBUXdUYkdJTnZxWE41UzJfVTF1NzFaRnNJN1pVN2hCRENobm5JN3ZiOGs0UVgzV2NvX1ZZazFra3RDaWt0U191Tk9ULWhNVW5xYktzcl9yUVpIYUp4OFRaQXhkaEdNM2JsZ21FNlVzaXJKMlljbDk2NENBTm5QQzZ5czhp?oc=5",
-      "datetime": 1776309420,
-      "summary": "US-sanctioned supertankers enter Gulf despite blockade\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hopes for Middle East peace grow with Israel and Lebanon eyeing ceasefire - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXVmVU9ETm1kemwxNHVYUml5dHFGM3UwT09lNVVUZ2R3MmM2dlVfNC1Vc1BkZVNSR0lXaFBmRlUtRWdmWFU0RXVMZFFLS3ZibzExQWVhNmRaTldVNW5RbU1yRW9iYVRzbXRGSUhQakZkYjdzTEF3ejRPQ1RtQ1llYm11RlFVQXNXMHJRM2ZGUGw2RWc5Rl9XWXZNZGE3VXNGeTRxWlRDUU9oM2M3SXRrVUt0U2xOSlpCYkE?oc=5",
-      "datetime": 1776309240,
-      "summary": "Hopes for Middle East peace grow with Israel and Lebanon eyeing ceasefire\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Indian shares extend rally on hopes for US-Iran peace deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmY5WmJ0N0VrdF9jYU1ETFFYQkxUaS1lUWtFNy10Qzg1SFV0NVA3TzVPY3BaRVpVenBESDdxeGhQc1hFdW9yNXhLQTNJdk5UekFfUjNrYXNFbGc4RXU3WnFfTURJMFFFYUJMSktqV0dOSFB1YjBYRjBOTEt5Wk1Xc1MzUGxLTlN3aHQxMXhGN2hhMjVHeldoNXJBSkQ1b1lBaHBmV0JodmRLSnNyajVRUmpNUQ?oc=5",
-      "datetime": 1776307200,
-      "summary": "Indian shares extend rally on hopes for US-Iran peace deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran war brings US close to net crude exporter for first time since World War Two - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2Y3TmgzMXRzTHpWS184RG8tcG1keWZja1NqWjdEeEVzam5uQjV3UmdYaDQzcUxPckRwQlBoN0FORXZtWTVZRkYydWxfM1htdDhuY1ExT0xUa3ZaanZGcVFZWmJkVEdLdGpvcDNRdlR0Uk1sOHRKaVc5ZlBySDYxSEZoRHNLSXd3MC1IelBPRnZ4WlUzbU5mY1haYTJkektqR2JQaGZ4THJQTXpGZFFHWUMtWWlVczFYdGlrME55RS1NZ0NE?oc=5",
-      "datetime": 1776306780,
-      "summary": "Iran war brings US close to net crude exporter for first time since World War Two\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Instant view: China's Q1 growth beats forecast as economy braces for fallout from Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGRUOGN4cm1ZOUYwVXBod1o1ZGI0UWgzSXJBMXB2UlRqaERVRkhJSENLXzVsMnVjUG81Rnp6SkxFd0hiT0pDSmZySzNiaHgtWkQtYllFSU5obGhYQlhWVTEzMFZ3YlF3ZUs0Z2llUlBiSXZFbFhiMXZGNFFYbExvcUVnWE5pQVlXaHU5MnhTdjgtR0pIdmwtdm9pT0NnTzhscGFKanFCUmtPd1Y5XzhmUi1uZnlycGY4alIwMjNfS3NvS0U?oc=5",
-      "datetime": 1776306420,
-      "summary": "Instant view: China's Q1 growth beats forecast as economy braces for fallout from Iran war\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Australia's jobless rate stays low in March but Iran war risks loom - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYWJJVDJyUUdnTXY0LWdiejQ5eEY5elFJWnBJajVZTGxkYk9xQk9NV3MwdmVpY1RLdjNJTUg5eHpmdWVIOURCZUJoZ08tUEpfTFd6anY1MDlrYWlOYWgyY0J6bTFhamRYbDYza2JFMVBYeHlOdjJ4Y1RrZXFxdU1JbVZZYmhnY2FwRGhOSllxMVhzTzI2cFNpdms4UG9iTndxdVp6ZlQ5T2diQ25PcmFIWUZyV0hRUXc?oc=5",
-      "datetime": 1776303780,
-      "summary": "Australia's jobless rate stays low in March but Iran war risks loom\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
