@@ -7,10 +7,10 @@
       "industry": "Metals & Mining",
       "timing": "bmo",
       "eps_estimate": -0.3894,
-      "eps_actual": null,
+      "eps_actual": -0.4,
       "revenue_estimate": 4833233688,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 4922000000,
+      "revenue_beat": true,
       "market_cap": 5669740815.000001,
       "last_close": 9.94,
       "prev_close": 9.72,
@@ -22,6 +22,16 @@
       "week52_pos": 38.9,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.4,
+          "eps_estimate": -0.3894,
+          "surprise_pct": -2.7221,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 4922000000,
+          "rev_estimate": 4833233688
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.44,
@@ -42,29 +52,25 @@
           "eps_estimate": -0.7478,
           "surprise_pct": -29.7138,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -1,
-          "eps_estimate": -0.7776,
-          "surprise_pct": -28.6008,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.4,
+          "eps_estimate": -0.3894,
+          "surprise_pct": -2.7221,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 4922000000,
+          "rev_estimate": 4833233688
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.44,
           "eps_estimate": -0.605,
           "surprise_pct": 27.2727,
           "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.51,
-          "eps_estimate": -0.4838,
-          "surprise_pct": -5.4155,
-          "beat": false
         }
       ],
       "bars": [
@@ -346,10 +352,10 @@
       "industry": "Banking",
       "timing": "bmo",
       "eps_estimate": 1.344,
-      "eps_actual": null,
+      "eps_actual": 1.3,
       "revenue_estimate": 195459240,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 192320000,
+      "revenue_beat": false,
       "market_cap": 3181616959.32721,
       "last_close": 80.09,
       "prev_close": 78.39,
@@ -361,6 +367,16 @@
       "week52_pos": 94.5,
       "pe_ratio": 15.4521,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.3,
+          "eps_estimate": 1.344,
+          "surprise_pct": -3.2738,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 192320000,
+          "rev_estimate": 195459240
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 1.39,
@@ -381,28 +397,24 @@
           "eps_estimate": 1.0625,
           "surprise_pct": -0.2353,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.97,
-          "eps_estimate": 0.8996,
-          "surprise_pct": 7.8257,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.3,
+          "eps_estimate": 1.344,
+          "surprise_pct": -3.2738,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 192320000,
+          "rev_estimate": 195459240
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 1.39,
           "eps_estimate": 1.2771,
           "surprise_pct": 8.8403,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 1.2,
-          "eps_estimate": 1.1861,
-          "surprise_pct": 1.1719,
           "beat": true
         }
       ],
@@ -1363,10 +1375,10 @@
       "industry": "Banking",
       "timing": "bmo",
       "eps_estimate": 0.7925,
-      "eps_actual": null,
+      "eps_actual": 0.81,
       "revenue_estimate": 53306556,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 53820000,
+      "revenue_beat": true,
       "market_cap": 724569582.2470988,
       "last_close": 42.38,
       "prev_close": 41.36,
@@ -1378,6 +1390,16 @@
       "week52_pos": 90.5,
       "pe_ratio": 14.3912,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.81,
+          "eps_estimate": 0.7925,
+          "surprise_pct": 2.2082,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 53820000,
+          "rev_estimate": 53306556
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.81,
@@ -1398,28 +1420,24 @@
           "eps_estimate": 0.6545,
           "surprise_pct": 5.424,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.67,
-          "eps_estimate": 0.5576,
-          "surprise_pct": 20.1578,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.81,
+          "eps_estimate": 0.7925,
+          "surprise_pct": 2.2082,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 53820000,
+          "rev_estimate": 53306556
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.81,
           "eps_estimate": 0.7983,
           "surprise_pct": 1.4656,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.86,
-          "eps_estimate": 0.7463,
-          "surprise_pct": 15.2352,
           "beat": true
         }
       ],
@@ -1693,6 +1711,351 @@
           "l": 41.095,
           "t": 1776398400000,
           "n": 4980
+        }
+      ]
+    },
+    {
+      "symbol": "ISTR",
+      "name": "Investar Holding Corp",
+      "industry": "Banking",
+      "timing": "bmo",
+      "eps_estimate": 0.6902,
+      "eps_actual": 0.87,
+      "revenue_estimate": 37128000,
+      "revenue_actual": 35640000,
+      "revenue_beat": false,
+      "market_cap": 394625751.18065435,
+      "last_close": 28.7,
+      "prev_close": 28.12,
+      "gap_pct": 2.06,
+      "volume": 281191.6535,
+      "rvol": 1.68,
+      "week52_high": 31.77,
+      "week52_low": 15.89,
+      "week52_pos": 80.7,
+      "pe_ratio": 17.2296,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.87,
+          "eps_estimate": 0.6902,
+          "surprise_pct": 26.0504,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 35640000,
+          "rev_estimate": 37128000
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.58,
+          "eps_estimate": 0.5372,
+          "surprise_pct": 7.9672,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 0.54,
+          "eps_estimate": 0.4658,
+          "surprise_pct": 15.9296,
+          "beat": true
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": 0.47,
+          "eps_estimate": 0.3876,
+          "surprise_pct": 21.259,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.87,
+          "eps_estimate": 0.6902,
+          "surprise_pct": 26.0504,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 35640000,
+          "rev_estimate": 37128000
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.58,
+          "eps_estimate": 0.5372,
+          "surprise_pct": 7.9672,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 74784.5105,
+          "vw": 27.2003,
+          "o": 27.5,
+          "c": 27.06,
+          "h": 27.63,
+          "l": 26.94,
+          "t": 1773201600000,
+          "n": 1979
+        },
+        {
+          "v": 107767.0505,
+          "vw": 26.7413,
+          "o": 26.65,
+          "c": 26.84,
+          "h": 27.03,
+          "l": 26.2,
+          "t": 1773288000000,
+          "n": 3126
+        },
+        {
+          "v": 104442.6535,
+          "vw": 26.6484,
+          "o": 27,
+          "c": 26.6,
+          "h": 27.49,
+          "l": 26.25,
+          "t": 1773374400000,
+          "n": 2700
+        },
+        {
+          "v": 132845.039362,
+          "vw": 27.0152,
+          "o": 26.75,
+          "c": 26.83,
+          "h": 27.34,
+          "l": 26.75,
+          "t": 1773633600000,
+          "n": 2676
+        },
+        {
+          "v": 230318.723059,
+          "vw": 27.1268,
+          "o": 27.1,
+          "c": 27.05,
+          "h": 27.65,
+          "l": 26.9,
+          "t": 1773720000000,
+          "n": 4264
+        },
+        {
+          "v": 191541.265012,
+          "vw": 26.6309,
+          "o": 26.89,
+          "c": 26.66,
+          "h": 27.22,
+          "l": 26.31,
+          "t": 1773806400000,
+          "n": 3123
+        },
+        {
+          "v": 176662.6535,
+          "vw": 26.8767,
+          "o": 26.53,
+          "c": 26.89,
+          "h": 27.335,
+          "l": 26.4,
+          "t": 1773892800000,
+          "n": 3543
+        },
+        {
+          "v": 862863.125145,
+          "vw": 26.5472,
+          "o": 26.94,
+          "c": 26.52,
+          "h": 27.41,
+          "l": 26.27,
+          "t": 1773979200000,
+          "n": 4291
+        },
+        {
+          "v": 254232.325354,
+          "vw": 27.4059,
+          "o": 27.16,
+          "c": 27.11,
+          "h": 27.87,
+          "l": 26.98,
+          "t": 1774238400000,
+          "n": 5925
+        },
+        {
+          "v": 111838.6905,
+          "vw": 27.1588,
+          "o": 27.12,
+          "c": 27.13,
+          "h": 27.41,
+          "l": 26.89,
+          "t": 1774324800000,
+          "n": 2659
+        },
+        {
+          "v": 112769.085,
+          "vw": 27.0433,
+          "o": 27.37,
+          "c": 27.08,
+          "h": 27.625,
+          "l": 26.835,
+          "t": 1774411200000,
+          "n": 3007
+        },
+        {
+          "v": 87517.0468,
+          "vw": 27.0442,
+          "o": 26.85,
+          "c": 27.01,
+          "h": 27.22,
+          "l": 26.85,
+          "t": 1774497600000,
+          "n": 2808
+        },
+        {
+          "v": 107324.3743,
+          "vw": 26.8153,
+          "o": 27.06,
+          "c": 26.82,
+          "h": 27.1,
+          "l": 26.5,
+          "t": 1774584000000,
+          "n": 2722
+        },
+        {
+          "v": 67273.727361,
+          "vw": 26.9298,
+          "o": 27.01,
+          "c": 26.88,
+          "h": 27.06,
+          "l": 26.81,
+          "t": 1774843200000,
+          "n": 2244
+        },
+        {
+          "v": 77755.617693,
+          "vw": 27.1501,
+          "o": 27.28,
+          "c": 27.27,
+          "h": 27.42,
+          "l": 26.77,
+          "t": 1774929600000,
+          "n": 1890
+        },
+        {
+          "v": 99467.7207,
+          "vw": 27.5928,
+          "o": 27.39,
+          "c": 27.5,
+          "h": 27.85,
+          "l": 27.28,
+          "t": 1775016000000,
+          "n": 2403
+        },
+        {
+          "v": 183628.6535,
+          "vw": 27.3339,
+          "o": 27.29,
+          "c": 27.44,
+          "h": 27.585,
+          "l": 26.945,
+          "t": 1775102400000,
+          "n": 2689
+        },
+        {
+          "v": 94001.9465,
+          "vw": 27.6204,
+          "o": 27.4,
+          "c": 27.79,
+          "h": 27.855,
+          "l": 27.265,
+          "t": 1775448000000,
+          "n": 1861
+        },
+        {
+          "v": 83224.4955,
+          "vw": 27.7689,
+          "o": 27.84,
+          "c": 27.78,
+          "h": 27.895,
+          "l": 27.63,
+          "t": 1775534400000,
+          "n": 2183
+        },
+        {
+          "v": 178708.618437,
+          "vw": 28.4165,
+          "o": 28.48,
+          "c": 28.3,
+          "h": 28.895,
+          "l": 28.27,
+          "t": 1775620800000,
+          "n": 3594
+        },
+        {
+          "v": 168483.7094,
+          "vw": 28.7502,
+          "o": 28.23,
+          "c": 28.71,
+          "h": 28.95,
+          "l": 28.185,
+          "t": 1775707200000,
+          "n": 3726
+        },
+        {
+          "v": 187439.111833,
+          "vw": 28.4073,
+          "o": 28.8,
+          "c": 28.54,
+          "h": 28.8,
+          "l": 28.25,
+          "t": 1775793600000,
+          "n": 2900
+        },
+        {
+          "v": 103414.380433,
+          "vw": 28.4571,
+          "o": 28.48,
+          "c": 28.51,
+          "h": 28.61,
+          "l": 28.25,
+          "t": 1776052800000,
+          "n": 2213
+        },
+        {
+          "v": 139928.531589,
+          "vw": 28.5104,
+          "o": 28.54,
+          "c": 28.52,
+          "h": 28.62,
+          "l": 28.11,
+          "t": 1776139200000,
+          "n": 3630
+        },
+        {
+          "v": 129927.9115,
+          "vw": 28.4184,
+          "o": 28.5,
+          "c": 28.48,
+          "h": 28.595,
+          "l": 28.17,
+          "t": 1776225600000,
+          "n": 3327
+        },
+        {
+          "v": 111761.175102,
+          "vw": 28.271,
+          "o": 28.45,
+          "c": 28.12,
+          "h": 28.65,
+          "l": 28.11,
+          "t": 1776312000000,
+          "n": 2692
+        },
+        {
+          "v": 281191.6535,
+          "vw": 28.9069,
+          "o": 28.52,
+          "c": 28.7,
+          "h": 29.14,
+          "l": 28.52,
+          "t": 1776398400000,
+          "n": 4340
         }
       ]
     },
@@ -8044,6 +8407,30 @@
   },
   "news": [
     {
+      "headline": "American Airlines falls 3% premarket after dismissing United megamerger",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/20/american-airlines-united-airlines-merger-rejected.html",
+      "datetime": 1776680936,
+      "summary": "American Airlines stock fell after it dismissed talk of a potential merger with United, citing antitrust concerns and potential harm to competition.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107178014-1673548153190-gettyimages-1246182579-NEWARK_TERMINAL_A.jpeg?v=1776673977&w=1920&h=1080"
+    },
+    {
+      "headline": "Rupee falls most in a week as traders brace for US-Iran ceasefire expiry - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZLcEwtTTNEZE14Qk52alpCc0w3WUJvQUp5c2plUWRoVGtWSjN0NElHM3gzbExMekxpVTE5MlY2RTczUlhaRmd2M21sLWRIS3d6M3VQb0ZXWmJ5TVFoYTYweDhja3dHcERkV2cyUVNuOWNNQTlMaEktSGJXdm1jdEhCWVhDRjJDYzJ4SFF4elJKOGtYSGU1YzNOdk5OYzhjbkF5WlQxa2N0QQ?oc=5",
+      "datetime": 1776680292,
+      "summary": "Rupee falls most in a week as traders brace for US-Iran ceasefire expiry\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U?oc=5",
+      "datetime": 1776678870,
+      "summary": "Ceasefire at risk after US seizes Iranian ship, Iran shuns peace talks\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Iran's president stresses importance of diplomacy while noting distrust of U.S. - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkJOQm9kSTFjZURyVmpNcmQ3N0xOM3JScVQyQkJQNXgwX1FvblpETTE0WEZCOEhWRkRmYkk4a0ZMOVBOX1ZPNFhtT2hRcjgtemxNNjBrMFdlUmZGVkJTWDRBSEdQakJWMTBZWkE4bUNFTDdWQ3JGbWZLMTU3Q3VwekF0WTZ0VXJuUVNCazRkclJpcUZVcEp5NmViLWQ3SXdXMkFDTWhxYVFrbnRFZ2VPRXFiQ1FQTm1OWHlmbGFCWktKdjA?oc=5",
@@ -8052,51 +8439,43 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Gold falls on stronger dollar amid renewed US-Iran tensions - Reuters",
+      "headline": "Value of global dealmaking recovers as firms pursue big transactions after Iran war - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzk2N1VxOGtVVVJ0Y216QnlOcjlOX3BhUUoyRDB6OVRhWndlcmUtdUZDcHpmcUhDanRGU3h0bm1QVmZBX3hzbmJfNVJjUFRISDJBOHhTdzQ0SXRXNjE0OW5WcE41QjY5OWg1ZDdpeXlrVDlndTE1ZXhFYWZCaHVGNm56ekprdGU4TXRtV2VDc2Q4TXBsT2t0MmYtOHJpV3dGam5PS29aTQ?oc=5",
-      "datetime": 1776671780,
-      "summary": "Gold falls on stronger dollar amid renewed US-Iran tensions\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1BuUW9rM201dkExMW84Yi10V0tsY2dLa2JIdzRmMm1ySDI5cEdxZ3hleHhabkZhdFQzRHNheEF6WHpDd2Fwcy1OeWFOQ0RCMTd6QllMZjBmY1doVzBGaWJiVWd5UWY4N1JoRjNJVjFTbUlSY2FodXJMQ2pUWWlxUlkwM2RUZXVFallXOUw0ZWptZ1BCZFQxM1NDbWpaMWYyNGlwVGw5eWJuczN0Q2JNT1ljWHZ1REhaVVFGLW5Naw?oc=5",
+      "datetime": 1776672989,
+      "summary": "Value of global dealmaking recovers as firms pursue big transactions after Iran war\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "World awaits fate of ceasefire after US seizes Iranian ship - Reuters",
+      "headline": "China voices concern over US seizure of Iranian cargo ship, urges further talks - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYXBYREl4Q2RERUhiN1RsQ3VjME95MDhjTXNtYjFzMWo1XzFsd0puZ21EUkxVTTNvS2tKekp1ZERHQUJJeWU3S1hVRjk0YWRodlVXZW10bW9oVFA0VURUd2REQ2NGc0lMSUx1dzR2RzVRUDczazBrdXZuNUY2am9MSjIzbzZ1dDZfd0pGSUc0TDRnRlc2LXF6ZEI4VlRPTU1QeS1qd2tKb3hHcm1MSGEySXBxWktxZDJ2Mng0dDJDMUZOU0U?oc=5",
-      "datetime": 1776671733,
-      "summary": "World awaits fate of ceasefire after US seizes Iranian ship\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Australia's NAB expects impairment charges to double from Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTRSSEs3QzQ2MUlRLTdMRl9TVElvcng3dU1qWkpxSGN5bkgxVTNSMXRLNnFuaHF3VXJNUUwyMVIySE9FVVRhMUV6WjlhaGQyVFplekR5TF9jRkR2NWpjeld5QWV2TXVtbVAxcXhxWTdlVXZmOXJPaEt3SV9kQkxnVXNZLVNfLXRPd0NVMXZqNS0waFZibXhwWlJ0VTFjcXJvMUFlVmNnQ0g5VDNBOEx1cmtIbzBtWnFTOVB0cXZlQjkxLTBNZVRN?oc=5",
-      "datetime": 1776665909,
-      "summary": "Australia's NAB expects impairment charges to double from Iran war\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWdqaVgyY002NGVqTTVfelNrLVdaX2hSZUFYMDhyOER1NFZVTzFYZnNCcGpZRS1RYUJGRS0xbkZHdzNQU0VQYUZRc1V6cjY1b010X3gtRG5xelNwT0ZlRVR5UTlBUVdRWEtyS1N6a0s3ZUlfdy1iOHRLUVdyS29iakYwclYwV1FWR0R2Nkc2alNFTHR2bXg2NlpyYXBLQXF0QThxalBYSHBSZnNmaHE2bWxYZkdlWnBrUU5udHlZNzI?oc=5",
+      "datetime": 1776672605,
+      "summary": "China voices concern over US seizure of Iranian cargo ship, urges further talks\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Breakingviews - Iran catastrophe has some silver linings - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcldybTlUM0RsX1BGTGl1U0prUldFTnZVbFJadzVadThCaXRWUENQOGhpVXBwbWZZQnkzT3Y1WXhxajdXTXJEN0MtZEljNFZpRDhxVkRsaEhCYXl4eW95a3haR1hfSjl1ZU9MN044eG4zOFBWVkZxVWFpdEJyNjRKaEMzbkx4a2M0QkFJRHpROUYzOWEwQWZfS0FoVkN2dlVuVEtz?oc=5",
-      "datetime": 1776661200,
+      "datetime": 1776662276,
       "summary": "Breakingviews - Iran catastrophe has some silver linings\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Iran executes two men accused of involvement in 'spy network linked to Israel', judiciary news outlet - Reuters",
+      "headline": "Iran executes two accused of Israel spy links, opposition rejects claim - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWldfODU2R2dqR2xwV0pvUy1icDdsT1dROXR3MEYxSHpMQm1femk0X0lpbjBqNEVXcDlUSVEtSGRnaU5WRlAwTWN4bEptX2pYcU5MVVk0dU15WFdSUTA5S1JtRmR6ZWZnVy1xNjFDNmdLVHRMQzRwdE9oVW50SlI5U0lTeEN4cVc0b2ZmTEZBT1hTUnBxeWN3ckNCWkdnSWZjZ0VZMndSSXlESUNNWUZNNmQwQ1RNaGZyNlUzWFZrNU9GYkNNWFJtc2FGcw?oc=5",
-      "datetime": 1776660814,
-      "summary": "Iran executes two men accused of involvement in 'spy network linked to Israel', judiciary news outlet\u00a0\u00a0Reuters",
+      "datetime": 1776660780,
+      "summary": "Iran executes two accused of Israel spy links, opposition rejects claim\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Rupee nudges higher but oil price rise, importer hedging curtail gains - Reuters",
+      "headline": "Bank Indonesia to hold rates at 4.75% through 2026 as Iran war fuels inflation risks: Reuters poll - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODZLcEwtTTNEZE14Qk52alpCc0w3WUJvQUp5c2plUWRoVGtWSjN0NElHM3gzbExMekxpVTE5MlY2RTczUlhaRmd2M21sLWRIS3d6M3VQb0ZXWmJ5TVFoYTYweDhja3dHcERkV2cyUVNuOWNNQTlMaEktSGJXdm1jdEhCWVhDRjJDYzJ4SFF4elJKOGtYSGU1YzNOdk5OYzhjbkF5WlQxa2N0QQ?oc=5",
-      "datetime": 1776660713,
-      "summary": "Rupee nudges higher but oil price rise, importer hedging curtail gains\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVndVVmhQWGN5X1NwUlZ4a01zWTREcjljNm5qdHFseERhQ0swcFA2NTlnRjRyaTZQdWkxN0Zmb19KMVFfN1p5N2V4VFo0ZVYtV1dOZEs4c1NnYTBQeUYxZDBnRTdwU3JRcW9WVGxXMXZPTjllTlZKOUhhZ3FZVnBGTFVWS2dqREJRT01tREtraG1FQkZFak9IYTdSWkQ3eTBuOE1GMng1bkJudGNTVWxXcy1MVjI3UzhJSGRsVDBGT2pzb1l2Mmhr?oc=5",
+      "datetime": 1776657583,
+      "summary": "Bank Indonesia to hold rates at 4.75% through 2026 as Iran war fuels inflation risks: Reuters poll\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8108,35 +8487,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "Inflation woes and firmer dollar drag gold lower as US-Iran tensions revive - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzk2N1VxOGtVVVJ0Y216QnlOcjlOX3BhUUoyRDB6OVRhWndlcmUtdUZDcHpmcUhDanRGU3h0bm1QVmZBX3hzbmJfNVJjUFRISDJBOHhTdzQ0SXRXNjE0OW5WcE41QjY5OWg1ZDdpeXlrVDlndTE1ZXhFYWZCaHVGNm56ekprdGU4TXRtV2VDc2Q4TXBsT2t0MmYtOHJpV3dGam5PS29aTQ?oc=5",
+      "datetime": 1776651180,
+      "summary": "Inflation woes and firmer dollar drag gold lower as US-Iran tensions revive\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJBVkliU0pZd2ZSNXRCblBuTV91RFJEQThJbTBBUVptaEwxZVYwaDFtamo0aUpfWktaZWhVUm5MTFZyaUM0VkprN1ZRTVQyLWxDYUZqVEE5MGw2dGJDTllCWUNLb0RKdnhuTERZUXFnb1JDSVJvWmpHUE9Va1JfVTdodGpnSHlHV1lkSFRZNHYtR2pGYVRfT1dzYXFRN2F5SUhSMkFMMUV1N3BtSGNRTER4ZUhjdw?oc=5",
       "datetime": 1776649543,
       "summary": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dollar pushes to one-week high as US-Iran tensions reignite - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0sxWmFNa2tTb2p3OTE0WXdNeDdmX3FCckg1LXBkRTVFbHVNdDFMWHduSWUwQVRlZURINFhobWs5bDB1UVBicjNTR0RqRFR5VFNCMWpQWnVEbFM3dV92NHBkUW9LaDRoVkJicE9RU0l5alFsMTcxSEdvQTJVZk5vNXk0bHJsUjE3U2JiSDB3MFJkQzdpd0lNMlp3VnVJeUZ4c3lfQWlBaFpoXzhRcVRIME80MHg?oc=5",
-      "datetime": 1776638280,
-      "summary": "Dollar pushes to one-week high as US-Iran tensions reignite\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil jumps, stocks pull back as Mideast ceasefire hangs in the balance - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDVhUHN1MnI4Rk5ZWTVfcXNRRkhYXzQ2ZlRRajF5eTdoTXBaMXQxVmkyVzBrakttangtMHlLSDNXRmlYc0w0ekxLTFJoYzBqeHBXRmVyVG5KLUcxaEdBM3V5R01jOVJUbkxjdVU2eGdjRkZvRkx1Z2FmcmNtYVZFeE9LeUNLQQ?oc=5",
-      "datetime": 1776636900,
-      "summary": "Oil jumps, stocks pull back as Mideast ceasefire hangs in the balance\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil prices rise 6% on fears of US-Iran ceasefire collapse - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXY1dzhzQXNyUkx3eHhjTVEtUmNCYTRYSEI1R3RRdFdHaFJCck1QUDNIeWZ4VUhBZzFBSWVjN3hYdWFGc1Q0cG5MYjlsMHdyTnJPZmtNV2RwOHJEck85a1ZYLTJnNDYxdGFCZmVBNzhOejVYUUJPLWdRTVpwV1BPWUZxMERXZXVqMWNCdVdCTUYtOHhWYVp5bzh4Q3lBV3RmRTFlWg?oc=5",
-      "datetime": 1776636600,
-      "summary": "Oil prices rise 6% on fears of US-Iran ceasefire collapse\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
