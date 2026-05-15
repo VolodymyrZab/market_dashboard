@@ -367,374 +367,15 @@
       ]
     },
     {
-      "symbol": "BAP",
-      "name": "Credicorp Ltd",
-      "industry": "Banking",
-      "timing": "amc",
-      "eps_estimate": 24.5156,
-      "eps_actual": null,
-      "revenue_estimate": 6115752000,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 26062199729.731995,
-      "last_close": 327.69,
-      "prev_close": 317.68,
-      "gap_pct": 3.15,
-      "volume": 576458.954398,
-      "rvol": 1.59,
-      "week52_high": 380.2,
-      "week52_low": 193.13,
-      "week52_pos": 71.9,
-      "pe_ratio": 12.5277,
-      "revenue_streak": [
-        {
-          "period": "2025-12-31",
-          "eps_actual": 19.94,
-          "eps_estimate": 22.0178,
-          "surprise_pct": -9.4369,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 21.8,
-          "eps_estimate": 21.9171,
-          "surprise_pct": -0.5343,
-          "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 22.8,
-          "eps_estimate": 21.3361,
-          "surprise_pct": 6.8611,
-          "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 22.36,
-          "eps_estimate": 20.127,
-          "surprise_pct": 11.0945,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2025-12-31",
-          "eps_actual": 19.94,
-          "eps_estimate": 22.0178,
-          "surprise_pct": -9.4369,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 21.8,
-          "eps_estimate": 21.9171,
-          "surprise_pct": -0.5343,
-          "beat": false
-        }
-      ],
-      "bars": [
-        {
-          "v": 180692.52787,
-          "vw": 340.0522,
-          "o": 339.49,
-          "c": 338.83,
-          "h": 343.865,
-          "l": 337.262,
-          "t": 1775448000000,
-          "n": 6465
-        },
-        {
-          "v": 196834.860983,
-          "vw": 335.7077,
-          "o": 336.92,
-          "c": 337.44,
-          "h": 339.13,
-          "l": 332.46,
-          "t": 1775534400000,
-          "n": 7337
-        },
-        {
-          "v": 337939.476574,
-          "vw": 352.9216,
-          "o": 347.73,
-          "c": 352.25,
-          "h": 357,
-          "l": 347.73,
-          "t": 1775620800000,
-          "n": 11106
-        },
-        {
-          "v": 435406.424098,
-          "vw": 351.1248,
-          "o": 350.1,
-          "c": 352.37,
-          "h": 354.94,
-          "l": 346.11,
-          "t": 1775707200000,
-          "n": 12365
-        },
-        {
-          "v": 291528.548432,
-          "vw": 351.4205,
-          "o": 353.13,
-          "c": 349.42,
-          "h": 358.65,
-          "l": 346.82,
-          "t": 1775793600000,
-          "n": 9990
-        },
-        {
-          "v": 644388.266852,
-          "vw": 359.6682,
-          "o": 351.5,
-          "c": 361.34,
-          "h": 365.46,
-          "l": 347.38,
-          "t": 1776052800000,
-          "n": 16746
-        },
-        {
-          "v": 347194.784315,
-          "vw": 357.2331,
-          "o": 362.47,
-          "c": 357.59,
-          "h": 362.47,
-          "l": 354.04,
-          "t": 1776139200000,
-          "n": 11011
-        },
-        {
-          "v": 1329256.788666,
-          "vw": 325.0013,
-          "o": 358.2,
-          "c": 316.49,
-          "h": 358.2,
-          "l": 314.52,
-          "t": 1776225600000,
-          "n": 26579
-        },
-        {
-          "v": 1045484.312894,
-          "vw": 333.315,
-          "o": 318.12,
-          "c": 340.22,
-          "h": 340.97,
-          "l": 316.05,
-          "t": 1776312000000,
-          "n": 26061
-        },
-        {
-          "v": 718228.033404,
-          "vw": 334.5992,
-          "o": 341.22,
-          "c": 331.94,
-          "h": 349.32,
-          "l": 328.415,
-          "t": 1776398400000,
-          "n": 19061
-        },
-        {
-          "v": 333111.174313,
-          "vw": 335.9318,
-          "o": 329.92,
-          "c": 335.85,
-          "h": 339.84,
-          "l": 327.51,
-          "t": 1776657600000,
-          "n": 13001
-        },
-        {
-          "v": 255599.767757,
-          "vw": 335.0817,
-          "o": 337.71,
-          "c": 333.22,
-          "h": 345.725,
-          "l": 330.965,
-          "t": 1776744000000,
-          "n": 8924
-        },
-        {
-          "v": 388611.751108,
-          "vw": 333.6169,
-          "o": 337.31,
-          "c": 334.47,
-          "h": 339,
-          "l": 329.925,
-          "t": 1776830400000,
-          "n": 11043
-        },
-        {
-          "v": 385089.063648,
-          "vw": 326.3729,
-          "o": 334,
-          "c": 323.49,
-          "h": 336.72,
-          "l": 321.52,
-          "t": 1776916800000,
-          "n": 11774
-        },
-        {
-          "v": 314471.211032,
-          "vw": 325.1596,
-          "o": 323,
-          "c": 323.65,
-          "h": 330.75,
-          "l": 320.3691,
-          "t": 1777003200000,
-          "n": 9292
-        },
-        {
-          "v": 288795.321705,
-          "vw": 320.8864,
-          "o": 323.65,
-          "c": 319.94,
-          "h": 326.31,
-          "l": 316.415,
-          "t": 1777262400000,
-          "n": 11295
-        },
-        {
-          "v": 310361.655658,
-          "vw": 319.26,
-          "o": 318.9,
-          "c": 320.72,
-          "h": 320.72,
-          "l": 316.27,
-          "t": 1777348800000,
-          "n": 9730
-        },
-        {
-          "v": 192689.489289,
-          "vw": 318.6749,
-          "o": 321.07,
-          "c": 318.06,
-          "h": 325.16,
-          "l": 315.25,
-          "t": 1777435200000,
-          "n": 8042
-        },
-        {
-          "v": 188728.120836,
-          "vw": 323.2361,
-          "o": 320.76,
-          "c": 324.17,
-          "h": 325.87,
-          "l": 317.22,
-          "t": 1777521600000,
-          "n": 6563
-        },
-        {
-          "v": 142981.127217,
-          "vw": 322.8921,
-          "o": 323.25,
-          "c": 321.97,
-          "h": 327.1,
-          "l": 321.23,
-          "t": 1777608000000,
-          "n": 5549
-        },
-        {
-          "v": 194268.113062,
-          "vw": 320.5104,
-          "o": 321.78,
-          "c": 319.98,
-          "h": 324,
-          "l": 317.83,
-          "t": 1777867200000,
-          "n": 7412
-        },
-        {
-          "v": 331904.613981,
-          "vw": 319.2719,
-          "o": 322.2,
-          "c": 318.4,
-          "h": 325.135,
-          "l": 317.29,
-          "t": 1777953600000,
-          "n": 9623
-        },
-        {
-          "v": 303947.996253,
-          "vw": 323.2238,
-          "o": 325,
-          "c": 326.55,
-          "h": 328.46,
-          "l": 317.94,
-          "t": 1778040000000,
-          "n": 10500
-        },
-        {
-          "v": 285289.38512,
-          "vw": 322.948,
-          "o": 325.2,
-          "c": 321.77,
-          "h": 328.99,
-          "l": 319.17,
-          "t": 1778126400000,
-          "n": 9676
-        },
-        {
-          "v": 452534.675641,
-          "vw": 329.256,
-          "o": 326.6,
-          "c": 330.5,
-          "h": 332.8,
-          "l": 323.75,
-          "t": 1778212800000,
-          "n": 14650
-        },
-        {
-          "v": 318328.517772,
-          "vw": 324.9016,
-          "o": 330.59,
-          "c": 322.42,
-          "h": 333.13,
-          "l": 321.53,
-          "t": 1778472000000,
-          "n": 10448
-        },
-        {
-          "v": 302610.653912,
-          "vw": 323.3273,
-          "o": 319.5,
-          "c": 323.82,
-          "h": 326.145,
-          "l": 317.58,
-          "t": 1778558400000,
-          "n": 11089
-        },
-        {
-          "v": 503148.694644,
-          "vw": 318.6625,
-          "o": 323.33,
-          "c": 317.68,
-          "h": 324.7375,
-          "l": 312,
-          "t": 1778644800000,
-          "n": 10467
-        },
-        {
-          "v": 576458.954398,
-          "vw": 324.6275,
-          "o": 317.89,
-          "c": 327.69,
-          "h": 329.02,
-          "l": 316,
-          "t": 1778731200000,
-          "n": 16354
-        }
-      ]
-    },
-    {
       "symbol": "RBC",
       "name": "RBC Bearings Inc",
       "industry": "Machinery",
       "timing": "bmo",
       "eps_estimate": 3.3532,
-      "eps_actual": null,
+      "eps_actual": 3.62,
       "revenue_estimate": 511655607,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 518000000,
+      "revenue_beat": true,
       "market_cap": 19348590169.466156,
       "last_close": 611.93,
       "prev_close": 618.91,
@@ -746,6 +387,16 @@
       "week52_pos": 92.9,
       "pe_ratio": 73.5088,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 3.62,
+          "eps_estimate": 3.3532,
+          "surprise_pct": 7.9566,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 518000000,
+          "rev_estimate": 511655607
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 3.04,
@@ -766,28 +417,24 @@
           "eps_estimate": 2.7708,
           "surprise_pct": 2.4975,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 2.83,
-          "eps_estimate": 2.7284,
-          "surprise_pct": 3.7238,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 3.62,
+          "eps_estimate": 3.3532,
+          "surprise_pct": 7.9566,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 518000000,
+          "rev_estimate": 511655607
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 3.04,
           "eps_estimate": 2.8911,
           "surprise_pct": 5.1503,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 2.88,
-          "eps_estimate": 2.7616,
-          "surprise_pct": 4.2874,
           "beat": true
         }
       ],
@@ -5061,7 +4708,7 @@
       "revenue_estimate": 15096000,
       "revenue_actual": 6780000,
       "revenue_beat": false,
-      "market_cap": 1369259153.4222667,
+      "market_cap": 1369259073.0,
       "last_close": 9.57,
       "prev_close": 9.97,
       "gap_pct": -4.01,
@@ -6862,10 +6509,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.5104,
-      "eps_actual": null,
+      "eps_actual": -0.61,
       "revenue_estimate": 22753282,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 22680000,
+      "revenue_beat": false,
       "market_cap": 788420602.6416979,
       "last_close": 7.94,
       "prev_close": 8.01,
@@ -6877,6 +6524,16 @@
       "week52_pos": 10.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.61,
+          "eps_estimate": -0.5104,
+          "surprise_pct": -19.5141,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 22680000,
+          "rev_estimate": 22753282
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.42,
@@ -6897,29 +6554,25 @@
           "eps_estimate": -0.4794,
           "surprise_pct": 4.0467,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.35,
-          "eps_estimate": -0.3536,
-          "surprise_pct": 1.0181,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.61,
+          "eps_estimate": -0.5104,
+          "surprise_pct": -19.5141,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 22680000,
+          "rev_estimate": 22753282
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.42,
           "eps_estimate": -0.4505,
           "surprise_pct": 6.7703,
           "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.52,
-          "eps_estimate": -0.4814,
-          "surprise_pct": -8.0183,
-          "beat": false
         }
       ],
       "bars": [
@@ -9398,10 +9051,10 @@
       "industry": "Semiconductors",
       "timing": "bmo",
       "eps_estimate": -0.0714,
-      "eps_actual": null,
+      "eps_actual": -0.05,
       "revenue_estimate": 20400000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3420000,
+      "revenue_beat": false,
       "market_cap": 409373155.86001104,
       "last_close": 0.5861,
       "prev_close": 0.5379,
@@ -9413,6 +9066,16 @@
       "week52_pos": 8.7,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.05,
+          "eps_estimate": -0.0714,
+          "surprise_pct": 29.972,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 3420000,
+          "rev_estimate": 20400000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.06,
@@ -9433,29 +9096,25 @@
           "eps_estimate": -0.1836,
           "surprise_pct": 1.9608,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.18,
-          "eps_estimate": -0.1428,
-          "surprise_pct": -26.0504,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.05,
+          "eps_estimate": -0.0714,
+          "surprise_pct": 29.972,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 3420000,
+          "rev_estimate": 20400000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.06,
           "eps_estimate": -0.0918,
           "surprise_pct": 34.6405,
           "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.21,
-          "eps_estimate": -0.1428,
-          "surprise_pct": -47.0588,
-          "beat": false
         }
       ],
       "bars": [
@@ -9761,7 +9420,7 @@
       "revenue_estimate": 230635260,
       "revenue_actual": 258200000,
       "revenue_beat": true,
-      "market_cap": 387276011.0043668,
+      "market_cap": 387276012.99999994,
       "last_close": 7.6,
       "prev_close": 6.87,
       "gap_pct": 10.63,
@@ -12665,10 +12324,10 @@
       "industry": "Hotels, Restaurants & Leisure",
       "timing": "bmo",
       "eps_estimate": -0.2448,
-      "eps_actual": null,
+      "eps_actual": -0.29,
       "revenue_estimate": 3825000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3900000,
+      "revenue_beat": true,
       "market_cap": 216948604.99342108,
       "last_close": 3.86,
       "prev_close": 3.8,
@@ -12680,6 +12339,16 @@
       "week52_pos": 5.3,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.29,
+          "eps_estimate": -0.2448,
+          "surprise_pct": -18.4641,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 3900000,
+          "rev_estimate": 3825000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.35,
@@ -12700,29 +12369,25 @@
           "eps_estimate": -0.2856,
           "surprise_pct": -5.042,
           "beat": false
-        },
-        {
-          "period": "2024-12-31",
-          "eps_actual": -0.28,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.29,
+          "eps_estimate": -0.2448,
+          "surprise_pct": -18.4641,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 3900000,
+          "rev_estimate": 3825000
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.35,
           "eps_estimate": -0.2856,
           "surprise_pct": -22.549,
           "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.15,
-          "eps_estimate": -0.255,
-          "surprise_pct": 41.1765,
-          "beat": true
         }
       ],
       "bars": [
@@ -14847,7 +14512,7 @@
       "revenue_estimate": 6018000,
       "revenue_actual": 5880000,
       "revenue_beat": false,
-      "market_cap": 165651048.9578714,
+      "market_cap": 165651048.0,
       "last_close": 9.1,
       "prev_close": 9.02,
       "gap_pct": 0.89,
@@ -18493,10 +18158,10 @@
       "industry": "Professional Services",
       "timing": "bmo",
       "eps_estimate": 0.1717,
-      "eps_actual": null,
+      "eps_actual": 0.11,
       "revenue_estimate": 44837940,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 41080000,
+      "revenue_beat": false,
       "market_cap": 84198751.51114208,
       "last_close": 7.09,
       "prev_close": 7.18,
@@ -18508,6 +18173,16 @@
       "week52_pos": 42.1,
       "pe_ratio": 138.0624,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.11,
+          "eps_estimate": 0.1717,
+          "surprise_pct": -35.9348,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 41080000,
+          "rev_estimate": 44837940
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.21,
@@ -18528,28 +18203,24 @@
           "eps_estimate": 0.1212,
           "surprise_pct": 23.7624,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.06,
-          "eps_estimate": 0.101,
-          "surprise_pct": -40.5941,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.11,
+          "eps_estimate": 0.1717,
+          "surprise_pct": -35.9348,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 41080000,
+          "rev_estimate": 44837940
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.21,
           "eps_estimate": 0.2071,
           "surprise_pct": 1.4003,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.29,
-          "eps_estimate": 0.1667,
-          "surprise_pct": 73.9652,
           "beat": true
         }
       ],
@@ -21743,10 +21414,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.7854,
-      "eps_actual": null,
+      "eps_actual": -0.57,
       "revenue_estimate": 0,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 0,
+      "revenue_beat": true,
       "market_cap": 52191168.62624434,
       "last_close": 10.51,
       "prev_close": 11.05,
@@ -21758,6 +21429,16 @@
       "week52_pos": 5.6,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.57,
+          "eps_estimate": -0.7854,
+          "surprise_pct": 27.4255,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.555,
@@ -21778,28 +21459,24 @@
           "eps_estimate": -0.5576,
           "surprise_pct": -90.1004,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.7,
-          "eps_estimate": -0.6222,
-          "surprise_pct": -12.504,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.57,
+          "eps_estimate": -0.7854,
+          "surprise_pct": 27.4255,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.555,
           "eps_estimate": -0.8364,
           "surprise_pct": 33.6442,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.65,
-          "eps_estimate": -0.8721,
-          "surprise_pct": 25.4673,
           "beat": true
         }
       ],
@@ -25333,7 +25010,7 @@
       "revenue_estimate": null,
       "revenue_actual": 550000,
       "revenue_beat": null,
-      "market_cap": 40622115.520270266,
+      "market_cap": 40622117.00000001,
       "last_close": 2.285,
       "prev_close": 2.22,
       "gap_pct": 2.93,
@@ -26398,10 +26075,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -0.4743,
-      "eps_actual": null,
+      "eps_actual": -0.74,
       "revenue_estimate": 16845810,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 16350000,
+      "revenue_beat": false,
       "market_cap": 38570526.0332871,
       "last_close": 3.65,
       "prev_close": 3.605,
@@ -26413,6 +26090,16 @@
       "week52_pos": 72.0,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.74,
+          "eps_estimate": -0.4743,
+          "surprise_pct": -56.0194,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 16350000,
+          "rev_estimate": 16845810
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.21,
@@ -26433,28 +26120,24 @@
           "eps_estimate": -0.068,
           "surprise_pct": -150,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.78,
-          "eps_estimate": -0.1556,
-          "surprise_pct": 601.2853,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.74,
+          "eps_estimate": -0.4743,
+          "surprise_pct": -56.0194,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 16350000,
+          "rev_estimate": 16845810
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.21,
           "eps_estimate": -0.0714,
           "surprise_pct": -194.1176,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.2,
-          "eps_estimate": -0.1097,
-          "surprise_pct": -82.3154,
           "beat": false
         }
       ],
@@ -28583,7 +28266,7 @@
       "revenue_estimate": 4641000,
       "revenue_actual": 3910000,
       "revenue_beat": false,
-      "market_cap": 31319902.31065468,
+      "market_cap": 31319901.999999996,
       "last_close": 7,
       "prev_close": 7.79,
       "gap_pct": -10.14,
@@ -29159,7 +28842,7 @@
       "revenue_estimate": 399279000,
       "revenue_actual": 386390000,
       "revenue_beat": false,
-      "market_cap": 29166840.52941177,
+      "market_cap": 29166843.000000004,
       "last_close": 4.03,
       "prev_close": 3.57,
       "gap_pct": 12.89,
@@ -29885,9 +29568,9 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": -3.04,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 7350000,
       "revenue_beat": null,
       "market_cap": 25852232.065344222,
       "last_close": 9.6,
@@ -29900,6 +29583,13 @@
       "week52_pos": 27.7,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -3.04,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -2.62,
@@ -29920,26 +29610,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -3.39,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2025-12-31",
-          "eps_actual": -2.62,
+          "period": "2026-03-31",
+          "eps_actual": -3.04,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2025-09-30",
-          "eps_actual": -3.23,
+          "period": "2025-12-31",
+          "eps_actual": -2.62,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -31323,7 +31006,7 @@
       "revenue_estimate": null,
       "revenue_actual": 480000,
       "revenue_beat": null,
-      "market_cap": 21133560.689075634,
+      "market_cap": 21133559.0,
       "last_close": 1.31,
       "prev_close": 1.19,
       "gap_pct": 10.08,
@@ -32758,6 +32441,371 @@
           "l": 0.8803,
           "t": 1778731200000,
           "n": 203
+        }
+      ]
+    },
+    {
+      "symbol": "BCDA",
+      "name": "BioCardia Inc",
+      "industry": "Biotechnology",
+      "timing": "bmo",
+      "eps_estimate": -0.1683,
+      "eps_actual": -0.21,
+      "revenue_estimate": 0,
+      "revenue_actual": 0,
+      "revenue_beat": true,
+      "market_cap": 11925006.457943926,
+      "last_close": 1.09,
+      "prev_close": 1.07,
+      "gap_pct": 1.87,
+      "volume": 150867,
+      "rvol": 0.46,
+      "week52_high": 2.92,
+      "week52_low": 1,
+      "week52_pos": 4.7,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.21,
+          "eps_estimate": -0.1683,
+          "surprise_pct": -24.7772,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.1734,
+          "surprise_pct": 65.3979,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.24,
+          "eps_estimate": -0.2346,
+          "surprise_pct": -2.3018,
+          "beat": false
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": -0.4,
+          "eps_estimate": -0.51,
+          "surprise_pct": 21.5686,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.21,
+          "eps_estimate": -0.1683,
+          "surprise_pct": -24.7772,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.1734,
+          "surprise_pct": 65.3979,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 27922,
+          "vw": 1.1877,
+          "o": 1.2,
+          "c": 1.18,
+          "h": 1.2,
+          "l": 1.18,
+          "t": 1775448000000,
+          "n": 106
+        },
+        {
+          "v": 22680.088,
+          "vw": 1.1886,
+          "o": 1.19,
+          "c": 1.19,
+          "h": 1.215,
+          "l": 1.162,
+          "t": 1775534400000,
+          "n": 707
+        },
+        {
+          "v": 166025.694228,
+          "vw": 1.2126,
+          "o": 1.28,
+          "c": 1.21,
+          "h": 1.28,
+          "l": 1.18,
+          "t": 1775620800000,
+          "n": 335
+        },
+        {
+          "v": 82686.541,
+          "vw": 1.1345,
+          "o": 1.22,
+          "c": 1.17,
+          "h": 1.22,
+          "l": 1.08,
+          "t": 1775707200000,
+          "n": 371
+        },
+        {
+          "v": 9016,
+          "vw": 1.1771,
+          "o": 1.2,
+          "c": 1.18,
+          "h": 1.2,
+          "l": 1.162,
+          "t": 1775793600000,
+          "n": 83
+        },
+        {
+          "v": 137840,
+          "vw": 1.1954,
+          "o": 1.17,
+          "c": 1.19,
+          "h": 1.25,
+          "l": 1.16,
+          "t": 1776052800000,
+          "n": 317
+        },
+        {
+          "v": 21187.693606,
+          "vw": 1.1998,
+          "o": 1.22,
+          "c": 1.18,
+          "h": 1.22,
+          "l": 1.18,
+          "t": 1776139200000,
+          "n": 167
+        },
+        {
+          "v": 19947.024,
+          "vw": 1.1855,
+          "o": 1.19,
+          "c": 1.19,
+          "h": 1.2,
+          "l": 1.1572,
+          "t": 1776225600000,
+          "n": 326
+        },
+        {
+          "v": 26377,
+          "vw": 1.1919,
+          "o": 1.18,
+          "c": 1.19,
+          "h": 1.2047,
+          "l": 1.18,
+          "t": 1776312000000,
+          "n": 162
+        },
+        {
+          "v": 56174.5483,
+          "vw": 1.1838,
+          "o": 1.21,
+          "c": 1.18,
+          "h": 1.215,
+          "l": 1.17,
+          "t": 1776398400000,
+          "n": 296
+        },
+        {
+          "v": 194904.9196,
+          "vw": 1.2285,
+          "o": 1.2,
+          "c": 1.25,
+          "h": 1.28,
+          "l": 1.185,
+          "t": 1776657600000,
+          "n": 575
+        },
+        {
+          "v": 71030.972,
+          "vw": 1.2212,
+          "o": 1.24,
+          "c": 1.2,
+          "h": 1.2595,
+          "l": 1.19,
+          "t": 1776744000000,
+          "n": 218
+        },
+        {
+          "v": 50228.844,
+          "vw": 1.202,
+          "o": 1.233,
+          "c": 1.2,
+          "h": 1.233,
+          "l": 1.17,
+          "t": 1776830400000,
+          "n": 206
+        },
+        {
+          "v": 39646,
+          "vw": 1.1834,
+          "o": 1.22,
+          "c": 1.17,
+          "h": 1.23,
+          "l": 1.17,
+          "t": 1776916800000,
+          "n": 309
+        },
+        {
+          "v": 33502.702,
+          "vw": 1.1736,
+          "o": 1.18,
+          "c": 1.16,
+          "h": 1.21,
+          "l": 1.15,
+          "t": 1777003200000,
+          "n": 1417
+        },
+        {
+          "v": 33927.731,
+          "vw": 1.1671,
+          "o": 1.17,
+          "c": 1.16,
+          "h": 1.19,
+          "l": 1.145,
+          "t": 1777262400000,
+          "n": 203
+        },
+        {
+          "v": 77305,
+          "vw": 1.165,
+          "o": 1.15,
+          "c": 1.14,
+          "h": 1.16,
+          "l": 1.135,
+          "t": 1777348800000,
+          "n": 282
+        },
+        {
+          "v": 49216.045454,
+          "vw": 1.1111,
+          "o": 1.14,
+          "c": 1.1,
+          "h": 1.14,
+          "l": 1.09,
+          "t": 1777435200000,
+          "n": 298
+        },
+        {
+          "v": 56336,
+          "vw": 1.1536,
+          "o": 1.15,
+          "c": 1.14,
+          "h": 1.1753,
+          "l": 1.13,
+          "t": 1777521600000,
+          "n": 214
+        },
+        {
+          "v": 26786,
+          "vw": 1.1325,
+          "o": 1.15,
+          "c": 1.11,
+          "h": 1.161,
+          "l": 1.11,
+          "t": 1777608000000,
+          "n": 217
+        },
+        {
+          "v": 71248.666,
+          "vw": 1.1472,
+          "o": 1.12,
+          "c": 1.13,
+          "h": 1.16,
+          "l": 1.12,
+          "t": 1777867200000,
+          "n": 194
+        },
+        {
+          "v": 94218,
+          "vw": 1.1212,
+          "o": 1.13,
+          "c": 1.1,
+          "h": 1.16,
+          "l": 1.1,
+          "t": 1777953600000,
+          "n": 1780
+        },
+        {
+          "v": 14791.589264,
+          "vw": 1.1182,
+          "o": 1.12,
+          "c": 1.11,
+          "h": 1.13,
+          "l": 1.11,
+          "t": 1778040000000,
+          "n": 245
+        },
+        {
+          "v": 87338.4154,
+          "vw": 1.1213,
+          "o": 1.12,
+          "c": 1.09,
+          "h": 1.15,
+          "l": 1.09,
+          "t": 1778126400000,
+          "n": 404
+        },
+        {
+          "v": 4919188.88875,
+          "vw": 1.1851,
+          "o": 1.12,
+          "c": 1.11,
+          "h": 1.16,
+          "l": 1.04,
+          "t": 1778212800000,
+          "n": 22696
+        },
+        {
+          "v": 398562.793338,
+          "vw": 1.0909,
+          "o": 1.07,
+          "c": 1.11,
+          "h": 1.13,
+          "l": 1.06,
+          "t": 1778472000000,
+          "n": 1743
+        },
+        {
+          "v": 109136.033697,
+          "vw": 1.1075,
+          "o": 1.1095,
+          "c": 1.12,
+          "h": 1.12,
+          "l": 1.08,
+          "t": 1778558400000,
+          "n": 1136
+        },
+        {
+          "v": 152890,
+          "vw": 1.0967,
+          "o": 1.13,
+          "c": 1.07,
+          "h": 1.14,
+          "l": 1.07,
+          "t": 1778644800000,
+          "n": 1866
+        },
+        {
+          "v": 150867,
+          "vw": 1.0914,
+          "o": 1.08,
+          "c": 1.09,
+          "h": 1.14,
+          "l": 1.07,
+          "t": 1778731200000,
+          "n": 930
         }
       ]
     },
@@ -34209,10 +34257,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -2.1058,
-      "eps_actual": null,
+      "eps_actual": -1.77,
       "revenue_estimate": 2841635,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3000000,
+      "revenue_beat": true,
       "market_cap": 5944027.893670886,
       "last_close": 4.07,
       "prev_close": 3.95,
@@ -34224,6 +34272,16 @@
       "week52_pos": 0.6,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -1.77,
+          "eps_estimate": -2.1058,
+          "surprise_pct": 15.9464,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3000000,
+          "rev_estimate": 2841635
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -9.44,
@@ -34244,29 +34302,25 @@
           "eps_estimate": -94.536,
           "surprise_pct": 42.625,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -120,
-          "eps_estimate": -159.984,
-          "surprise_pct": 24.9925,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -1.77,
+          "eps_estimate": -2.1058,
+          "surprise_pct": 15.9464,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3000000,
+          "rev_estimate": 2841635
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -9.44,
           "eps_estimate": -3.3128,
           "surprise_pct": -184.9553,
           "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -27.6,
-          "eps_estimate": -33.8754,
-          "surprise_pct": 18.5249,
-          "beat": true
         }
       ],
       "bars": [
@@ -35670,9 +35724,9 @@
       "industry": "Food Products",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": -5.25,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 3340000,
       "revenue_beat": null,
       "market_cap": 2148040.960256068,
       "last_close": 0.412,
@@ -35685,6 +35739,13 @@
       "week52_pos": 0.2,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -5.25,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-06-30",
           "eps_actual": -65.8,
@@ -35705,29 +35766,22 @@
           "eps_estimate": -91.8,
           "surprise_pct": -12.6362,
           "beat": false
-        },
-        {
-          "period": "2024-09-30",
-          "eps_actual": -162.5,
-          "eps_estimate": -109.65,
-          "surprise_pct": -48.1988,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -5.25,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-06-30",
           "eps_actual": -65.8,
           "eps_estimate": -7.548,
           "surprise_pct": -771.7541,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -24.7,
-          "eps_estimate": -30.906,
-          "surprise_pct": 20.0802,
-          "beat": true
         }
       ],
       "bars": [
@@ -42128,19 +42182,75 @@
   },
   "news": [
     {
+      "headline": "Trump says US and China are aligned on Iran, Tehran must make a deal soon - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+      "datetime": 1778847327,
+      "summary": "Trump says US and China are aligned on Iran, Tehran must make a deal soon\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+      "datetime": 1778847041,
+      "summary": "Treasuries spiked on Friday as inflation signals continue to muddy interest rate expectations under the new Federal Reserve chair Kevin Warsh.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108296432-17769691342026-04-23t145354z_946964958_rc22vka4lnni_rtrmadp_0_usa-stocks.jpeg?v=1776982682&w=1920&h=1080"
+    },
+    {
+      "headline": "BRICS talks end without joint statement, exposing divisions over war in Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
+      "datetime": 1778846709,
+      "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iran has 'no trust' in the US, will negotiate only if it is serious, Araqchi says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFBtX0tMLXo3MzhfMEVRSmJKQzc0bEszUzB0WnkwS3REZ052U0JqeDVRSzlCaTljODNzb2xWb1dhTlRfbkVna25iRklIby1wWXJBS1pvd3dhYzl2bkktZ1N6aXJCcVo1bi1LSTNXMDVyQ05rcXNQTVNjRDFGejRxQ3I0d1h3ZjlfejlyVnNtbG9kY2VTZS1qSXBUWER3NzBBMjBxVUpLNmF6b2k3RW1qeDRTT1NqZHBGVWc?oc=5",
+      "datetime": 1778845209,
+      "summary": "Iran has 'no trust' in the US, will negotiate only if it is serious, Araqchi says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+      "datetime": 1778844554,
+      "summary": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306886-17787594972026-05-14t051409z_67000638_rc2q8laxia4h_rtrmadp_0_china-usa.jpeg?v=1778759519&w=1920&h=1080"
+    },
+    {
+      "headline": "Family investors turn to old-economy businesses like dealerships and fisheries to avoid AI disruption",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/15/family-investors-economy-businesses-to-avoid-ai-disruption.html",
+      "datetime": 1778842903,
+      "summary": "While car dealerships and fisheries are less eye-catching than high-flying AI startups, they offer stability and cash flow that's attractive to family offices.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306528-1778697651151-gettyimages-2220796623-dji_0923.jpeg?v=1778697685&w=1920&h=1080"
+    },
+    {
+      "headline": "Oil prices up 3% after Trump says he is losing patience with Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5",
+      "datetime": 1778837573,
+      "summary": "Oil prices up 3% after Trump says he is losing patience with Iran\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
-      "datetime": 1778826960,
+      "datetime": 1778827019,
       "summary": "German economy to take hit from Iran war during Q2, ministry says\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Trump says he and China's Xi agree Iran cannot have nuclear weapons - Reuters",
+      "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
-      "datetime": 1778825880,
-      "summary": "Trump says he and China's Xi agree Iran cannot have nuclear weapons\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
+      "datetime": 1778825056,
+      "summary": "India raises retail fuel prices for first time since Iran war started\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -42166,62 +42276,6 @@
       "datetime": 1778815320,
       "summary": "Trump says he won't be much more patient with Iran\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India raises retail fuel prices for first time since Iran war started - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
-      "datetime": 1778808960,
-      "summary": "India raises retail fuel prices for first time since Iran war started\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUlVtMXBXbWVqcFVxZlRIZ01aQkRjVDhRSHZZLWNIR2NjemhwbDItdU9YdUgzY3NPamd4a05OMEFQT1k2LW96a2lxVFJvTzgzeGozcnktSUprSEhnejJNUDdpWjFTdm9fc2J5QzJTR3pVdzFYeFh0NUhOUEU3aVo1cTVWVFcyMUowcDhCdUNkYzhsZEpQV1Y3NGU4MUJWNm9VMlczSE5XZS1ETnYxRjhreTc2STZlZW11QmRPeWhwRDhJVHJo?oc=5",
-      "datetime": 1778807400,
-      "summary": "China wants Strait of Hormuz open free of curbs, USTR Greer tells Bloomberg News\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil prices up 3% after Trump says he is losing patience with Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5",
-      "datetime": 1778807220,
-      "summary": "Oil prices up 3% after Trump says he is losing patience with Iran\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Exclusive: Iraq seeking financial assistance from IMF, World Bank as result of Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUI5Q1lmWm9OdHAtM2s1VGc1U1BxRkpkaEFaZW1UN2ZnMU1xSFlOcExVMEU3TG54dWpXczR6NzNnbnJiZ0tDNklfaU93RFVyUkxFcllQMjFGaHUtRUdMVkhjYkhwd2tzQjlLRndyS2lMTjJ3dEtXV0t6N2g3eGlPNlRmMGNtU0s3dmZqS0pxbkQ2Mmp0Y05pWUlhWEQwVGlBSENGd3EzeDlFU21FRVFSR3UyUXlmc0kyWlQ1YnQxQ3R3QVlnYzhR?oc=5",
-      "datetime": 1778801445,
-      "summary": "Exclusive: Iraq seeking financial assistance from IMF, World Bank as result of Iran war\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US House narrowly rejects bid to rein in Trump Iran war powers - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU09HM0Z4REpPVkhWTGF4ZHVBWGlmU0p5MmxRNGdJTDBvTEpEOFlCazEzMXkzemhNazNobFJGd25ZbjZwNm5mdWtFVUxLd2Zocm1aSVlONjZnTkdHT215UGhuaUg1VzQ5djVSOGc1eFZRd0JJM1cxRG1tMHJqdDI1ZGJKTHloaFZNZFBrTzZvSUM2TDVUWUY0ZlVkc09rU21NZldJ?oc=5",
-      "datetime": 1778799540,
-      "summary": "US House narrowly rejects bid to rein in Trump Iran war powers\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US casts Israel-Lebanon talks on Thursday as 'positive and productive' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEVwY3NMOW9kUG5sUUNGTU8zUWFEY1lTR0xyX2tYSEpyb3Vvd0U0Q1FFZU8waWZfTzhyS19Pc1lIeF9KQmRJWHZPeUNpd2JZVGpmMXphWGJHeS1DR2FiTFVXU3dwZDRtSTJIcGhYS2psZG5reVJoSUlld3NHd2dNLTR0X050ak4xbHltWVN0TVRHS1kzcXhfX285V3ZER1I1eWdmb3YxOFYxUjQ3cTI0Uk41T3dIV0FOSWFDV0RsS09GSkk?oc=5",
-      "datetime": 1778799067,
-      "summary": "US casts Israel-Lebanon talks on Thursday as 'positive and productive'\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Group led by Egon Durban to buy 25% of Las Vegas Raiders at $9.9 billion valuation, sources say",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/group-led-by-egon-durban-to-buy-25percent-of-las-vegas-raiders-at-9point9-billion-valuation-sources.html",
-      "datetime": 1778796168,
-      "summary": "First Football is selling its 25% stake in the team to a group led by Egon Durban at a $9.9 billion valuation.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108307266-1778792709929-gettyimages-2233756997-ukyodpfzonlz464mgnmpi5i6zu.jpeg?v=1778793032&w=1920&h=1080"
     }
   ],
   "sentiment": {
