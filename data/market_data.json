@@ -362,10 +362,10 @@
       "industry": "Commercial Services & Supplies",
       "timing": "bmo",
       "eps_estimate": 1.3585,
-      "eps_actual": null,
+      "eps_actual": 1.5,
       "revenue_estimate": 410134740,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 435240000,
+      "revenue_beat": true,
       "market_cap": 3351301616.0000005,
       "last_close": 70.96,
       "prev_close": 71.14,
@@ -377,6 +377,16 @@
       "week52_pos": 15.5,
       "pe_ratio": 16.4178,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.5,
+          "eps_estimate": 1.3585,
+          "surprise_pct": 10.4159,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 435240000,
+          "rev_estimate": 410134740
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.09,
@@ -397,29 +407,25 @@
           "eps_estimate": 1.2474,
           "surprise_pct": 1.0101,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.22,
-          "eps_estimate": 1.2272,
-          "surprise_pct": -0.5867,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.5,
+          "eps_estimate": 1.3585,
+          "surprise_pct": 10.4159,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 435240000,
+          "rev_estimate": 410134740
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.09,
           "eps_estimate": 1.1009,
           "surprise_pct": -0.9901,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.21,
-          "eps_estimate": 1.1918,
-          "surprise_pct": 1.5271,
-          "beat": true
         }
       ],
       "bars": [
@@ -711,10 +717,10 @@
       "industry": "Utilities",
       "timing": "bmo",
       "eps_estimate": -0.1604,
-      "eps_actual": null,
+      "eps_actual": 1.9279480000000002,
       "revenue_estimate": 307380875,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 40583305400,
+      "revenue_beat": true,
       "market_cap": 1948457206.0,
       "last_close": 5.35,
       "prev_close": 5.54,
@@ -726,6 +732,16 @@
       "week52_pos": 25.0,
       "pe_ratio": 15.6292,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.9279480000000002,
+          "eps_estimate": -0.1604,
+          "surprise_pct": 1301.9626,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 40583305400,
+          "rev_estimate": 307380875
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.14,
@@ -746,28 +762,24 @@
           "eps_estimate": 0.1515,
           "surprise_pct": 5.6106,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.1,
-          "eps_estimate": -0.2899,
-          "surprise_pct": 134.4947,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.9279480000000002,
+          "eps_estimate": -0.1604,
+          "surprise_pct": 1301.9626,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 40583305400,
+          "rev_estimate": 307380875
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.14,
           "eps_estimate": -0.0633,
           "surprise_pct": -121.169,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.13,
-          "eps_estimate": 0.158,
-          "surprise_pct": -17.7215,
           "beat": false
         }
       ],
@@ -1415,10 +1427,10 @@
       "industry": "Semiconductors",
       "timing": "bmo",
       "eps_estimate": 0.7344,
-      "eps_actual": null,
+      "eps_actual": 0.75,
       "revenue_estimate": 206958000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 142770000,
+      "revenue_beat": false,
       "market_cap": 465141549.0,
       "last_close": 12.67,
       "prev_close": 12.69,
@@ -1429,8 +1441,30 @@
       "week52_low": 3.24,
       "week52_pos": 85.0,
       "pe_ratio": 10.7854,
-      "revenue_streak": [],
-      "prev_quarters": [],
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.75,
+          "eps_estimate": 0.7344,
+          "surprise_pct": 2.1242,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 142770000,
+          "rev_estimate": 206958000
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.75,
+          "eps_estimate": 0.7344,
+          "surprise_pct": 2.1242,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 142770000,
+          "rev_estimate": 206958000
+        }
+      ],
       "bars": [
         {
           "v": 214805.918536,
@@ -1733,7 +1767,7 @@
       "week52_high": 17.3,
       "week52_low": 9.5,
       "week52_pos": 74.4,
-      "pe_ratio": 1.0231,
+      "pe_ratio": 1.0125,
       "revenue_streak": [
         {
           "period": "2026-03-31",
@@ -2069,10 +2103,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.074,
-      "eps_actual": null,
+      "eps_actual": -0.08,
       "revenue_estimate": 2137236,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 2180000,
+      "revenue_beat": true,
       "market_cap": 260021257.0,
       "last_close": 2.75,
       "prev_close": 3.03,
@@ -2084,6 +2118,16 @@
       "week52_pos": 75.1,
       "pe_ratio": 7.3571,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.08,
+          "eps_estimate": -0.074,
+          "surprise_pct": -8.1081,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 2180000,
+          "rev_estimate": 2137236
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.6,
@@ -2104,28 +2148,24 @@
           "eps_estimate": -0.0663,
           "surprise_pct": -20.6637,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.08,
-          "eps_estimate": -0.0561,
-          "surprise_pct": -42.6025,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.08,
+          "eps_estimate": -0.074,
+          "surprise_pct": -8.1081,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 2180000,
+          "rev_estimate": 2137236
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.6,
           "eps_estimate": 0.051,
           "surprise_pct": 1076.4706,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.07,
-          "eps_estimate": -0.0884,
-          "surprise_pct": 20.8145,
           "beat": true
         }
       ],
@@ -3819,6 +3859,80 @@
           "n": 4355
         }
       ]
+    },
+    {
+      "symbol": "BKYI",
+      "name": "BIO-Key International Inc",
+      "industry": "Technology",
+      "timing": "bmo",
+      "eps_estimate": -0.612,
+      "eps_actual": -0.15,
+      "revenue_estimate": 2244000,
+      "revenue_actual": 2150000,
+      "revenue_beat": false,
+      "market_cap": 4612151.0,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
+      "week52_high": 19.7,
+      "week52_low": 3.1,
+      "week52_pos": null,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.15,
+          "eps_estimate": -0.612,
+          "surprise_pct": 75.4902,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 2150000,
+          "rev_estimate": 2244000
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -1.9,
+          "eps_estimate": -0.714,
+          "surprise_pct": -166.1064,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -1.5,
+          "eps_estimate": -1.224,
+          "surprise_pct": -22.549,
+          "beat": false
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": -2,
+          "eps_estimate": -1.53,
+          "surprise_pct": -30.719,
+          "beat": false
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.15,
+          "eps_estimate": -0.612,
+          "surprise_pct": 75.4902,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 2150000,
+          "rev_estimate": 2244000
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -1.9,
+          "eps_estimate": -0.714,
+          "surprise_pct": -166.1064,
+          "beat": false
+        }
+      ],
+      "bars": []
     }
   ],
   "etfs": {
@@ -9829,11 +9943,59 @@
   },
   "news": [
     {
+      "headline": "Pakistan hands US revised Iranian proposal for ending war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5",
+      "datetime": 1779110890,
+      "summary": "Pakistan hands US revised Iranian proposal for ending war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Bank of England does not need to hike interest rates, says IMF \u2014 it may even need to cut",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/18/bank-of-england-interest-rates-inflation-imf-gdp.html",
+      "datetime": 1779109859,
+      "summary": "The Bank of England is expected to hold and even potentially hike interest rates this year in response to resurgent inflation sparked by the Iran war.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107413142-1715320924045-gettyimages-2151463824-UK_BOE.jpeg?v=1715320944&w=1920&h=1080"
+    },
+    {
+      "headline": "We're trimming an AI rocket ship of a stock and one that's now back in favor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/18/were-trimming-an-ai-rocket-ship-of-a-stock-and-one-thats-now-back-in-favor.html",
+      "datetime": 1779109112,
+      "summary": "We're making two sales.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108303147-1778088015856-gettyimages-2274260652-US_STOCKS.jpeg?v=1778102572&w=1920&h=1080"
+    },
+    {
+      "headline": "Exclusive: Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXQ0ZGZRZEVoWXNYN1ExempBZ1Ata245ellOQ0JVNTdnNTRyc2oxZWUzakNEZWllaEs1T0F2cktHVUVqUGJWeW80LU5LT3g1LVJZY3RaMDBsNnpyX09sRXRQOENWZktYT0dCRC02R1o2LTBxV2dEcldNT1V1TXpRRjNQcWFHSkE2Y0tRX0V4NDBfdVpoXzRvSXlrdVNVMk9IeDVTaVRRSDhLZFl2Q3dGa0VfVGlMOTk1VjdHd3lzUzd2OVBwOVQ0VnlB?oc=5",
+      "datetime": 1779108845,
+      "summary": "Exclusive: Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Revised Iranian proposal to end war shared with US, Pakistani source says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakpsZkRTa3dDcTltOXJiUktHZEJsQTNYWlppMzl3Q3lzV01WN01FVC1xaEdfUVdndHV3UTgzc2JlSTQzUmFMR0ZPX2E5b1pRaEQ2Tk9PdEtFTmFCcWtJdTRZNUo2cFFkYWViOWppUGlreWF5SEpVUnFEbG1OMkdZdWZXVk54cTM1eUtVMnBjSFJuWjdlNXpvdDR1WG8zSERTZS14bXd2VWRGWmU4ZlJuTU5pRHo4QWE3WlNhS2pYVGxmdw?oc=5",
-      "datetime": 1779102133,
+      "datetime": 1779105524,
       "summary": "Revised Iranian proposal to end war shared with US, Pakistani source says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Ominous bond trades point to much higher rates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/18/ominous-bond-trades-point-to-much-higher-rates.html",
+      "datetime": 1779104511,
+      "summary": "The put bets would be a bet on a yield spike since bond prices (value of the TLT fund) move inversely to rates.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306444-1778760307696-108306444-1778688845240-Traders-Photo-20260513-AS-8.jpg?v=1778760316&w=1920&h=1080"
+    },
+    {
+      "headline": "Iranian Nobel laureate discharged from hospital and sent home, family say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0RFdENpZERLMzdIZWdtZTZJaVF3cFdlcVdPbWxLbnp0NjdBN0tUTmhNMVhBUHFnX2tCVlJRaWpnZWxJa1FPcDRUSnFSSlh0V053amdicFlCNDU0Vnk3a1YxNnRoei1xX2F0Tl9YODhsa3V1LWdHb2cxSzE3TmxpNjdVMkhwbTFPUTYyNW1abG84c0k2WW1QZU8zaC0zeEZ1NWNLRWNLUEdSY0N6azMxM0NfbktXS3lV?oc=5",
+      "datetime": 1779101468,
+      "summary": "Iranian Nobel laureate discharged from hospital and sent home, family say\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -9869,60 +10031,12 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Global bond rout deepens as Iran war drags on and underscores inflation fears - Reuters",
+      "headline": "Trump may have to wait for rate cuts until the Iran war is over, he tells Fortune - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDlTTnVuVXpnMU43anJOZGlhdVhDRnNrbnRaUzhOeF8tR2JpRUNvMm5vTks5SHpqektQdHhjVENxVnZhTGEydldTZjRlTlo2c3ZlRjR4Um5JOFNMUlhxbWJNcDVWVVR5NnZaMWFVMENNYmgzMV9JMHlHR1VhSlUtSHhwRlFTLUJTZ2RqZzB1ZFEyNXpURlotZFFVdw?oc=5",
-      "datetime": 1779095493,
-      "summary": "Global bond rout deepens as Iran war drags on and underscores inflation fears\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlQ0bFJtYWFSaUJSR00taWVoR0lnVGl1bHlUMWNuUDk5NzctWGNkWjZsN09ZV3RQcjBqLXRhOGlIWmR2dmhDa0E1ZFB5UnNZUnlFR1ZTR0p6WTRuZDViQndhaU1XZS1PVzF2R0R2NUxGZllJQ0hZUWdSc3pNbHU3b3hmcG5YM2UxTDdFT2pYZXZkWDIyN05PaTNGRXF2RzRGUWpRWG95cmRyR1ozbklSdE1xNS1TM0NKS25UVTRBWS0?oc=5",
+      "datetime": 1779093308,
+      "summary": "Trump may have to wait for rate cuts until the Iran war is over, he tells Fortune\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "How Trump\u2019s crypto venture and Iran\u2019s top exchange tapped into the same industry networks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVFzRWZEcDlEbnBoYnk4RXlKalFfNjBiOFRKZXpPRW1Sc1VYZm9QNUlST29TX3RQTlQwdlRVMkJ1OTEyR2N1cFowRm1OQzVlVm1lc3YtMlFBTXV6d2gzOVpBbEN5Qy0xX1pnRW9lQVhPby1pc2JaekFHYVh2RVhhS0NnRHBGYmlubFRVTWZTUExHSmlMbEo2SUhqVF9LNEF0bXpMbllpOHZlYWprUHRlaXdrc0ZGNXJuS0UxWEo3SWp2a21LR29jbEtR?oc=5",
-      "datetime": 1779092177,
-      "summary": "How Trump\u2019s crypto venture and Iran\u2019s top exchange tapped into the same industry networks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr?oc=5",
-      "datetime": 1779087300,
-      "summary": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran war saddles global companies with $25 billion bill - and counting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmNDdUhsZDZ4WjM1dUVybktMRmFOUkYtSHdwSDdzTW1zbDBoWWs3cU4wa3ZickFzZ1UxVlh6b3U4OWZXNnVRa1hYTWM5TXhFMjVQUWZkWk11cTdCUHlncXRfWkdDTUdQeHdRNFpFdHVxSWNyc2UzdlFwTnYzZkZ6eGN5MU95dGJ3MDhVb1NBaFNxeWE5SVJyZTZSQktFalY4dDdFRDQwazg3YnVzOEdWU3JB?oc=5",
-      "datetime": 1779080640,
-      "summary": "Iran war saddles global companies with $25 billion bill - and counting\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Ryanair flags weakness in summer fares, but risk of fuel shortage recedes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkdsa0J4dWRlRVdaUXJGNXd4Y0tSQVVzUXluMjBjYUd0MXJJUEJCZUE1bUtCb1NOQXY4VUhPeFM3WnVwcXJCLTVTenNlM1dwOGlILXQyV3RMb2o4TFBieHQ5TE5zRlYxRW01ZmlfSllzakh2b2tSV3VQVmRFUmJ6MDFUdEtCWjJWc2piVnQ3RnJTSTRFc29mWGhURV9WWXRyN1FjQ2x4enY2amxfd3luUm9GeF90dElOYUtlU2NmcW1NV3BrWnptUA?oc=5",
-      "datetime": 1779080520,
-      "summary": "Ryanair flags weakness in summer fares, but risk of fuel shortage recedes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India's equity benchmarks muted as Iran war worries offset IT gains - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2NMV0ZmZWNFS1MtNzdrVWxBeWxRNGZseXFoZzM2TC11NllwYWtLc1dQOUhrLURKT0dEVlFQLUN5N0VET3VCOC1ZbkxKeUtSMTJtLXFJd29MbEJveWNpVVBxaVc2MVktVy1BUGE0dU51azQwQVRUWEpoVUlQRTU2N1lBMWFCazllWVA5LVZzMGhybEdQenpkSDJyZjlXaFByMG1EU3FfVmcxNVdyenc?oc=5",
-      "datetime": 1779072060,
-      "summary": "India's equity benchmarks muted as Iran war worries offset IT gains\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "AI's insatiable appetite for electricity could revive a forsaken energy source",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/17/cramer-ais-appetite-for-electricity-could-revive-a-forsaken-energy-.html",
-      "datetime": 1779056525,
-      "summary": "President Trump and Energy Secretary Chris Wright are working hard to keep coal alive as part of a robust grid.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108167122-1751471707389-gettyimages-184873500-000018338112_Large.jpeg?v=1751471729&w=1920&h=1080"
     }
   ],
   "sentiment": {
