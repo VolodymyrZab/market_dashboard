@@ -5872,10 +5872,10 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 0.3434,
-      "eps_actual": null,
+      "eps_actual": 0.56,
       "revenue_estimate": 162882700,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 156500000,
+      "revenue_beat": false,
       "market_cap": 1619876907.530701,
       "last_close": 49.18,
       "prev_close": 48.37,
@@ -5887,6 +5887,16 @@
       "week52_pos": 87.7,
       "pe_ratio": 19.2462,
       "revenue_streak": [
+        {
+          "period": "2025-06-30",
+          "eps_actual": 0.56,
+          "eps_estimate": 0.3434,
+          "surprise_pct": 63.0751,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 156500000,
+          "rev_estimate": 162882700
+        },
         {
           "period": "2000-12-31",
           "eps_actual": 0.06519,
@@ -5907,28 +5917,24 @@
           "eps_estimate": 0.0566,
           "surprise_pct": 9.9293,
           "beat": true
-        },
-        {
-          "period": "2000-03-31",
-          "eps_actual": 0.1437,
-          "eps_estimate": 0.1305,
-          "surprise_pct": 10.1149,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2025-06-30",
+          "eps_actual": 0.56,
+          "eps_estimate": 0.3434,
+          "surprise_pct": 63.0751,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 156500000,
+          "rev_estimate": 162882700
+        },
         {
           "period": "2000-12-31",
           "eps_actual": 0.06519,
           "eps_estimate": 0.053,
           "surprise_pct": 23,
-          "beat": true
-        },
-        {
-          "period": "2000-09-30",
-          "eps_actual": 0.08148,
-          "eps_estimate": 0.0813,
-          "surprise_pct": 0.2214,
           "beat": true
         }
       ],
@@ -7579,10 +7585,10 @@
       "industry": "Marine",
       "timing": "bmo",
       "eps_estimate": 0.0303,
-      "eps_actual": null,
+      "eps_actual": 0.06,
       "revenue_estimate": 54345070,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 51670000,
+      "revenue_beat": false,
       "market_cap": 311320190.38235295,
       "last_close": 2.52,
       "prev_close": 2.72,
@@ -7594,6 +7600,16 @@
       "week52_pos": 74.3,
       "pe_ratio": 17.4644,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.06,
+          "eps_estimate": 0.0303,
+          "surprise_pct": 98.0198,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 51670000,
+          "rev_estimate": 54345070
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.03,
@@ -7614,28 +7630,24 @@
           "eps_estimate": 0.0152,
           "surprise_pct": -93.4211,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.02,
-          "eps_estimate": 0,
-          "surprise_pct": null,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.06,
+          "eps_estimate": 0.0303,
+          "surprise_pct": 98.0198,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 51670000,
+          "rev_estimate": 54345070
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.03,
           "eps_estimate": -0.0051,
           "surprise_pct": -488.2353,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.01,
-          "eps_estimate": 0.0152,
-          "surprise_pct": -34.2105,
           "beat": false
         }
       ],
@@ -9770,9 +9782,9 @@
       "industry": "Communications",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.11,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 11390000,
       "revenue_beat": null,
       "market_cap": 33486596.221532088,
       "last_close": 4.75,
@@ -9785,6 +9797,13 @@
       "week52_pos": 32.0,
       "pe_ratio": 9.2709,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.11,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.12,
@@ -9805,26 +9824,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.22,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2025-12-31",
-          "eps_actual": 0.12,
+          "period": "2026-03-31",
+          "eps_actual": 0.11,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2025-09-30",
-          "eps_actual": 0.1,
+          "period": "2025-12-31",
+          "eps_actual": 0.12,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -10114,14 +10126,14 @@
       "revenue_actual": null,
       "revenue_beat": null,
       "market_cap": 11694027.094899936,
-      "last_close": 0.477,
-      "prev_close": 0.4647,
-      "gap_pct": 2.65,
-      "volume": 500649.9879,
-      "rvol": 1.48,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
       "week52_high": 3.129,
       "week52_low": 0.4206,
-      "week52_pos": 2.1,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -10141,278 +10153,7 @@
           "beat": null
         }
       ],
-      "bars": [
-        {
-          "v": 150752.782703,
-          "vw": 0.6033,
-          "o": 0.6,
-          "c": 0.6195,
-          "h": 0.6226,
-          "l": 0.6,
-          "t": 1776657600000,
-          "n": 469
-        },
-        {
-          "v": 143651.736717,
-          "vw": 0.6058,
-          "o": 0.6298,
-          "c": 0.6031,
-          "h": 0.6298,
-          "l": 0.5801,
-          "t": 1776744000000,
-          "n": 508
-        },
-        {
-          "v": 201108.737096,
-          "vw": 0.6074,
-          "o": 0.59,
-          "c": 0.602,
-          "h": 0.6339,
-          "l": 0.585,
-          "t": 1776830400000,
-          "n": 695
-        },
-        {
-          "v": 155355.5,
-          "vw": 0.5915,
-          "o": 0.6075,
-          "c": 0.5854,
-          "h": 0.618,
-          "l": 0.5713,
-          "t": 1776916800000,
-          "n": 391
-        },
-        {
-          "v": 76343,
-          "vw": 0.5904,
-          "o": 0.5962,
-          "c": 0.5925,
-          "h": 0.5999,
-          "l": 0.5751,
-          "t": 1777003200000,
-          "n": 272
-        },
-        {
-          "v": 139264.632697,
-          "vw": 0.5838,
-          "o": 0.59,
-          "c": 0.5755,
-          "h": 0.5982,
-          "l": 0.57,
-          "t": 1777262400000,
-          "n": 288
-        },
-        {
-          "v": 226394.473365,
-          "vw": 0.5566,
-          "o": 0.584,
-          "c": 0.5562,
-          "h": 0.5845,
-          "l": 0.5405,
-          "t": 1777348800000,
-          "n": 479
-        },
-        {
-          "v": 216758,
-          "vw": 0.5317,
-          "o": 0.554,
-          "c": 0.5322,
-          "h": 0.554,
-          "l": 0.5124,
-          "t": 1777435200000,
-          "n": 631
-        },
-        {
-          "v": 108660.569,
-          "vw": 0.5444,
-          "o": 0.532,
-          "c": 0.53,
-          "h": 0.5581,
-          "l": 0.5273,
-          "t": 1777521600000,
-          "n": 252
-        },
-        {
-          "v": 303863,
-          "vw": 0.5854,
-          "o": 0.531,
-          "c": 0.5851,
-          "h": 0.6199,
-          "l": 0.5278,
-          "t": 1777608000000,
-          "n": 668
-        },
-        {
-          "v": 151062.702,
-          "vw": 0.6156,
-          "o": 0.595,
-          "c": 0.6065,
-          "h": 0.6359,
-          "l": 0.595,
-          "t": 1777867200000,
-          "n": 665
-        },
-        {
-          "v": 104298.023567,
-          "vw": 0.5922,
-          "o": 0.61,
-          "c": 0.5753,
-          "h": 0.6187,
-          "l": 0.5751,
-          "t": 1777953600000,
-          "n": 579
-        },
-        {
-          "v": 203101.061849,
-          "vw": 0.5678,
-          "o": 0.577,
-          "c": 0.5705,
-          "h": 0.5998,
-          "l": 0.5401,
-          "t": 1778040000000,
-          "n": 745
-        },
-        {
-          "v": 103714.787,
-          "vw": 0.5903,
-          "o": 0.57,
-          "c": 0.582,
-          "h": 0.5999,
-          "l": 0.57,
-          "t": 1778126400000,
-          "n": 359
-        },
-        {
-          "v": 189715.877613,
-          "vw": 0.5683,
-          "o": 0.5728,
-          "c": 0.562,
-          "h": 0.582,
-          "l": 0.56,
-          "t": 1778212800000,
-          "n": 613
-        },
-        {
-          "v": 389606.337242,
-          "vw": 0.5729,
-          "o": 0.535,
-          "c": 0.5806,
-          "h": 0.62,
-          "l": 0.51,
-          "t": 1778472000000,
-          "n": 958
-        },
-        {
-          "v": 724085,
-          "vw": 0.5856,
-          "o": 0.5671,
-          "c": 0.549,
-          "h": 0.6398,
-          "l": 0.5435,
-          "t": 1778558400000,
-          "n": 1294
-        },
-        {
-          "v": 306932.302078,
-          "vw": 0.5411,
-          "o": 0.5523,
-          "c": 0.5305,
-          "h": 0.5827,
-          "l": 0.525,
-          "t": 1778644800000,
-          "n": 787
-        },
-        {
-          "v": 537021.690137,
-          "vw": 0.5858,
-          "o": 0.5305,
-          "c": 0.5906,
-          "h": 0.6651,
-          "l": 0.5305,
-          "t": 1778731200000,
-          "n": 1019
-        },
-        {
-          "v": 649322.646175,
-          "vw": 0.55,
-          "o": 0.5906,
-          "c": 0.535,
-          "h": 0.61,
-          "l": 0.5305,
-          "t": 1778817600000,
-          "n": 1785
-        },
-        {
-          "v": 591888.076621,
-          "vw": 0.5304,
-          "o": 0.6,
-          "c": 0.5277,
-          "h": 0.6,
-          "l": 0.515,
-          "t": 1779076800000,
-          "n": 1092
-        },
-        {
-          "v": 451944.522787,
-          "vw": 0.5002,
-          "o": 0.53,
-          "c": 0.509,
-          "h": 0.5398,
-          "l": 0.4861,
-          "t": 1779163200000,
-          "n": 779
-        },
-        {
-          "v": 672907.289758,
-          "vw": 0.5179,
-          "o": 0.5027,
-          "c": 0.5201,
-          "h": 0.54,
-          "l": 0.49,
-          "t": 1779249600000,
-          "n": 1142
-        },
-        {
-          "v": 307629.175053,
-          "vw": 0.5051,
-          "o": 0.5,
-          "c": 0.5074,
-          "h": 0.52,
-          "l": 0.49,
-          "t": 1779336000000,
-          "n": 770
-        },
-        {
-          "v": 105617.550604,
-          "vw": 0.4984,
-          "o": 0.486,
-          "c": 0.509,
-          "h": 0.5157,
-          "l": 0.486,
-          "t": 1779422400000,
-          "n": 309
-        },
-        {
-          "v": 418245.544919,
-          "vw": 0.482,
-          "o": 0.49,
-          "c": 0.4647,
-          "h": 0.51,
-          "l": 0.4647,
-          "t": 1779768000000,
-          "n": 1053
-        },
-        {
-          "v": 500649.9879,
-          "vw": 0.4594,
-          "o": 0.4443,
-          "c": 0.477,
-          "h": 0.5,
-          "l": 0.4206,
-          "t": 1779854400000,
-          "n": 1348
-        }
-      ]
+      "bars": []
     },
     {
       "symbol": "NVVE",
@@ -17128,19 +16869,43 @@
   },
   "news": [
     {
-      "headline": "Key energy and shipping trends after three months of Iran turmoil - Reuters",
+      "headline": "Snowflake surges 35% toward best day ever on AI frenzy, fueling software rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html",
+      "datetime": 1779977459,
+      "summary": "The Snowflake rally also lifted shares of ServiceNow, Oracle and Palantir, while Salesforce bucked the trend.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108206046-1759265547183-Snowflake-CB-Photo-20250930-KK-PRESS-037.jpg?v=1759265883&w=1920&h=1080"
+    },
+    {
+      "headline": "Morning Bid: Three months, and counting - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlFKbW5qV3ZmdlB0X1dmUndkeEowYWRrUzFJS3lCeVNKbDFqM3dzeEdTVzZBaXhUVmNWSWIxMHZmR1pFNTRLa0FrcENHYzNXLVA4RklKeEV4QUpFUEZfdzJfakV2MHpsaWNGeS10cVpXMVpieHE3blV1TnEzZ00tbXhfQWNiZTNrTHB0bU9sV2ZQWm5XVjR0NEV6V0JHMmxhMndtOFBBSlJSZmppMnA4MmVlTjZWTkFOaFZ4blppLTNoMnlxZEE?oc=5",
-      "datetime": 1779948420,
-      "summary": "Key energy and shipping trends after three months of Iran turmoil\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSmE0dXFSUTVzTExheGhvcXR5bTNRSDFYQ3phOGQ2elVfODI0V0JtbGViNXg1cG9ScHFZeUZrNUFOVTNVWDZsWm5DZGJqNnRESlN5WnBVcnRvbEJkWEREWDQtbVdrcml0X0R3dGZfRTNGcE5kay1oQWp0VEpFdEk0b1VpaDlUOERiWmx3Q1Y4clNSaXd0X2Jn?oc=5",
+      "datetime": 1779970797,
+      "summary": "Morning Bid: Three months, and counting\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Not everybody is a loser from the Iran war. Just ask Brunei - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXZGYWdHWHhyMnZzMHc2R194SXliYW5lR0lzNTNtRXpFbUpid2JaVWMwMnlNUEkxbXVFQmxjMS1OdWh3Ny1DOUdQR0RzU25hUkpoWWtla0lyVzZNT2U2VmZhaXEzSkNTVDJicTE5X1BSdENiZGVNV0hiSjA4TnQ5N3lzZnFDMDZ5Sloxczg1WElGTjJ2VUxtNUVFVnpDRDBJNGFHbnNBaFRHZzVVUm5uN1JqaGF0M1U?oc=5",
-      "datetime": 1779944131,
+      "datetime": 1779966086,
       "summary": "Not everybody is a loser from the Iran war. Just ask Brunei\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "European shares drop as escalating US-Iran tensions weigh on sentiment - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWR0N3NMaDdnSVlmTVpYZWptUEc3TVd2ZkcyNTYxUVRma3M2TWhxWXBteHNNanhJa2g4MnZ6d2hSQXBOZzJ6VlNGMmwwUFh2d2d1c0NDcU1zRURNWHFHNk9zT2YtX2tUbjFGQVVhLUFNempoTjQzMVdhcmE2cE1Ua2pVM1RCalpWckRUVWgtOGZyVGpIZXNjWjdoTlNMazVpajQtUXM2aEpwbHc4cVhpZXpJTDB4Zw?oc=5",
+      "datetime": 1779957898,
+      "summary": "European shares drop as escalating US-Iran tensions weigh on sentiment\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Key energy and shipping trends after three months of Iran turmoil - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTlFKbW5qV3ZmdlB0X1dmUndkeEowYWRrUzFJS3lCeVNKbDFqM3dzeEdTVzZBaXhUVmNWSWIxMHZmR1pFNTRLa0FrcENHYzNXLVA4RklKeEV4QUpFUEZfdzJfakV2MHpsaWNGeS10cVpXMVpieHE3blV1TnEzZ00tbXhfQWNiZTNrTHB0bU9sV2ZQWm5XVjR0NEV6V0JHMmxhMndtOFBBSlJSZmppMnA4MmVlTjZWTkFOaFZ4blppLTNoMnlxZEE?oc=5",
+      "datetime": 1779948420,
+      "summary": "Key energy and shipping trends after three months of Iran turmoil\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -17176,51 +16941,27 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Gold at two-month lows as US-Iran strikes boost inflation fears, PCE data on tap - Reuters",
+      "headline": "Gold prices pare losses after US inflation data - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGk4TXB1amNOZ3NwU3NjcWFXUkZVMk93OUtMX0xSZWVvWE9aMDEyUkFEa1k1WWlIdkFfd0hYNUlReEtuMnhmQnViX2ZZVFdDMUdlZzBvT2VXTVVhQzhqY25YNXhYa3gtbnRQWXBmd1dKT1kwYWZOdnRUd2lJTHkwMUQ2X2dnRTVLNDFhbno1dVNBcWZwd3RiODNORnEzMU1OSTV2cFYxYVlUTXQxNWNN?oc=5",
       "datetime": 1779932280,
-      "summary": "Gold at two-month lows as US-Iran strikes boost inflation fears, PCE data on tap\u00a0\u00a0Reuters",
+      "summary": "Gold prices pare losses after US inflation data\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Dollar edges up with Iran conflict, US rate outlook in focus - Reuters",
+      "headline": "Dollar rises with Iran conflict, US rate outlook in focus - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblF0TDBZLW5ybzdYaUR3aGdiQ2J2NVVRQi1oYXh5aG5mdHBVUlZZNWpsWlk0UXVJcW1jT0NuajE5b21LbnZ0Q2tEUll2TEZ5LW96eThIdWlLUlBHb05HNVBtMkVTeURaZFpTYXhZdkttUkZEeFhVcm9fdGNPWDNvMW95ak9pNVRRVlE0Z0tQWkVGTTNrcGxBZ3k5Y2paNXJ2bE1NN0Exb2ttSlJXQkFqZ0NaaFpoRHZYU0pZaGxnZEdEMzg?oc=5",
       "datetime": 1779932220,
-      "summary": "Dollar edges up with Iran conflict, US rate outlook in focus\u00a0\u00a0Reuters",
+      "summary": "Dollar rises with Iran conflict, US rate outlook in focus\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Shares falter, oil gains as Gulf hostilities heat up - Reuters",
+      "headline": "Stocks dip below record highs as Gulf tensions flare - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ0ViVHBRYlNKdmh1NFQ1WnNXQVFXVkNHYlpEaE8zVlluMGNPOHk5ZHN0SGl6UnVQWHRKbE1ZQXg1M2xpNWs4WHlxcF8wRjhYOHh2TXZmelNfZEx6WTNfUU92UGg5a2VXLUxubGNnc3VXVUhlaVo1YVI2T1UwNlVic1ZzQQ?oc=5",
       "datetime": 1779932100,
-      "summary": "Shares falter, oil gains as Gulf hostilities heat up\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US military strike in eastern Pacific kills two men - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjU0a0RpWFpPN2VRTVd3MWEyZUh2Q2xtSXFtMTcwSERLN2RkQ2VDUFdYYkJCOXVBVXI4U3BaaFdJSWI5QUZsUGZRS1ZLN19acDMxZTBJQ3JPZGxJblVBa2FCOC1oS2E4VXRyc3JuYTdIUnRIdUlER1NuNGVibkFDM20yVzZaVmpDeG1JMWdpYVRscHZX?oc=5",
-      "datetime": 1779928200,
-      "summary": "US military strike in eastern Pacific kills two men\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil rises after Iran and US trade airstrikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5",
-      "datetime": 1779924840,
-      "summary": "Oil rises after Iran and US trade airstrikes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Exclusive: US carries out new strikes in Iran against a military site and drones, official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB?oc=5",
-      "datetime": 1779924480,
-      "summary": "Exclusive: US carries out new strikes in Iran against a military site and drones, official says\u00a0\u00a0Reuters",
+      "summary": "Stocks dip below record highs as Gulf tensions flare\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
