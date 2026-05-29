@@ -4990,7 +4990,7 @@
       "week52_high": 18.8,
       "week52_low": 3.1,
       "week52_pos": 83.9,
-      "pe_ratio": 14.2904,
+      "pe_ratio": 13.8645,
       "revenue_streak": [
         {
           "period": "2026-03-31",
@@ -7805,9 +7805,9 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.29,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 39940000,
       "revenue_beat": null,
       "market_cap": 140070740.0,
       "last_close": 3.85,
@@ -7820,6 +7820,13 @@
       "week52_pos": 42.9,
       "pe_ratio": 2.3111,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.29,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.34,
@@ -7840,28 +7847,21 @@
           "eps_estimate": 0.2448,
           "surprise_pct": 2.1242,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": 0.3,
-          "eps_estimate": 0.2856,
-          "surprise_pct": 5.042,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.29,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0.34,
           "eps_estimate": 0.2652,
           "surprise_pct": 28.2051,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.36,
-          "eps_estimate": 0.3162,
-          "surprise_pct": 13.852,
           "beat": true
         }
       ],
@@ -14155,104 +14155,7 @@
       "pct_vs_52h": -18.91
     }
   },
-  "news": [
-    {
-      "headline": "Iran war impact could 'doubly scar' euro zone consumers, ECB research finds - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG96cVltZ2lKcTlBQkt5ZWE2QVdiT2dZWUpvNDN0SzJNUzcyTDgtblFQb1VuaUhGbkM5OXVRNmdydzd3YnAzTHdVSjFCaUNLU2Vfbko0aHZvYU9EbUtoVzQ5Uko0MGNzTFFvSEdQV3BteDUzc2ptR0NoSGtLSThkY1ZCdHBkTVNzVlFhX3NNQWppX01kNzBBX1MzYUhIRExLNE9DOHZvczVMUWZZbHkxdlNoTEUxY2d1ZVkzbEJQLXZmV0E?oc=5",
-      "datetime": 1780038848,
-      "summary": "Iran war impact could 'doubly scar' euro zone consumers, ECB research finds\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "UN to place Israel on sexual violence in conflict blacklist, Israeli envoy says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTkxUVZfQW5WRzlpYWxBTXdnVG84b3REbktTUjlrUVVWWklBZGdTRFpfY0xMSXd5amwyaU52WXM2M2FYRF9Tb2d3NS1QNm1CSWFuY0JXYmJVOEM2ODd3aWU4c2FSc2llU2lxeWFhQkFMVGJJWU5KckE3NUVBb1ZLck14bXlyZVZRdzNrV1R5dXh4c3dQSUxNS2dqcDVDMU81dmJPQVhmSkhodmh5RTRHZ1g1azctRGJocnV6cVJmeHYxdEM1?oc=5",
-      "datetime": 1780038724,
-      "summary": "UN to place Israel on sexual violence in conflict blacklist, Israeli envoy says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Global fuel crisis adds urgency to Cambodian push to tap $300 billion energy resources - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlBjcWRzRzRLc0hJVDFkVUt0b2Jrend4cVlFTVdqSFdZdTJJSGhQM0w5RGJBbXVmcVhDc2oxc0NXalloNkg5RFMyUTFEMzRrVG9pc1ZaUUhsSndLT0R4OHJFWmVmYWdja1g4YW5LcHJ6S2JyYWR1M1dwSVNhSFB4SEVNUmoxZEc3c0J4SHMySkI4Nkdsb3lUaDRDeXB4QnY3Yk83M3IxeF8xSUpQTnNQTkc5OEd1V3hIZ09Zb25zV0p1dmkyMUIyX0prYw?oc=5",
-      "datetime": 1780031700,
-      "summary": "Global fuel crisis adds urgency to Cambodian push to tap $300 billion energy resources\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Morning Bid: Another day, another Iran deal moment - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZ2RaRG9vZ1dVU25EYUM2b1BreVFpS2s5SGhXQlV2Uy05dWloYXV6Yk9rcmJKcFVqSXByTDRsR2R1XzRqcTh6cmpnejlrZXYwOVBaTk02QkVXMkhPUXQwZkxaemkxTE1neXdPd1JqQUdEYXE2bHBNYWhBcWxlSFk?oc=5",
-      "datetime": 1780029300,
-      "summary": "Morning Bid: Another day, another Iran deal moment\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Central bank intervention boosts rupee; NDF maturities exert pressure - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUs4SlJiTUI1TTNVaXBYSlppLUZYVjFsVUt2ZGNPZmRxMHI1T2syZXhZclpEQW40OERVc2p4R1NIQ1hXZlJmN3NJcHF3YlVvcXJTQ1ZDc2JpM19XMW1XWGJwQkdMNVF3M1lCQ1lKcncySmwwM2xKenFsdVY1RGxxUnlKX3M5N2RzbzBxVWgybjRNMjFTSXBEMFE2dk9BT2xuUUdxbEpGMjE1M1ljZ083RnFVa1dGckJBN29pLTJybw?oc=5",
-      "datetime": 1780022160,
-      "summary": "Central bank intervention boosts rupee; NDF maturities exert pressure\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil tumbles, stocks gain on US-Iran deal hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVlS2Y4YzBmWGowUkNTSF94M21QQjZ1TzViNVJhaEgwZFBJa200R1hydjhQYWgzUXJlcENFSjlaZndHVms5eXd5VW5XT3ljUllpcVZ1emhFT1plNUhLVzNJOEg2Wi1zUVRkUzZCVENaVS1sQWhTN2V4cVZPXzZmY1VpcmpBeTFh?oc=5",
-      "datetime": 1780020420,
-      "summary": "Oil tumbles, stocks gain on US-Iran deal hopes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Trump's room to maneuver narrows as US, Iran close in on framework deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzYxUnZMR1RyMnBocjBKaUJMS29UUGk0M0NkaC1LTzl2bVhSd0xrZmVSOWxRRjJPd3lnbGdnYXhhRXRJOTRwb0dYby1hVEJ0VENtZENUYkRFbTI5dXA1ckoyOW5ib01ZN2hwbFJSd09hZkx2RXJrY2ZzSFpYR1lxNjBMNGxZZVhlLWw1UGt3UlNzbHhoVlFaaTVIMGxUVlVud3Y5S1U5YURIZ3hCSWZtUA?oc=5",
-      "datetime": 1780019820,
-      "summary": "Trump's room to maneuver narrows as US, Iran close in on framework deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold set for third straight monthly fall as inflation concerns linger - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVG9LSXFya2dkWXFpalhhTWlIT3dMRFBSU3dHdHFHZDdBbnNxbk9SVWlNcDQzY0gwX19MNlh1TEw0UUNZd3ZIekE5VGhCSXU4cC05SlQ3TGM0d2x0bjdmRi0xR2pOWDNkZ1JYYzhlcVR6Rms4SFpSV3FIZTZ2ZndadTc0MUxMUk1qR3RsbmhZdnFNcUk2cHhPVmVySTN0NS1PcUJmMEVMbElLZGU0T042WDM4YlFkVFo5a05VQ193?oc=5",
-      "datetime": 1780017900,
-      "summary": "Gold set for third straight monthly fall as inflation concerns linger\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dollar heads for small weekly loss on Middle East ceasefire deal expectations - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHQ5a2FRTXpFZTlmSmpaR3BmcDJ5WVFoeUdyMWxKbWYtUGlMYXQyVW9RYXhxa281UURwRFVfbXdHVndjSlVwQ2wwSTJqM0t1RUJRbGdib0FoTWJteUJEUU44R2JOU1QyOWhNTXBkTXYzaTBpdVFnRi1keHE3YXNBZkNLcGctMUJ0Z0JaSXAtNGRXU0ZnQTYyTjNxaVVja3BFRTlWR05zVQ?oc=5",
-      "datetime": 1780017420,
-      "summary": "Dollar heads for small weekly loss on Middle East ceasefire deal expectations\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil prices fall as market awaits possible US-Iran ceasefire deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME9kd0xNOHBUWk45Q05sRmpnQlBXN3h5VW95NVR5clRwalJRR28wcHhSMjgxVnAtcU9peTBIeXBXX25CU3luOUtsZ0I1VTE5bEhnalNsci11UXo3SlRQUVk2R0NEUHZHYmFrc2o0QVNkTGJUYkRhWUI0cmtRNHQxdS16T2g3MnhvajU4b25iTmpoYkNwa003MmpneThDZTI5cXdNWlV6TUoyNHNIYTJfTg?oc=5",
-      "datetime": 1780017360,
-      "summary": "Oil prices fall as market awaits possible US-Iran ceasefire deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Costco issues a lukewarm quarter, but delivers on the metric that matters most",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/28/costco-issues-a-lukewarm-quarter-but-delivers-on-the-metric-that-matters-most.html",
-      "datetime": 1780016078,
-      "summary": "It was not the best quarter, but far from bad.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108234594-1764612176907-gettyimages-2236344411-COSTCO_EARNS.jpeg?v=1764612277&w=1920&h=1080"
-    },
-    {
-      "headline": "US military denies claim US aircraft downed near Iran's Bushehr - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnZMUkdzWk51dXlpUVhUcFUwR09oTjBETy1hQjRSZDlYc1Jxb1U2SWpaZHR2TmY4VUFmSklaYzZ5eVRiWFZoTXJUSE1DMHJqbjZlblRFTWtmTW92RGYybWtYQjg0WXBUY1V2UEgzWUNCTV9yVVd3UUZrN0RWLWFIQlRtcWtSeGJYNmxWOFBJTVFSQ2NIal95SVVZNDZ6czN6TGhkS254VVFTRk9xTGVYZ285U2Z6TmxUZTh0V25VWG9nbE91TWFz?oc=5",
-      "datetime": 1780009079,
-      "summary": "US military denies claim US aircraft downed near Iran's Bushehr\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    }
-  ],
+  "news": [],
   "sentiment": {
     "score": 100,
     "label": "Extreme Greed"
