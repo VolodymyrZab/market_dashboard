@@ -2767,7 +2767,7 @@
       "week52_high": 9.22,
       "week52_low": 5.685,
       "week52_pos": 12.6,
-      "pe_ratio": 7.6117,
+      "pe_ratio": 7.8256,
       "revenue_streak": [
         {
           "period": "2026-03-31",
@@ -10874,6 +10874,62 @@
   },
   "news": [
     {
+      "headline": "Like Dell, now HPE surges on a massive guidance hike. Yes, business is that good",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/like-dell-now-hpe-surges-on-a-massive-guidance-hike-yes-business-is-that-good.html",
+      "datetime": 1780409571,
+      "summary": "Betting against this trade, at least for now, may well be your ticket to the graveyard.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108314871-1780345171595-gettyimages-2221218399-HP_ENTERPRISE_DISCOVER.jpeg?v=1780345205&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran studying deal to halt war as stalemate persists - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1DSFVhQ3MxRlgtdV9LYlZndTBDX0VvZDZ4ZkZuZEV5QnhMYlhmd2phazdVMnBlUXRWXzUzWTZFSXZfSDhNMzF2VTVwdlZiMU9aMEVVVVhyWEk1QmFNWjJRSFNfWTFzOGNMXzk1ZnJSOE5EZDJycERabElIeEQ1SjQxWE9CejBZT2FDY1FnLVdFaGlvR0FQeVVkM3JSanNmdkE?oc=5",
+      "datetime": 1780409371,
+      "summary": "Iran studying deal to halt war as stalemate persists\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "We're right-sizing our position in an AI stock after its impressive run this year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/were-right-sizing-our-position-in-an-ai-stock-after-its-impressive-run-.html",
+      "datetime": 1780404902,
+      "summary": "Our position has swelled after the stock's strong rally since its last quarter.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108313257-1779982389071-Traders-Photo-20260528-KK-PRESS-015.jpg?v=1779982579&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "datetime": 1780404710,
+      "summary": "Marvell shares are flying after Nvidia's Jensen Huang said it would be the next trillion-dollar company.",
+      "image": "https://image.cnbcfm.com/api/v1/image/105959006-1685552016651-marv2.jpg?v=1692367783&w=1920&h=1080"
+    },
+    {
+      "headline": "US lawmakers to grill Rubio, as Iran war enters fourth month - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnhHX3pib0VOUmUzRkNhT1VGQVRRVnBVeVc1eVgta1dMNDVGRVVTZ0Jtb21oYUIyYjg1b3BoY28zMHd1dVQza1hPa3pWMFBzRktIOVVmdG5zVGFHaHdRZjJrdWVNUVJ1cEZPa0d6S2FiVDFOb1haX1I0ZlRLcjNJQjFRNk9MUWlodkxpOVhwM3RtdzE0Q1B4QklrNklVTDQ?oc=5",
+      "datetime": 1780401700,
+      "summary": "US lawmakers to grill Rubio, as Iran war enters fourth month\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWZLTTJ4UXAzSlBOV095bmFhd2hLQW1TSDhQUGRFVWNfMVNXekxMem9KNXVXVTdmQWFvcms3ZEpzSDFiVVd4MEF3SzdMYkJJZDRwY0dLT3FTNHk3SFN5TmhxWXk4SnROLUpLZnctbUNOZXhLWVRjdUt0cWNMVnVmN3FYUlFCdVpPQmVhQVM0c3NoQlRUTmdOU3dUeFVsckE1VlBuSElPcU1IT2xXcXNwVEk3clY3dDBrbkpVY3pPWWgwaEREYUlXTA?oc=5",
+      "datetime": 1780401085,
+      "summary": "Netanyahu faces criticism after Trump halts Israeli strikes on Beirut\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Oil products shipments exit Hormuz, LNG tanker loads at UAE - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWdEUWljM0MwWXJVUGZSTGlVdlc5MEpOMzBYOEQ2dG1SNmtIUUJUaXk0TWhyMUFuWE02cEJLM1MyallBQlVYd3lXdWM3ZWtUU1ltOWI1SzdfZUwxUFpxMjExNWpibF9fRGgzT215SDFRU1VqbUJDV0VhWXV4Skk5LU9qb0l1aDFNaFltaGMzdElCeFoxZzdMMVU2RmJoWlFwS25FUGU0VUluQld0NHc?oc=5",
+      "datetime": 1780391696,
+      "summary": "Oil products shipments exit Hormuz, LNG tanker loads at UAE\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "AI frenzy stokes inflation heat too - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdXFvbjBVdll5VmplS3JBTTdQV2lvVDd2SXhxdlNwcWliZkthelpncTJLLVRNQ29hN2NuamU5RFdKSG41X3dDWVB0NXBSSXY4V2JxNkxPcVJteVptODFUbE4wel81Vi1qSlJLaDh0clpkeUpzYlFBdWIwZFpZV3V2R1h1aGdodXFtSEl4RVphV0hQMS1hb2VVVXFVSW55dDRCUmJpRnRPRQ?oc=5",
@@ -10890,6 +10946,14 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "Morning Bid: Nvidia chief to Asia: 'We're still supply constrained' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVUgwRW5rZ1ZIVmwzbXhQY2VnakRmQWpudEw3RlQyaVM3THB0eUMzeUpBMnZ5aHhFb2Ytc3pnUWZJUWh4TjdSYjl1WWRrYl9lSTR1SE1zN3dmc3d1WThrX2pTaTM0Szlzei1RVHJXMjZsNGNkYkJlam1HQjZMX2c?oc=5",
+      "datetime": 1780374840,
+      "summary": "Morning Bid: Nvidia chief to Asia: 'We're still supply constrained'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Rupee slips on weak stocks, importer hedging but state-run banks cushion - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMm43Vkg0czR1SVpOUGlrX3cyLVI0TXMwNERpMkpObWZLQjA1UGFKS2REcXZEdFQzUzJNZE5FTldRTzFmQlB0QTBqTHdhOFlJVjFGdUVQY2dXcXpJNkp0RkNpR0tQUXJrZjBNZUdmT3hSS3E3YmhZeWQtYl9hTmFpOFZ3eXZZWmpraFFiNFRBM0xDMkFBRXRrOWVLRXh5RGJNRUVXQjJXRjJmalhFNjJFVVFCb25SNDhmZGhVbG9lQjI?oc=5",
@@ -10903,70 +10967,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVRBMG5hd0lkV1NwQUpSWWtfdWF3WU5DR0xSblF2T01qdzlOTmI1MDFzczdzRXVfTVRzX2Y5TUVxamJqNlExUGVodEFnR3NNemxkMndGalZjQUlTeEVLeFhYdGpuNFYwekFBWEVPc3FTQTFpVEJvcFlIaGkzOTZEYmRBVWRWRUYyeUpFZzFCMVhReWQtb0NqR1VmQWx2UnNCcXpfR3BIbTdxX09qU3ZV?oc=5",
       "datetime": 1780367220,
       "summary": "Indian shares snap losing run on IT boost; oil dips after Trump comments\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Blackstone raises $13.1 billion for its largest Asia private equity fund - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmVLc0lzS05pb0UtTFFFdUFlSHpjTndJQllEd1Vod2Fha09udFRNa3MzZ2cxUDFCbjYtUlZBQmhHcFlBbjRHTTR5bmhHRjZXNTZCMjBoVkx6Ml8ybWw1d1BpUHNOSEVSeTFwRFFMVUh6QVp3dDg1NFotUUhrWVIyQ1ZSbDJDbTRNU0ZFejRQVUR5WXpTdWVJRHpTd3prLWpxbVpRRFAyWkVhSDdESzFmZjFITUJ1SjlxNmcycG53?oc=5",
-      "datetime": 1780362840,
-      "summary": "Blackstone raises $13.1 billion for its largest Asia private equity fund\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold rises as lower oil eases inflation, rate-hike fears - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVVWNVNodVFSeXdsWW9GZ1o4WnJKc0pqbkN4NGhBVkVOV3RqcXRQMDJfZHVHUUk4YWpGZFB5TGhCNmxBdXE0U20tRW0zMlNjYlBuenpIcVdoa0txQjNzb3lCNnZhWGpfOWZPUTM0WFBMVTdxM0dRUWVacnJzNjJsc3Fhb3hNWXZRLVUySkg2eHU2U3VEVG9zY3BLQXFva1lFeVhqLVhHQnFJZUhO?oc=5",
-      "datetime": 1780362720,
-      "summary": "Gold rises as lower oil eases inflation, rate-hike fears\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dollar stuck in narrow band as traders eye Middle East, US data - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONzZFYldJT0Y0WEZISVdrQzkyS2xOSEdaUm1QMXZjYXYzbmNBekpoMmgxcXJIUTBZQ05nTW1MRlVwa0ZzX3FZZk83di1qTTRuek0ydWFNS05OODBaX1RpdHk1eHRDa0Z1SHlrTjRMT1RJcVgyTzR6UldVV2pZLVVwaFJkcUpBOGxZMlo2TFBwQ0theEtkUmxRdUJ1UnROSzVsWS1WSXRwSlFrZzNV?oc=5",
-      "datetime": 1780361520,
-      "summary": "Dollar stuck in narrow band as traders eye Middle East, US data\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil falls more than 1% after Trump says talks with Iran ongoing - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkZaWGJPbHBSQnUxdWZ6U3l6a3otSGFQSVNoTmpQNWJORWEtZ1dXeE42NGp2c2s4anV6UVFYenhsNHcycHh5UnhYUTJLRFlIbS1ONElzNzBCT2RsX0ROZVh4RXk3SmhKQmc0UXlFa1l4Sm5admU2LUNkdWxaZENkSmN3ZHJnbU1UYTJDbHZUdUJiNFFJZ3lfOTJmTnFKV21LQXZxcE1sWUF3TGZ5N3A4ZFROTTU?oc=5",
-      "datetime": 1780360980,
-      "summary": "Oil falls more than 1% after Trump says talks with Iran ongoing\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Asia stocks slide as Middle East anxiety offsets AI optimism - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEdoZ1Q1dzhvd1BRTU5aOF8yeWhTbUZla1A1MzZucXd1ai1Ud0xSemdBOTUwNXVPc3NRU3p6NmE1YlhUYkVZWW1ZRFg5MHh2Q1ZtaTdZUERPNU5Xb2doMk95ODlvczhLX2RPOE5qTGxyaVZZdjNBcXVmQUEzcWhHc1N2UQ?oc=5",
-      "datetime": 1780360680,
-      "summary": "Asia stocks slide as Middle East anxiety offsets AI optimism\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Unions threaten to stop Inpex Ichthys LNG loadings from next week - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM29STUEyUkFKSGE0clVVM1VjVjd5dVgzQnh2QVYtQ28xY3R5TzVyMnYtU3ZTclFJRUg3REswemh2ZUhKTGo4ZWdLZ0gxdVFVYmZIQTUtWkpqVG82WTBDVEZseTB6eHhsQmk4a1hKQWc4b1E5amtGeFk2SEQxZ1VRNnAwNGZqWkU0bXNIanpxeGNfM213eEkxRkZTZFpoa0dYdnpqUnlOZ2piREh3Qnl0Wlk4Z3hsU0EtdDFaMVNCeEtqaW1hVm9QMWhUUHFLU05I?oc=5",
-      "datetime": 1780356420,
-      "summary": "Unions threaten to stop Inpex Ichthys LNG loadings from next week\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUNQekF0VTVYU1pWSkxuYnE4cklIRTliQzVsN2NLUlItQ0Jvd1Q5My1lQlZJTUZMQmZpaWxDN1YtY3RGY1h0R1BIeHlrbm1qcFhpU1dxZjhfTmFwVERDd0VsOUFxTHRBZzNfNFdCYkFqVDE1ODVXVGNxaEpTdTd3SjlGZGMwRDdtUFBWQ3RtOVZoOGtGZmZWRGtnOUotbmxYejNobloxaGFqV1dSUWJRek5VYw?oc=5",
-      "datetime": 1780355966,
-      "summary": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "At least 18 killed in heavy Russian attack on Ukrainian cities - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzJpWFQ4UGVVSjFXNWtsSjBGRG1DdTVNRFg3bnVGTC1qSlRIazIwR19QdFVHRk5ySW1JaTd4bDF5X282cTdFaWhwdXh2Z2hER0hyN2Y2TE9vR1dwVk0zaC1sdUQweXlVelFBa3BrSkFzcXNoM0h1NUR3VFZWaXRPTkFUSk14c1BFVlNSUnEwcG1hVFF5Vndyd3FyTVRfN1NBQXU1T20xT0ljMmpJUnBtNVBJaGgwdnB3WjlXMTdSTQ?oc=5",
-      "datetime": 1780355880,
-      "summary": "At least 18 killed in heavy Russian attack on Ukrainian cities\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
