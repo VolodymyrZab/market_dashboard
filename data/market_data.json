@@ -20,7 +20,7 @@
       "week52_high": 302.95,
       "week52_low": 139.57,
       "week52_pos": 96.5,
-      "pe_ratio": 191.2721,
+      "pe_ratio": 189.1714,
       "revenue_streak": [
         {
           "period": "2026-06-30",
@@ -10449,12 +10449,60 @@
   },
   "news": [
     {
+      "headline": "Sellers are pulling homes off the market at the fastest pace since 2020",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/03/sellers-delisting-homes-redfin.html",
+      "datetime": 1780497761,
+      "summary": "Frustrated sellers are pulling their homes off the market at an increasingly high pace, as demand weakens and bidding wars wane.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108304898-1778500062004-gettyimages-2274954602-US_HOME_SALES.jpeg?v=1778500142&w=1920&h=1080"
+    },
+    {
+      "headline": "Hezbollah launches rockets at Israel, testing U.S.-mediated deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejNUYzdtTjIxM1JOY1FzOFYxZnVKQjNIa2RyZk5QSXh4TFFSSjYtd2EydDkyS0FaR0E2bmw2ZEJVaFJab0pBUmg1OEVBQXJ3MnlmcDJ1cnRsYUR0UEV5OFVzRVp1LXJUeEtKenZHR0RuRkJoT3V5d0ZQQnZ2aXFLaDNPbEZ0VFhXcGc4alhwTkNrdkdUQUZZUWpScTltT0E0eEJ6NlVIZ2lBSTRu?oc=5",
+      "datetime": 1780497485,
+      "summary": "Hezbollah launches rockets at Israel, testing U.S.-mediated deal\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump confirms he called Netanyahu crazy in phone call - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXBGWXJkR0NIUGdJVW9WZjFkeEpvZkxxQXJCUGNfbVQzbF9OQkdEUEVab052cEpuYmNuM3drVWdaTUlmbG1wYzJsTEFFYU8xNm5qMXN5SjYzQ3BiMnowYWtLTTh2Y09Bdl9hMjljUGV2Q1FESnZfT1FMeWhaVnRjbERfY2o0anVINUhQMjd0VU96UDJGdU9lRzJpZE9ObnE3TndDUkEtekQ?oc=5",
+      "datetime": 1780494222,
+      "summary": "Trump confirms he called Netanyahu crazy in phone call\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "We're starting a position in a chipmaker that is benefiting from the AI boom in multiple ways",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/03/were-starting-a-position-in-a-chipmaker-that-is-benefiting-from-the-ai-boom-in-multiple-ways.html",
+      "datetime": 1780493504,
+      "summary": "We're initiating our stake on the smaller size, giving us room to build it up over time.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108309071-1779200764968-gettyimages-2276550562-AFP_B3CB6BU.jpeg?v=1779200781&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday-.html",
+      "datetime": 1780491942,
+      "summary": "Same old Palo Alto reaction, and Ulta Beauty delivered a solid quarter.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108313284-1779984770978-gettyimages-2249178752-ULTA_BEAUTY_EARNS.jpeg?v=1779984807&w=1920&h=1080"
+    },
+    {
       "headline": "Trump says Iran has agreed to not have a nuclear weapon - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclpNOGV6ZDdVV04yTGFpTW9NaG9peGpnRTNuYkM2dmg1dmctSEJnRl80a01OZjgydVdueURjUVpMLVJZbWlzVWxxZ3BkSi03b0RsaThqdnk0bzJsaEhkdzhZbE52OTFCd1N4bWdKc3hfMnNBVlYtTTgwV0FMYXgxd1BCdU1MRi1MX0huLW93M2RqNWZjczgyUlhERmZrcEdPS3RjZ2Z6UQ?oc=5",
-      "datetime": 1780485857,
+      "datetime": 1780490391,
       "summary": "Trump says Iran has agreed to not have a nuclear weapon\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/03/china-metals-national-security-defense-weapons-supply-tungsten.html",
+      "datetime": 1780486211,
+      "summary": "Simultaneous wars in Ukraine and Iran have depleted sources of tungsten, a largely obscure metal that is critical to munitions and industrial production.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108309872-1779291291941-gettyimages-2216860840-RWANDA_TUNGSTEN.jpeg?v=1779291310&w=1920&h=1080"
     },
     {
       "headline": "Norwegian teen, hired by Swedish crime group used by Iran, planned UK murder, London court told - Reuters",
@@ -10495,54 +10543,6 @@
       "datetime": 1780466828,
       "summary": "European futures data pointed to a broadly negative open for shares listed in the region on Wednesday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108202886-1758649044791-gettyimages-2236481161-AFP_76HU9W6.jpeg?v=1758649071&w=1920&h=1080"
-    },
-    {
-      "headline": "CBS fires veteran correspondent Scott Pelley amid turmoil over direction of '60 Minutes'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/cbs-fires-scott-pelley-amid-turmoil-over-direction-of-60-minutes.html",
-      "datetime": 1780465193,
-      "summary": "CBS News has fired high-profile \"60 Minutes\" correspondent Scott Pelley amid debate about the direction of the show, a mainstay of the network.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108137388-1745853553011-gettyimages-2151212544-_h2_9356_exihm4cy.jpeg?v=1745853607&w=1920&h=1080"
-    },
-    {
-      "headline": "US cites forced labor concerns as grounds for new tariffs - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDdlM2ZsVEQ4RmFKOTBNbWdrZHEwaWpfc0kyOWJkcExOc1V2emFBamZLLW5ySlRoT0NpTnRKYi1FNnE1Y3l6TVZjNzRyTDFQWWlya3NZSXdSRWpSTTJ5azBUWVlvNVZJY2lYMnZsN2k2VWo1V1NGMWxkblRLcE1zTVhNdHdnM1I5bWV4NWljYzBjX201UEtCUjN5Njh4enB4LUxiNzZJOUpOZlQ3VzY0WnEyNFlrOEE2?oc=5",
-      "datetime": 1780456020,
-      "summary": "US cites forced labor concerns as grounds for new tariffs\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Indian shares trim losses on foreign inflow hopes; IT sinks, oil surges - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3NXSTV1QkRlSEVDSlZ2eFB1NmZZWjcwN0lXMGJSWms1SDlIWWFrNjRJVDc2SHIzYjBpQVhvY3ZzMUZtbkRjMGNMNlRrVklPeEY1OERjNnRKRTZ0OUJBU1FuYkNQU08waHNoRUxRQnV6TUQ0WGZKV2FBdDhScWgya0prdVdfaktzZDBNa09ta2xKaGxRbldNTHZyM0JKcHJaNG1leG9YUS0tWURTOTd2NW05OHBpb183S0JV?oc=5",
-      "datetime": 1780453980,
-      "summary": "Indian shares trim losses on foreign inflow hopes; IT sinks, oil surges\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Stocks dip on new Iran attacks as oil prices rise - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVllVU5TSEVpajhKb3hSRUx6NDY3bWU2cDJpaUtOMllscG9lckFqZzJrMEowQ0IxSENhamFtNjZuOXVGb2Ywd0VfSUhlTnUzRkR5dlJlNHI1ME02YnhJV1RWRk5PZml5QlRIRlRQWEZIMzNUYlBmQ183aGEzNXFZU3V3ZFFXb0dw?oc=5",
-      "datetime": 1780452840,
-      "summary": "Stocks dip on new Iran attacks as oil prices rise\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold falls on stronger dollar, oil amid renewed Middle East hostilities - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWktXzNXcDhfMDBUY0x6UVFFcE8xX090ZC1xY3BHN0ZZaUhCNUxvS0FFaDFOTHAxUTFjTHpmdmhnN1pBaXhxVUkyX0JubHBXQVlXQ2NFM0x6M19hZWFEVkxncVhkOTNsanY4SHBHTnE5VWQycWd0NlV6WWJwaGVhTkU4UjRGb3FRNnA5a2pFSWxOb3Bwa2NZM3BCYTFhcEQwaXc?oc=5",
-      "datetime": 1780450020,
-      "summary": "Gold falls on stronger dollar, oil amid renewed Middle East hostilities\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Yen falls to 160 level, prompting warnings from Japanese officials - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlBCenZ0QjFsZWdEem9ZT2tncUc5S29ra3RNOGZFVDJCQ1Fud2N3aEtyRXRIaUpEcUlzOTEtcHEydjRuZ1dzRlNQZ050MTJVN1AyM1RET2tTY3Y1MjI0dDNDaElYOTNwdlcwWHBQZmxEMzdwaGhxMnB6NEloajhWX2EtelpQb0dha21xSjJZZnBqajBTYTNLaWY4bWY3T242SzhGVUt2YzVWXzJr?oc=5",
-      "datetime": 1780447560,
-      "summary": "Yen falls to 160 level, prompting warnings from Japanese officials\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
