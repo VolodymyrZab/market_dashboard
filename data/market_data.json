@@ -4592,322 +4592,6 @@
       "week52_pos": 71.8,
       "pct_vs_52h": -8.46
     },
-    "USO": {
-      "name": "United States Oil Fund",
-      "bars": [
-        {
-          "v": 14228372.411445,
-          "vw": 132.001,
-          "o": 132.63,
-          "c": 132.4,
-          "h": 133.8699,
-          "l": 129.55,
-          "t": 1777003200000,
-          "n": 135155
-        },
-        {
-          "v": 7019641.285272,
-          "vw": 134.6858,
-          "o": 133.96,
-          "c": 134.72,
-          "h": 136.49,
-          "l": 133.21,
-          "t": 1777262400000,
-          "n": 70513
-        },
-        {
-          "v": 11944924.922251,
-          "vw": 139.3712,
-          "o": 138.85,
-          "c": 139.6,
-          "h": 140.4,
-          "l": 138.02,
-          "t": 1777348800000,
-          "n": 111093
-        },
-        {
-          "v": 14903267.156187,
-          "vw": 148.1698,
-          "o": 146.15,
-          "c": 150.63,
-          "h": 151.6299,
-          "l": 145.94,
-          "t": 1777435200000,
-          "n": 123866
-        },
-        {
-          "v": 10614131.115333,
-          "vw": 146.9447,
-          "o": 146.32,
-          "c": 147.09,
-          "h": 149.06,
-          "l": 144.48,
-          "t": 1777521600000,
-          "n": 100294
-        },
-        {
-          "v": 12798585.241633,
-          "vw": 142.1433,
-          "o": 143.53,
-          "c": 142.8,
-          "h": 143.85,
-          "l": 138.8,
-          "t": 1777608000000,
-          "n": 117487
-        },
-        {
-          "v": 15170649.993211,
-          "vw": 146.4363,
-          "o": 143.85,
-          "c": 147.61,
-          "h": 149.47,
-          "l": 142.2301,
-          "t": 1777867200000,
-          "n": 135313
-        },
-        {
-          "v": 8550967.305853,
-          "vw": 143.5556,
-          "o": 143.91,
-          "c": 144.17,
-          "h": 144.8,
-          "l": 142.14,
-          "t": 1777953600000,
-          "n": 85225
-        },
-        {
-          "v": 12535303.926725,
-          "vw": 133.4081,
-          "o": 135.33,
-          "c": 133.95,
-          "h": 136.635,
-          "l": 132.56,
-          "t": 1778040000000,
-          "n": 139901
-        },
-        {
-          "v": 15902155.566205,
-          "vw": 132.5977,
-          "o": 128.77,
-          "c": 134.97,
-          "h": 136.79,
-          "l": 127.38,
-          "t": 1778126400000,
-          "n": 180262
-        },
-        {
-          "v": 7739649.608404,
-          "vw": 134.0005,
-          "o": 132.37,
-          "c": 133.59,
-          "h": 135.22,
-          "l": 132.14,
-          "t": 1778212800000,
-          "n": 99147
-        },
-        {
-          "v": 6252843.393372,
-          "vw": 138.3512,
-          "o": 136.69,
-          "c": 138.66,
-          "h": 140.9,
-          "l": 135.86,
-          "t": 1778472000000,
-          "n": 65289
-        },
-        {
-          "v": 6109856.619364,
-          "vw": 143.8753,
-          "o": 143.83,
-          "c": 144.3,
-          "h": 144.8,
-          "l": 143.09,
-          "t": 1778558400000,
-          "n": 61055
-        },
-        {
-          "v": 4719918.22831,
-          "vw": 143.1292,
-          "o": 143.92,
-          "c": 142.04,
-          "h": 145,
-          "l": 141.27,
-          "t": 1778644800000,
-          "n": 48980
-        },
-        {
-          "v": 4656036.014023,
-          "vw": 141.7137,
-          "o": 140.935,
-          "c": 143,
-          "h": 143,
-          "l": 140.59,
-          "t": 1778731200000,
-          "n": 43661
-        },
-        {
-          "v": 5588281.331042,
-          "vw": 147.0988,
-          "o": 145.55,
-          "c": 148.23,
-          "h": 148.41,
-          "l": 145.17,
-          "t": 1778817600000,
-          "n": 57633
-        },
-        {
-          "v": 10817342.834865,
-          "vw": 149.5167,
-          "o": 145.91,
-          "c": 149.29,
-          "h": 154.08,
-          "l": 144.96,
-          "t": 1779076800000,
-          "n": 111460
-        },
-        {
-          "v": 5514790.432911,
-          "vw": 151.9794,
-          "o": 152.878,
-          "c": 152.96,
-          "h": 153.5,
-          "l": 150.22,
-          "t": 1779163200000,
-          "n": 65039
-        },
-        {
-          "v": 11573821.879511,
-          "vw": 145.1023,
-          "o": 149.452,
-          "c": 144.27,
-          "h": 150.54,
-          "l": 141.96,
-          "t": 1779249600000,
-          "n": 116820
-        },
-        {
-          "v": 10203774.200567,
-          "vw": 144.8227,
-          "o": 149.27,
-          "c": 142.54,
-          "h": 150.255,
-          "l": 140.23,
-          "t": 1779336000000,
-          "n": 104664
-        },
-        {
-          "v": 7541288.889633,
-          "vw": 141.5353,
-          "o": 141.43,
-          "c": 140.92,
-          "h": 143.78,
-          "l": 138.71,
-          "t": 1779422400000,
-          "n": 85651
-        },
-        {
-          "v": 7574208.564696,
-          "vw": 137.0801,
-          "o": 136.34,
-          "c": 137,
-          "h": 138.695,
-          "l": 135.94,
-          "t": 1779768000000,
-          "n": 85602
-        },
-        {
-          "v": 8423312.857785,
-          "vw": 131.4212,
-          "o": 131.39,
-          "c": 131.03,
-          "h": 133.58,
-          "l": 129.64,
-          "t": 1779854400000,
-          "n": 83550
-        },
-        {
-          "v": 7533296.749249,
-          "vw": 130.8113,
-          "o": 133.34,
-          "c": 130.78,
-          "h": 133.8399,
-          "l": 127.77,
-          "t": 1779940800000,
-          "n": 70058
-        },
-        {
-          "v": 8226598.908268,
-          "vw": 128.0924,
-          "o": 128.305,
-          "c": 129.09,
-          "h": 130.3204,
-          "l": 126.55,
-          "t": 1780027200000,
-          "n": 72245
-        },
-        {
-          "v": 11053329.363494,
-          "vw": 136.0775,
-          "o": 135.65,
-          "c": 135.5,
-          "h": 138.91,
-          "l": 133.02,
-          "t": 1780286400000,
-          "n": 114265
-        },
-        {
-          "v": 3831240.21037,
-          "vw": 135.9101,
-          "o": 135.068,
-          "c": 137.27,
-          "h": 137.6701,
-          "l": 134.18,
-          "t": 1780372800000,
-          "n": 37672
-        },
-        {
-          "v": 4766162.227067,
-          "vw": 140.2697,
-          "o": 139.46,
-          "c": 140.86,
-          "h": 141.4184,
-          "l": 138.39,
-          "t": 1780459200000,
-          "n": 46549
-        },
-        {
-          "v": 4191988.247961,
-          "vw": 136.4576,
-          "o": 136.67,
-          "c": 136.74,
-          "h": 137.05,
-          "l": 135.01,
-          "t": 1780545600000,
-          "n": 43155
-        },
-        {
-          "v": 4653840.059274,
-          "vw": 133.6838,
-          "o": 135.14,
-          "c": 133.02,
-          "h": 135.2,
-          "l": 132.24,
-          "t": 1780632000000,
-          "n": 40414
-        }
-      ],
-      "last_close": 133.02,
-      "volume": 4653840.059274,
-      "rvol": 0.61,
-      "day_perf": -2.72,
-      "week_perf": -1.83,
-      "month_perf": -0.43,
-      "year_perf": 90.33,
-      "week52_high": 154.08,
-      "week52_low": 65.98,
-      "week52_pos": 76.1,
-      "pct_vs_52h": -13.67
-    },
     "XLP": {
       "name": "Consumer Staples Select Sector SPDR",
       "bars": [
@@ -8387,6 +8071,70 @@
   },
   "news": [
     {
+      "headline": "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html",
+      "datetime": 1780928412,
+      "summary": "The U.S. will lean on the same playbook it did starting in the late 1950s, part of which involves releasing sterile insects to suppress the pest's population.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108318123-1780926112237-gettyimages-2279608006-060626newworldscrewwormlapryorgettywfh010.jpeg?v=1780926153&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "datetime": 1780924956,
+      "summary": "The S&P 500 and Nasdaq were up as chipmakers rebounded after Friday's brutal selloff.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108313254-1779982389070-Traders-Photo-20260528-KK-PRESS-008.jpg?v=1779982579&w=1920&h=1080"
+    },
+    {
+      "headline": "We're trimming 2 recent winners to raise cash in case of another day like Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/were-trimming-2-recent-winners-to-raise-cash-in-case-of-another-day-like-friday.html",
+      "datetime": 1780923941,
+      "summary": "We're booking some profits in two hot stocks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&w=1920&h=1080"
+    },
+    {
+      "headline": "United CEO brushes off airline mergers after American rejection: 'There's nothing'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/08/united-ceo-airline-mergers.html",
+      "datetime": 1780922329,
+      "summary": "When asked about a wave of consolidation among airlines, Kirby said further combination opportunities look unlikely: \"There's nothing.\"",
+      "image": "https://image.cnbcfm.com/api/v1/image/108294993-1776806810140-gettyimages-2272449578-_73a9283_thf40opz.jpeg?v=1776806840&w=1920&h=1080"
+    },
+    {
+      "headline": "Why are the Houthis threatening to attack Red Sea shipping and what does it mean for oil markets? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZndSZ05Ec0xibk5xQ0JPWjFrM2ZzOGhyTDgtR01HOVhuY3J6THhKMVU3UXZxbnlKOUJma041dUJmcTlTNlJ2Q19PREcxWmc3b2pyV2dXVGFNSTJ5aXVTMG9RdDVEUk5CU0luTE9Hc19ESnBBMm5KWVZOblR6NzU0ejdJX1JPSzNQS0tlUzZLYXh3c1FRMjdYbUZ2dmJ5ajE0UU16eTBtYW9vQm9pQXJvM213RWVhLWpURkxPSDNkd1lmUEE1TXc?oc=5",
+      "datetime": 1780922240,
+      "summary": "Why are the Houthis threatening to attack Red Sea shipping and what does it mean for oil markets?\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Dollar eases slightly after Iran says attacks on Israel have ended - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjVId2FNeVRWMUxYOThKUi1uRmtrZzhnTnQ2U01uQTNDWFpVWFItUzRMT3BPWTFkU0pGajQ4WHRWMjNYb1JMSWl0bzYtTzRuQlg0WUdvdUkzdjRDc1VyUTA4c3VHSEZRZ01vNmhSZ1B6andZM1R4TVhTWjE5ZnBmeTh6aWpGWWFZQmdXQ21qVnB5ZHI2Zm9DTHFqbHI1SFdvXzNzYVc3NUk?oc=5",
+      "datetime": 1780921226,
+      "summary": "Dollar eases slightly after Iran says attacks on Israel have ended\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "EU sanctions Iranians over restricting naval traffic in Hormuz - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
+      "datetime": 1780919565,
+      "summary": "EU sanctions Iranians over restricting naval traffic in Hormuz\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLWxJeXJBNklmZEtETkg1d3ZTRkY2NUh4dlNXcy11Y0FYXzVoXzZ2anNoSHhuUTdSSUFvN2V4TzdfTlAwc0NLWEFYZFRuLWx3cUtUNEJmN1dkMVE1bHJhYXJJOW1VVEJZZFRtTTMzUUExNHlKNmtyQWlGbHAxY24xd0ptRnk5MWh5UHNNVmFaRUppckQ0WjlteHFPTHNVa0cxdll4cjdiVmE0dzVwWkhERXFONzM?oc=5",
+      "datetime": 1780918689,
+      "summary": "Yemen's Iran-backed Houthis threaten Israeli shipping in the Red Sea\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "USAA to return nearly $1 billion to Florida members as legal reforms help lower insurance costs",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/08/usaa-to-return-nearly-1-billion-to-florida-members-as-legal-reforms-help-lower-insurance-costs.html",
@@ -8395,11 +8143,11 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108317066-1780605174833-gettyimages-2279864315-dji_20260604142551_0391_d_jnno5jik.jpeg?v=1780605378&w=1920&h=1080"
     },
     {
-      "headline": "EU sanctions Iranians over restricting naval traffic in Hormuz - Reuters",
+      "headline": "Trump says Israel and Iran 'looking to do an immediate ceasefire' - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
-      "datetime": 1780916657,
-      "summary": "EU sanctions Iranians over restricting naval traffic in Hormuz\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalF4ZG9xOHFXbHQyMDR0ZVJCSnJsWl9xT2tza1F1dEpWNzhCamRnTDVJcXQ4TW1UYm1URDZuaG1mZnFNWXoxVHlKbHJOZWY0dFlRVTJfUnEyTFBFeWdnbGpJc3o1V2tDWExGbVhKSUVXdUNEU3gtVVp3ekI2UDR5ekYxZ05PQU13WmNNVHh6bS14SEx4Y3ZoOXAwMjBRRERxX0xmSC1aRS1HbFVpekE?oc=5",
+      "datetime": 1780915544,
+      "summary": "Trump says Israel and Iran 'looking to do an immediate ceasefire'\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8416,70 +8164,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJFcGZpeExSNGRHQXFXUmtzZ3RfVWg1Wnp5VDROODRub2JGVnpQNWRaeFN1dkdTTl9FZUc0RUNWOXkxWWRtY0Mxb20yYzBQdFcyWVlYc0FnQUZwVExYaGpLM0lQeGM4VDVTTkJ0bjZMV0xBR3JXZjRMeW4wNUE2NFpYWFJlSVJ5dHRhdE9pSjdzZ1I1Nld1UnVnaUxrZ0FmRW91bmRSSVg4OVMyR0NKdQ?oc=5",
       "datetime": 1780910023,
       "summary": "Private jet market defies Iran war gloom as rich flock to Monaco GP, Cannes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran blames US for latest exchanges of fire with Israel - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWhTUXlxMHY0ZC1tTERXbkpUZ2NWUlRjSDVWQlBtVEw3SHV5S2RhV2sxakpIUWUzNzVZZnpBcUhaWjVvVnNZWXQtaFBkNXBSVldCNG9OTW5DdHo0c2tKR0VLWlVTbTJ0dHVZbzVLa0VMR2dha0ZDc0pLQkY0UWtMMnVoM29raUI4ZURlLUh3b1ZkN0xxZVQ1WGFxN1dhWFMzZHNiZQ?oc=5",
-      "datetime": 1780909172,
-      "summary": "Iran blames US for latest exchanges of fire with Israel\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India inflation likely rose to 4% in May as food, fuel costs climb: Reuters poll - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUp4STFqMExfSTZRZjFual9FYVRLTmd0OHI3LTZWdkRnX3dGT21OZDd5ZGxKbFJkV0NFSkhKYWdHdl9GZkpVWkNha240bXFLVlk1Vk1SU2dXUTNYQVE1SmtkVTUwZWJwUENocEpmeDZYSmtDMFQ5NGVMeFFLVDNrQ0w4M1N2eDR1YWhncWRmckxZLW5XcUYtNXVnZ2JXT3ZlNDhQc0dB?oc=5",
-      "datetime": 1780904217,
-      "summary": "India inflation likely rose to 4% in May as food, fuel costs climb: Reuters poll\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil market calm masks a host of unknowns - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3Q3T2xKWFI3bFdfMUZtUTBjVmlKT3B3elNTaWlpNGtfUFFQWW92RDBsRjh2NndOMjhBVWc2TGZHeTlQNkR4Z0FHMDlIWVVVd2w4eEJ2RUFMVjAzV0RGV3FBdVpXUjdacFc5UHdWaVdPTExIN3hfeHZVdl92ektkbGY2YmtINFltQ0s1NE9ZWjNDVmxJbjc1YVJIWmZRQ0pVdng4dV9uMA?oc=5",
-      "datetime": 1780898580,
-      "summary": "Oil market calm masks a host of unknowns\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Vietnam cbank vice governor says country will lean towards fiscal policy to meet growth target - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGtkUzZLTTYtZTBCYkJxWnBRc19MTXFOUDEwZ0FqclJuM3lyOHBkZjE5SXgtWkYxTjVBRlhoQ2FidTlRNEZDQnRRaTF6NXB2bWZpRVRubkFZX29qWHJ4MUtUbnprVVZRNmtxb0NPYW0yVE01SDdKR21idUFlV2FHdXBJMXlycTNxalVGVU1ucDZsZ3V6bi0zb3psaTRFRlZQeW1SS0RtQVpIQnc2MkFpN1dFVDh1QVRsUXFKb2pPZ3pzcWZwUFA0Q3FFWVk?oc=5",
-      "datetime": 1780897380,
-      "summary": "Vietnam cbank vice governor says country will lean towards fiscal policy to meet growth target\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Bank of England's Taylor sees rates on hold barring worst-case scenario - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXVNMEwtRjhrdXRXX1dQZXhzVklwR0gycXdSM1plSUxBa1Fkb0hlRlBMbURlYVhqUzBUN3Zaa3NZNVF4eGliYjgxQlJJZXZfdFBjX210c1BnVGJqdUh0eW5VOFVQZ3NHXzJkZGk1b2ZUVWRHTWJ1RlBKWjFJOTZLN1pTSGpydU9IaWFTS2lrNW9fcFg3SWRpdzNzcjZyT1RqeFFZNEs1a3hrTml0bkE?oc=5",
-      "datetime": 1780895940,
-      "summary": "Bank of England's Taylor sees rates on hold barring worst-case scenario\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjVSOTNvREwzVnhncmx3eVFGWTFBNU1ocGtIbmhOSXhDdTVqNVNLek0xaS1EWVhfNURyU0lXSWRUV0ZfZ0RJSVhNaTdOc2V6SlNrQll2SkpNZHBGYWtObkdTOHdpRmRhMGVXdmdGejZ4clNoQlBYbVJqbTBsTGMwNFhwMTlpZ1ZSZ2ZIdm5hQ0t1VUo1cWxSeFdITU9lV1ZXLS10SEh2elREdDNTUkMwTTBMdDdMR0hqVlNYVDhn?oc=5",
-      "datetime": 1780893000,
-      "summary": "Hormuz strait will be open but with transit fees, Iran envoy to Moscow quoted\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "China's global e-commerce push stalls as Iran war lifts costs, dampens demand - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMVVScGhlUWlOQl9KZk9nY2dHdV96RG9VWFVPSW9jaU80R3ZxQnlXTV84OVNldmtSQWpIZEFaNGhvYzljWVB1ajdWV01ueWVEY2JyaURkNnVxc0RBQl9NN2c5X2o1RWlGdzhiS1o2VVNnSzJ3a0lLYjQ3clRySG9pczJLLWg5WnFzOFZNbld1ZGZHYkFmNUFYVE9RazZxVTZXaDJrMU9aeDdxTUJqeXpKb1RVS01pdkI2OXM3NkcyNzNNZlJDU09aVkt2ai1UMTkxa3pWLQ?oc=5",
-      "datetime": 1780891440,
-      "summary": "China's global e-commerce push stalls as Iran war lifts costs, dampens demand\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Rupee slumps as elevated crude, Treasury yields support dollar - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVc2R0NiNjh6dTIxSmR0OFdMaE1MRXAteVZWRVRRWXo2M1RnVHZRSFRPTEh5aXhreHlHZmdGeWRCRThLTUs1MWhGcUhJSmQxYjU2dWlGcmtzNEVxU1lDRVZlNUNHdG9VTDBFTEJkYkdpU2ZiZGdmUnhRYy1RNnN6U2lYMkFyOVYxdVpqWkFOQjFydFgzRi1ZTmNoLXFzUWpVTUJjNU1wU01VUVpPc0JaTw?oc=5",
-      "datetime": 1780887180,
-      "summary": "Rupee slumps as elevated crude, Treasury yields support dollar\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
