@@ -352,27 +352,30 @@
       "industry": "Trading Companies & Distributors",
       "timing": "bmo",
       "eps_estimate": 0.6756,
-      "eps_actual": null,
+      "eps_actual": 0.72,
       "revenue_estimate": 1924204610,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1910000000,
+      "revenue_beat": false,
       "market_cap": 10252030947.852625,
-      "last_close": 52.65,
-      "prev_close": 52.18,
-      "gap_pct": 0.9,
-      "volume": 2354985.471865,
-      "rvol": 1.12,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
       "week52_high": 67.18,
       "week52_low": 43.96,
-      "week52_pos": 37.4,
+      "week52_pos": null,
       "pe_ratio": 23.2472,
       "revenue_streak": [
         {
-          "period": "2026-03-31",
-          "eps_actual": 0.52,
-          "eps_estimate": 0.4231,
-          "surprise_pct": 22.9024,
-          "beat": true
+          "period": "2026-06-30",
+          "eps_actual": 0.72,
+          "eps_estimate": 0.6756,
+          "surprise_pct": 6.5719,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1910000000,
+          "rev_estimate": 1924204610
         },
         {
           "period": "2026-03-31",
@@ -382,10 +385,10 @@
           "beat": true
         },
         {
-          "period": "2025-12-31",
-          "eps_actual": 0.89,
-          "eps_estimate": 0.7682,
-          "surprise_pct": 15.8552,
+          "period": "2026-03-31",
+          "eps_actual": 0.52,
+          "eps_estimate": 0.4231,
+          "surprise_pct": 22.9024,
           "beat": true
         },
         {
@@ -398,11 +401,14 @@
       ],
       "prev_quarters": [
         {
-          "period": "2026-03-31",
-          "eps_actual": 0.52,
-          "eps_estimate": 0.4231,
-          "surprise_pct": 22.9024,
-          "beat": true
+          "period": "2026-06-30",
+          "eps_actual": 0.72,
+          "eps_estimate": 0.6756,
+          "surprise_pct": 6.5719,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1910000000,
+          "rev_estimate": 1924204610
         },
         {
           "period": "2026-03-31",
@@ -412,278 +418,7 @@
           "beat": true
         }
       ],
-      "bars": [
-        {
-          "v": 1237270.888745,
-          "vw": 49.2414,
-          "o": 50.57,
-          "c": 49.02,
-          "h": 50.63,
-          "l": 48.92,
-          "t": 1777608000000,
-          "n": 21884
-        },
-        {
-          "v": 1471877.549284,
-          "vw": 48.689,
-          "o": 48.8,
-          "c": 48.46,
-          "h": 49.48,
-          "l": 48.29,
-          "t": 1777867200000,
-          "n": 22957
-        },
-        {
-          "v": 1901316.417624,
-          "vw": 49.1825,
-          "o": 48.9,
-          "c": 49.04,
-          "h": 49.66,
-          "l": 48.8,
-          "t": 1777953600000,
-          "n": 26268
-        },
-        {
-          "v": 2367506.096025,
-          "vw": 50.5608,
-          "o": 50.11,
-          "c": 50.67,
-          "h": 50.94,
-          "l": 49.98,
-          "t": 1778040000000,
-          "n": 28809
-        },
-        {
-          "v": 1538773.973927,
-          "vw": 50.1484,
-          "o": 51.04,
-          "c": 49.66,
-          "h": 51.79,
-          "l": 49.65,
-          "t": 1778126400000,
-          "n": 27006
-        },
-        {
-          "v": 1725592.280872,
-          "vw": 49.2548,
-          "o": 49.79,
-          "c": 49.09,
-          "h": 50.4,
-          "l": 48.985,
-          "t": 1778212800000,
-          "n": 27157
-        },
-        {
-          "v": 1502137.48203,
-          "vw": 48.9296,
-          "o": 48.67,
-          "c": 48.91,
-          "h": 49.26,
-          "l": 48.27,
-          "t": 1778472000000,
-          "n": 26146
-        },
-        {
-          "v": 3561154.820777,
-          "vw": 48.1916,
-          "o": 48.85,
-          "c": 47.5,
-          "h": 49.215,
-          "l": 47.3,
-          "t": 1778558400000,
-          "n": 39364
-        },
-        {
-          "v": 3900409.949001,
-          "vw": 47.0123,
-          "o": 47.14,
-          "c": 47.38,
-          "h": 47.61,
-          "l": 46.07,
-          "t": 1778644800000,
-          "n": 43821
-        },
-        {
-          "v": 2191571.023538,
-          "vw": 48.1114,
-          "o": 47.77,
-          "c": 48.03,
-          "h": 48.91,
-          "l": 47.77,
-          "t": 1778731200000,
-          "n": 30712
-        },
-        {
-          "v": 1721206.131572,
-          "vw": 47.0068,
-          "o": 47.69,
-          "c": 46.77,
-          "h": 48.15,
-          "l": 46.63,
-          "t": 1778817600000,
-          "n": 31934
-        },
-        {
-          "v": 2059092.151676,
-          "vw": 46.8014,
-          "o": 46.85,
-          "c": 46.13,
-          "h": 47.75,
-          "l": 46.105,
-          "t": 1779076800000,
-          "n": 28978
-        },
-        {
-          "v": 1961769.553089,
-          "vw": 45.2513,
-          "o": 45.95,
-          "c": 44.99,
-          "h": 46.15,
-          "l": 44.71,
-          "t": 1779163200000,
-          "n": 30143
-        },
-        {
-          "v": 2071324.861364,
-          "vw": 46.7266,
-          "o": 45.3,
-          "c": 47.12,
-          "h": 47.28,
-          "l": 44.9,
-          "t": 1779249600000,
-          "n": 33232
-        },
-        {
-          "v": 1619421.144762,
-          "vw": 47.1548,
-          "o": 46.61,
-          "c": 47.16,
-          "h": 47.6,
-          "l": 46.35,
-          "t": 1779336000000,
-          "n": 27251
-        },
-        {
-          "v": 1342150.177802,
-          "vw": 47.3649,
-          "o": 47.33,
-          "c": 47.27,
-          "h": 47.86,
-          "l": 46.81,
-          "t": 1779422400000,
-          "n": 20091
-        },
-        {
-          "v": 2211261.059077,
-          "vw": 48.452,
-          "o": 47.57,
-          "c": 48.78,
-          "h": 48.8,
-          "l": 47.52,
-          "t": 1779768000000,
-          "n": 25969
-        },
-        {
-          "v": 1406844.342279,
-          "vw": 49.3409,
-          "o": 49.12,
-          "c": 49.19,
-          "h": 50.18,
-          "l": 49.02,
-          "t": 1779854400000,
-          "n": 24414
-        },
-        {
-          "v": 1455092.581915,
-          "vw": 49.1049,
-          "o": 48.64,
-          "c": 49.17,
-          "h": 49.48,
-          "l": 48.07,
-          "t": 1779940800000,
-          "n": 26292
-        },
-        {
-          "v": 3077266.187599,
-          "vw": 49.6567,
-          "o": 49.07,
-          "c": 49.45,
-          "h": 50.11,
-          "l": 48.965,
-          "t": 1780027200000,
-          "n": 34446
-        },
-        {
-          "v": 1636334.718337,
-          "vw": 48.6311,
-          "o": 48.92,
-          "c": 49.08,
-          "h": 49.125,
-          "l": 47.715,
-          "t": 1780286400000,
-          "n": 29579
-        },
-        {
-          "v": 1534332.410841,
-          "vw": 50.1101,
-          "o": 49.24,
-          "c": 50.48,
-          "h": 50.53,
-          "l": 49.125,
-          "t": 1780372800000,
-          "n": 25505
-        },
-        {
-          "v": 2176188.031696,
-          "vw": 51.7525,
-          "o": 50.92,
-          "c": 52.12,
-          "h": 52.28,
-          "l": 50.47,
-          "t": 1780459200000,
-          "n": 28270
-        },
-        {
-          "v": 2045276.866001,
-          "vw": 52.4569,
-          "o": 52.46,
-          "c": 52.37,
-          "h": 52.83,
-          "l": 51.91,
-          "t": 1780545600000,
-          "n": 35386
-        },
-        {
-          "v": 2198417.363833,
-          "vw": 52.1097,
-          "o": 52.45,
-          "c": 51.97,
-          "h": 52.69,
-          "l": 51.65,
-          "t": 1780632000000,
-          "n": 30315
-        },
-        {
-          "v": 2419949.990893,
-          "vw": 52.2527,
-          "o": 52.07,
-          "c": 52.18,
-          "h": 52.9,
-          "l": 51.49,
-          "t": 1780891200000,
-          "n": 32475
-        },
-        {
-          "v": 2354985.471865,
-          "vw": 52.6159,
-          "o": 52.56,
-          "c": 52.65,
-          "h": 53.2,
-          "l": 51.89,
-          "t": 1780977600000,
-          "n": 38700
-        }
-      ]
+      "bars": []
     },
     {
       "symbol": "CHWY",
@@ -2325,14 +2060,14 @@
       "revenue_actual": 94500000,
       "revenue_beat": false,
       "market_cap": 54894621.47041846,
-      "last_close": 6.13,
-      "prev_close": 6.93,
-      "gap_pct": -11.54,
-      "volume": 180730.527787,
-      "rvol": 2.82,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
       "week52_high": 21.249,
       "week52_low": 3.43,
-      "week52_pos": 15.2,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -2386,278 +2121,7 @@
           "beat": false
         }
       ],
-      "bars": [
-        {
-          "v": 147069.617947,
-          "vw": 8.3177,
-          "o": 7.74,
-          "c": 8.28,
-          "h": 8.7,
-          "l": 7.731,
-          "t": 1777608000000,
-          "n": 2610
-        },
-        {
-          "v": 250354.325664,
-          "vw": 7.6462,
-          "o": 8.24,
-          "c": 7.72,
-          "h": 8.5657,
-          "l": 6.91,
-          "t": 1777867200000,
-          "n": 3375
-        },
-        {
-          "v": 231557.332637,
-          "vw": 8.0256,
-          "o": 7.54,
-          "c": 8.62,
-          "h": 8.735,
-          "l": 7.0201,
-          "t": 1777953600000,
-          "n": 2579
-        },
-        {
-          "v": 155179.959543,
-          "vw": 8.1815,
-          "o": 8.77,
-          "c": 8.16,
-          "h": 8.77,
-          "l": 7.74,
-          "t": 1778040000000,
-          "n": 2470
-        },
-        {
-          "v": 88482.597492,
-          "vw": 8.2657,
-          "o": 8.33,
-          "c": 8.27,
-          "h": 8.625,
-          "l": 7.93,
-          "t": 1778126400000,
-          "n": 1630
-        },
-        {
-          "v": 82986.976315,
-          "vw": 8.3728,
-          "o": 8.36,
-          "c": 8.57,
-          "h": 8.65,
-          "l": 7.89,
-          "t": 1778212800000,
-          "n": 1151
-        },
-        {
-          "v": 101940.343672,
-          "vw": 7.816,
-          "o": 8.53,
-          "c": 7.73,
-          "h": 8.53,
-          "l": 7.4701,
-          "t": 1778472000000,
-          "n": 1488
-        },
-        {
-          "v": 86888.081347,
-          "vw": 7.7597,
-          "o": 7.81,
-          "c": 7.69,
-          "h": 8.11,
-          "l": 7.32,
-          "t": 1778558400000,
-          "n": 2130
-        },
-        {
-          "v": 101777.11882,
-          "vw": 7.5648,
-          "o": 7.56,
-          "c": 7.44,
-          "h": 8.05,
-          "l": 7.28,
-          "t": 1778644800000,
-          "n": 2884
-        },
-        {
-          "v": 77142.651563,
-          "vw": 6.9291,
-          "o": 7.3,
-          "c": 6.79,
-          "h": 7.555,
-          "l": 6.62,
-          "t": 1778731200000,
-          "n": 1701
-        },
-        {
-          "v": 99708.861692,
-          "vw": 6.6068,
-          "o": 6.71,
-          "c": 6.57,
-          "h": 6.84,
-          "l": 6.46,
-          "t": 1778817600000,
-          "n": 1539
-        },
-        {
-          "v": 83199.632503,
-          "vw": 6.6063,
-          "o": 6.53,
-          "c": 6.57,
-          "h": 6.85,
-          "l": 6.3,
-          "t": 1779076800000,
-          "n": 1529
-        },
-        {
-          "v": 51313.272,
-          "vw": 6.7787,
-          "o": 6.62,
-          "c": 6.97,
-          "h": 7.03,
-          "l": 6.4508,
-          "t": 1779163200000,
-          "n": 1089
-        },
-        {
-          "v": 64791.036877,
-          "vw": 7.1056,
-          "o": 6.96,
-          "c": 7.26,
-          "h": 7.3,
-          "l": 6.69,
-          "t": 1779249600000,
-          "n": 1781
-        },
-        {
-          "v": 65800.099206,
-          "vw": 7.0619,
-          "o": 7.1,
-          "c": 7.06,
-          "h": 7.46,
-          "l": 6.745,
-          "t": 1779336000000,
-          "n": 1608
-        },
-        {
-          "v": 42287.465316,
-          "vw": 7.0733,
-          "o": 7.11,
-          "c": 7.18,
-          "h": 7.2999,
-          "l": 6.8,
-          "t": 1779422400000,
-          "n": 1138
-        },
-        {
-          "v": 54711.642072,
-          "vw": 7.4252,
-          "o": 7.29,
-          "c": 7.41,
-          "h": 7.64,
-          "l": 7.125,
-          "t": 1779768000000,
-          "n": 1670
-        },
-        {
-          "v": 56674.981581,
-          "vw": 7.2289,
-          "o": 7.38,
-          "c": 7.42,
-          "h": 7.62,
-          "l": 6.84,
-          "t": 1779854400000,
-          "n": 1260
-        },
-        {
-          "v": 39327.035217,
-          "vw": 7.4728,
-          "o": 7.35,
-          "c": 7.43,
-          "h": 7.745,
-          "l": 7.2101,
-          "t": 1779940800000,
-          "n": 925
-        },
-        {
-          "v": 56196.390348,
-          "vw": 7.4061,
-          "o": 7.32,
-          "c": 7.29,
-          "h": 7.65,
-          "l": 7.2,
-          "t": 1780027200000,
-          "n": 1470
-        },
-        {
-          "v": 85807.800699,
-          "vw": 7.7757,
-          "o": 7.16,
-          "c": 7.87,
-          "h": 8.09,
-          "l": 7.095,
-          "t": 1780286400000,
-          "n": 1636
-        },
-        {
-          "v": 51693.606589,
-          "vw": 7.8889,
-          "o": 7.87,
-          "c": 7.97,
-          "h": 8,
-          "l": 7.62,
-          "t": 1780372800000,
-          "n": 1683
-        },
-        {
-          "v": 54860.527208,
-          "vw": 7.2444,
-          "o": 7.75,
-          "c": 7.21,
-          "h": 7.75,
-          "l": 7.1,
-          "t": 1780459200000,
-          "n": 1131
-        },
-        {
-          "v": 32849.626755,
-          "vw": 7.1164,
-          "o": 7.09,
-          "c": 7.14,
-          "h": 7.26,
-          "l": 6.87,
-          "t": 1780545600000,
-          "n": 719
-        },
-        {
-          "v": 33339.371026,
-          "vw": 7.0286,
-          "o": 7.08,
-          "c": 7.05,
-          "h": 7.21,
-          "l": 6.82,
-          "t": 1780632000000,
-          "n": 1017
-        },
-        {
-          "v": 42758.398655,
-          "vw": 7.0273,
-          "o": 6.96,
-          "c": 6.93,
-          "h": 7.185,
-          "l": 6.8971,
-          "t": 1780891200000,
-          "n": 1668
-        },
-        {
-          "v": 180730.527787,
-          "vw": 6.345,
-          "o": 7.13,
-          "c": 6.13,
-          "h": 7.64,
-          "l": 5.8901,
-          "t": 1780977600000,
-          "n": 2439
-        }
-      ]
+      "bars": []
     },
     {
       "symbol": "CRMT",
@@ -8056,322 +7520,6 @@
       "week52_pos": 72.2,
       "pct_vs_52h": -6.22
     },
-    "XLK": {
-      "name": "Technology Select Sector SPDR",
-      "bars": [
-        {
-          "v": 9252973.334808,
-          "vw": 157.5074,
-          "o": 157.11,
-          "c": 157.85,
-          "h": 158.64,
-          "l": 156.16,
-          "t": 1777348800000,
-          "n": 151232
-        },
-        {
-          "v": 7506934.376284,
-          "vw": 158.543,
-          "o": 158.83,
-          "c": 159.11,
-          "h": 159.15,
-          "l": 157.75,
-          "t": 1777435200000,
-          "n": 141894
-        },
-        {
-          "v": 9276361.627351,
-          "vw": 158.7393,
-          "o": 159.65,
-          "c": 159.5,
-          "h": 159.8,
-          "l": 156.88,
-          "t": 1777521600000,
-          "n": 201724
-        },
-        {
-          "v": 10161809.728338,
-          "vw": 161.748,
-          "o": 160.39,
-          "c": 161.87,
-          "h": 162.285,
-          "l": 160.14,
-          "t": 1777608000000,
-          "n": 216913
-        },
-        {
-          "v": 10739960.499318,
-          "vw": 162.1957,
-          "o": 162.705,
-          "c": 162.05,
-          "h": 163.24,
-          "l": 160.88,
-          "t": 1777867200000,
-          "n": 211037
-        },
-        {
-          "v": 9813549.221557,
-          "vw": 165.3309,
-          "o": 163.87,
-          "c": 165.63,
-          "h": 166.02,
-          "l": 163.52,
-          "t": 1777953600000,
-          "n": 178109
-        },
-        {
-          "v": 11304664.740403,
-          "vw": 168.7888,
-          "o": 167.88,
-          "c": 170.03,
-          "h": 170.08,
-          "l": 166.84,
-          "t": 1778040000000,
-          "n": 271340
-        },
-        {
-          "v": 11031513.417057,
-          "vw": 170.017,
-          "o": 170.26,
-          "c": 169.69,
-          "h": 171.95,
-          "l": 168.7,
-          "t": 1778126400000,
-          "n": 292592
-        },
-        {
-          "v": 11222155.354626,
-          "vw": 174.5056,
-          "o": 171.59,
-          "c": 175.52,
-          "h": 175.6,
-          "l": 171.3,
-          "t": 1778212800000,
-          "n": 262671
-        },
-        {
-          "v": 10461797.221036,
-          "vw": 177.4443,
-          "o": 176.15,
-          "c": 177.88,
-          "h": 178.3,
-          "l": 175.87,
-          "t": 1778472000000,
-          "n": 257935
-        },
-        {
-          "v": 15950695.747593,
-          "vw": 174.0183,
-          "o": 176.15,
-          "c": 175.2,
-          "h": 176.99,
-          "l": 171.195,
-          "t": 1778558400000,
-          "n": 507655
-        },
-        {
-          "v": 9817869.00262,
-          "vw": 176.3926,
-          "o": 177.27,
-          "c": 176.85,
-          "h": 177.74,
-          "l": 174.26,
-          "t": 1778644800000,
-          "n": 230795
-        },
-        {
-          "v": 11424870.516069,
-          "vw": 179.2582,
-          "o": 177.36,
-          "c": 179.5,
-          "h": 180.215,
-          "l": 176.865,
-          "t": 1778731200000,
-          "n": 332627
-        },
-        {
-          "v": 14518963.403738,
-          "vw": 176.7475,
-          "o": 176.21,
-          "c": 176.26,
-          "h": 178.7,
-          "l": 174.63,
-          "t": 1778817600000,
-          "n": 323109
-        },
-        {
-          "v": 19162640.273304,
-          "vw": 173.9547,
-          "o": 177.62,
-          "c": 174.36,
-          "h": 177.85,
-          "l": 171.91,
-          "t": 1779076800000,
-          "n": 490478
-        },
-        {
-          "v": 15751423.397351,
-          "vw": 173.2399,
-          "o": 172.68,
-          "c": 173.24,
-          "h": 175.18,
-          "l": 170.831,
-          "t": 1779163200000,
-          "n": 387495
-        },
-        {
-          "v": 12630253.265188,
-          "vw": 176.1825,
-          "o": 174.66,
-          "c": 177.14,
-          "h": 177.25,
-          "l": 173.95,
-          "t": 1779249600000,
-          "n": 249543
-        },
-        {
-          "v": 10873195.64379,
-          "vw": 177.6669,
-          "o": 175.83,
-          "c": 178.6,
-          "h": 178.98,
-          "l": 175.83,
-          "t": 1779336000000,
-          "n": 244893
-        },
-        {
-          "v": 10742209.552344,
-          "vw": 180.7434,
-          "o": 180.03,
-          "c": 180.39,
-          "h": 181.73,
-          "l": 179.56,
-          "t": 1779422400000,
-          "n": 251101
-        },
-        {
-          "v": 12500330.158228,
-          "vw": 184.7871,
-          "o": 183.2,
-          "c": 185.14,
-          "h": 186,
-          "l": 182.585,
-          "t": 1779768000000,
-          "n": 264667
-        },
-        {
-          "v": 12300345.745023,
-          "vw": 184.0604,
-          "o": 186.18,
-          "c": 184.43,
-          "h": 186.265,
-          "l": 182.54,
-          "t": 1779854400000,
-          "n": 252232
-        },
-        {
-          "v": 11167566.78381,
-          "vw": 186.3197,
-          "o": 184.83,
-          "c": 186.85,
-          "h": 187.58,
-          "l": 183.79,
-          "t": 1779940800000,
-          "n": 211565
-        },
-        {
-          "v": 15040309.071869,
-          "vw": 190.6342,
-          "o": 189.33,
-          "c": 191.02,
-          "h": 191.63,
-          "l": 189.195,
-          "t": 1780027200000,
-          "n": 246235
-        },
-        {
-          "v": 18968777.450188,
-          "vw": 194.3293,
-          "o": 192.32,
-          "c": 195.76,
-          "h": 196.4999,
-          "l": 191.15,
-          "t": 1780286400000,
-          "n": 369745
-        },
-        {
-          "v": 10175184.54309,
-          "vw": 197.2832,
-          "o": 196.45,
-          "c": 198.21,
-          "h": 198.38,
-          "l": 195.75,
-          "t": 1780372800000,
-          "n": 196366
-        },
-        {
-          "v": 11582093.34224,
-          "vw": 196.3166,
-          "o": 198.37,
-          "c": 196.23,
-          "h": 198.73,
-          "l": 194.525,
-          "t": 1780459200000,
-          "n": 268457
-        },
-        {
-          "v": 13142622.450644,
-          "vw": 192.3582,
-          "o": 191.52,
-          "c": 193.17,
-          "h": 194.74,
-          "l": 189.69,
-          "t": 1780545600000,
-          "n": 283810
-        },
-        {
-          "v": 26816074.027433,
-          "vw": 183.5915,
-          "o": 188.885,
-          "c": 180.3,
-          "h": 189.22,
-          "l": 179.8,
-          "t": 1780632000000,
-          "n": 677716
-        },
-        {
-          "v": 14684968.922139,
-          "vw": 184.8539,
-          "o": 185.22,
-          "c": 184.18,
-          "h": 186.71,
-          "l": 183.1701,
-          "t": 1780891200000,
-          "n": 317919
-        },
-        {
-          "v": 29884444.742258,
-          "vw": 178.8207,
-          "o": 185.91,
-          "c": 180.77,
-          "h": 187.08,
-          "l": 172.88,
-          "t": 1780977600000,
-          "n": 684549
-        }
-      ],
-      "last_close": 180.77,
-      "volume": 29884444.742258,
-      "rvol": 2.15,
-      "day_perf": -1.85,
-      "week_perf": -7.88,
-      "month_perf": 2.99,
-      "year_perf": 53.11,
-      "week52_high": 198.73,
-      "week52_low": 117.56,
-      "week52_pos": 77.9,
-      "pct_vs_52h": -9.04
-    },
     "URA": {
       "name": "Global X Uranium ETF",
       "bars": [
@@ -8687,325 +7835,49 @@
       "week52_low": 32.93,
       "week52_pos": 38.1,
       "pct_vs_52h": -29.16
-    },
-    "IGV": {
-      "name": "iShares Expanded Tech-Software ETF",
-      "bars": [
-        {
-          "v": 18507445.376831,
-          "vw": 85.1568,
-          "o": 85.24,
-          "c": 85,
-          "h": 86.02,
-          "l": 84.56,
-          "t": 1777348800000,
-          "n": 145413
-        },
-        {
-          "v": 11182901.333138,
-          "vw": 83.8684,
-          "o": 84.49,
-          "c": 84.5,
-          "h": 84.55,
-          "l": 83.26,
-          "t": 1777435200000,
-          "n": 102830
-        },
-        {
-          "v": 26292683.791011,
-          "vw": 83.4868,
-          "o": 83.9,
-          "c": 83.91,
-          "h": 84.11,
-          "l": 82.18,
-          "t": 1777521600000,
-          "n": 169604
-        },
-        {
-          "v": 23314383.581168,
-          "vw": 86.2318,
-          "o": 86.12,
-          "c": 86.63,
-          "h": 87.04,
-          "l": 84.87,
-          "t": 1777608000000,
-          "n": 193804
-        },
-        {
-          "v": 18374361.919933,
-          "vw": 88.4708,
-          "o": 87.23,
-          "c": 88.44,
-          "h": 89.355,
-          "l": 87.02,
-          "t": 1777867200000,
-          "n": 190577
-        },
-        {
-          "v": 18348878.275796,
-          "vw": 87.9775,
-          "o": 88.59,
-          "c": 88.27,
-          "h": 88.83,
-          "l": 87.1,
-          "t": 1777953600000,
-          "n": 167366
-        },
-        {
-          "v": 23584684.744095,
-          "vw": 87.4204,
-          "o": 88.27,
-          "c": 87.82,
-          "h": 88.42,
-          "l": 86.33,
-          "t": 1778040000000,
-          "n": 207245
-        },
-        {
-          "v": 29902798.862082,
-          "vw": 91.0379,
-          "o": 90.005,
-          "c": 90.85,
-          "h": 91.98,
-          "l": 89.92,
-          "t": 1778126400000,
-          "n": 265095
-        },
-        {
-          "v": 17106588.634893,
-          "vw": 89.9818,
-          "o": 89.83,
-          "c": 91.15,
-          "h": 91.15,
-          "l": 88.28,
-          "t": 1778212800000,
-          "n": 174215
-        },
-        {
-          "v": 13442577.369919,
-          "vw": 90.3558,
-          "o": 90.095,
-          "c": 90.69,
-          "h": 90.79,
-          "l": 89.805,
-          "t": 1778472000000,
-          "n": 136042
-        },
-        {
-          "v": 25300714.445114,
-          "vw": 89.4479,
-          "o": 90.7,
-          "c": 89.44,
-          "h": 90.87,
-          "l": 88.76,
-          "t": 1778558400000,
-          "n": 184816
-        },
-        {
-          "v": 17058874.397267,
-          "vw": 88.2963,
-          "o": 88.82,
-          "c": 88.6,
-          "h": 89.02,
-          "l": 87.5,
-          "t": 1778644800000,
-          "n": 149807
-        },
-        {
-          "v": 17069857.880755,
-          "vw": 90.1819,
-          "o": 88.7,
-          "c": 90.64,
-          "h": 91.08,
-          "l": 87.66,
-          "t": 1778731200000,
-          "n": 172562
-        },
-        {
-          "v": 28612293.996166,
-          "vw": 91.5555,
-          "o": 90.36,
-          "c": 91.78,
-          "h": 92.71,
-          "l": 89.9,
-          "t": 1778817600000,
-          "n": 209256
-        },
-        {
-          "v": 31004694.713025,
-          "vw": 92.337,
-          "o": 91.06,
-          "c": 92.87,
-          "h": 93.29,
-          "l": 90.73,
-          "t": 1779076800000,
-          "n": 240185
-        },
-        {
-          "v": 26334008.917592,
-          "vw": 92.9274,
-          "o": 93.81,
-          "c": 91.95,
-          "h": 94.78,
-          "l": 91.85,
-          "t": 1779163200000,
-          "n": 237894
-        },
-        {
-          "v": 18689461.955786,
-          "vw": 92.2725,
-          "o": 90.925,
-          "c": 93.32,
-          "h": 93.32,
-          "l": 90.04,
-          "t": 1779249600000,
-          "n": 147073
-        },
-        {
-          "v": 12795466.302494,
-          "vw": 92.2914,
-          "o": 92.12,
-          "c": 92.48,
-          "h": 92.97,
-          "l": 91.58,
-          "t": 1779336000000,
-          "n": 119651
-        },
-        {
-          "v": 11681317.772048,
-          "vw": 93.9563,
-          "o": 93.2,
-          "c": 94.01,
-          "h": 94.915,
-          "l": 93.13,
-          "t": 1779422400000,
-          "n": 89024
-        },
-        {
-          "v": 18696014.260426,
-          "vw": 94.1139,
-          "o": 93.97,
-          "c": 94.05,
-          "h": 94.87,
-          "l": 93.01,
-          "t": 1779768000000,
-          "n": 124067
-        },
-        {
-          "v": 13179961.160017,
-          "vw": 93.3119,
-          "o": 92.57,
-          "c": 93.045,
-          "h": 94.325,
-          "l": 92.27,
-          "t": 1779854400000,
-          "n": 132497
-        },
-        {
-          "v": 17442623.350337,
-          "vw": 95.0862,
-          "o": 93.4,
-          "c": 95.68,
-          "h": 96.14,
-          "l": 92.96,
-          "t": 1779940800000,
-          "n": 150680
-        },
-        {
-          "v": 37720972.353205,
-          "vw": 100.2116,
-          "o": 96.89,
-          "c": 101.66,
-          "h": 101.69,
-          "l": 96.53,
-          "t": 1780027200000,
-          "n": 255737
-        },
-        {
-          "v": 40104353.134324,
-          "vw": 106.1033,
-          "o": 104.02,
-          "c": 107.7,
-          "h": 108.055,
-          "l": 102.95,
-          "t": 1780286400000,
-          "n": 320393
-        },
-        {
-          "v": 24585956.325933,
-          "vw": 104.2383,
-          "o": 104.57,
-          "c": 104.73,
-          "h": 105.77,
-          "l": 102.9601,
-          "t": 1780372800000,
-          "n": 229525
-        },
-        {
-          "v": 24946444.640667,
-          "vw": 100.6533,
-          "o": 103.33,
-          "c": 100.2,
-          "h": 103.5,
-          "l": 99.93,
-          "t": 1780459200000,
-          "n": 246899
-        },
-        {
-          "v": 17144662.15328,
-          "vw": 100.2696,
-          "o": 100.05,
-          "c": 100.06,
-          "h": 101.2599,
-          "l": 99.06,
-          "t": 1780545600000,
-          "n": 156443
-        },
-        {
-          "v": 19514045.00979,
-          "vw": 96.7683,
-          "o": 99.41,
-          "c": 95.85,
-          "h": 100,
-          "l": 95.08,
-          "t": 1780632000000,
-          "n": 158544
-        },
-        {
-          "v": 12374766.562745,
-          "vw": 95.8013,
-          "o": 96.042,
-          "c": 95.65,
-          "h": 96.62,
-          "l": 95.045,
-          "t": 1780891200000,
-          "n": 105026
-        },
-        {
-          "v": 25503684.058579,
-          "vw": 93.4899,
-          "o": 95.072,
-          "c": 92.95,
-          "h": 96.4,
-          "l": 90.34,
-          "t": 1780977600000,
-          "n": 189791
-        }
-      ],
-      "last_close": 92.95,
-      "volume": 25503684.058579,
-      "rvol": 1.19,
-      "day_perf": -2.82,
-      "week_perf": -7.24,
-      "month_perf": 1.97,
-      "year_perf": -11.19,
-      "week52_high": 117.99,
-      "week52_low": 73.93,
-      "week52_pos": 43.2,
-      "pct_vs_52h": -21.22
     }
   },
   "news": [
+    {
+      "headline": "Amazon trucking expansion sparks freight stock selloff",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/10/amazon-trucking-expansion-freight-stock-selloff.html",
+      "datetime": 1781099419,
+      "summary": "Amazon has been spinning out more of its in-house logistics offerings for others to access, posing a growing threat to industry incumbents.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107307277-1695815218060-gettyimages-1702928531-jr027459_xc7hwxvb.jpeg?v=1706898042&w=1920&h=1080"
+    },
+    {
+      "headline": "We're trimming another stock to increase cash ahead of any SpaceX IPO volatility",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/10/were-trimming-a-stock-raising-our-large-cash-position-ahead-of-volatility.html",
+      "datetime": 1781098527,
+      "summary": "We're making our fourth sale this week to bring our cash position close to 12%, in preparation for what we expect will remain a volatile market ahead.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108318858-1781019283500-Traders-Photo-20260609-KK-PRESS-001.jpg?v=1781019469&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "datetime": 1781096690,
+      "summary": "Stocks are headed for a lower open after President Trump said that Iran is taking too long to agree on a peace deal and must \"pay the price.\"",
+      "image": "https://image.cnbcfm.com/api/v1/image/108318707-1781005387346-gettyimages-2280060058-AFP_B6FD6QT.jpeg?v=1781005430&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump says Iran has taken too long to negotiate, will 'pay the price' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjBfR0dyb2k4WjB2MkZEMjVxLTladHdVNmk5R2tjUHh2SmVmRGs5SDZBLTRuSEJOMzdxMnFoZmZDWEh3VzhBalF3MmtGMUFfelB5Vm9fb3JROUFOaVUwWUxqUTBtbURXTnYtOUNUZ1U2UkxoZnNoN1ZvLWlIN2VvNVBhNmJlUlRZYlJ4ZERYRnA5LTJ3QktSU1VwUkNzS2RWeGpmR05ndllnalFqeVp5endGQQ?oc=5",
+      "datetime": 1781092491,
+      "summary": "Trump says Iran has taken too long to negotiate, will 'pay the price'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Two crew missing after suspected US strike on tanker off Oman - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWRzWENKaDVOcTgwMVNLLVlhMVhzYXphRExOeXY1dFN1S1NSdUd0YnhYVkdCMFEzQ1B2TFdKNlhnM1Z3dmVuZlJYRU16ZTlGWDR5VFRfLW8zOVRuc2NBNnNKU1ZJX2g1VnRyakxNMFhmNWVsVGdSdTUxVm9GZWJKaUY3ZVF4eEpobFNjb2daWEVwd3gwM2pIVERFenlZMXowQlJUNU13RHpveGM?oc=5",
+      "datetime": 1781092377,
+      "summary": "Two crew missing after suspected US strike on tanker off Oman\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
     {
       "headline": "Two reasons for optimism after Tuesday's whipsaw market sell-off",
       "source": "CNBC",
@@ -9039,11 +7911,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Iran strikes US bases in Gulf after Trump orders attacks near Hormuz - Reuters",
+      "headline": "Trump says Iran will 'have to pay the price' after tit-for-tat strikes - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
       "datetime": 1781063640,
-      "summary": "Iran strikes US bases in Gulf after Trump orders attacks near Hormuz\u00a0\u00a0Reuters",
+      "summary": "Trump says Iran will 'have to pay the price' after tit-for-tat strikes\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Rupee ends nearly flat on competing oil, intervention and NDF maturity cues - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE9mVnl1aHdNZ2JSWVRYWlVJVTFEb0FVQzNrTTFNeTVSbUswQm95Z3BWWmJkOU1TTUZNTkQ4OUZIZ0FZckpiS2dSc0IyYkYtcS04RGtUSWhuTFpjTjc5OUtHYmFQc0M5Y3BqYlFQZ1BwYnp5aGs0STlWSnIyMUJMZVo4bW9TWklMZW1KTVlBWVo5RTB5S0V5NS1RSGxtRkVybFk0eDRMQ0Z2bnN0TkFB?oc=5",
+      "datetime": 1781059800,
+      "summary": "Rupee ends nearly flat on competing oil, intervention and NDF maturity cues\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -9053,58 +7933,10 @@
       "datetime": 1781055840,
       "summary": "China's factory-gate inflation at nearly 4-year high in May\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "European shares resilient, oil edges up after fresh Iran-US strikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzdFYTBQUjA3YzBlRWNHdUp6OXBpbVlabUYwVWJXYzlJa0pHWTVuZ2M4YXlSeEtXZHJDMUotQUdUaXotdklnOXM5R0VEX3QwWVAybFdMSE1hQktPcU9Lc1czUjR0dlRwY1pvZFZDTndsUWRHWHhWOVhiVWs4SFdsVHdUcw?oc=5",
-      "datetime": 1781054880,
-      "summary": "European shares resilient, oil edges up after fresh Iran-US strikes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold falls over 2% on fading Middle East peace hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXRCSURfSXlOd0d0SlowNm9hUTlYUGVqZ1hFTnRtY3pha2RQRktxVVd5MEpIaW54cWN4Y1ZrVGVCZGkyanRmb29DZnNMWHJHbnRhWkhISE9ZQk45RnZ1blR2V0dVUFUtSHF5amF6VnZ4UWY0RTJWYkhHOVJaV0xnZms1V1AxaUE1LTB2QWJzQlNlbTdyZU9wdndKUWVvZw?oc=5",
-      "datetime": 1781053860,
-      "summary": "Gold falls over 2% on fading Middle East peace hopes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dollar treads water as US-Iran tensions, inflation data in focus - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSDFFb2NhZFo3MVhIUFhKOVFMbW1TZ29rSmY3b3R3aC1PN3d5N01qMTJwU1JQSjBKLWJiLWUtdUQtamR0dENFMVhEX3VEdzh1c0ZLVFZvYWhMRnRMU19Sa0RrUTJmZkZFLW1ueTVRODd6UnVJUVFMaHhGck5NTlVSaW5SLUVOVkN4MGc4dEpfWWgwRm9hYXd5UHRqQkFkd0JPWUZjbnpDMHBRVGVwZnk4?oc=5",
-      "datetime": 1781052660,
-      "summary": "Dollar treads water as US-Iran tensions, inflation data in focus\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil steady as investors weigh renewed US-Iran fighting - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNGJ6NWZtUjUzMDg5TTZFYWY3SGhyUjEzcURaYnpPRkpZcmlsWVZVemw5aC1JNDY1NE82VlMyLTdhWmlDUkZyTTNMRTlfM1E1ZUVCSWJ3dDJyQ3RYbF9peF9zdjlIOFJ0bEJub0dJdTRxRjR4NFBaVmxZWHNkZFJUa3hBdEpJRVdHcnhYWlppZEN1MFJ4TDdyMlJBcFFPanlWU0Q3LTIySi1SUE9SRFdEbC1VSUM0em5HcF9xSFBrZ0o?oc=5",
-      "datetime": 1781051580,
-      "summary": "Oil steady as investors weigh renewed US-Iran fighting\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "S&P 500, Nasdaq fall as tech selling resumes, Trump vows to respond to downed US helicopter - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGJ1bl83a1ZCa082M2NZNkdvamdjX2pNODlzalRUN0NiaEMtbXl4QTdlNkhGZTE0T3QzVmxHcjJ4OE9YZnFPbm0xWDdIckNobWVFN0oyZUoxTXNUeUhrdUtWQnFNQ1NCcjJ0MGprRm80eG9lM2NzMUpPcWdKNlJDNmNqLU5jZlBrVjdsUEtSeWhqVEdzdTRnSmtFWFBhb3RTemVV?oc=5",
-      "datetime": 1781046176,
-      "summary": "S&P 500, Nasdaq fall as tech selling resumes, Trump vows to respond to downed US helicopter\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran says ticket allocation for World Cup withdrawn days before tournament - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlBxU2p5dmFqVUtxVGdTVXJxWnRHQ2p2dFdWYWpsMjB4WlJEbDRhTGFjRVV5NVFfdW0yeUY0QkNZdlY2dnNTZ2hyekJiN3htVmJZYWRudnd2TTV3bThZYlB2NldxYzhQX0lMNnlUYlZsczRFOG1SdlQ3X3dnMmRCcU1RcG9JYUtDNzZBZVBDdmJSaDVRVklzMzNxWDNMWTkzTWZ5R05La01aMmxjOFFZT045RmZ6ZXRvZlJBMA?oc=5",
-      "datetime": 1781046016,
-      "summary": "Iran says ticket allocation for World Cup withdrawn days before tournament\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
-    "score": 61,
-    "label": "Greed"
+    "score": 50,
+    "label": "Neutral"
   }
 }
