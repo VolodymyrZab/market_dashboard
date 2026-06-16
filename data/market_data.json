@@ -8407,6 +8407,70 @@
   },
   "news": [
     {
+      "headline": "Novig wins CFTC approval as competition intensifies in sports prediction markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/novig-wins-cftc-approval-as-competition-intensifies-in-sports-prediction-markets.html",
+      "datetime": 1781623494,
+      "summary": "Novig is building a peer-to-peer sports trading platform that allows users to trade directly against one another rather than bet against the house.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107130270-1665062045729-gettyimages-1195409503-6w1a1965.jpeg?v=1752085622&w=1920&h=1080"
+    },
+    {
+      "headline": "As Hormuz crisis eases, gas prices may drop\u2014other costs like groceries and home goods could stay high for a while",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
+      "datetime": 1781620234,
+      "summary": "Oil prices are falling after a tentative agreement to reopen the Strait of Hormuz, but broader relief from higher prices may take time.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080"
+    },
+    {
+      "headline": "'Godfather' of options sees SpaceX surpassing Nvidia, Tesla as early trades come in",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/godfather-of-options-sees-spacex-surpassing-nvidia-tesla-as-early-trades-come-in.html",
+      "datetime": 1781620060,
+      "summary": "SpaceX options are officially listed, and they're off to the races.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321449-1781295480618-IMG_9692.jpg?v=1781295701&w=1920&h=1080"
+    },
+    {
+      "headline": "Self-driving tech supplier Mobileye targets U.S. robotaxi launch in 2027",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/self-driving-tech-supplier-mobileye-targets-us-robotaxi-launch-in-2027.html",
+      "datetime": 1781619730,
+      "summary": "Self-driving technology supplier Mobileye Global announced it would launch its own robotaxi service Tuesday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107354311-17043853802021-07-20t193222z_1379808108_rc2foo94lkfq_rtrmadp_0_mobileye-autonomous.jpeg?v=1704385426&w=1920&h=1080"
+    },
+    {
+      "headline": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/carvana-new-cars-dealerships.html",
+      "datetime": 1781616021,
+      "summary": "Carvana has bought seven new vehicle franchises since last year that primarily sell Stellantis' Chrysler, Dodge, Jeep and Ram brands.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107367916-1706819214355-IMG_8094.JPG?v=1730321180&w=1920&h=1080"
+    },
+    {
+      "headline": "Oil drops about 4% to three-month low as markets weigh US-Iran deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
+      "datetime": 1781615415,
+      "summary": "Oil drops about 4% to three-month low as markets weigh US-Iran deal\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump says memo states clearly Iran will not have a nuclear weapon - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTERjMHBaa042UG0yN1hjYjBpZ3U4MjVIdW92dDZ3azdJSEMwWXUzS3dJM1huMU1CN2pOV2ZzdjhiMHZhUW8xT04ya05lM1Ixa2tSVk9iOUpVZDZNek5TMmxvUjBpVnczYkEwQUdTRGwtMzU3a1YxVzJSSUtjLWdvb3Vnbmk5cmhUREppaEZibDdiaGJHQnM2T1NZMUxhWC04NGpPWjNLUFVYTi13U3VJOUVnQlk2UzRQRWc?oc=5",
+      "datetime": 1781614915,
+      "summary": "Trump says memo states clearly Iran will not have a nuclear weapon\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday-.html",
+      "datetime": 1781614034,
+      "summary": "SpaceX is back at it again.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108321427-17812944442026-06-12t195341z_549671259_rc2fsla0hs71_rtrmadp_0_spacex-ipo.jpeg?v=1781294475&w=1920&h=1080"
+    },
+    {
       "headline": "Trump: Iran deal says 'loud and clear' that Tehran won't have a nuclear weapon - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDhLQ3c2elJyRnlGb19LaW9mQ3E3ajhtSzFXZC1LU1R1SmdXWF95a0hvUFNzcGlEUUZIXzVuRXZvQ2IxT0ZJZTJOZDVhSGZVTzU1NUx4VHJWc2lZTnFlS3ZadE9qcmpXTDFKX2l1dTRiSXg4YU1xalpBZkJ3U2hHNlc4M2p2Umt2dklRcHZxNjhJV3Z0aEt1clBmOHBkSm5YdVE1THFhVlVyU0J3R0s4YjZPQXgtLW1VX0VNU1VVWQ?oc=5",
@@ -8437,70 +8501,6 @@
       "datetime": 1781602209,
       "summary": "The yield on the 10-year U.S. Treasury note \u2014 the key benchmark for U.S. government borrowing \u2014 fell over 2 basis points to 4.449%.",
       "image": "https://image.cnbcfm.com/api/v1/image/108311279-1779465617838-gettyimages-2277685733-0d6a1258_ciyserlj.jpeg?v=1779465642&w=1920&h=1080"
-    },
-    {
-      "headline": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ2NW5rSzJQNDdJR2U2czlrcHhwbjlmVkNRZk9TVzd6RWowQ3Q0dW1Ud2QwZW90UHVPTmM2bkU1SlZOMmNicU1nYWhIeEJLTXRMX1d2RG9KeDJsMk1GaGhIbG84VW9kV1RxaFpMVkhXNmVxOU1nTjRLNEM1TmQxR2pPV0c1azNrQmlFVVFRNnl3SjdRQThLWlZHdWk4ZU83WXFYVTVmS004eEVoZDRv?oc=5",
-      "datetime": 1781601567,
-      "summary": "Exclusive: The US is using an Iranian smuggling tactic to sneak oil out of the Gulf\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran's top negotiator Qalibaf to attend signing of interim deal with US - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVVjM0xoaGpqWmpINlVDQV9TNVRiU09ISG93YndQb29OdU5sY29HZUlEcnRWamx2cVExX2J3WXhSZFZMWXh0Y0lkbW5SYS1JcXdaX0lpVEhoUml0SjRUNWdDYjZkajdIbEV5aTR4RFJHeXN0aVVuVVp5UHNTV2xBZHVPTC1YdXFCMVUwR2dGc0kwd1ltQ2FNN0tQTC03MDBnamxMYWpjSzR5VmRoX29WcVhEVnhPWFpOWVE?oc=5",
-      "datetime": 1781599122,
-      "summary": "Iran's top negotiator Qalibaf to attend signing of interim deal with US\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Is the Iran war just an energy shock - or a turning point? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0FRWE5MTXBpNWRsVmZGc0ZLUS1nbG56MXVZeEU2SlBqN2Z4VTVmNmlyRzF6TW96SlpfZkZXdFlycmFHalhaMy1OckdpajR2end5OXAzVUNzRTFaQURzQmw4ZWN5LVgweXVGRnB1ZndRREdOSl9NMFNJQjZoOXc5ZXliX0tpNENwVktxVU5kWTJRaTZTckhvMHc3ak1NTDF0OHNDZ3JrWEEyUkFQWm1LNmV4dFlLQS1Semc?oc=5",
-      "datetime": 1781592943,
-      "summary": "Is the Iran war just an energy shock - or a turning point?\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US-Iran deal promises end to war but how it will work remains unclear - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOE5uY1JidUpoS0Q1eDhUQ2RLMDJKSnppMV9RTkFQRGhqQ1ctT2VZMi16YUJIZjBzaFlWU2ZqOEdDZ3NvaUtUVXNHTWo1Q0xYcFItWHlZdVlrSVE5SDFOdmlfS1I3ZE5tZnlLVmVuQjNkbGhjN2pjZVdqVnZ2RTBia0xESzJqUDVqZV9hby1kbEZVTzM2WGktc2tLazFVVXVsVkJWVDNYT1h4RHkwampoMlZYWW5VbWM?oc=5",
-      "datetime": 1781591580,
-      "summary": "US-Iran deal promises end to war but how it will work remains unclear\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran coach says team 'oppressed' by travel chaos after 2\u20112 draw - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMS0zNVNpMmJCM3BPeHFJRDROV0JoMmdZbk1ndVRDTzhKbWIxcmVBSUI1eTNZMExUa215VnVVZ3JIS2dVdkpBSmNWNy1uYXlCZmhJVWJnRVFhWnFvVkZUcE9DbUJtS0hIQ01WTUdrZFpWdklSZ3VvelhTdGFsZC1OaHdYV3VQS08tRml2MDd3dUF1ZkRxVjBNMmRnYk1iTWJ4TGRGTWRlX1Z6aDduUkR3?oc=5",
-      "datetime": 1781589824,
-      "summary": "Iran coach says team 'oppressed' by travel chaos after 2\u20112 draw\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Strait of Hormuz transit will take \u2018weeks\u2019 to resume, largest tanker operator tells FT - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLTY1ZEl4RDA0aEZ1ZXVfT2s5ekx2dDY3Qms0TXlKVlhpbjZ6bkdQMmhkSXNIaGFNTF9wZy1LUHdkYkxjQ3RHbFh5S0ZyY1NERUpONU1Gbzh4bmNiLWJVTWtscTh6RWx1WnlNRUpHTk9OZjNCSmdVcE1VYzBRRGZ5VzFkamgtVEh6c1FMYnlFSGxlOXNNVlNmYUFvdUhRMlZuWUJOMkU2WEZHNXBCVGFVdHl5SVdsR2lvV2twOEtEY1RWUVp4TFZrWmdNcw?oc=5",
-      "datetime": 1781586240,
-      "summary": "Strait of Hormuz transit will take \u2018weeks\u2019 to resume, largest tanker operator tells FT\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Boos, cheers and a draw: Iran's World Cup opener reflects deep divisions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFRRVjU5R1lzdHRVZDB5UjFlNnRMaGRkSXo0T1BHQ1dDQm1BaUp1LS0xeTNPNnJkaGowblpZd0VaVTlWSmg3cEJaY2ZKX3lnMHFCZ2IwS0Zvb3llVTV5Yi1qMmx5aHlQWThvUFJFQnJjRVB4aEFfbEE0YVNCZFFCZURvZXR1bHFJWV8wVDNRZmZ1R1RUdHozWUR4NXlkcmh0Q2xQQ2trVUxTSTBiaVVVN09tYw?oc=5",
-      "datetime": 1781583000,
-      "summary": "Boos, cheers and a draw: Iran's World Cup opener reflects deep divisions\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US-Iran deal may not bring quick relief for auto shops - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3JCLVZHRkhuSElidHQ3ZmpBd3lnX004YndVWFY5cFlNQXFJX3RtbVRSNHdOVmpUUEc3ckVnMGEzNjRiaS1rUVZQZC13NFQza0Q5MjkzSG4zUWJQNjNwRnQ0NHpxZEFkN1c0MzllUjhKYVl4eEZsbmtMRDJRT3M3V0UyalBURmZCWk9CZkgtemRBTlZydERpZGFKRFlqdHhZX1A1Ng?oc=5",
-      "datetime": 1781582820,
-      "summary": "US-Iran deal may not bring quick relief for auto shops\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
