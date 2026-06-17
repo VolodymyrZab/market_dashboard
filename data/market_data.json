@@ -7113,28 +7113,44 @@
   },
   "news": [
     {
+      "headline": "CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html",
+      "datetime": 1781701188,
+      "summary": "Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/102912212-IMG_1336r.jpg?v=1439314448&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "datetime": 1781700517,
+      "summary": "Fed Chairman Kevin Warsh hold his first post-meeting press conference, and Broadcom gets an \"aggressive\" buy recommendation.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241656-1765779213966-gettyimages-2217725562-BROADCOM_EARNS.jpeg?v=1775499796&w=1920&h=1080"
+    },
+    {
+      "headline": "Iranian oil tankers pass US blockade after US-Iran deal, data shows - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFlYnl5QndZQXFjZmhWYzcxclFRY2x2NG1MWExhZlFhTnR3Q3ozSnhXVHg5YUpQQWhmRHZCQ2tpRVo5M1BsUVNMTHFaLWZPMzQ1NjVzdWhCM0lEMlZZMDIzN2JPNTltbVhYTkJSZ1JGRWtwUXc2dGszeldrRThyNk1RbnFWUUZtX0p1MEZ0OXBKeGdjeThhSmtCN29DbXhtRTdzWmpGU1BzTDFlRjhHOEplVF9ndGZ0WUE?oc=5",
+      "datetime": 1781699305,
+      "summary": "Iranian oil tankers pass US blockade after US-Iran deal, data shows\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
+      "datetime": 1781698502,
+      "summary": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "CNBC to simulcast 11 WNBA games this season",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/17/cnbc-versant-wnba-games.html",
       "datetime": 1781691601,
       "summary": "The simulcasts will expose the WNBA to an affluent audience on CNBC and marks a new chapter for the business news network after it spun out from Comcast.",
       "image": "https://image.cnbcfm.com/api/v1/image/108322795-1781641359682-gettyimages-2280043322-Indiana_Fever_v_Washington_Mystics.jpeg?v=1781649872&w=1920&h=1080"
-    },
-    {
-      "headline": "G7 leaders demand ceasefire in Lebanon, welcome Iran deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
-      "datetime": 1781686001,
-      "summary": "G7 leaders demand ceasefire in Lebanon, welcome Iran deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iranian oil tankers pass US blockade after US-Iran deal, data shows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFlYnl5QndZQXFjZmhWYzcxclFRY2x2NG1MWExhZlFhTnR3Q3ozSnhXVHg5YUpQQWhmRHZCQ2tpRVo5M1BsUVNMTHFaLWZPMzQ1NjVzdWhCM0lEMlZZMDIzN2JPNTltbVhYTkJSZ1JGRWtwUXc2dGszeldrRThyNk1RbnFWUUZtX0p1MEZ0OXBKeGdjeThhSmtCN29DbXhtRTdzWmpGU1BzTDFlRjhHOEplVF9ndGZ0WUE?oc=5",
-      "datetime": 1781684503,
-      "summary": "Iranian oil tankers pass US blockade after US-Iran deal, data shows\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Middle East crude slips into discounts as U.S.-Iran deal lifts supply outlook - Reuters",
@@ -7185,27 +7201,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil slides on Iran supply hopes; bond yields pushed lower before Warsh debut - Reuters",
+      "headline": "Stocks edge up as oil hovers near 3-month lows ahead of Warsh debut - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5DMTRIOHpLY0VUdlJ6RW1fcEhveWNmVmZaNFo0YkdfNmN0a0VZN1JHMDcxVFdlMl81aVpWQV8td2hxb1dZcldhVE5USmVqeEhDNDA4Yk5RSDBpWnBuN3FTblFLMUxEa3poLTZsR3pfMmNfUENaOVZDRjVFNGl5V0l6MA?oc=5",
       "datetime": 1781661000,
-      "summary": "Oil slides on Iran supply hopes; bond yields pushed lower before Warsh debut\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold little changed as markets eye Warsh's Fed debut, US-Iran deal details - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmo2a0piWUpISXJxNEJNWlprT0NaYUx4OU1pZzZ6QUp3dUZCdGlsTUQxNlhZaG9WaXVNT1I2ZWxUb2RUSERFZ3ZpSVktbGN6N1JNUFdZdUplNEJsMWdPX1d0bi03b0lWVGk3TjBaYkJBY3NNQXJpazhpYmNhVndseV9wNXVuSW1IRDlMMTZBTVROeFdBRmkwa0s4Yk9hWHZVcGlmLVdUVXZEdw?oc=5",
-      "datetime": 1781659800,
-      "summary": "Gold little changed as markets eye Warsh's Fed debut, US-Iran deal details\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil prices steady as investors weigh peace deal, IEA glut forecasts - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenNvdC1DbGktWE0tRE5scUJEblVjSy1HVWROZkNNQ3lqT290eXhQV0R5MXhxYUhHYlBaN1lqdl95QUpEaHRaX0lOY3h2aEJSblJxYldFODhXWGFwN3dlOV9xbFFWTnpJNUlTUkJkaG9nWjRUUEpSemE2N09VWFVtNFRnT2RSQ3lKV094RjN5MkNYZlRIOURlZWJhREdaLWc2bVhiV2hCNUlYaTZrTUdXWkpKRnBTLWo1QVVEcDBIbGFWdGFqczhubmVR?oc=5",
-      "datetime": 1781658540,
-      "summary": "Oil prices steady as investors weigh peace deal, IEA glut forecasts\u00a0\u00a0Reuters",
+      "summary": "Stocks edge up as oil hovers near 3-month lows ahead of Warsh debut\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
