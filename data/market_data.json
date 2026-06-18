@@ -8881,6 +8881,46 @@
   },
   "news": [
     {
+      "headline": "California\u2019s counting on an IPO tax windfall. Several factors are complicating the equation",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html",
+      "datetime": 1781787301,
+      "summary": "The IPOs of SpaceX, OpenAI and Anthropic could create a tax windfall for the state of California. But experts say the revenue impact may be blunted.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108323429-1781721662404-gettyimages-1481230617-goldengateheadlandsspring.jpeg?v=1781721674&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "datetime": 1781787174,
+      "summary": "Apple plans price hikes, and Intel is surging on comments from President Donald Trump.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108318337-1780940747598-gettyimages-2279910888-APPLE_WWDC.jpeg?v=1780940784&w=1920&h=1080"
+    },
+    {
+      "headline": "First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5",
+      "datetime": 1781786301,
+      "summary": "First tankers cross strait under Iran deal; Israeli strikes raise doubt in Lebanon\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Israel issues new Lebanon occupation map, in talks with US over deployment - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdWQjYzX0NOaGtfVGdEdkNrNWhjYmN2V2VfWHJXTm5jWlpueEV6ekFiTHN0Nm1IaHJYMndKdTAyLTZibUtwcmlLbk5HUGhJR2w0ZFkxOHpEaWR3WThRNF80OHg4a1NUa3diajFhNEk3cU1aWV8xSHJNMjRJNjdNa2h6RnJ5RG5LTXFIQXRSVjNZR1FvemoxZzBOdWIydmZtZ3dXNlZKVVFnc0RNWW9QbE5PQWRRYXk2ZHlmRmZrWUZlU1llTjJ6S3ZJd0FYZw?oc=5",
+      "datetime": 1781785664,
+      "summary": "Israel issues new Lebanon occupation map, in talks with US over deployment\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Wall St futures rebound as Iran deal optimism offsets hawkish Fed; Intel up - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5",
+      "datetime": 1781782323,
+      "summary": "Wall St futures rebound as Iran deal optimism offsets hawkish Fed; Intel up\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Here are the odds of SpaceX becoming the world's most valuable company",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/18/here-are-the-odds-of-spacex-becoming-the-worlds-most-valuable-company.html",
@@ -8897,11 +8937,19 @@
       "image": "https://image.cnbcfm.com/api/v1/image/107423445-1717435681246-elon_meta.jpg?v=1717435884&w=1920&h=1080"
     },
     {
-      "headline": "Wall St futures bounce back as US-Iran deal optimism balances hawkish Fed; Intel up - Reuters",
+      "headline": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5",
-      "datetime": 1781777448,
-      "summary": "Wall St futures bounce back as US-Iran deal optimism balances hawkish Fed; Intel up\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
+      "datetime": 1781781096,
+      "summary": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Hormuz reopening to release wave of oil supply, depress prices - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenZmRHpWRlpzMTVrZ0xtVTBEdGMxNVY1OVNjUWJyR01yd05YTGMyYkVVRkZramRfNnUxVVRmTEJoMG9Fbzd3VE4zODUzWks3MXZlS3I0UzlPLU9GeS1tMGVudFlIZDhOaEtUN1ZNNUpibjVjQWVSSlFVc1Z5a2M0YkNWNFcxbUhadi1BblJ1MC03dHVCRWhuc1VzLW9LdkZiVllLX08ySWhERmc?oc=5",
+      "datetime": 1781777531,
+      "summary": "Hormuz reopening to release wave of oil supply, depress prices\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8913,67 +8961,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "Saudi Aramco considers expanding storage capacity worldwide after Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON21pY2tUcVVKdTlJQlV1cGJfNnc3UThSVDJkUi0zSXhrZVBxYmRsOXdfVTN3anpCUHBrbWRfTmp1R0JNSF9hOWtzUml1OXJnclJaRnk5cWFDNkZ2VndjcEpBRkhoZzZybEdKNmFWLVh2OE9IaWYycEpvSk52NVBqbVlQV1RnU0U3M1hmUkx2VUw3d1A1QXlkRmhTdHBsYklHelNicV9lenAwOURsREsyc3NYWkJRTnRwM3d5Ty1yZnlscHls?oc=5",
+      "datetime": 1781772484,
+      "summary": "Saudi Aramco considers expanding storage capacity worldwide after Iran war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Switzerland says talks planned for Friday between Iran and U.S. - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVZlUmREdTRwV2dYNHVFZm1DckNhXzBGUWwzaEpOVXRCOHdiOEV2WHdTdkR3ZE5PMTVGekItdHNmTTdSQmw4UWwydXZiZDdwaVBfNTJGR1VlanE0dUJfT3ZNejRlMXlYMWwyNEVtU3NqcnJQOG92bGxsNERITmRidm14U29iUWJGTU5qOFo2NEtBcndabW1CNV85T2RjMWZrdVliWDViS09ScW8?oc=5",
-      "datetime": 1781773576,
+      "datetime": 1781763780,
       "summary": "Switzerland says talks planned for Friday between Iran and U.S.\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWdsVWM5Y1dyRU1EOWc3UG1QTGR1d3FFVU5rMkdnbnlON01ieTdka3J1WVZzSnJ0dnVHYXE4QjNnVXVicmwzRmY3eUhUSVdfc3BVb0VNRzNRM3NjckdBSFZyZ2ViOVVDSTQ2b254YVBnbG1Ec1R1Y1U2N3NPN0hhVWw4Q1dEaWI3U05CR2dyU2NUV3YwcmpGMWN2ZTNCVVBkWUlxVl9mWWhrLTdwMnRzN0drYmJfRnpKMHN2UQ?oc=5",
-      "datetime": 1781764630,
-      "summary": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold inches up as lower oil prices counter firm dollar, hawkish Fed - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa254NGd0TnM3NEliRVJYV2J3blZ4NzZ0b1dhMEMzSE9YWG9qQ2xmSzE3WHN1cEV1WXVrVGkzcUhFQVVnZXVtT2cyejY3UzdLM3JtRVlzaVpWNzNDZXdzOHlveGk3Wm13aXpaQVVTVnZYT0xZRmxHcXJtNTlsOEFYeXJaWEdKeHR0MWVnT3hJNkRYbFVCUEJEM0RCbjd6QQ?oc=5",
-      "datetime": 1781751960,
-      "summary": "Gold inches up as lower oil prices counter firm dollar, hawkish Fed\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Stocks slip as Fed rate outlook offsets optimism over Iran deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
-      "datetime": 1781746800,
-      "summary": "Stocks slip as Fed rate outlook offsets optimism over Iran deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil falls to lowest since start of Iran war after ceasefire deal signed - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
-      "datetime": 1781744160,
-      "summary": "Oil falls to lowest since start of Iran war after ceasefire deal signed\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM?oc=5",
-      "datetime": 1781741100,
-      "summary": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Bank of England on track to hold rates as Iran response eyed - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUhETzNWX0sxb05qTkxJMFRNTlRvOC1BZmdFcVdvSG1QOUl3VWJrRXZzOTBuLUpLVnhReVRjSllXa24wWjNfSUJGWkxJRGQxUTZrcHZobHQ0ckh4NVB6T0ZBTWgyWmJGbGVLQkdLU2dzQ0p5MDFTNlNBeGRKREhBMG13a2FPaGtmeXNkWXFyVXg4OGlpUG96Mw?oc=5",
-      "datetime": 1781737740,
-      "summary": "Bank of England on track to hold rates as Iran response eyed\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran MOU was signed on Wednesday by Trump and Iran president, U.S. official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbzlqYWJEWUxoWXRqWTMtVVlRQnoxLWI4enhRSEFfQ2s4Y2MyT0J1UUpTTmlkejZoNklidnFBeWppUUlrM3BJbjZzSEczWGdVNy1vUi1pdE1OM2NQR0lzbzdyMGZpcXEzWTJNMHdsQ200d3QzdHhKZFp2NkFsc0Q2S1FHWjZQNXZ0MmdNYjlrOHQ1OXBVYXJMRHRpb0x4QkZPUV9WdUNuSE96UElJbElFRFNLanhMVTVGd1JjMlRNRTlIQQ?oc=5",
-      "datetime": 1781736675,
-      "summary": "Iran MOU was signed on Wednesday by Trump and Iran president, U.S. official says\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
