@@ -341,14 +341,14 @@
       "revenue_actual": 60000,
       "revenue_beat": false,
       "market_cap": 9950202221.0,
-      "last_close": 35.09,
-      "prev_close": 36.49,
-      "gap_pct": -3.84,
-      "volume": 2230826.70862,
-      "rvol": 0.88,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
       "week52_high": 42.65,
       "week52_low": 32.392,
-      "week52_pos": 26.3,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -374,268 +374,7 @@
           "rev_estimate": 489600
         }
       ],
-      "bars": [
-        {
-          "v": 35164300.993173,
-          "vw": 36.8549,
-          "o": 36,
-          "c": 36.54,
-          "h": 38.41,
-          "l": 36,
-          "t": 1778644800000,
-          "n": 209576
-        },
-        {
-          "v": 11370355.591546,
-          "vw": 38.1446,
-          "o": 35.875,
-          "c": 40.63,
-          "h": 40.95,
-          "l": 35.5,
-          "t": 1778731200000,
-          "n": 87673
-        },
-        {
-          "v": 7051951.767293,
-          "vw": 40.8816,
-          "o": 37.4,
-          "c": 41.06,
-          "h": 42.65,
-          "l": 37.35,
-          "t": 1778817600000,
-          "n": 52283
-        },
-        {
-          "v": 5903057.013953,
-          "vw": 39.6302,
-          "o": 41.27,
-          "c": 38.6,
-          "h": 42.35,
-          "l": 37.895,
-          "t": 1779076800000,
-          "n": 42846
-        },
-        {
-          "v": 9900138.302402,
-          "vw": 37.1121,
-          "o": 38.73,
-          "c": 36.34,
-          "h": 39.89,
-          "l": 36.33,
-          "t": 1779163200000,
-          "n": 37181
-        },
-        {
-          "v": 2989346.252943,
-          "vw": 37.9985,
-          "o": 37.96,
-          "c": 38.01,
-          "h": 39.3,
-          "l": 36.2321,
-          "t": 1779249600000,
-          "n": 28572
-        },
-        {
-          "v": 7992703.461257,
-          "vw": 41.8264,
-          "o": 38.78,
-          "c": 42.5,
-          "h": 42.57,
-          "l": 37.84,
-          "t": 1779336000000,
-          "n": 31979
-        },
-        {
-          "v": 3402381.461437,
-          "vw": 39.4944,
-          "o": 42.3,
-          "c": 38.35,
-          "h": 42.48,
-          "l": 38.05,
-          "t": 1779422400000,
-          "n": 30478
-        },
-        {
-          "v": 2383270.244805,
-          "vw": 38.6917,
-          "o": 39.34,
-          "c": 39.51,
-          "h": 39.68,
-          "l": 37.65,
-          "t": 1779768000000,
-          "n": 25984
-        },
-        {
-          "v": 2176958.561461,
-          "vw": 37.501,
-          "o": 39.13,
-          "c": 37.32,
-          "h": 39.48,
-          "l": 36.84,
-          "t": 1779854400000,
-          "n": 24997
-        },
-        {
-          "v": 1554871.997126,
-          "vw": 38.2088,
-          "o": 37.27,
-          "c": 38.7,
-          "h": 39,
-          "l": 36,
-          "t": 1779940800000,
-          "n": 15908
-        },
-        {
-          "v": 2799692.591479,
-          "vw": 36.8696,
-          "o": 38.67,
-          "c": 36.66,
-          "h": 39,
-          "l": 35.82,
-          "t": 1780027200000,
-          "n": 25620
-        },
-        {
-          "v": 3915682.362816,
-          "vw": 35.2333,
-          "o": 36.5,
-          "c": 35.57,
-          "h": 36.5599,
-          "l": 34.27,
-          "t": 1780286400000,
-          "n": 29377
-        },
-        {
-          "v": 2019649.854822,
-          "vw": 37.2429,
-          "o": 36.07,
-          "c": 37.63,
-          "h": 38.37,
-          "l": 35.07,
-          "t": 1780372800000,
-          "n": 22072
-        },
-        {
-          "v": 3323715.843392,
-          "vw": 39.2728,
-          "o": 37.37,
-          "c": 39.97,
-          "h": 40.39,
-          "l": 36.8,
-          "t": 1780459200000,
-          "n": 24526
-        },
-        {
-          "v": 2169552.513707,
-          "vw": 39.9668,
-          "o": 39.33,
-          "c": 38.86,
-          "h": 41.35,
-          "l": 38.62,
-          "t": 1780545600000,
-          "n": 22155
-        },
-        {
-          "v": 1939520.947581,
-          "vw": 37.5448,
-          "o": 38.11,
-          "c": 37.22,
-          "h": 38.8,
-          "l": 36.7239,
-          "t": 1780632000000,
-          "n": 22664
-        },
-        {
-          "v": 2825458.04184,
-          "vw": 35.3618,
-          "o": 38.59,
-          "c": 33.96,
-          "h": 38.59,
-          "l": 33.245,
-          "t": 1780891200000,
-          "n": 27044
-        },
-        {
-          "v": 1999098.319841,
-          "vw": 33.5323,
-          "o": 34.38,
-          "c": 33.565,
-          "h": 35.35,
-          "l": 32.6055,
-          "t": 1780977600000,
-          "n": 20171
-        },
-        {
-          "v": 1703794.496728,
-          "vw": 33.8506,
-          "o": 32.63,
-          "c": 33.07,
-          "h": 35.55,
-          "l": 32.63,
-          "t": 1781064000000,
-          "n": 15836
-        },
-        {
-          "v": 1633705.502552,
-          "vw": 34.7036,
-          "o": 32.94,
-          "c": 34.64,
-          "h": 35.55,
-          "l": 32.392,
-          "t": 1781150400000,
-          "n": 13097
-        },
-        {
-          "v": 1291702.078181,
-          "vw": 35.4793,
-          "o": 34.46,
-          "c": 35.19,
-          "h": 36.7,
-          "l": 34.44,
-          "t": 1781236800000,
-          "n": 14038
-        },
-        {
-          "v": 966778.096965,
-          "vw": 35.5101,
-          "o": 35.84,
-          "c": 35.32,
-          "h": 36.395,
-          "l": 34.64,
-          "t": 1781496000000,
-          "n": 14510
-        },
-        {
-          "v": 1447039.253511,
-          "vw": 34.5556,
-          "o": 35.3,
-          "c": 33.91,
-          "h": 36.07,
-          "l": 33.585,
-          "t": 1781582400000,
-          "n": 18236
-        },
-        {
-          "v": 2254672.056216,
-          "vw": 36.2006,
-          "o": 34.25,
-          "c": 36.49,
-          "h": 37.4299,
-          "l": 34.02,
-          "t": 1781668800000,
-          "n": 30132
-        },
-        {
-          "v": 2230826.70862,
-          "vw": 35.8173,
-          "o": 37.18,
-          "c": 35.09,
-          "h": 37.325,
-          "l": 34.85,
-          "t": 1781755200000,
-          "n": 28004
-        }
-      ]
+      "bars": []
     },
     {
       "symbol": "EBF",
@@ -7316,6 +7055,22 @@
   },
   "news": [
     {
+      "headline": "US authorizes Iranian oil sales amid talks on final peace deal - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdZaTNrdXFNYWlPV2hKM1g2TDZkUFRmM3pMTE5HZzc1NnRuY1Y1cEdkLWl4bWpWOWFHdmZnMDN0cS0zdFdOeVIzalM0cGN1Yk1PV1lmc0I1NElkUjI5cWtKQzVvdHVqZFFNUm9nT01BZDdlYXFJdnVPM2NiMF9mUFduSFhlcUZWUjV0RVJtY0NFcFVmSElZSXk0V1IxN3ZrLXc?oc=5",
+      "datetime": 1782139590,
+      "summary": "US authorizes Iranian oil sales amid talks on final peace deal\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "S&P 500, Dow tick higher as investors weigh Mideast negotiations - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQxcFBhNUJhWlNpLXhmbHBEcUMxSG00alpWU2t3bGpwWU82RUFLZmVFWklDZWpJSjg0a2dYdm14bkoxN3BYanhxUTMyZGprZ25rVlpCXzNQV3NaQmlUcVMydlp5eEdUQ1FMWU92ckNXWjhzTWt5R3NvNTV0UmFtbkhjTExKRm1hWlNPWThBemtwMExrWm9jcFFac2VHZVpmMmFYRGx1dWc?oc=5",
+      "datetime": 1782137905,
+      "summary": "S&P 500, Dow tick higher as investors weigh Mideast negotiations\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "SpaceX makes bond sale days after record IPO, discloses over $100 billion cash pile",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
@@ -7330,14 +7085,6 @@
       "datetime": 1782134495,
       "summary": "Abbvie makes a move in M&A, and SpaceX is started with a hold rating at KeyBanc.",
       "image": "https://image.cnbcfm.com/api/v1/image/108297750-1777306878646-108297750-1777306739336-gettyimages-2241685341-299626final.jpeg?v=1777306904&w=1920&h=1080"
-    },
-    {
-      "headline": "Wall St set for higher open as investors weigh Mideast negotiations - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQxcFBhNUJhWlNpLXhmbHBEcUMxSG00alpWU2t3bGpwWU82RUFLZmVFWklDZWpJSjg0a2dYdm14bkoxN3BYanhxUTMyZGprZ25rVlpCXzNQV3NaQmlUcVMydlp5eEdUQ1FMWU92ckNXWjhzTWt5R3NvNTV0UmFtbkhjTExKRm1hWlNPWThBemtwMExrWm9jcFFac2VHZVpmMmFYRGx1dWc?oc=5",
-      "datetime": 1782132793,
-      "summary": "Wall St set for higher open as investors weigh Mideast negotiations\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal - Reuters",
@@ -7401,14 +7148,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWG14bzR3eVBkdmFpZ0VoT0tBUzRBbG0wZVUzWW9wN0hqbDV5SDlYUl9WRWxSZE9sZGsxc2ZCVEhHVDdhQUp0LW5MME0zOTRQM2NCb0h0eGlzZzFNODFVc1NBSFdVYkZCNzg3UnZiYUhpOWRCb0tfUFZaNVlrRDFRX0c2c1M1b3B2U3BROWwwQnlXT2N4LTZJOTRpbUVxdFhycXhQNkp5MzYyQQ?oc=5",
       "datetime": 1782092100,
       "summary": "Gold bounces back on encouraging US-Iran peace talks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dollar steady after US-Iran talks while pound dips on Starmer exit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjRxZXNFeklzd3pqbW9WcEQ2Z3AydlJET29VdmV3TUpqaWN2ZjRCaXp5WmpSN0RCcjlPQXl1SkktazBHOGRoSzVOMHI4ZmtlcmFQU3p2akRncGZ6cDl0MllKOFJIZ3VGMzA0anp2YmFNX0RqZ3FuTVN5cmtkQ3FTdW16VDl5eUFZTUVzZFpDRmltX1hoWFhvbzNYbHdYeUZyUFU2S1ZvSEpMYS01OS13NXlhcw?oc=5",
-      "datetime": 1782090660,
-      "summary": "Dollar steady after US-Iran talks while pound dips on Starmer exit\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
