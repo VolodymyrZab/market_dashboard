@@ -649,10 +649,10 @@
       "industry": "Professional Services",
       "timing": "bmo",
       "eps_estimate": 1.3301,
-      "eps_actual": null,
+      "eps_actual": 1.32,
       "revenue_estimate": 1632588815,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1605500000,
+      "revenue_beat": false,
       "market_cap": 35108921780.19389,
       "last_close": 97.99,
       "prev_close": 95.93,
@@ -664,6 +664,16 @@
       "week52_pos": 18.7,
       "pe_ratio": 21.4598,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.32,
+          "eps_estimate": 1.3301,
+          "surprise_pct": -0.7593,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 1605500000,
+          "rev_estimate": 1632588815
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.71,
@@ -684,28 +694,24 @@
           "eps_estimate": 1.2304,
           "surprise_pct": -0.8453,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.19,
-          "eps_estimate": 1.2135,
-          "surprise_pct": -1.9365,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.32,
+          "eps_estimate": 1.3301,
+          "surprise_pct": -0.7593,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 1605500000,
+          "rev_estimate": 1632588815
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.71,
           "eps_estimate": 1.7056,
           "surprise_pct": 0.258,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.26,
-          "eps_estimate": 1.2532,
-          "surprise_pct": 0.5426,
           "beat": true
         }
       ],
@@ -2039,10 +2045,10 @@
       "industry": "Metals & Mining",
       "timing": "bmo",
       "eps_estimate": -0.0478,
-      "eps_actual": null,
+      "eps_actual": -0.06,
       "revenue_estimate": 0,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 0,
+      "revenue_beat": true,
       "market_cap": 3167996194.632275,
       "last_close": 7.22,
       "prev_close": 7.56,
@@ -2054,6 +2060,16 @@
       "week52_pos": 33.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.0478,
+          "surprise_pct": -25.523,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
@@ -2074,28 +2090,24 @@
           "eps_estimate": -0.0357,
           "surprise_pct": -12.0448,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.04,
-          "eps_estimate": -0.0412,
-          "surprise_pct": 2.9126,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.0478,
+          "surprise_pct": -25.523,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
           "eps_estimate": -0.0533,
           "surprise_pct": 24.9531,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.03,
-          "eps_estimate": -0.0342,
-          "surprise_pct": 12.2807,
           "beat": true
         }
       ],
@@ -2703,10 +2715,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": 0.2006,
-      "eps_actual": null,
+      "eps_actual": 0.27,
       "revenue_estimate": 209372003,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 208610000,
+      "revenue_beat": false,
       "market_cap": 971274983.532312,
       "last_close": 20.11,
       "prev_close": 20.89,
@@ -2718,6 +2730,16 @@
       "week52_pos": 45.5,
       "pe_ratio": 36.7112,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.27,
+          "eps_estimate": 0.2006,
+          "surprise_pct": 34.5962,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 208610000,
+          "rev_estimate": 209372003
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.09,
@@ -2738,29 +2760,25 @@
           "eps_estimate": 0.255,
           "surprise_pct": 29.4118,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.18,
-          "eps_estimate": 0.1564,
-          "surprise_pct": 15.0895,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.27,
+          "eps_estimate": 0.2006,
+          "surprise_pct": 34.5962,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 208610000,
+          "rev_estimate": 209372003
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.09,
           "eps_estimate": 0.1326,
           "surprise_pct": -32.1267,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.35,
-          "eps_estimate": 0.2703,
-          "surprise_pct": 29.4858,
-          "beat": true
         }
       ],
       "bars": [
@@ -3032,10 +3050,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -0.0204,
-      "eps_actual": null,
+      "eps_actual": -0.02,
       "revenue_estimate": 15935123,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 15670000,
+      "revenue_beat": false,
       "market_cap": 112700658.03874092,
       "last_close": 4.1,
       "prev_close": 4.13,
@@ -3047,6 +3065,16 @@
       "week52_pos": 71.8,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0204,
+          "surprise_pct": 1.9608,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 15670000,
+          "rev_estimate": 15935123
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.01,
@@ -3067,28 +3095,24 @@
           "eps_estimate": -0.0442,
           "surprise_pct": 9.5023,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.06,
-          "eps_estimate": -0.0408,
-          "surprise_pct": -47.0588,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0204,
+          "surprise_pct": 1.9608,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 15670000,
+          "rev_estimate": 15935123
+        },
         {
           "period": "2025-12-31",
           "eps_actual": -0.01,
           "eps_estimate": -0.0238,
           "surprise_pct": 57.9832,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.04,
-          "eps_estimate": -0.0459,
-          "surprise_pct": 12.854,
           "beat": true
         }
       ],
@@ -3690,10 +3714,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -0.0606,
-      "eps_actual": null,
+      "eps_actual": -0.11,
       "revenue_estimate": 16336750,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 16520000,
+      "revenue_beat": true,
       "market_cap": 52154239.08333333,
       "last_close": 1.19,
       "prev_close": 1.2,
@@ -3705,6 +3729,16 @@
       "week52_pos": 30.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.11,
+          "eps_estimate": -0.0606,
+          "surprise_pct": -81.5182,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 16520000,
+          "rev_estimate": 16336750
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0,
@@ -3725,29 +3759,25 @@
           "eps_estimate": -0.0202,
           "surprise_pct": 100,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.1,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.11,
+          "eps_estimate": -0.0606,
+          "surprise_pct": -81.5182,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 16520000,
+          "rev_estimate": 16336750
+        },
         {
           "period": "2025-12-31",
           "eps_actual": 0,
           "eps_estimate": -0.0101,
           "surprise_pct": 100,
           "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.1,
-          "eps_estimate": -0.0202,
-          "surprise_pct": -395.0495,
-          "beat": false
         }
       ],
       "bars": [
@@ -4019,9 +4049,9 @@
       "industry": "Textiles, Apparel & Luxury Goods",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.03,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 22380000,
       "revenue_beat": null,
       "market_cap": 29739848.489051092,
       "last_close": 2.78,
@@ -4034,6 +4064,13 @@
       "week52_pos": 49.4,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 0.03,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-09-30",
           "eps_actual": 0.14,
@@ -4054,26 +4091,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.04,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2026-09-30",
-          "eps_actual": 0.14,
+          "period": "2026-12-31",
+          "eps_actual": 0.03,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2026-06-30",
-          "eps_actual": 0.11,
+          "period": "2026-09-30",
+          "eps_actual": 0.14,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -10351,27 +10381,59 @@
   },
   "news": [
     {
-      "headline": "Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged - Reuters",
+      "headline": "Qatar PM in Oman to pave way for Iran-Gulf-Iraq Hormuz talks - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0ZxbXI3VDZwaXRHdWxyV0RvR2FXVGZXQmJjVGU4dGF4SDIzNjRTdUx3ZE1SUnRvcnkxcC0wUXdwRmQ5VHlUWVF0blk4LWM4WTdhTDNkQlVtaGJFZkhCWG1Zeks5N0hWYmtmd0dqVFRKMFB3MGFxNS15YVVyWEdVczNtQmVBV2YwQ09GbzlQYm1ZcXZFWXNLbUlNTlZDQmJ2TGYwZkh5RjBJTWZQWVBoSWZaelZnOTdPZDhyQmtGckdaVjJBSE1aajNucE1UWm8?oc=5",
-      "datetime": 1782289667,
-      "summary": "Oman opens temporary Strait of Hormuz shipping routes, says no tolls will be charged\u00a0\u00a0Reuters",
+      "datetime": 1782303885,
+      "summary": "Qatar PM in Oman to pave way for Iran-Gulf-Iraq Hormuz talks\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Israel, Lebanon discussing US 'pilot' proposal at Washington talks - Reuters",
+      "headline": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html",
+      "datetime": 1782303652,
+      "summary": "Bessent sees his \"3-3-3\" plan as still in reach \u2014 3% growth, a 3% deficit-to-GDP rate, and a 3 million barrels per day increase in oil production.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316030-1780499293543-gettyimages-2279621723-_s019257_wlfgzveb.jpeg?v=1780499314&w=1920&h=1080"
+    },
+    {
+      "headline": "Rubio starts Gulf tour as allies sceptical about Iran deal seek answers - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWl9XMUk4OHJjWllyc3MtYkZyTGRkbFoxZnV1Mkl4b1pkMlpMYW9yaDV1T2hTMjc1U3NEb2ZNeFBGUkNQcS13bG5UUkgtWTFON0hpZkQzMHUyWVBTY19KMVlUZEJBWUZPN2ZEblp6T01OODBFV0t0RmY5VXJaQVRZZ1p6ZFkxVXI0WXJtRFJpZ21YNUtxcWttb0FObmtndVdpRGhvYkE0eTVWbW5TLWF4QQ?oc=5",
+      "datetime": 1782302784,
+      "summary": "Rubio starts Gulf tour as allies sceptical about Iran deal seek answers\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "IAEA chief says Iran inspections will go ahead, working on modalities - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnZnbjBzNWg2N3R1eFNLelBNcDdsMkVaUGNpUUhKc2N2TWxtQTJkSnU4cXZ0aGtyN283SDVDNjNyQmpYNkxNUW9fVDFOcXRUOHRmYy1LVzZtbjRiMlprYWVvYk5iVDR1VDRRaVZDdFdHX1E2ZkhCcFBHa3FiRWJuVFhObDU4dkttTHdKX3NMMEc4bGxtS3NsODRzRk4zbzF2S25ORkgyR1Y2Sm8?oc=5",
+      "datetime": 1782300103,
+      "summary": "IAEA chief says Iran inspections will go ahead, working on modalities\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "European shares hold flat on US-Iran talks; Rheinmetall slides - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVAzdWZUaWt2N3ZZbFdmUUJVT2I1YzVqUFJXbUVtUEFYeW9PTERaYTYyOGRPYVdNRzJDT2FUamY2UHVzMkxsRkd6VmREenlLNFZzY0xZejV1S3ljZlJieGVqSW43UkhhUUkxdmZOZ0dBT2gxd0pRaWpocmRVYzU0TjJTNzFqVDhiTzRSSF83NXdnVkZmNkJIMmdtQU1oSDJTT3k3QTFoVWpqUVlDVmx2UVVlYWE0UQ?oc=5",
+      "datetime": 1782290200,
+      "summary": "European shares hold flat on US-Iran talks; Rheinmetall slides\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Airlines should still avoid airspace over Iran after framework deal, EU agency warns - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzlhYTFUZFlsTXhncS1GM19jblhhazNKQm1lQmRMWG5TWTZIRkQzTFpsZTAtcGZWb0N6MGtmdGt6aklHdWktNURibU9ieFc4YlBaYXBRZlpWRThNZXpnOTlRcWtuRXp6S0c3Um4tOTB6ejB6dUZmZnVpenlvcHdxLXF5ZXlON1h5azg4RnFLaHBhN09hY3NBS0M0dVBBWUphZzM1eURQVFVMeDM1d0VGX3YxSU9VQmpVeXk5THZtNGpua0s2ai0tNllWcw?oc=5",
+      "datetime": 1782284953,
+      "summary": "Airlines should still avoid airspace over Iran after framework deal, EU agency warns\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Israel, Lebanon discussing pilot scheme for handover of territory - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWdCUW9kY2lOS2pVTHpubWhKMDlLZTlIRl9pMFlYNHhWWkFjaVl1MUZuRDJMZFhyY0ZabTVaZ3dmNGYtaDh0MHNPSjQ3cDN2MUtDWXJNNlhDZ0tYQ1JMQ3gyelF0SVlMbnVBbVdBazhOZTZOMTN2VldiVnFkMWRQTXRGLVhueUZKQUczTWNubGN1MnNyaWJHMWxHdkRKbWl1TFFFM0lQcDlUSDduRF9lS0lPc3JNcXpMRl9sV1ZGLXNiMEVUbFdv?oc=5",
       "datetime": 1782284040,
-      "summary": "Israel, Lebanon discussing US 'pilot' proposal at Washington talks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Rubio kicks off Middle East trip as allies seek answers on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWl9XMUk4OHJjWllyc3MtYkZyTGRkbFoxZnV1Mkl4b1pkMlpMYW9yaDV1T2hTMjc1U3NEb2ZNeFBGUkNQcS13bG5UUkgtWTFON0hpZkQzMHUyWVBTY19KMVlUZEJBWUZPN2ZEblp6T01OODBFV0t0RmY5VXJaQVRZZ1p6ZFkxVXI0WXJtRFJpZ21YNUtxcWttb0FObmtndVdpRGhvYkE0eTVWbW5TLWF4QQ?oc=5",
-      "datetime": 1782277680,
-      "summary": "Rubio kicks off Middle East trip as allies seek answers on Iran\u00a0\u00a0Reuters",
+      "summary": "Israel, Lebanon discussing pilot scheme for handover of territory\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -10380,6 +10442,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1p6ekh2XzQzSTRWWndpRlRjbVpQRzZ5MmkwaTBwM19XM0pSLVJxVjBhNzREOW1BWU4yNFNjazZQVkJoLXJQZjlRS1hTVXVTR0tqX0dwQUltOVVwUlVBOFQ1bmtKQjJpYTdnQXJIZE5janZ6d0Vua3ZhelM0dzR5UmdPTWtwTngxM0xEUjcxU1FsM1JCOFRoRFppQ2xDd3l6ak1mNWh1ZGs1cjZJOVlZOF9pRjFVUlRoem4yeHZ0SU41dw?oc=5",
       "datetime": 1782277440,
       "summary": "NATO's Rutte to meet Trump, aiming to ease tensions ahead of July summit\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Qatar to resume normal liquefied natural gas production 'within a few weeks', PM tells FT - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcnJZOThQN0E1MFJQT081cFFfNXhjaEs2SjdSV2FMRnlnRFc3UGtTSDMwMDV6OEc1UnprN1lUbVVjTjFHZ1g3U2tkUHR3YWE1aGRZRVJkdWVVMGk1Y18yWkVhbldXV25hdUxZb2lEMGRQb3hNLW5VWVp4WGVYVzNQVlY5SHNoN1J0alBhNGlqd3dHZUsyNHg3ajMwLTJ6M1hsNTRBNkpvVGtWTC1ySzJWcnVZZWpZbjBLa2VTblZRbDlHTWpZOGRMV3Z3?oc=5",
+      "datetime": 1782275400,
+      "summary": "Qatar to resume normal liquefied natural gas production 'within a few weeks', PM tells FT\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -10399,52 +10469,12 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil extends slide to more than 1% on expectations of smoother crude flows via Hormuz - Reuters",
+      "headline": "Brent extends losses on expectations of smoother crude flows via Hormuz - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjlBc1JxN0hPX3MwaDU1UDMyeEE1SG1tRS1ma1FpSENKVVdpVzY3eUNoeUJvdGtVVDZtRm84UG1jTjBwV0s0RTExRHZCczB3TnBYN05CSlJueGNLSU1zeUstS0U0NTBBa0NhUU00VE0wQWFWU0ZfWGtiT2tfeVBpdWV1NmZ3UlBvTmxwRXU3WlVPNGdDU3VWNXJMOWJfNWM1ZEtyNS1YV3JlY2xEeTZmczZsRmdrd1AzMVhZTEFVdw?oc=5",
       "datetime": 1782263820,
-      "summary": "Oil extends slide to more than 1% on expectations of smoother crude flows via Hormuz\u00a0\u00a0Reuters",
+      "summary": "Brent extends losses on expectations of smoother crude flows via Hormuz\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US Senate joins House in voting to halt Iran war, rebuking Trump - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmhxUVNibG82ZUN6NG5vUGVEb3c3X3ExNXJKYjFwYzZCYi03ZGFjX2JNZ1VyNzRzSzF5U3V4LVhIUGM4U0lrZzY4SmhBeGZuVHlqLWxsQ3hPRk5aYVZtT2ZPUk84LUl2LWw1WEl5ai1OS3ZFcGlKTmpEZmVPeG5rT1QwOFVoY25iS2NXRjBPTnQtNnBxYkNpQXFVT1hKTEJYbGJpSg?oc=5",
-      "datetime": 1782255240,
-      "summary": "US Senate joins House in voting to halt Iran war, rebuking Trump\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US Senate votes to halt Iran war in latest rebuke of Trump - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTRaMVd3TU94enBqRXpUc0tCNzVEQ2dQaHlnN0oyMm9sak5aTFNybDQtTkJBU25xYlVSV2ZBR2Jwal9WNE5HQWh1N3A3UGpCNlZkUEo0SVoyaThBVmZmamtaaThxT3dBYl9iUE9JU2xNQUhWN2hSUVltdXZJYThsUEVtcnQzV3c4cGZSSlBGQndRdw?oc=5",
-      "datetime": 1782250449,
-      "summary": "US Senate votes to halt Iran war in latest rebuke of Trump\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-      "datetime": 1782248145,
-      "summary": "The commission has now sued nine states in total in its battle to defend what it sees as its exclusive right to regulate event contracts.",
-      "image": "https://image.cnbcfm.com/api/v1/image/106964284-16348615362021-10-21t233844z_1_lynxmpeh9k1cq_rtroptp_0_usa-legal.jpeg?v=1779986538&w=1920&h=1080"
-    },
-    {
-      "headline": "US eases restrictions on Iran's world cup team, allowing them in a day earlier - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWZUbWcxX0V1V0VSU3R2TWFkbWwtQlB2ZFhubGpvXzVVdm1KSU5MMTNsS0pKRHFfVmNMZGVBaVFtcUdoUEV2YXluMHp1YVZ0OVI1aEl0R0JTWnFWNzNmeGlLZ3JDc1NrVUNraFVJYVU1VlJLdEs4bGZjSVBrVThMdXh1dFI4OElPaVV4OU1veGRqbjRFcjMzQlFCcThFYUc1WDNoS1BfLW5QNEMxZkQ1d1F1cHYweXNIY3h5M1dlcw?oc=5",
-      "datetime": 1782242796,
-      "summary": "US eases restrictions on Iran's world cup team, allowing them in a day earlier\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "What DuPont's coming 1-for-3 reverse stock split means for investors",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/what-duponts-coming-1-for-3-reverse-stock-split-means-for-investors.html",
-      "datetime": 1782240445,
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108120341-1742832437683-Traders-Photo-KK-Photo-PRESS-20250324-009.jpg?v=1742832616&w=1920&h=1080"
     }
   ],
   "sentiment": {
