@@ -339,10 +339,10 @@
       "industry": "Building",
       "timing": "bmo",
       "eps_estimate": 0.4556,
-      "eps_actual": null,
+      "eps_actual": 0.57,
       "revenue_estimate": 340516116,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 342680000,
+      "revenue_beat": true,
       "market_cap": 906990696.6520494,
       "last_close": 42.48,
       "prev_close": 41.96,
@@ -354,6 +354,16 @@
       "week52_pos": 61.0,
       "pe_ratio": 16.5507,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.57,
+          "eps_estimate": 0.4556,
+          "surprise_pct": 25.1097,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 342680000,
+          "rev_estimate": 340516116
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.92,
@@ -374,29 +384,25 @@
           "eps_estimate": 0.8573,
           "surprise_pct": 14.3124,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.56,
-          "eps_estimate": 0.4756,
-          "surprise_pct": 17.746,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.57,
+          "eps_estimate": 0.4556,
+          "surprise_pct": 25.1097,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 342680000,
+          "rev_estimate": 340516116
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.92,
           "eps_estimate": 0.8942,
           "surprise_pct": 2.8853,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.02,
-          "eps_estimate": 1.0391,
-          "surprise_pct": -1.8381,
-          "beat": false
         }
       ],
       "bars": [
@@ -7321,11 +7327,35 @@
   },
   "news": [
     {
+      "headline": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "datetime": 1782475801,
+      "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1777059781&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFRwZHY1bnhkUUxWazNxYUNVdjlHV2RFN2RBc0ZnS2ZMc1JKQmtSMkRzQ0lIZkN6aXFMeENhTkJ2UURUcnJTNnZRZmdiQWdHcGdHYl9IbmdLa2tmT0VOUDN4Y1dRU0dQWkFNZkNuX2Q4VFVKUE5MUjBEaGpud3czTzdJR2Jrbzl1X2x2VkZsR1lyVjN3dDFnUHhMUXN0M3pmVFdiZnJidUF6ZFViSVpkWXB1V2t1S3d4OGpwQmdhd0ZwODVQN2NF?oc=5",
+      "datetime": 1782474987,
+      "summary": "Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Iran deal grants access to nuclear inspectors, IAEA chief says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbklORW1hNXYwX1pxRFpuTlVTZ0xTZUJOVXdXcUdScUpoQm1fUGx3NUVMZGh4S0hYelhlTEdUd1dDTzUydU9xWW5kWDZxMnd2U3prZklQSXZjRk1aQ2J2OEt5Wkl4Tm1kaktRRDhxdGJlZjJuWF9VNC1jUkhpT2tqajdWbXNYVUhqVTJZZGdCSnNBV0YwOTRCWVhrWnFHdDdkTm9aTkVTOFhfb1BDM0RBZlFn?oc=5",
       "datetime": 1782459377,
       "summary": "Iran deal grants access to nuclear inspectors, IAEA chief says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Montenegro police, FBI arrest Iranian wanted by US for hacking - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmRhdnQyVHYxWjR1YWdfVmF5MER5YjhZcV9nWWlWMDUzb3pSZjZhS0NFN0pwYnYta084OUFKck15c3ZkUnpUWjhadzhCZmhBWGxUQmx3VDFxc2tkc0YtY2ZtNmhDcFdUZUlPSkFMamNrS1JGSEV5WUYyNkYtelhZTjl4dTItUWh6NEttUS16M3NqNlJBbGZ4eTl3Wkd3U2x6?oc=5",
+      "datetime": 1782452280,
+      "summary": "Montenegro police, FBI arrest Iranian wanted by US for hacking\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -7385,36 +7415,12 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
-      "datetime": 1782411047,
-      "summary": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326943-17824064042025-12-13t071247z_730650951_rc2ouha39bwi_rtrmadp_0_usa-chicago-immigration-journalists.jpeg?v=1782406454&w=1920&h=1080"
-    },
-    {
-      "headline": "We're trimming a health-care stock into strength and raising our price target",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/were-trimming-a-stock-into-strength-raising-our-price-target.html",
-      "datetime": 1782405324,
-      "summary": "It's been a remarkable turnaround for a name we\u00a0started\u00a0to buy a little too high and a little too fast when the Iran war broke out.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108323255-1781709446265-NYSE_Traders-OB-Photo-ALR-20260617-PRESS-6.jpg?v=1781709567&w=1920&h=1080"
-    },
-    {
-      "headline": "We're locking in triple-digit profits on an AI winner at record highs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/were-locking-in-triple-digit-profits-on-an-ai-winner-at-record-highs.html",
-      "datetime": 1782400295,
-      "summary": "The stock has soared this week for unclear reasons.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1770325951&w=1920&h=1080"
-    },
-    {
-      "headline": "The Club's top 10 things to watch in the stock market Thursday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/the-clubs-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "datetime": 1782393069,
-      "summary": "Another monster quarter from Micron has ignited a chip stock rally.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107066221-1J7A1312.JPG?v=1719436212&w=1920&h=1080"
+      "headline": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3FTZlcydWNkVlFYdEF5NV95X1B3TlNiN2M5MVNCSXJwTTBFZnFlOW1VZDExVWhNOE9zcnliaDQtd2U1bTBxdDZWZzNiWmNHQW05eFFkMlctSlhyT0ItX0pVdUdTNDlWalhPb211WlAtN0Z6ZzFpNkVrbUpoSzljR2dNbGl1MXEzZEVlTWl5NFkxWEVYZDJIR2NvWmNXNm9SQ0NhRlpLcm03bVJMUEdLWERQS01lUGpoQUNIc0VTNFdvRlNWdmc?oc=5",
+      "datetime": 1782411372,
+      "summary": "IMF says energy, commodity prices fall after Iran deal but will take time to normalize\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
