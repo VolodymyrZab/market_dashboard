@@ -342,10 +342,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 4.4964,
-      "eps_actual": null,
+      "eps_actual": 4.53,
       "revenue_estimate": 623886554,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 622920000,
+      "revenue_beat": false,
       "market_cap": 8382074090.4155445,
       "last_close": 230.08,
       "prev_close": 233.62,
@@ -357,6 +357,16 @@
       "week52_pos": 16.8,
       "pe_ratio": 14.3247,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 4.53,
+          "eps_estimate": 4.4964,
+          "surprise_pct": 0.7473,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 622920000,
+          "rev_estimate": 623886554
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.46,
@@ -377,28 +387,24 @@
           "eps_estimate": 4.1698,
           "surprise_pct": -2.873,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 4.27,
-          "eps_estimate": 4.3374,
-          "surprise_pct": -1.5539,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 4.53,
+          "eps_estimate": 4.4964,
+          "surprise_pct": 0.7473,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 622920000,
+          "rev_estimate": 623886554
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.46,
           "eps_estimate": 4.4193,
           "surprise_pct": 0.921,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 4.51,
-          "eps_estimate": 4.4122,
-          "surprise_pct": 2.2166,
           "beat": true
         }
       ],
@@ -1006,10 +1012,10 @@
       "industry": "Commercial Services & Supplies",
       "timing": "bmo",
       "eps_estimate": 1.9281,
-      "eps_actual": null,
+      "eps_actual": 2.17,
       "revenue_estimate": 633929863,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 634400000,
+      "revenue_beat": true,
       "market_cap": 4594635918.864893,
       "last_close": 264.46,
       "prev_close": 263.94,
@@ -1021,6 +1027,16 @@
       "week52_pos": 85.8,
       "pe_ratio": 33.8414,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.17,
+          "eps_estimate": 1.9281,
+          "surprise_pct": 12.546,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 634400000,
+          "rev_estimate": 633929863
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.25,
@@ -1041,29 +1057,25 @@
           "eps_estimate": 2.1446,
           "surprise_pct": 6.3135,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.19,
-          "eps_estimate": 2.1093,
-          "surprise_pct": 3.8259,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.17,
+          "eps_estimate": 1.9281,
+          "surprise_pct": 12.546,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 634400000,
+          "rev_estimate": 633929863
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.25,
           "eps_estimate": 1.2241,
           "surprise_pct": 2.1158,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.98,
-          "eps_estimate": 2.0834,
-          "surprise_pct": -4.963,
-          "beat": false
         }
       ],
       "bars": [
@@ -7673,44 +7685,84 @@
   },
   "news": [
     {
-      "headline": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the U.S.",
+      "headline": "PlayStation will end physical disc production for new games in 2028",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
-      "datetime": 1782901788,
-      "summary": "U.S. Big Tech stocks enjoyed strong gains \u2014 despite a sharp sell-off at the end of June \u2014 but were largely outperformed by their international counterparts.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html",
+      "datetime": 1782912089,
+      "summary": "PlayStation will end physical disc production for new games in 2028, the company announced Wednesday morning.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107379294-1709071161950-gettyimages-2043808563-img_7133_suc8qu8f.jpeg?v=1709071281&w=1920&h=1080"
     },
     {
-      "headline": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
+      "headline": "We're exiting a troubled stock after a muted quarter, while considering better options",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/were-exiting-a-troubled-stock-after-a-muted-quarter-while-considering-better-options.html",
+      "datetime": 1782910069,
+      "summary": "The quarter offered some signs that management's turnaround strategy is gaining traction, but progress remains slow.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080"
+    },
+    {
+      "headline": "Wall St set to slip as US-Iran tensions cloud start to second half - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5",
-      "datetime": 1782898875,
-      "summary": "Iran insists on keeping control over Hormuz, senior Iranian sources say\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
+      "datetime": 1782909660,
+      "summary": "Wall St set to slip as US-Iran tensions cloud start to second half\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil falls over 1% as markets await outcome of Iran-US talks, US stocks data - Reuters",
+      "headline": "Oil falls as markets await outcome of Iran-US talks, US stocks data - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHJEenFKWkIxQUo3U2hMR2RKY0h3MldHWmhUSlFrbUloR195NWh0cE41c3BGc25aRlk5RlR5bEVVTHN0Qk95d3dfTHZUQnRxdVdmOERFRUlrQzRBYlB5d1dSM3RtdUJsRUV0WkxIVnpGZFg5TnRYQXR3TEVDUV9tUC12dWcyTW94WDVkbUZYUE95Y1ZXRkRRX1ByYXJ0c0xxTmhrTXQwaFM3eXJkMWp1ZVBmRy0tSklWMWc?oc=5",
-      "datetime": 1782898230,
-      "summary": "Oil falls over 1% as markets await outcome of Iran-US talks, US stocks data\u00a0\u00a0Reuters",
+      "datetime": 1782907777,
+      "summary": "Oil falls as markets await outcome of Iran-US talks, US stocks data\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Buy the UK DIP? Defense stocks lifted by $20 billion spending boost as gilts come under fire",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/defense-stocks-uk-investment-plan-gilts-bae-systems.html",
+      "datetime": 1782906759,
+      "summary": "British defense stocks are marching higher once again after the U.K. confirmed a near-$20 billion military spending boost on Tuesday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/105337576-1531924818740gettyimages-1000143314.jpeg?v=1532563616&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
+      "datetime": 1782904303,
+      "summary": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "The next Iran war may come sooner than you think - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5",
-      "datetime": 1782897301,
+      "datetime": 1782903717,
       "summary": "The next Iran war may come sooner than you think\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Faces of elimination: World Cup fans in their moment of loss - Reuters",
+      "headline": "US and Iran enter technical talks to secure peace deal, shipping restart - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUd1elNzOXhKcnF0TVl5YXZuNVJRS0VacThnREp6Y3hoSFpwdGFKQ3NCNTl2bFVQTEVGLXFyemhFYnJWa2dKYTFWWHJKcEUzVVU5MTlWRWxZX3NLY1hNV3hyY01OZDNXbUhsVU5LV2IxSGNZRmptT1lsVllVSlhaQ1FQck92X0U1aVlpMGpQeDlNSUxt?oc=5",
-      "datetime": 1782896554,
-      "summary": "Faces of elimination: World Cup fans in their moment of loss\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "datetime": 1782903111,
+      "summary": "US and Iran enter technical talks to secure peace deal, shipping restart\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5",
+      "datetime": 1782901802,
+      "summary": "Iran insists on keeping control over Hormuz, senior Iranian sources say\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the U.S.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+      "datetime": 1782901788,
+      "summary": "U.S. Big Tech stocks enjoyed strong gains \u2014 despite a sharp sell-off at the end of June \u2014 but were largely outperformed by their international counterparts.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108328138-1782745575086-NYSE_Traders-OB-Photo-ALR-20260629-PRESS-6.jpg?v=1782745808&w=1920&h=1080"
     },
     {
       "headline": "NATO allies have grown silent on rights concerns in Turkey - Reuters",
@@ -7721,51 +7773,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Global AI wave revs up Asian factories, offsetting war-induced pain - Reuters",
+      "headline": "Rupee hits near three-week low as Asian currencies drop on Fed, Iran war caution - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHBDYWVQWXRJN0tHcTh2R1NBYlFJRTRBSk9DWlhwbzlaUlRmdkk1Z0RZdm1xYjIzS3NVQkRzOGZPTTZLMkRIWnFQLWVJNEtVRmtRTXlCbU1la1lIXzJWbjJCUC04akVXNUMyRWdHNVYzdkVXVlNkLW40d0hyWGhPUlJPMndhRXpKV3ItYThFXzVweE5ldktjbUtuVzMxNkpISVI2bVdVMWkyTC1oTklBXzltd1dFLVJ4UG5xR0tjS1dKQQ?oc=5",
-      "datetime": 1782874800,
-      "summary": "Global AI wave revs up Asian factories, offsetting war-induced pain\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHdUWXEwMnhHYkRxZnN5bGRGVXFhMHh3R2RaMTRkcnRaZE9GVXUzU2plNDJmazFsTDFQQTdGMFh5VHFCblk1djNzRGM1bF9NQXlfb2JxSy1mNDBXQnJaQ2p5QXk1TGRNRGFBd2NTal9ncWJZZWVNZ2UtWkxNa3VFS1B0LTRWNWdhdzk3NUd5clFqZHpGbDR3N3BlVVZ6a0NfVVR5NDY4T2hYV2NYd1g2MmlkYmF2VWpwZ0lV?oc=5",
-      "datetime": 1782873240,
-      "summary": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US VP Vance says the Vatican's views on immigration are 'troubling' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHJxblRHVVVMc0FLbmVDQ3cxdTVRdW56LW1SUEFVSXY2QUtRNFN3WkdlMm12Qll5d2NqUU5nWm1BckpRY1BiWVowREpTQ1BVRmZOUkk5VVpBeEZfQ3dlTnRZQkljQVJhSmQ3Vl9jb0R0dkg4Qm0zM1JRV3NyelFaZTVBWlJBS2V1NjlxZ1l4S1RwQ3VNdG9YYTAzclRqbWhR?oc=5",
-      "datetime": 1782873060,
-      "summary": "US VP Vance says the Vatican's views on immigration are 'troubling'\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Indian shares rise as gains in auto, financials outweigh IT losses - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamtFeXNBWjVGRXNVcUR2cjgzU0pRem81WmJwTHVQb3ljaFhXXzZtSWdfbnRiTkhSUHhTaEtxSlZUdmxPemtlSUpiVjJwUFpGRFRyU0RseW8tRjZubG1PU1ZHY19FNTZ3UWQzM0l3djdiUjJiV2hveUVjbjhsNmg5T0dRMHJpNDlJdEVVbWNZSmN1ZVYzYzdmUm5CTmpONWtiYXB2QTJFcTc0eWE2RHFQV1BNYw?oc=5",
-      "datetime": 1782872880,
-      "summary": "Indian shares rise as gains in auto, financials outweigh IT losses\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "World shares ease, yields rise as yen hits 40-year low - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbWIzbFBrbzZhVDlNVmQwbktCbmZIV3VBQnc1d1dhUnYtbm45SDZZa1NZVXE0Vkh3V1QwTDVqT1ZwYUI0Zk9kYTlyRGRTN0NLMllyRmNLcXlDbUd4WXZ0RXZxcDUza0VKUWIyeFdoQjA2WTRGYWktZ0FkNklQWnZRX3J6NA?oc=5",
-      "datetime": 1782870960,
-      "summary": "World shares ease, yields rise as yen hits 40-year low\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold falls as higher Treasury yields, Fed rate hike bets weigh - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUtDS0lOMmpVZ0RpMVM2VUVXQUJtQV95bG5xUHVGalJ1UnlxcENxQk44eHRVMElaalhEWm5tb3RVaEVuU1lscWFpdkFtMUJjUlQ4SXpmNFc2TnY0VlBGNEFjbTE5X1l3eDNmRG5wV2tmN3YwSlRNUWZyUDNNd25mZjBGWWYzNXpXU0NHZmJaRGM5akhpOWVUMHVVN0pQTTZzV3c0aUpJWV9jX2tXSmdwMHZ0Uk92SnRjZWc?oc=5",
-      "datetime": 1782870720,
-      "summary": "Gold falls as higher Treasury yields, Fed rate hike bets weigh\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkJzTF9wTHpITTN1S0pEeUdhZzUzWW9kN1dpVy1aS3duaVI5MlR3TGEwbVRhYWJfUTU2eF9TSmJMN0NlUlRzSjktdF8waGVyblFuZkpwbVh3UWJxNFNKa0tKeEJ4eC03VUdhU3BpWjFPUTZmNngxUHd1dWdpb1N6Mi1XSE9LaEl1RGRRM1VNU1d6UlQ2Rnc0VDZiWV9McE5xQlc4MzdSbkhJTXZ1T3o0?oc=5",
+      "datetime": 1782879960,
+      "summary": "Rupee hits near three-week low as Asian currencies drop on Fed, Iran war caution\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
