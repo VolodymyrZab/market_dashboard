@@ -677,10 +677,10 @@
       "industry": "Machinery",
       "timing": "bmo",
       "eps_estimate": 1.2196,
-      "eps_actual": null,
+      "eps_actual": 1.53,
       "revenue_estimate": 159382040,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 160760000,
+      "revenue_beat": true,
       "market_cap": 1258602058.4243133,
       "last_close": 121.07,
       "prev_close": 123.8,
@@ -692,6 +692,16 @@
       "week52_pos": 45.5,
       "pe_ratio": 21.6451,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.53,
+          "eps_estimate": 1.2196,
+          "surprise_pct": 25.451,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 160760000,
+          "rev_estimate": 159382040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.15,
@@ -712,29 +722,25 @@
           "eps_estimate": 1.111,
           "surprise_pct": -10.8911,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.78,
-          "eps_estimate": 1.4191,
-          "surprise_pct": 25.4316,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.53,
+          "eps_estimate": 1.2196,
+          "surprise_pct": 25.451,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 160760000,
+          "rev_estimate": 159382040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.15,
           "eps_estimate": 1.7019,
           "surprise_pct": -32.4285,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.54,
-          "eps_estimate": 1.4898,
-          "surprise_pct": 3.3696,
-          "beat": true
         }
       ],
       "bars": [
@@ -8160,12 +8166,28 @@
   },
   "news": [
     {
-      "headline": "Syrian foreign minister says Syria open to meeting Hezbollah, according to media reports - Reuters",
+      "headline": "Jeff Bezos' family office backed five AI startups in June",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/jeff-bezos-family-office-backed-five-ai-startups-in-june.html",
+      "datetime": 1782995401,
+      "summary": "Bezos Expeditions is now the most active family office investor thus far this year, per data from Fintrx.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108329324-1782915391897-gettyimages-2282054038-_r7a3045_tx8qn1qc.jpeg?v=1782922841&w=1920&h=1080"
+    },
+    {
+      "headline": "Syrian foreign minister says Syria open to meeting Hezbollah, Lebanese state media reports - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVNxNDVMMkRzdkNlVldYOWhBQW1kaWs0U0pIdkdPUTRvb2g1bzZTUEJMX29RU3I4Y2hmU0hiMnk5ZVJmN2ZoN2NiNXpZbUwybjA0NHFxclJvdFRlcG40VTRxbkdpUXpsZjlyS19jeEhsTzllclpGLTg5VzNTWDhFLXBnTzl2bER3TUJiQTBkTndvRnQxSTB4SHlFdFV4N0h1a3VHMnhfTzNybVhZNVRaMmRmd1U3bnZXOTV5TFhzVjlUOW8?oc=5",
-      "datetime": 1782985294,
-      "summary": "Syrian foreign minister says Syria open to meeting Hezbollah, according to media reports\u00a0\u00a0Reuters",
+      "datetime": 1782992243,
+      "summary": "Syrian foreign minister says Syria open to meeting Hezbollah, Lebanese state media reports\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Americans are paying record prices for steak. Here's why demand isn't cracking",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html",
+      "datetime": 1782990001,
+      "summary": "Despite record beef prices, Americans aren't giving up steak. Consumers are treating beef as an affordable luxury and prioritizing it for special occasions.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108328768-1782834386510-gettyimages-1092451104-11.jpeg?v=1782834602&w=1920&h=1080"
     },
     {
       "headline": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Reuters",
@@ -8181,6 +8203,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWm9jVFN2eXJDQ19Oal9VTW1SMlFmcUVOWEtGN2p0VFEwVDJJSzI4NG5MSFozM1k3Q2RWQ3Z6N2czM1JOY2JvRGRCcHFUNWw3bWk0N2VXcFM3c3FKYTFhS21wUVN3ZnBiNlNaZUNMMi03Q2ExOTJPVUItY3YxQngyaFhtT283dzQ4ZHJ6LVEtTzMtQ3FwUk9JeGQ4ckI?oc=5",
       "datetime": 1782979183,
       "summary": "Senior Chinese lawmaker to attend Khamenei's funeral\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "UK business morale slumps as Iran war pushes up costs, survey shows - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1dMdC1RYnVFWEdZVnZlQlMxVkprVHd0aWR3V1h1ZC1MWV9Fb28zSThmVHF6U1NJRkhLT2dPT2U2aElBekNVaFR2ZzFPbGVKczVRMUstNjdNUllJRmV3RmtpTGJNQUN5NnNaTHZzZWEtVXdkcXBiWllULW9ldUpGN3dFZGcwMU5QV3BkRUc0bkZ0YkdOZzdmLXFLam5oc1gwMmVQNFpXa0JVRkxB?oc=5",
+      "datetime": 1782975943,
+      "summary": "UK business morale slumps as Iran war pushes up costs, survey shows\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8230,30 +8260,6 @@
       "datetime": 1782941162,
       "summary": "US car sales on cruise control despite pressures\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Uber-backed Lime rides IPO wave to $1.7 billion valuation in Nasdaq debut - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdG9jQkZhX2NncDZ4Uy12N1E0cnZ0UFdEWmRMemNENDVvZThzTU9Da0FmdzFzajA5cjZfSGdkMXJDU2NIM2RFdkhVaVhvZEN2WWt5eHVGckZLbUxkXzVKTHVTVTNTVHR1UzNwR1h3TjJKQTRoZVNCbEhqcDIxdUpxNms2MGRlNFpUWnlWbkIwdk4wMkNQaTdXUjc1Yw?oc=5",
-      "datetime": 1782938035,
-      "summary": "Uber-backed Lime rides IPO wave to $1.7 billion valuation in Nasdaq debut\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Defense startups raid auto and fracking sectors for parts to speed weapons output - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXdoZFNDNWR3TXRnUjBhdERaMFM3cUlDM1o0QWVfXzQwNnpLRUc1Y0kyQUJzd1U4MVJTandHYjZkekRHWGJuWnQ3UjJjS0MxaFZacElDMWFrRUkyZU5fYjg1VHFtN0tVUUFvYVptQTNjSWZnbzZ1cmhRbDNNdkNxalo2d1hod3pzbDNkNFJneWE4T3ZRUTBJZFVxMkJFeF9rTFZ5WWRpMzhwN0RFSTNjQWxlZ2JObDR2X1kxU3JHWmNMaVFCTmk3dzB5SHQ0dw?oc=5",
-      "datetime": 1782937666,
-      "summary": "Defense startups raid auto and fracking sectors for parts to speed weapons output\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
-      "datetime": 1782937629,
-      "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108321366-1781289964765-gettyimages-2280581172-FIFA_WORLD_CUP.jpeg?v=1781290017&w=1920&h=1080"
     }
   ],
   "sentiment": {
