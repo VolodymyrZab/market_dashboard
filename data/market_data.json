@@ -6009,10 +6009,26 @@
   },
   "news": [
     {
+      "headline": "American Express and Chase move luxury lounge wars beyond the airport",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
+      "datetime": 1783080001,
+      "summary": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080"
+    },
+    {
+      "headline": "What are the key challenges facing NATO? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3NLaE9ydjRIa0doaXh1VjVmN1czQ2hMcUdUU1k5alNBVkJFWGZDamFNN0JzdjRBeUVxSGo4UXlySllSeFluQmN4c2J4OHYxTzdpelZUN3JqWmFXXzlQeHNfNF93N1Zad1BucDhMd3dSRUc0UXZ5T0RWWnJqSi15SXZUcXlrM1ZKeWVtaUxZWVRDUi1aeFA4VUpqNGsyNXc?oc=5",
+      "datetime": 1783076687,
+      "summary": "What are the key challenges facing NATO?\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5",
-      "datetime": 1783070981,
+      "datetime": 1783076623,
       "summary": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
@@ -6020,16 +6036,16 @@
       "headline": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
-      "datetime": 1783070503,
+      "datetime": 1783075888,
       "summary": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Explainer: What are the key challenges facing NATO? - Reuters",
+      "headline": "In the West Bank, Israeli settlers take over Palestinian's dream home - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3NLaE9ydjRIa0doaXh1VjVmN1czQ2hMcUdUU1k5alNBVkJFWGZDamFNN0JzdjRBeUVxSGo4UXlySllSeFluQmN4c2J4OHYxTzdpelZUN3JqWmFXXzlQeHNfNF93N1Zad1BucDhMd3dSRUc0UXZ5T0RWWnJqSi15SXZUcXlrM1ZKeWVtaUxZWVRDUi1aeFA4VUpqNGsyNXc?oc=5",
-      "datetime": 1783062463,
-      "summary": "Explainer: What are the key challenges facing NATO?\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTVXLXIyN0poOG0tZUhzUFUySmtfdVdDRlNUREExRjZnbUZzTk1PMlZhMXNNOFlDdTlMaDR3UmZQNV93LWRHQlB2cFl2V1cxNHNHX2NvTFEwdGNwSF9SemJqNHRGMkZLeV83MzUxM0RZbXBWM1FhbnpGZXlZMnY1S3J4SFdOaWwxc25Oc0h1STUtRG5zU1EzWGZOUTluS2xEdWN4UWFEeGU4dWFoYjhXaEc5MUg?oc=5",
+      "datetime": 1783067864,
+      "summary": "In the West Bank, Israeli settlers take over Palestinian's dream home\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -6041,11 +6057,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil prices little changed ahead of long US weekend as peace efforts hold - Reuters",
+      "headline": "Oil prices stable as US-Iran peace efforts hold - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
       "datetime": 1783044300,
-      "summary": "Oil prices little changed ahead of long US weekend as peace efforts hold\u00a0\u00a0Reuters",
+      "summary": "Oil prices stable as US-Iran peace efforts hold\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -6087,22 +6103,6 @@
       "datetime": 1783014246,
       "summary": "Electrification secured $2.4 billion in data center equipment orders during the first quarter of 2026, beating the segment's total for all of 2025.",
       "image": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080"
-    },
-    {
-      "headline": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFJaLUh1S0VjTXZqZWRsa1JRVU1nektQQmFQd2IzNllGR3NEd25LT002dk5QREF2djg2VlZqNnU0MDROQ1NOSVowTlRwbDFzYnRIVzFOak9WREZiUXhldVUxNUFCUlFaR1VwZXd5WlZGdkZvaThFcWNGUHZNWmFoYmRseUI0ZVkxZ2p3UHByeWJTeTRacmtTTmVrRzkxY3hGazhMbWRVcVZYSnF1QjdQRA?oc=5",
-      "datetime": 1783010116,
-      "summary": "EXCLUSIVE: Kuwait sharply boosts crude production in June after US-Iran deal, source says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/gen-z-marriage-rates-american-dream.html",
-      "datetime": 1783010067,
-      "summary": "Gen Z defines the American Dream as having financial stability and being happy. Marriage could help them reach both of those goals, but many aren't sold on it.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108329500-1782930439205-Sarah_Wu_wedding.jpg?v=1783006852&w=1920&h=1080"
     }
   ],
   "sentiment": {
