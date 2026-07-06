@@ -1,6 +1,336 @@
 {
-  "last_updated": "2026-07-03",
-  "earnings": [],
+  "last_updated": "2026-07-06",
+  "earnings": [
+    {
+      "symbol": "CRMT",
+      "name": "America's CAR-MART Inc",
+      "industry": "Retail",
+      "timing": "bmo",
+      "eps_estimate": -0.6018,
+      "eps_actual": null,
+      "revenue_estimate": 346788780,
+      "revenue_actual": null,
+      "revenue_beat": null,
+      "market_cap": 22001494.0,
+      "last_close": 2.65,
+      "prev_close": 2.79,
+      "gap_pct": -5.02,
+      "volume": 814392.394881,
+      "rvol": 0.18,
+      "week52_high": 62.72,
+      "week52_low": 1.38,
+      "week52_pos": 2.1,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -1.53,
+          "eps_estimate": -0.2805,
+          "surprise_pct": -445.4545,
+          "beat": false
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.79,
+          "eps_estimate": -0.4993,
+          "surprise_pct": -58.2215,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.69,
+          "eps_estimate": 0.9109,
+          "surprise_pct": -175.7493,
+          "beat": false
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": 1.26,
+          "eps_estimate": 0.9744,
+          "surprise_pct": 29.3103,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -1.53,
+          "eps_estimate": -0.2805,
+          "surprise_pct": -445.4545,
+          "beat": false
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.79,
+          "eps_estimate": -0.4993,
+          "surprise_pct": -58.2215,
+          "beat": false
+        }
+      ],
+      "bars": [
+        {
+          "v": 56293.33634,
+          "vw": 12.3184,
+          "o": 11.89,
+          "c": 12.3,
+          "h": 12.75,
+          "l": 11.8,
+          "t": 1779854400000,
+          "n": 1524
+        },
+        {
+          "v": 75551.636477,
+          "vw": 12.6119,
+          "o": 12.21,
+          "c": 12.84,
+          "h": 12.92,
+          "l": 11.935,
+          "t": 1779940800000,
+          "n": 2017
+        },
+        {
+          "v": 71506.817672,
+          "vw": 12.5768,
+          "o": 12.87,
+          "c": 12.29,
+          "h": 13.1,
+          "l": 12.2,
+          "t": 1780027200000,
+          "n": 1887
+        },
+        {
+          "v": 1081482.878726,
+          "vw": 7.9286,
+          "o": 12.01,
+          "c": 6.86,
+          "h": 12.12,
+          "l": 6.68,
+          "t": 1780286400000,
+          "n": 13469
+        },
+        {
+          "v": 616741.612166,
+          "vw": 7.1571,
+          "o": 6.95,
+          "c": 8.34,
+          "h": 8.37,
+          "l": 6.5,
+          "t": 1780372800000,
+          "n": 9476
+        },
+        {
+          "v": 253705.020958,
+          "vw": 7.8326,
+          "o": 7.83,
+          "c": 7.37,
+          "h": 8.63,
+          "l": 7.315,
+          "t": 1780459200000,
+          "n": 5102
+        },
+        {
+          "v": 194832.262319,
+          "vw": 7.4822,
+          "o": 7.45,
+          "c": 7.85,
+          "h": 7.85,
+          "l": 7.17,
+          "t": 1780545600000,
+          "n": 3433
+        },
+        {
+          "v": 141565.366276,
+          "vw": 7.6059,
+          "o": 7.86,
+          "c": 7.73,
+          "h": 8,
+          "l": 7.2101,
+          "t": 1780632000000,
+          "n": 2956
+        },
+        {
+          "v": 190558.88853,
+          "vw": 6.7499,
+          "o": 7.17,
+          "c": 6.51,
+          "h": 7.17,
+          "l": 6.51,
+          "t": 1780891200000,
+          "n": 3249
+        },
+        {
+          "v": 327628.397155,
+          "vw": 5.7108,
+          "o": 6.5,
+          "c": 5.27,
+          "h": 6.805,
+          "l": 5.25,
+          "t": 1780977600000,
+          "n": 3806
+        },
+        {
+          "v": 7925219.013559,
+          "vw": 2.1786,
+          "o": 5.17,
+          "c": 2.37,
+          "h": 5.8229,
+          "l": 1.38,
+          "t": 1781064000000,
+          "n": 41607
+        },
+        {
+          "v": 2430743.585566,
+          "vw": 2.6096,
+          "o": 2.1,
+          "c": 2.69,
+          "h": 2.96,
+          "l": 1.94,
+          "t": 1781150400000,
+          "n": 12548
+        },
+        {
+          "v": 3315625.828137,
+          "vw": 2.3286,
+          "o": 2.65,
+          "c": 2.09,
+          "h": 2.68,
+          "l": 1.905,
+          "t": 1781236800000,
+          "n": 21257
+        },
+        {
+          "v": 2616074.093758,
+          "vw": 2.424,
+          "o": 2.35,
+          "c": 2.41,
+          "h": 2.88,
+          "l": 2.1,
+          "t": 1781496000000,
+          "n": 13658
+        },
+        {
+          "v": 1388211.448556,
+          "vw": 2.459,
+          "o": 2.45,
+          "c": 2.34,
+          "h": 2.9988,
+          "l": 2.155,
+          "t": 1781582400000,
+          "n": 7777
+        },
+        {
+          "v": 815142.513527,
+          "vw": 2.2915,
+          "o": 2.31,
+          "c": 2.21,
+          "h": 2.4499,
+          "l": 2.2,
+          "t": 1781668800000,
+          "n": 6695
+        },
+        {
+          "v": 764184.955307,
+          "vw": 2.2562,
+          "o": 2.19,
+          "c": 2.4,
+          "h": 2.42,
+          "l": 2.0506,
+          "t": 1781755200000,
+          "n": 4698
+        },
+        {
+          "v": 48260802.234179,
+          "vw": 3.5073,
+          "o": 3.525,
+          "c": 3.01,
+          "h": 3.5299,
+          "l": 2.87,
+          "t": 1782100800000,
+          "n": 346631
+        },
+        {
+          "v": 12213820.981848,
+          "vw": 3.7602,
+          "o": 2.89,
+          "c": 3.86,
+          "h": 4.16,
+          "l": 2.86,
+          "t": 1782187200000,
+          "n": 58992
+        },
+        {
+          "v": 1797284.174923,
+          "vw": 3.8391,
+          "o": 3.78,
+          "c": 3.57,
+          "h": 4.24,
+          "l": 3.54,
+          "t": 1782273600000,
+          "n": 13124
+        },
+        {
+          "v": 1081841.148427,
+          "vw": 3.765,
+          "o": 3.61,
+          "c": 3.79,
+          "h": 4.22,
+          "l": 3.43,
+          "t": 1782360000000,
+          "n": 9779
+        },
+        {
+          "v": 3549361.974814,
+          "vw": 2.6916,
+          "o": 3.42,
+          "c": 2.6,
+          "h": 3.55,
+          "l": 2.275,
+          "t": 1782446400000,
+          "n": 15314
+        },
+        {
+          "v": 721594.376011,
+          "vw": 2.535,
+          "o": 2.505,
+          "c": 2.56,
+          "h": 2.635,
+          "l": 2.4301,
+          "t": 1782705600000,
+          "n": 6266
+        },
+        {
+          "v": 434767.915255,
+          "vw": 2.7278,
+          "o": 2.57,
+          "c": 2.79,
+          "h": 2.85,
+          "l": 2.55,
+          "t": 1782792000000,
+          "n": 4282
+        },
+        {
+          "v": 427963.574197,
+          "vw": 2.8672,
+          "o": 2.75,
+          "c": 2.79,
+          "h": 3.04,
+          "l": 2.75,
+          "t": 1782878400000,
+          "n": 3781
+        },
+        {
+          "v": 814392.394881,
+          "vw": 2.934,
+          "o": 2.8,
+          "c": 2.65,
+          "h": 3.24,
+          "l": 2.6,
+          "t": 1782964800000,
+          "n": 6390
+        }
+      ]
+    }
+  ],
   "etfs": {
     "XTL": {
       "name": "SPDR S&P Telecom ETF",
@@ -286,18 +616,18 @@
           "n": 4471
         },
         {
-          "v": 126805.211629,
-          "vw": 226.1526,
+          "v": 126891.216087,
+          "vw": 226.1518,
           "o": 225.01,
           "c": 224.6,
           "h": 227.83,
           "l": 224.105,
           "t": 1782878400000,
-          "n": 2213
+          "n": 2216
         },
         {
           "v": 133200.817248,
-          "vw": 216.2486,
+          "vw": 216.25,
           "o": 224.53,
           "c": 216.23,
           "h": 226.315,
@@ -310,9 +640,9 @@
       "volume": 133200.817248,
       "rvol": 0.96,
       "day_perf": -3.73,
-      "week_perf": -0.2,
-      "month_perf": -12.68,
-      "year_perf": 84.32,
+      "week_perf": -3.86,
+      "month_perf": -4.55,
+      "year_perf": 84.15,
       "week52_high": 247.62,
       "week52_low": 114.88,
       "week52_pos": 76.4,
@@ -602,14 +932,14 @@
           "n": 32962
         },
         {
-          "v": 6278798.2189,
+          "v": 6279045.464968,
           "vw": 20.457,
           "o": 20.3,
           "c": 20.18,
           "h": 20.735,
           "l": 20.16,
           "t": 1782878400000,
-          "n": 24310
+          "n": 24316
         },
         {
           "v": 4389622.848647,
@@ -626,12 +956,12 @@
       "volume": 4389622.848647,
       "rvol": 0.77,
       "day_perf": -2.53,
-      "week_perf": 0.87,
-      "month_perf": -17.18,
-      "year_perf": 50.04,
+      "week_perf": -1.06,
+      "month_perf": -7.74,
+      "year_perf": 48.79,
       "week52_high": 23.78,
-      "week52_low": 12.93,
-      "week52_pos": 62.1,
+      "week52_low": 13.01,
+      "week52_pos": 61.8,
       "pct_vs_52h": -17.28
     },
     "MOO": {
@@ -919,7 +1249,7 @@
         },
         {
           "v": 86286.973412,
-          "vw": 79.2396,
+          "vw": 79.2405,
           "o": 78.82,
           "c": 78.99,
           "h": 79.665,
@@ -929,7 +1259,7 @@
         },
         {
           "v": 212684.94847,
-          "vw": 80.6976,
+          "vw": 80.698,
           "o": 80.4,
           "c": 80.91,
           "h": 81.04,
@@ -942,9 +1272,9 @@
       "volume": 212684.94847,
       "rvol": 1.08,
       "day_perf": 2.43,
-      "week_perf": 2.13,
-      "month_perf": 1.44,
-      "year_perf": 9.9,
+      "week_perf": 2.35,
+      "month_perf": 2.94,
+      "year_perf": 8.66,
       "week52_high": 86.56,
       "week52_low": 69.32,
       "week52_pos": 67.2,
@@ -1235,7 +1565,7 @@
         },
         {
           "v": 3092.140504,
-          "vw": 47.1731,
+          "vw": 47.1752,
           "o": 46.88,
           "c": 47.0204,
           "h": 47.37,
@@ -1245,7 +1575,7 @@
         },
         {
           "v": 4634.683824,
-          "vw": 47.017,
+          "vw": 47.0239,
           "o": 47.33,
           "c": 46.8054,
           "h": 47.735,
@@ -1258,9 +1588,9 @@
       "volume": 4634.683824,
       "rvol": 1.08,
       "day_perf": -0.46,
-      "week_perf": 0.28,
-      "month_perf": -9.03,
-      "year_perf": 10.18,
+      "week_perf": -0.59,
+      "month_perf": -3.99,
+      "year_perf": 10.07,
       "week52_high": 51.45,
       "week52_low": 42.19,
       "week52_pos": 49.8,
@@ -1550,14 +1880,14 @@
           "n": 13050
         },
         {
-          "v": 934056.167075,
+          "v": 934055.603196,
           "vw": 58.44,
           "o": 58.09,
           "c": 57.8,
           "h": 59.6382,
           "l": 57.75,
           "t": 1782878400000,
-          "n": 9065
+          "n": 9064
         },
         {
           "v": 1185063.873861,
@@ -1574,12 +1904,12 @@
       "volume": 1185063.873861,
       "rvol": 0.75,
       "day_perf": -2.56,
-      "week_perf": -0.93,
-      "month_perf": -22.07,
-      "year_perf": 64.39,
+      "week_perf": -2.22,
+      "month_perf": -12.07,
+      "year_perf": 59.82,
       "week52_high": 75.6,
-      "week52_low": 33.72,
-      "week52_pos": 54.0,
+      "week52_low": 33.97,
+      "week52_pos": 53.7,
       "pct_vs_52h": -25.5
     },
     "IGF": {
@@ -1866,18 +2196,18 @@
           "n": 10574
         },
         {
-          "v": 1120615.200168,
-          "vw": 65.873,
+          "v": 1121823.200168,
+          "vw": 65.8729,
           "o": 66.155,
           "c": 65.79,
           "h": 66.26,
           "l": 65.7355,
           "t": 1782878400000,
-          "n": 13335
+          "n": 13353
         },
         {
           "v": 606966.676164,
-          "vw": 66.5964,
+          "vw": 66.5965,
           "o": 66.58,
           "c": 66.87,
           "h": 66.905,
@@ -1890,9 +2220,9 @@
       "volume": 606966.676164,
       "rvol": 0.71,
       "day_perf": 1.64,
-      "week_perf": -0.82,
-      "month_perf": 0.28,
-      "year_perf": 12.96,
+      "week_perf": -0.74,
+      "month_perf": 1.04,
+      "year_perf": 13.19,
       "week52_high": 69.6,
       "week52_low": 57.96,
       "week52_pos": 76.5,
@@ -2182,18 +2512,18 @@
           "n": 13715
         },
         {
-          "v": 858466.000877,
-          "vw": 244.5887,
+          "v": 858465.227545,
+          "vw": 244.5888,
           "o": 243.2,
           "c": 243.86,
           "h": 246.14,
           "l": 242.39,
           "t": 1782878400000,
-          "n": 15705
+          "n": 15703
         },
         {
           "v": 731460.535244,
-          "vw": 248.0212,
+          "vw": 248.0214,
           "o": 246.4,
           "c": 248.19,
           "h": 250.51,
@@ -2206,9 +2536,9 @@
       "volume": 731460.535244,
       "rvol": 0.93,
       "day_perf": 1.78,
-      "week_perf": 4.82,
-      "month_perf": 8.7,
-      "year_perf": 31.57,
+      "week_perf": 3.79,
+      "month_perf": 8.17,
+      "year_perf": 34.15,
       "week52_high": 250.65,
       "week52_low": 183.42,
       "week52_pos": 96.3,
@@ -2498,14 +2828,14 @@
           "n": 29824
         },
         {
-          "v": 3110733.620442,
-          "vw": 104.0475,
+          "v": 3111294.620442,
+          "vw": 104.0476,
           "o": 104.55,
           "c": 103.27,
           "h": 105,
           "l": 103.145,
           "t": 1782878400000,
-          "n": 32749
+          "n": 32757
         },
         {
           "v": 2212654.576649,
@@ -2522,9 +2852,9 @@
       "volume": 2212654.576649,
       "rvol": 0.37,
       "day_perf": 0.69,
-      "week_perf": -1.42,
-      "month_perf": -24.25,
-      "year_perf": 42.22,
+      "week_perf": -2.9,
+      "month_perf": -21.83,
+      "year_perf": 40.65,
       "week52_high": 154.08,
       "week52_low": 65.98,
       "week52_pos": 43.1,
@@ -2814,14 +3144,14 @@
           "n": 79981
         },
         {
-          "v": 12209561.128005,
+          "v": 12210125.454131,
           "vw": 83.1219,
           "o": 83.095,
           "c": 83.3,
           "h": 83.33,
           "l": 82.77,
           "t": 1782878400000,
-          "n": 69959
+          "n": 69968
         },
         {
           "v": 16706936.075337,
@@ -2838,9 +3168,9 @@
       "volume": 16706936.075337,
       "rvol": 1.33,
       "day_perf": 2.03,
-      "week_perf": 0.33,
-      "month_perf": 3.86,
-      "year_perf": 4.96,
+      "week_perf": 0.73,
+      "month_perf": 1.86,
+      "year_perf": 3.67,
       "week52_high": 90.14,
       "week52_low": 75.16,
       "week52_pos": 65.6,
@@ -3130,18 +3460,18 @@
           "n": 3317
         },
         {
-          "v": 312551.60832,
+          "v": 312551.141879,
           "vw": 78.2863,
           "o": 77.71,
           "c": 77.97,
           "h": 78.87,
           "l": 77.71,
           "t": 1782878400000,
-          "n": 3251
+          "n": 3250
         },
         {
           "v": 314180.722446,
-          "vw": 76.7095,
+          "vw": 76.7096,
           "o": 77.43,
           "c": 76.53,
           "h": 78.1868,
@@ -3154,9 +3484,9 @@
       "volume": 314180.722446,
       "rvol": 0.66,
       "day_perf": -1.85,
-      "week_perf": 0.79,
-      "month_perf": -11.42,
-      "year_perf": 99.3,
+      "week_perf": -1.01,
+      "month_perf": -2.26,
+      "year_perf": 99.24,
       "week52_high": 91.98,
       "week52_low": 37.86,
       "week52_pos": 71.5,
@@ -3446,14 +3776,14 @@
           "n": 3593
         },
         {
-          "v": 130459.280554,
-          "vw": 131.5589,
+          "v": 130458.967764,
+          "vw": 131.5599,
           "o": 131.57,
           "c": 130.44,
           "h": 132.82,
           "l": 130.33,
           "t": 1782878400000,
-          "n": 3497
+          "n": 3496
         },
         {
           "v": 122572.000866,
@@ -3470,9 +3800,9 @@
       "volume": 122572.000866,
       "rvol": 0.63,
       "day_perf": -1.92,
-      "week_perf": 3.51,
-      "month_perf": -9.81,
-      "year_perf": 43.48,
+      "week_perf": -0.35,
+      "month_perf": -1.28,
+      "year_perf": 48.42,
       "week52_high": 144.42,
       "week52_low": 86.0,
       "week52_pos": 71.8,
@@ -3762,14 +4092,14 @@
           "n": 128465
         },
         {
-          "v": 10123730.306929,
+          "v": 10123744.213808,
           "vw": 159.3094,
           "o": 159.61,
           "c": 159.54,
           "h": 159.96,
           "l": 158.5,
           "t": 1782878400000,
-          "n": 115293
+          "n": 115292
         },
         {
           "v": 14722268.781296,
@@ -3786,9 +4116,9 @@
       "volume": 14722268.781296,
       "rvol": 1.27,
       "day_perf": 2.63,
-      "week_perf": 2.12,
-      "month_perf": 11.84,
-      "year_perf": 21.48,
+      "week_perf": 1.87,
+      "month_perf": 7.01,
+      "year_perf": 19.77,
       "week52_high": 163.85,
       "week52_low": 127.96,
       "week52_pos": 99.7,
@@ -4078,14 +4408,14 @@
           "n": 37030
         },
         {
-          "v": 39553426.164608,
+          "v": 39553425.912289,
           "vw": 32.0413,
           "o": 31.44,
           "c": 31.97,
           "h": 32.2275,
           "l": 31.39,
           "t": 1782878400000,
-          "n": 66806
+          "n": 66805
         },
         {
           "v": 32314663.839729,
@@ -4102,9 +4432,9 @@
       "volume": 32314663.839729,
       "rvol": 1.13,
       "day_perf": -0.19,
-      "week_perf": 1.01,
-      "month_perf": -12.24,
-      "year_perf": -13.19,
+      "week_perf": 0.63,
+      "month_perf": -8.17,
+      "year_perf": -13.36,
       "week52_high": 42,
       "week52_low": 31.19,
       "week52_pos": 6.7,
@@ -4394,14 +4724,14 @@
           "n": 10283
         },
         {
-          "v": 1857714.873707,
+          "v": 1857713.973561,
           "vw": 51.0671,
           "o": 50.7,
           "c": 50.18,
           "h": 51.66,
           "l": 50.145,
           "t": 1782878400000,
-          "n": 16150
+          "n": 16149
         },
         {
           "v": 792432.496147,
@@ -4418,9 +4748,9 @@
       "volume": 792432.496147,
       "rvol": 0.49,
       "day_perf": 0.98,
-      "week_perf": 9.7,
-      "month_perf": -17.23,
-      "year_perf": 76.3,
+      "week_perf": 3.01,
+      "month_perf": -7.38,
+      "year_perf": 77.23,
       "week52_high": 68.21,
       "week52_low": 28.36,
       "week52_pos": 56.0,
@@ -4710,18 +5040,18 @@
           "n": 31185
         },
         {
-          "v": 1661516.793694,
-          "vw": 190.197,
+          "v": 1662919.287585,
+          "vw": 190.1971,
           "o": 190.58,
           "c": 190.12,
           "h": 191.08,
           "l": 189.48,
           "t": 1782878400000,
-          "n": 25853
+          "n": 25892
         },
         {
           "v": 2213583.815505,
-          "vw": 193.9805,
+          "vw": 193.9806,
           "o": 191.6,
           "c": 195.7,
           "h": 195.99,
@@ -4734,9 +5064,9 @@
       "volume": 2213583.815505,
       "rvol": 1.4,
       "day_perf": 2.93,
-      "week_perf": 4.45,
-      "month_perf": 19.13,
-      "year_perf": 54.69,
+      "week_perf": 3.11,
+      "month_perf": 16.18,
+      "year_perf": 53.33,
       "week52_high": 195.99,
       "week52_low": 125.7,
       "week52_pos": 99.6,
@@ -5050,9 +5380,9 @@
       "volume": 12375725.007827,
       "rvol": 1.06,
       "day_perf": 1.94,
-      "week_perf": 0.79,
-      "month_perf": 0.95,
-      "year_perf": 18.46,
+      "week_perf": 2.66,
+      "month_perf": 2.73,
+      "year_perf": 15.48,
       "week52_high": 54.14,
       "week52_low": 42.03,
       "week52_pos": 82.4,
@@ -5342,14 +5672,14 @@
           "n": 204614
         },
         {
-          "v": 9956844.22035,
-          "vw": 186.503,
+          "v": 9960304.337684,
+          "vw": 186.5029,
           "o": 186.83,
           "c": 185.62,
           "h": 187.98,
           "l": 185.38,
           "t": 1782878400000,
-          "n": 199116
+          "n": 199197
         },
         {
           "v": 14192634.467932,
@@ -5366,9 +5696,9 @@
       "volume": 14192634.467932,
       "rvol": 0.96,
       "day_perf": -2.71,
-      "week_perf": -0.29,
-      "month_perf": -8.89,
-      "year_perf": 42.63,
+      "week_perf": -2.6,
+      "month_perf": 0.16,
+      "year_perf": 43.91,
       "week52_high": 198.73,
       "week52_low": 124.62,
       "week52_pos": 75.5,
@@ -5658,14 +5988,14 @@
           "n": 26109
         },
         {
-          "v": 3574820.607377,
+          "v": 3576348.754052,
           "vw": 43.8023,
           "o": 43.875,
           "c": 43.18,
           "h": 44.87,
           "l": 43.03,
           "t": 1782878400000,
-          "n": 35398
+          "n": 35410
         },
         {
           "v": 3997999.655498,
@@ -5682,9 +6012,9 @@
       "volume": 3997999.655498,
       "rvol": 1.06,
       "day_perf": 0.12,
-      "week_perf": -0.83,
-      "month_perf": -19.08,
-      "year_perf": 11.39,
+      "week_perf": -1.59,
+      "month_perf": -4.59,
+      "year_perf": 15.53,
       "week52_high": 62.28,
       "week52_low": 35.64,
       "week52_pos": 28.5,
@@ -5974,14 +6304,14 @@
           "n": 111778
         },
         {
-          "v": 26987160.564469,
-          "vw": 93.5779,
+          "v": 26989962.085325,
+          "vw": 93.578,
           "o": 92.4,
           "c": 93.34,
           "h": 94.64,
           "l": 91.85,
           "t": 1782878400000,
-          "n": 215727
+          "n": 215770
         },
         {
           "v": 24908417.461619,
@@ -5998,9 +6328,9 @@
       "volume": 24908417.461619,
       "rvol": 1.33,
       "day_perf": 0.25,
-      "week_perf": 6.09,
-      "month_perf": -10.66,
-      "year_perf": -14.55,
+      "week_perf": 4.09,
+      "month_perf": -2.38,
+      "year_perf": -13.55,
       "week52_high": 117.99,
       "week52_low": 73.93,
       "week52_pos": 44.6,
@@ -6009,100 +6339,100 @@
   },
   "news": [
     {
-      "headline": "American Express and Chase move luxury lounge wars beyond the airport",
+      "headline": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk1zeXpDeENmeEt5T2RZaHg1YUFWX1hOSmtZZnFWcnBlck02WDZNSk1QUUtRZTRfYkJuQmtvOW5iTkVZTEo0QzlUcHlIcmcybjZUUHJzWHBGWGd2aUxody1nMW9uSXRxTnRmbGd3WDVlaFVXSVBTazZ2eGtudk5YbUd2aXVJdXpjTjZXa1FDYUJpa2o4ZUNPUTVCMW1VMEtBWWFKRDVqXzlJUTJuS0VxaEdwdnZMNlNvOVczdXRCVmpsekJj?oc=5",
+      "datetime": 1783333166,
+      "summary": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Record heat, crowds drive offseason boom in international travel",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html",
-      "datetime": 1783080001,
-      "summary": "Credit card companies are increasingly offering access to lounges and perks at festivals and sporting events, often exclusively for premium cardholders.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108325629-1782237470697-Chase_Sundance.jpg?v=1782238002&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
+      "datetime": 1783332001,
+      "summary": "Airlines are extending flight schedules to maximize on lucrative international travel.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080"
     },
     {
-      "headline": "What are the key challenges facing NATO? - Reuters",
+      "headline": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3NLaE9ydjRIa0doaXh1VjVmN1czQ2hMcUdUU1k5alNBVkJFWGZDamFNN0JzdjRBeUVxSGo4UXlySllSeFluQmN4c2J4OHYxTzdpelZUN3JqWmFXXzlQeHNfNF93N1Zad1BucDhMd3dSRUc0UXZ5T0RWWnJqSi15SXZUcXlrM1ZKeWVtaUxZWVRDUi1aeFA4VUpqNGsyNXc?oc=5",
-      "datetime": 1783076687,
-      "summary": "What are the key challenges facing NATO?\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWZSMXB6NXpuMkgtV3ZhdDlhTmFvS2gybVlDcWFqNzlJUk16QnFtUnVEMkFpY1hMcFJlNW42V2JHSGZ0Q1FpNWFycnR0YW9Xdy1lVVQ2Vm53V1liVDd2ZlRpWkdIMjQ4OW1LOWxfLWdmcUc1ck5VZlViSmdydGxtdllHUGpvckllVDZSLXpQcjlveVZNeEVQQTBiMzVVeW0wVjlLeGRCTjczd3B5NFQ2TUpMbGtBZHNHcUdNOXNtSG1uVFNLWHc?oc=5",
+      "datetime": 1783324074,
+      "summary": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump - Reuters",
+      "headline": "Fleet of 10 Japan-related ships exit Hormuz, data shows - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5",
-      "datetime": 1783076623,
-      "summary": "NATO leaders to gather in Ankara, aiming to smooth over tensions with Trump\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGZ1N2d5eXZEcHJkam5LekRkYzZRc2NZVHdwYmZ1WFBSY2JhWHd4cFY5RU5nU01Ib0xuLTJXVGdGNkoxWjJIaGxpbVo2TkV5a1BXeG92SHM4WDVlX2ZUY0EtdGRod29ENUVnZ1Z1X0RwZ0xxQ1I0Z1k4RUhxQkJMRjZidjB0R0lTc25WMzZORE5NdktXSVFFYU5lMG50ZlJ0VFhfNk9PNXBLZw?oc=5",
+      "datetime": 1783322613,
+      "summary": "Fleet of 10 Japan-related ships exit Hormuz, data shows\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events - Reuters",
+      "headline": "NATO Ankara summit: who's going and what to expect - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
-      "datetime": 1783075888,
-      "summary": "Iran's slain leader Khamenei laid in state in Tehran for week of mass funeral events\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamhtVERsemdOT1JMWlJJNHE2bXFzc1JlNmtCY1pEd0lsMHNGREtubDlkaTRJNFo4YTdpbEwtWlhUV0l5S1dPNDJEcFVhQ1g4WDdpakdFMktyNGpTYWdKcnBfelpOZ2wwek1qMkdGVk12R3ZrNWRVak1xeEZZR1kxWmN5Z1BGNHRBX1A5OHhWamY2TXNyYWs5WW5SWTAzUHFqVXJqQzRyYw?oc=5",
+      "datetime": 1783318140,
+      "summary": "NATO Ankara summit: who's going and what to expect\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "In the West Bank, Israeli settlers take over Palestinian's dream home - Reuters",
+      "headline": "Morning Bid: Samsung to serve chip taster for earnings feast - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTVXLXIyN0poOG0tZUhzUFUySmtfdVdDRlNUREExRjZnbUZzTk1PMlZhMXNNOFlDdTlMaDR3UmZQNV93LWRHQlB2cFl2V1cxNHNHX2NvTFEwdGNwSF9SemJqNHRGMkZLeV83MzUxM0RZbXBWM1FhbnpGZXlZMnY1S3J4SFdOaWwxc25Oc0h1STUtRG5zU1EzWGZOUTluS2xEdWN4UWFEeGU4dWFoYjhXaEc5MUg?oc=5",
-      "datetime": 1783067864,
-      "summary": "In the West Bank, Israeli settlers take over Palestinian's dream home\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNjg0VnZqWVlQYUV1S1AwYWViU3poUWsyOE1laVlCdTIxWXN6SlRwQkZidkhWUHczUWhIaXF2c1B5eDV5eHA4bjNNNGpJN2dMVktGRWVaUFd2Sjkxb044VklZajVaREc0RUZZa0tJMXFBV2Fxdzlib0FkYVFfOUE?oc=5",
+      "datetime": 1783312320,
+      "summary": "Morning Bid: Samsung to serve chip taster for earnings feast\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Dutch military invests millions in drone software platform - Reuters",
+      "headline": "Alternative-fuel vehicles hit record market share in June after Iran war - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjFmX1BzclVIZm5YbkZqV0F2WHJobEhsMkF1Y0hvNGlsbWEwTFFRSXdEQzNTa3RzZjl6a201dWttUmVuYzZiQlhua2FpT0p1amlsZXRlT1pVLUpPR3Jzb1BlaFRPVWI4dDVya1ZrbXBnUl9HeUdkLVRSZXdJMTEzMkFucjl5bUpBUEVuN1VSVElqdU9Db1B6bHEteW9rNlFQbFlNYkdQXzZTRUxON0cwN0FDTlJqT1NfY0E?oc=5",
-      "datetime": 1783051380,
-      "summary": "Dutch military invests millions in drone software platform\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzNwUHFla2lyZGlPRmg2OFlfaVdZSWk3WS1CSkg2WWZSWTY3X29GRzNfLVhqR2ZWVWcwa240bEwzM1hndnFjT01GaVdIN0xWU09CN1llWlVHVEtOZ2FHWWJXenlEeldRdmtreDh0UTl1cmdvZkx6NUFlUUpGeFBrc0tMZnJ6QmhUbDg4LTRjcDgxYWtycFE?oc=5",
+      "datetime": 1783309020,
+      "summary": "Alternative-fuel vehicles hit record market share in June after Iran war\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil prices stable as US-Iran peace efforts hold - Reuters",
+      "headline": "Stocks inch up as oil weighed by supply while earnings loom - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
-      "datetime": 1783044300,
-      "summary": "Oil prices stable as US-Iran peace efforts hold\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5",
+      "datetime": 1783299540,
+      "summary": "Stocks inch up as oil weighed by supply while earnings loom\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Bank of England's Mann suggests reduced rate hike bets boost case for action - Reuters",
+      "headline": "Oil falls after OPEC+ agrees to raise output targets - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzJWVEdGU01SYXg2dEoxZU1OTzhjbDZfaHVFSnlfUDhzTV9UeDVoelBJNVhkQVp6dThyVVgtS0o3XzIybW1jMUVKYnlfV2dYSG9WZkJwbngtR2hDaG9ybThhOXR5ZWpJWTFkbFZadkx2NVluMXdMYTY1OXFWY19sdVV2UTFlLTBUZmRHSjFfb1h4UXo3TUxTbkJ3VVJQNE1SOXpUdG5SbU1FVFBVQldKMG5QYVVscU1hV2lwV29BZw?oc=5",
-      "datetime": 1783028984,
-      "summary": "Bank of England's Mann suggests reduced rate hike bets boost case for action\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
+      "datetime": 1783298160,
+      "summary": "Oil falls after OPEC+ agrees to raise output targets\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Blast at Damascus cafe kills nine, wounds 20, Syrian interior ministry says - Reuters",
+      "headline": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1FuZFNuTEZTUUhkZmNuOFJ1VXBOR3JCNTJSeWE1bzlGUm5LSGZ4aGVWREdueU9uckxILVUzMzlyZWprdDc0cXBzQnVBR3h0YXJta2hBdG0yS3IyS3cwYWozN3UzNV9xTUpySFVkQW5FR2sxUmIxbmRabml3RTh1eGduZDF5RmtaZkZKT2hRQXNZYXBvc1UtbUhvT25rSHRMY0RkSHRYOHp1cUtOempvQWZ1WQ?oc=5",
-      "datetime": 1783027601,
-      "summary": "Blast at Damascus cafe kills nine, wounds 20, Syrian interior ministry says\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWIzdmgwLXJUeU4xTWRyejJfNXdGY0JuU3o2Ulg1Q1lmZ0E2b044aGhsZjBkY0QzV0N0ZXBfTlkzc2c2MVVuYnI5S2EtR2VJYXFPUkc3VEZKTVhsSE1FY1l6SW1KX3psT2d3ZXlEYno2X1UyS1VvYnFSeGlWUzRpTm5ULUhUazAwanBoek5tQTdfcFB2N1JldERKRFprdjh4RFVvak9fLWZjQm02eXVGQjZfRFFFb1ViSFJrRw?oc=5",
+      "datetime": 1783297560,
+      "summary": "OPEC+ to boost crude output, but can it deliver and who will buy?\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Amazon to start initial Leo internet service this year as network nears 400 satellites - Reuters",
+      "headline": "UK tightens rules on overseas political donations to stop 'dodgy funding' - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXBabjNzR3lMMnlJcEhWbUpxNGtLMUVqcmJRcW1Ubno0elRZUXBtQ1gwblhoOFVzZEN6dUJGdmlJeEtWVFhnY3NpSmpXTGZ4MFRmS0hQTVVFTVJ6bGVJNFRoQjVtZWkzVklubVN2STZZZHhVUWp2amFjTjNMQjZqQVoxSEJ2bFpVdzVXWEN6ZTlkVjg5azlWbmVZYTgtUk5rTmZUX25KNndNZVFDb3R2VVBERTRER3lvOGRSTVFoZkVraU5kUlQ5cjJjRU5XWXROUmVIUXp0NmxlN2M?oc=5",
-      "datetime": 1783019314,
-      "summary": "Amazon to start initial Leo internet service this year as network nears 400 satellites\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0ZBTGZUSnFHa1FnaHJhTlNkN1lFQmVKcFdMajBIczJPcUhnUGZEcURXU202N0REZVNZT08xcXk0UmMxZWtPUnBmZFJmQTJib2FPa2U2SF8tV3FjcVBGZTdLd0h2M3hRbFFfMjlYTEVld1E0YXVGTFBpcF9vc1J5LUtxTk5XczgxSEMxTjZrUERXWW5lTC1vUFNVeVVZNnhRRWtsaTFSX2o1TGpGdVQw?oc=5",
+      "datetime": 1783293203,
+      "summary": "UK tightens rules on overseas political donations to stop 'dodgy funding'\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
-      "datetime": 1783015016,
-      "summary": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
+      "headline": "Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html",
-      "datetime": 1783014246,
-      "summary": "Electrification secured $2.4 billion in data center equipment orders during the first quarter of 2026, beating the segment's total for all of 2025.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1773056285&w=1920&h=1080"
+      "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
+      "datetime": 1783290370,
+      "summary": "The problem is that we have seen this horror movie before.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
     }
   ],
   "sentiment": {
