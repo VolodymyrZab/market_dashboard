@@ -6339,10 +6339,66 @@
   },
   "news": [
     {
+      "headline": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+      "datetime": 1783346307,
+      "summary": "President Donald Trump told CNBC's Joe Kernen last week that he thought SpaceX CEO Elon Musk would donate company stock to the program.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
+    },
+    {
+      "headline": "NATO tensions are \u2018growing pains,\u2019 U.S. ambassador says as Trump presses allies",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/nato-trump-defense-spending-whitaker.html",
+      "datetime": 1783345058,
+      "summary": "U.S. Ambassador to NATO Matthew Whitaker said NATO's allies boosting defense spending under pressure from Trump reflects \u201cgrowing pains,\u201d not a crisis.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326434-1782332921618-gettyimages-2283164895-ah809288_5l6jkg6t.jpeg?v=1782332964&w=1920&h=1080"
+    },
+    {
+      "headline": "'Electronic warfare is a tech phenomenon': Why the market is rethinking defense valuations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/defense-tech-stocks-drones-electronic-warfare-valuation.html",
+      "datetime": 1783345053,
+      "summary": "There's a growing investment in newer areas of defense such as deep strike capabilities, anti-drone and unmanned systems, with different priorities for different countries.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108329707-1782966884942-gettyimages-2283713419-AFP_B8YU9ZR.jpeg?v=1782966931&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump to ring opening bell at White House with raft of CEOs in first-of-its-kind market open",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
+      "datetime": 1783344425,
+      "summary": "The Trump Accounts include a one-time\u00a0$1,000 pilot program contribution\u00a0from the U.S. Treasury Department for babies born from 2025 through 2028.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108258337-17696190982026-01-28t164803z_7095319_rc2fajarf9sq_rtrmadp_0_usa-trump.jpeg?v=1769619126&w=1920&h=1080"
+    },
+    {
+      "headline": "Shippers Maersk and Hapag-Lloyd begin return to Suez Canal trade route - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaGhZRUlsNHhOOFpGdlBySXQwUS10Tk9kWE5wclJ2UENGeURhTzl5cjF1MV9CblJIMWFsaFRFSjVjTXBEN1RmMHVvLUFBU3lLY0RxcDVXN3pUOXRObk1GQ3llZnRSNXYwNEJlQW1QNGp3M2xkUDRLMmY3OVlYMWs2cjNuSDJoc2tsekRiclA1bmppRjBLYlVWdXBta0s0V2ZIemZDUW1XMmlESjViYXdnNTFUeC1PX2lKZFdkOXhQeWxaZjNm?oc=5",
+      "datetime": 1783342908,
+      "summary": "Shippers Maersk and Hapag-Lloyd begin return to Suez Canal trade route\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "We're buying more shares of Jim Cramer's new favorite chip stock",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/were-buying-more-shares-of-jim-cramers-new-favorite-chip-stock.html",
+      "datetime": 1783342329,
+      "summary": "Shares are trading around the same price as our\u00a0previous\u00a0purchase in mid-June.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315137-17804039612026-06-02t070117z_2025086743_rc2jllak5qdb_rtrmadp_0_computex-intel.jpeg?v=1780403995&w=1920&h=1080"
+    },
+    {
+      "headline": "Crowds fill Tehran streets to mourn Khamenei - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZE1aRHBOYTlucE5MYmZkSUxtZ3ZLTHR3NzUtVzJuZUt3NGIyZ1dPRXVzZG5zZjRoZ1MtWnY3ejZCVUxhT3ZYUDBxX094Q1U3VWpZeU4yV0d6QzctZ29SMlg2UVNOMHVnNlVHU2FMZlIxUS14bUFnS1lmaHdoaFIwYnluLVVhczJNeUhUdFdSMA?oc=5",
+      "datetime": 1783341900,
+      "summary": "Crowds fill Tehran streets to mourn Khamenei\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk1zeXpDeENmeEt5T2RZaHg1YUFWX1hOSmtZZnFWcnBlck02WDZNSk1QUUtRZTRfYkJuQmtvOW5iTkVZTEo0QzlUcHlIcmcybjZUUHJzWHBGWGd2aUxody1nMW9uSXRxTnRmbGd3WDVlaFVXSVBTazZ2eGtudk5YbUd2aXVJdXpjTjZXa1FDYUJpa2o4ZUNPUTVCMW1VMEtBWWFKRDVqXzlJUTJuS0VxaEdwdnZMNlNvOVczdXRCVmpsekJj?oc=5",
-      "datetime": 1783333166,
+      "datetime": 1783334613,
       "summary": "Iranian mourners call for vengeance on Trump during Khamenei funeral procession\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
@@ -6355,6 +6411,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108328125-1782744966496-gettyimages-2282913457-AFP_B8FU8G4.jpeg?v=1783016379&w=1920&h=1080"
     },
     {
+      "headline": "Airbus informally aims for 900 deliveries after strong June, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGFEemxmdi1IUXVGdGFVMWItYllxMXJ1MGJzOFpsUW10YWlxMExfc2JJYW9CaHdoWDA0UFpZWVFXTk1pdXl2ajR5QUYzZ0paV0ExZUVEUXRxMVlfVU5SbFhhSzFBbEgyMEZ6YmROQk5kczBtRV9Fbmp6YU82S3BUaGF0Y2lOX19ac01SVTZvUE9qVkNVamtTaDJJT3hvdVRkZmlTUWNyZG1RWlk1ZlhXNjdITVlabm9Rc1pYWVp5ZjkxTEpVTU5tVHpB?oc=5",
+      "datetime": 1783330234,
+      "summary": "Airbus informally aims for 900 deliveries after strong June, sources say\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYWZSMXB6NXpuMkgtV3ZhdDlhTmFvS2gybVlDcWFqNzlJUk16QnFtUnVEMkFpY1hMcFJlNW42V2JHSGZ0Q1FpNWFycnR0YW9Xdy1lVVQ2Vm53V1liVDd2ZlRpWkdIMjQ4OW1LOWxfLWdmcUc1ck5VZlViSmdydGxtdllHUGpvckllVDZSLXpQcjlveVZNeEVQQTBiMzVVeW0wVjlLeGRCTjczd3B5NFQ2TUpMbGtBZHNHcUdNOXNtSG1uVFNLWHc?oc=5",
@@ -6363,76 +6427,12 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Fleet of 10 Japan-related ships exit Hormuz, data shows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGZ1N2d5eXZEcHJkam5LekRkYzZRc2NZVHdwYmZ1WFBSY2JhWHd4cFY5RU5nU01Ib0xuLTJXVGdGNkoxWjJIaGxpbVo2TkV5a1BXeG92SHM4WDVlX2ZUY0EtdGRod29ENUVnZ1Z1X0RwZ0xxQ1I0Z1k4RUhxQkJMRjZidjB0R0lTc25WMzZORE5NdktXSVFFYU5lMG50ZlJ0VFhfNk9PNXBLZw?oc=5",
-      "datetime": 1783322613,
-      "summary": "Fleet of 10 Japan-related ships exit Hormuz, data shows\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "NATO Ankara summit: who's going and what to expect - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamhtVERsemdOT1JMWlJJNHE2bXFzc1JlNmtCY1pEd0lsMHNGREtubDlkaTRJNFo4YTdpbEwtWlhUV0l5S1dPNDJEcFVhQ1g4WDdpakdFMktyNGpTYWdKcnBfelpOZ2wwek1qMkdGVk12R3ZrNWRVak1xeEZZR1kxWmN5Z1BGNHRBX1A5OHhWamY2TXNyYWs5WW5SWTAzUHFqVXJqQzRyYw?oc=5",
-      "datetime": 1783318140,
-      "summary": "NATO Ankara summit: who's going and what to expect\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Morning Bid: Samsung to serve chip taster for earnings feast - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNjg0VnZqWVlQYUV1S1AwYWViU3poUWsyOE1laVlCdTIxWXN6SlRwQkZidkhWUHczUWhIaXF2c1B5eDV5eHA4bjNNNGpJN2dMVktGRWVaUFd2Sjkxb044VklZajVaREc0RUZZa0tJMXFBV2Fxdzlib0FkYVFfOUE?oc=5",
-      "datetime": 1783312320,
-      "summary": "Morning Bid: Samsung to serve chip taster for earnings feast\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "Alternative-fuel vehicles hit record market share in June after Iran war - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzNwUHFla2lyZGlPRmg2OFlfaVdZSWk3WS1CSkg2WWZSWTY3X29GRzNfLVhqR2ZWVWcwa240bEwzM1hndnFjT01GaVdIN0xWU09CN1llWlVHVEtOZ2FHWWJXenlEeldRdmtreDh0UTl1cmdvZkx6NUFlUUpGeFBrc0tMZnJ6QmhUbDg4LTRjcDgxYWtycFE?oc=5",
-      "datetime": 1783309020,
+      "datetime": 1783323326,
       "summary": "Alternative-fuel vehicles hit record market share in June after Iran war\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Stocks inch up as oil weighed by supply while earnings loom - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5",
-      "datetime": 1783299540,
-      "summary": "Stocks inch up as oil weighed by supply while earnings loom\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil falls after OPEC+ agrees to raise output targets - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
-      "datetime": 1783298160,
-      "summary": "Oil falls after OPEC+ agrees to raise output targets\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "OPEC+ to boost crude output, but can it deliver and who will buy? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWIzdmgwLXJUeU4xTWRyejJfNXdGY0JuU3o2Ulg1Q1lmZ0E2b044aGhsZjBkY0QzV0N0ZXBfTlkzc2c2MVVuYnI5S2EtR2VJYXFPUkc3VEZKTVhsSE1FY1l6SW1KX3psT2d3ZXlEYno2X1UyS1VvYnFSeGlWUzRpTm5ULUhUazAwanBoek5tQTdfcFB2N1JldERKRFprdjh4RFVvak9fLWZjQm02eXVGQjZfRFFFb1ViSFJrRw?oc=5",
-      "datetime": 1783297560,
-      "summary": "OPEC+ to boost crude output, but can it deliver and who will buy?\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "UK tightens rules on overseas political donations to stop 'dodgy funding' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0ZBTGZUSnFHa1FnaHJhTlNkN1lFQmVKcFdMajBIczJPcUhnUGZEcURXU202N0REZVNZT08xcXk0UmMxZWtPUnBmZFJmQTJib2FPa2U2SF8tV3FjcVBGZTdLd0h2M3hRbFFfMjlYTEVld1E0YXVGTFBpcF9vc1J5LUtxTk5XczgxSEMxTjZrUERXWW5lTC1vUFNVeVVZNnhRRWtsaTFSX2o1TGpGdVQw?oc=5",
-      "datetime": 1783293203,
-      "summary": "UK tightens rules on overseas political donations to stop 'dodgy funding'\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
-      "datetime": 1783290370,
-      "summary": "The problem is that we have seen this horror movie before.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107200468-1677528554271-NUP_200782_00153.jpg?v=1692298921&w=1920&h=1080"
     }
   ],
   "sentiment": {
