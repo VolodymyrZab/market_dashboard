@@ -1341,10 +1341,10 @@
       "industry": "Consumer products",
       "timing": "bmo",
       "eps_estimate": -0.0102,
-      "eps_actual": null,
+      "eps_actual": 0.17,
       "revenue_estimate": 382044570,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 402120000,
+      "revenue_beat": true,
       "market_cap": 658117195.5323284,
       "last_close": 28.04,
       "prev_close": 27.53,
@@ -1356,6 +1356,16 @@
       "week52_pos": 76.0,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.17,
+          "eps_estimate": -0.0102,
+          "surprise_pct": 1766.6667,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 402120000,
+          "rev_estimate": 382044570
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.83,
@@ -1376,29 +1386,25 @@
           "eps_estimate": 0.5365,
           "surprise_pct": 9.972,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.41,
-          "eps_estimate": 0.867,
-          "surprise_pct": -52.7105,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.17,
+          "eps_estimate": -0.0102,
+          "surprise_pct": 1766.6667,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 402120000,
+          "rev_estimate": 382044570
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.83,
           "eps_estimate": 0.7191,
           "surprise_pct": 15.4221,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.71,
-          "eps_estimate": 1.7462,
-          "surprise_pct": -2.0731,
-          "beat": false
         }
       ],
       "bars": [
@@ -8008,43 +8014,91 @@
   },
   "news": [
     {
-      "headline": "Trump says at NATO summit he has ordered cutoff of US trade with Spain - Reuters",
+      "headline": "Damaged Qatari LNG tanker awaits salvage after strike near Hormuz - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5",
-      "datetime": 1783503940,
-      "summary": "Trump says at NATO summit he has ordered cutoff of US trade with Spain\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0wtak4yR1c5V1VydHktZHRDdncxdk5FSFZFYl9PZ2RxRDR0eFZfVTdhU05ha0c2NWlHa1FQcWlnVjlGb0E3MFdCU2RZVWxCRFNocnl5UVZWakFTOTdfQjJreTRVTlBGMjdJUDA2ODZKSzZ4UFFQSUozdkdJVkp3WFRadV9WQ09UaHQzdW1uc3FoallwOEZyVVF6Q0g3aU9hWWtkcm1IZDJiT0JlaDBucVM5TU9yYllM?oc=5",
+      "datetime": 1783511625,
+      "summary": "Damaged Qatari LNG tanker awaits salvage after strike near Hormuz\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Trump says deal with Iran is over, to cut trade with NATO ally Spain - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEVNU2RSNGlfY1hHTkpSVFpWcjFYcDJHa3FHRkNHWEM3U19nM1lxSWN5SUY1Zjl6czA4LTNrNENOZ1lYMFlDZ2JyWllaRURvU2ZJSTctcFEzWUNKLVoxSmdVT3RmWFNfenFhblhMZUFvXzBrb2M3VDkxQm9PdlZIWmN2YmRaS3lPaGRBcE5XcHdrZFV2NWFSNmZuWUY4VjZmWUhXUXB2RHNQS0ZYdnRHMWxkM3daNlJQR3B6eW5yem1qRDhFRXZLVU1fbjJTelh6S1UybQ?oc=5",
-      "datetime": 1783501589,
-      "summary": "Trump says deal with Iran is over, to cut trade with NATO ally Spain\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Trump says interim accord to end war is 'over' after Iranian strikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXVzMnQ5aVh0S2MxNlBNWXBLcWZ0TFNrUWJuVFRRWjhKSmFVb2UtcGVWNWNVajcwb2dGVERnc3E5QVZseV9qN3RqdFBueUtRUUp3WTA0UVlSREdxOHN4UmV1QUdxSDh1cHVjNFZCWkRqVGpudXpHRnNiOWlMamoyaXY3Tl9ZT0pua1lDTHFNR3hUY1BxWWxHWktDSmpSNEVSOTVTQVZLb1VXaHg0dHc?oc=5",
-      "datetime": 1783500692,
-      "summary": "Trump says interim accord to end war is 'over' after Iranian strikes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      "headline": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+      "datetime": 1783510831,
+      "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108322709-1781634060886-gettyimages-2277135777-WARSH_SWEAR_IN.jpeg?v=1781634082&w=1920&h=1080"
     },
     {
       "headline": "Trump says interim accord with Iran to end war is \"over\" - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTdTS2FQMm9xU19JZGVBRG9UUEtKOHF4SkVZVGlQMldHVjJCVjdSNDlyMjE2djFVeVJuU1NPZE5xWGlRdWZya0xsbkJKTG8zVFE2SmNwUlBYZFNLbVJ6ZlNsY1JTWkhiNi1lU0xpU1BNTVNiN2RQWXMwc25ub0dRQlFOZUdEa1ZkMGZESFJZcGpKc1hNSVowcy1rbFdOUy1XWVE?oc=5",
-      "datetime": 1783499143,
+      "datetime": 1783510362,
       "summary": "Trump says interim accord with Iran to end war is \"over\"\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "New US attacks on Iran were absolutely necessary, NATO chief says - Reuters",
+      "headline": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSjVzSWMtZXJia2ZQc2gzLUczVUx0dVJiWXVIdVRJQm9kRlZZd0piQjJ3YjRqam1QQU9GTXhsdzlGR3dSTGxrTHU5eG1BNTNlNUdfREFPNWhiLXJhOVJuSkZ4OTlvNjlGUTZfUThPd0k5cm5uTFZIZ2Q2R251YXRGbDBocURPdXNVZzVZSGNXX05jZHNZTktvSlYtdHZ0SU9scnRBaVVlZkFRRXZhR21lWmhpRGNqdw?oc=5",
-      "datetime": 1783496848,
-      "summary": "New US attacks on Iran were absolutely necessary, NATO chief says\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEVNU2RSNGlfY1hHTkpSVFpWcjFYcDJHa3FHRkNHWEM3U19nM1lxSWN5SUY1Zjl6czA4LTNrNENOZ1lYMFlDZ2JyWllaRURvU2ZJSTctcFEzWUNKLVoxSmdVT3RmWFNfenFhblhMZUFvXzBrb2M3VDkxQm9PdlZIWmN2YmRaS3lPaGRBcE5XcHdrZFV2NWFSNmZuWUY4VjZmWUhXUXB2RHNQS0ZYdnRHMWxkM3daNlJQR3B6eW5yem1qRDhFRXZLVU1fbjJTelh6S1UybQ?oc=5",
+      "datetime": 1783508106,
+      "summary": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Morning Bid: Is it 'over'? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVJqME81SHp4UThzV3VrU1hKTTZzUUh4NTlubmxRZnBQMl9kNnBOY1pCSUE0em5iSFJLTEpJMUE0RTRXX0xndkxjYmtNMjhWekJfbEswcVhJNTdGWElzeFlhX0xsTXNLbmtMQ1ZJZkJNWG5weENKTWJEbUZEbUlqbnU2bnV1VnE3dlZYcHRJZjd1UkprX1ZN?oc=5",
+      "datetime": 1783507600,
+      "summary": "Morning Bid: Is it 'over'?\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "US stock futures tumble as Trump says Iran deal is 'over', oil climbs - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
+      "datetime": 1783507303,
+      "summary": "US stock futures tumble as Trump says Iran deal is 'over', oil climbs\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpycW05eTVleW81UVFsUkdsdzhiaDJuSTl1dDhFNy10bHpyYkVoeWFpWmtvSnFEa2MyRW4wdjExcGpMUVNRNlVveERCZXpPM0lmWkpnNVFBUzhENGdHQmVSRGw3WDN6bXQ4YkdaZGRveWVkWjlkdDFWU0lFSVF3UGFxMzREQkEyYkR0Yy1PbEl2Ul80WGJUMHp6VEE?oc=5",
+      "datetime": 1783506866,
+      "summary": "Trump orders halt to US trade with Spain over NATO spending, Iran\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Rupee slumps to one-month low as oil soars after Trump says Iran deal is 'over' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1RbkdDRkpSMEdfLTdfZ3Nod1lISHk1YmM2OE9kYldIYm16ZUFwdldjYUhGUWpyQS1ackFoVEZOeGRGM3hlYld0V09OV09KLTNseHRuOWpXTDZkY1Awb0VNMi1NNmlJczA0NTRBc1hEWnJyUS1jMU9va2t0aHZwVUt2X19SRVRTWnJVTWdKVzFTNUNtQlVZam01RV9STEl3UW1PX2E0QVZOSXNJR0E?oc=5",
+      "datetime": 1783505510,
+      "summary": "Rupee slumps to one-month low as oil soars after Trump says Iran deal is 'over'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Dollar around one-week high as Trump says Iran MOU 'over' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWFIZEp3ZW1HMXBhLVIwNmF5TGp6dWZzeEc0ekw3Nk1FX18tLUJlRXZ0bkhTR2pyRWNKeF95bWZFVWQ1Ri16YjNuYnM1T0RBWVFfNTZNeGZtR1JTQ0p2Q2xQNUFzSnJmTzVQT3hVeTRtUkFMLXVJM3FyY3BZbGdaTDJVSm1KMl9mRlNzZ2t0a3BDN0QtWW5USmc1RW9ndWc4VHJn?oc=5",
+      "datetime": 1783503312,
+      "summary": "Dollar around one-week high as Trump says Iran MOU 'over'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "VIEW Markets dive, Trump says Iran MOU 'is over' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2NZR0VCUmNCZGxrSS1qamhkR3g4MkJfTjNaV1AzSGpOSzJydGwyT2FGeUJFZm5vY3ZrNVNjRlhmbGs3a1RmV0NWTEZSWTRyS09tMTBaT2padWxOSi1CN2hwTGxkZlh5aWtTT0lRb3VyaUk3WkdOMjAya09UXzBGNE9Oa1NMdXBpeDJSdzJXN1k?oc=5",
+      "datetime": 1783501478,
+      "summary": "VIEW Markets dive, Trump says Iran MOU 'is over'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31 - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUG9VaFJkWWFCR2NzcmJXbzBCUnN3UlEtRGFvV29RVEZ6NGRrUnhlcUtOcGJWVUJqSGREQ2h3cHJFU2Z0ODBmUl9sNmM0TEVqMHZZSXVocEplMzlUNVdyQmdMekNOTGZBV1hDSjl3NmtMUThlOTBBYjJQYkdLOUcwWDZYUWRLeC1wNkJYR2VhZFFpQlpWOXJ2bmhQUUM1bUpvV3d0elUwOExMNmNNOXYtWWw1RUdRRjhRR3pGQ3RlZ3dCaDhXOFNr?oc=5",
+      "datetime": 1783499220,
+      "summary": "EU aviation agency tells operators to avoid Iran, Iraq and Lebanon airspaces until August 31\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8053,54 +8107,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamx0X0tpdE9oTTYtdTNBWm44Wms5WURGTXlYX1lTcHBXUzQ5SkVGYVJzdkVlZkh4SVVjVkRjVlp1bEh2MVFWUEV5SzRkT01YYWotdDN4UklneEFUVlV4X1VvQ2pzMzI2N2R4b0Z2dTlEektkdmx2VzZXaGJNZy14TXJwd3NnX29RM1UxV25nSUdDVG1YanBHYUVfdjBjNU5vM1dsbGVSWGpsdi1KMzdvY3laMkt5ejQ?oc=5",
       "datetime": 1783496342,
       "summary": "Thousands march as Khamenei's funeral procession crosses into Iraq\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGg0M1U4ckhfRFJKQTRnZjUwSFFHZWlrX0U0dHJXT2hDMkE3NzItM19WT2d1QmZPdUg4c3hsQmJ1NFgzeTl1RnpUTlpYeUdKdTVLRnh1WUIzbFplcW1ESl9WOUMyOFpoNndlcmZ2czBzVXJJWTlVbjZ5U294SWMxdnhLaHpGNnE3UU1WR3dROC1oTkxXOEEwT0xYVnFzLXNpNnYxclc3UUoxd3REUkx2YWQzNWtqWm5JaFJF?oc=5",
-      "datetime": 1783488000,
-      "summary": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "EXCLUSIVE: China lifts fuel export curbs for July, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5",
-      "datetime": 1783486200,
-      "summary": "EXCLUSIVE: China lifts fuel export curbs for July, sources say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Morning Bid: Ceasefire? What ceasefire? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6SjIxVmFMR3dtZVhmcmNpUk9wOW5PeFZFX0lpS3ZxYUxpaU5BemlSVVpLY2QwVkFzWnVFaVNsbGRkY2lqMFZHMWg1YnRnSVVja3V5N2JCWkFaTmx0U2FCdGFtdVJCMFNTNzlWQ09ubkpJX1JVVVhsOXJGc3g2d0E?oc=5",
-      "datetime": 1783486080,
-      "summary": "Morning Bid: Ceasefire? What ceasefire?\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Rupee slips as oil prices jump, modest portfolio inflows cushion fall - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW1RbkdDRkpSMEdfLTdfZ3Nod1lISHk1YmM2OE9kYldIYm16ZUFwdldjYUhGUWpyQS1ackFoVEZOeGRGM3hlYld0V09OV09KLTNseHRuOWpXTDZkY1Awb0VNMi1NNmlJczA0NTRBc1hEWnJyUS1jMU9va2t0aHZwVUt2X19SRVRTWnJVTWdKVzFTNUNtQlVZam01RV9STEl3UW1PX2E0QVZOSXNJR0E?oc=5",
-      "datetime": 1783480140,
-      "summary": "Rupee slips as oil prices jump, modest portfolio inflows cushion fall\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US says it has completed a new round of strikes on Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdfTTZZUTJuczJONlh3R3NBTmd2VFQ4YlBWSC1fYzBOT3VCUnU1NGJXaGFvcnNINVdSZFdNVjJSTHp2MExDOUFDdlJUNFY2OG1oLXRLdjgzVERUS0lLUkREbXB2Q1lKaVd5VWlpZmpNSXR6aTFzdjZYMmNBNklIaDQxUzBqcTVwM2hLYXQxTGdWX2s4UWVOYnZmcm40bVd1RldWdUlR?oc=5",
-      "datetime": 1783478340,
-      "summary": "US says it has completed a new round of strikes on Iran\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Indian shares set for worst fall in 2 months as Trump says Iran deal over - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemJfQWZSNnQ3bXp6ZTRMbWlwU3NRendZSmxUX0lkRF9fWk5GRm41TVpxSW5qOHVwWmF6NEctNGN6LVNkZlhmV1hQaUFzVTMwajByOWY0X3ZPSG03VGRYSUhNUGVVcldiXzJIYy1wdlVCUHBoaEQ5UkhBVGpEQlJINWFXZVA2NWgtY2dFbzJDVEVrRmszYmJzMndGSnFZc3pBcEVRTU5vdFRWNGlOYlE?oc=5",
-      "datetime": 1783478100,
-      "summary": "Indian shares set for worst fall in 2 months as Trump says Iran deal over\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
