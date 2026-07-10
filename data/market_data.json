@@ -7,10 +7,10 @@
       "industry": "Airlines",
       "timing": "bmo",
       "eps_estimate": 1.4736,
-      "eps_actual": null,
+      "eps_actual": 1.56,
       "revenue_estimate": 17793315722,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 17666000000,
+      "revenue_beat": false,
       "market_cap": 58472495425.36372,
       "last_close": 89,
       "prev_close": 87.29,
@@ -27,7 +27,10 @@
           "eps_actual": 1.56,
           "eps_estimate": 1.4736,
           "surprise_pct": 5.8632,
-          "beat": true
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 17666000000,
+          "rev_estimate": 17793315722
         },
         {
           "period": "2026-03-31",
@@ -57,7 +60,10 @@
           "eps_actual": 1.56,
           "eps_estimate": 1.4736,
           "surprise_pct": 5.8632,
-          "beat": true
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 17666000000,
+          "rev_estimate": 17793315722
         },
         {
           "period": "2026-03-31",
@@ -7378,35 +7384,43 @@
   },
   "news": [
     {
+      "headline": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzU4SVRwMVVlZ2pOM2Z2YWdjVGhfR01qSU5GbXB5R0JlT2JuLTRaTWMyRzZsOUdOeDV2OVM3SEpteHFrajBWUHdVdXdmZTREbXh3MFFvSEFNNXNyMGZXbThNRXVWazhhQklGcHZNWDREcjVIclUyVDduRWpQaV9pWlphcVJVbUViMFN1Q0NiZ1dLczdqZzh5VzRYakk3WUJyMnVUOWRiVUpYaTlPc2luNFVzeTRQMkVHQ3lfdjVrRHhFT3NESXAwWQ?oc=5",
+      "datetime": 1783683591,
+      "summary": "Traffic slows through Strait of Hormuz as Iran tensions flare\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjJOeUlsWVliM0doZUlfUDdXVjA5OXpjUDdPNjlFXzFzRGZKcDhhaDVGZFNDc3RRM3QwLVdWdTdaaXJZN0NfRUhjQWkxSzBVZlBMd1l1dlZpVVVOOEFfbWVmUzVYMFlZZGpCWENSR3FRVGNPZjhXcU96VTY3b1hjTk45ZWMwRnR3RVRsRG5UR1ZqdU5RLWhhWWtnWVBjeGk4YTg3c294YjdUVkVqWS1WY3dNWnpCalBERVZQbkRIdw?oc=5",
+      "datetime": 1783679081,
+      "summary": "Wall St Week Ahead Investors to grapple with packed week of earnings, CPI, Iran headlines\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "US-Iran escalation could threaten 2027 oil market surplus, IEA says - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS1IS0o0Q2RIbVZsMWFQc3hWY2lheW5Zb09jdVlENDBxeFVOYk0xRUozaTI4NFVUUzlGem1tLUdnVURUYXcySHVNdk5kd185ZTAzOHFkUjV2MHYxQkNOejZSbTl3VlQyb3c5NWM4ejhFZUlNN3FUYnA3SW1uWGtzaFVXTDFYY2MzRHRBZzh3N2tfeUw0ZnlELXRNX2JKb1dsalpzVkppVmZjMTVTZ2ZWcnZCRUNGMzByaFE?oc=5",
-      "datetime": 1783672945,
+      "datetime": 1783677850,
       "summary": "US-Iran escalation could threaten 2027 oil market surplus, IEA says\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzU4SVRwMVVlZ2pOM2Z2YWdjVGhfR01qSU5GbXB5R0JlT2JuLTRaTWMyRzZsOUdOeDV2OVM3SEpteHFrajBWUHdVdXdmZTREbXh3MFFvSEFNNXNyMGZXbThNRXVWazhhQklGcHZNWDREcjVIclUyVDduRWpQaV9pWlphcVJVbUViMFN1Q0NiZ1dLczdqZzh5VzRYakk3WUJyMnVUOWRiVUpYaTlPc2luNFVzeTRQMkVHQ3lfdjVrRHhFT3NESXAwWQ?oc=5",
-      "datetime": 1783658640,
-      "summary": "More LNG, Japan-linked vessels transit Hormuz despite renewed Mideast tensions\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold heads for weekly drop as Gulf attacks reinforce rate-hike bets - Reuters",
+      "headline": "Gold set for weekly loss as US-Iran tensions fuel rate-hike fears - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0V5Q0tTaFY3eWtUQUwydFZrcHA4dzI1blE1ZHNzRGRmcV9TVXNoVWxNQ2pXTHpvenpyYUM4X2tnZXcxT1JIUG1lWGQwS1kxWVJ3aHAweGl2Z1FEa1VaYjlLUi1BQ3RoRXBSUU1aWWpwTFRfbWJQbk5lUExMd2lBdDNWZC1COVpRTkhEWURwR3JJTUU1MDE1Q2NLaHVxaXpOMmR6SU5Kck1Pdnoz?oc=5",
       "datetime": 1783653180,
-      "summary": "Gold heads for weekly drop as Gulf attacks reinforce rate-hike bets\u00a0\u00a0Reuters",
+      "summary": "Gold set for weekly loss as US-Iran tensions fuel rate-hike fears\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil heads for weekly gain as Middle East supply risks persist - Reuters",
+      "headline": "Oil heads for weekly gains as Middle East supply risks persist - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5",
       "datetime": 1783647180,
-      "summary": "Oil heads for weekly gain as Middle East supply risks persist\u00a0\u00a0Reuters",
+      "summary": "Oil heads for weekly gains as Middle East supply risks persist\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -7464,14 +7478,6 @@
       "datetime": 1783622365,
       "summary": "Jim Cramer isn't ready to give up on Salesforce after KeyBanc downgraded the stock",
       "image": "https://image.cnbcfm.com/api/v1/image/108234579-17646115872025-08-05t195108z_1314011154_rc271gaqylwe_rtrmadp_0_salesforce-m-a-informatica.jpeg?v=1764611610&w=1920&h=1080"
-    },
-    {
-      "headline": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
-      "datetime": 1783620682,
-      "summary": "Odds that gas prices are above $3.50 on Election Day in November have jumped to 75% on the platform.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108319444-1781094392933-gettyimages-2280774851-l1062155_copy_gnzahb1j.jpeg?v=1781094437&w=1920&h=1080"
     }
   ],
   "sentiment": {
