@@ -410,10 +410,10 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": 0.3852,
-      "eps_actual": null,
+      "eps_actual": 0.36,
       "revenue_estimate": 99623145,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 93780000,
+      "revenue_beat": false,
       "market_cap": 2867961565.9652624,
       "last_close": 13.33,
       "prev_close": 13.53,
@@ -425,6 +425,16 @@
       "week52_pos": 48.4,
       "pe_ratio": 11.8619,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.36,
+          "eps_estimate": 0.3852,
+          "surprise_pct": -6.5421,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 93780000,
+          "rev_estimate": 99623145
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.31,
@@ -445,28 +455,24 @@
           "eps_estimate": 0.3208,
           "surprise_pct": -22.0698,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.22,
-          "eps_estimate": 0.3208,
-          "surprise_pct": -31.4214,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.36,
+          "eps_estimate": 0.3852,
+          "surprise_pct": -6.5421,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 93780000,
+          "rev_estimate": 99623145
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.31,
           "eps_estimate": 0.3451,
           "surprise_pct": -10.171,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.28,
-          "eps_estimate": 0.3167,
-          "surprise_pct": -11.5883,
           "beat": false
         }
       ],
@@ -739,10 +745,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -0.0609,
-      "eps_actual": null,
+      "eps_actual": 0.14,
       "revenue_estimate": 1488804013,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1596700000,
+      "revenue_beat": true,
       "market_cap": 1731652895.884058,
       "last_close": 1.94,
       "prev_close": 2.07,
@@ -754,6 +760,16 @@
       "week52_pos": 37.8,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.14,
+          "eps_estimate": -0.0609,
+          "surprise_pct": 329.8851,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1596700000,
+          "rev_estimate": 1488804013
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.36,
@@ -774,28 +790,24 @@
           "eps_estimate": -0.1977,
           "surprise_pct": -183.2575,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.01,
-          "eps_estimate": -0.0833,
-          "surprise_pct": 87.9952,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.14,
+          "eps_estimate": -0.0609,
+          "surprise_pct": 329.8851,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1596700000,
+          "rev_estimate": 1488804013
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.36,
           "eps_estimate": -0.3628,
           "surprise_pct": 0.7718,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.17,
-          "eps_estimate": -0.1798,
-          "surprise_pct": 5.4505,
           "beat": true
         }
       ],
@@ -1059,6 +1071,341 @@
           "l": 1.895,
           "t": 1784260800000,
           "n": 118592
+        }
+      ]
+    },
+    {
+      "symbol": "MNSB",
+      "name": "MainStreet Bancshares Inc",
+      "industry": "Banking",
+      "timing": "bmo",
+      "eps_estimate": 0.5406,
+      "eps_actual": 0.58,
+      "revenue_estimate": 18421200,
+      "revenue_actual": 19130000,
+      "revenue_beat": true,
+      "market_cap": 171530257.67993566,
+      "last_close": 24.1,
+      "prev_close": 24.87,
+      "gap_pct": -3.1,
+      "volume": 24282.991,
+      "rvol": 0.48,
+      "week52_high": 25.285,
+      "week52_low": 17.86,
+      "week52_pos": 84.0,
+      "pe_ratio": 9.938,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.58,
+          "eps_estimate": 0.5406,
+          "surprise_pct": 7.2882,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 19130000,
+          "rev_estimate": 18421200
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.57,
+          "eps_estimate": 0.459,
+          "surprise_pct": 24.183,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.46,
+          "eps_estimate": 0.4998,
+          "surprise_pct": -7.9632,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 0.52,
+          "eps_estimate": 0.5202,
+          "surprise_pct": -0.0384,
+          "beat": false
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.58,
+          "eps_estimate": 0.5406,
+          "surprise_pct": 7.2882,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 19130000,
+          "rev_estimate": 18421200
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.57,
+          "eps_estimate": 0.459,
+          "surprise_pct": 24.183,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 42437,
+          "vw": 24.3753,
+          "o": 24.25,
+          "c": 24.24,
+          "h": 24.68,
+          "l": 24.21,
+          "t": 1781064000000,
+          "n": 1414
+        },
+        {
+          "v": 55830.035715,
+          "vw": 24.3808,
+          "o": 24.29,
+          "c": 24.4,
+          "h": 24.545,
+          "l": 24.06,
+          "t": 1781150400000,
+          "n": 1293
+        },
+        {
+          "v": 37056.108117,
+          "vw": 24.8091,
+          "o": 24.46,
+          "c": 24.93,
+          "h": 24.94,
+          "l": 24.46,
+          "t": 1781236800000,
+          "n": 1612
+        },
+        {
+          "v": 40098.0075,
+          "vw": 24.5366,
+          "o": 25.05,
+          "c": 24.17,
+          "h": 25.19,
+          "l": 24.11,
+          "t": 1781496000000,
+          "n": 1136
+        },
+        {
+          "v": 35730.408,
+          "vw": 24.3272,
+          "o": 24.35,
+          "c": 24.09,
+          "h": 24.99,
+          "l": 24,
+          "t": 1781582400000,
+          "n": 999
+        },
+        {
+          "v": 30643.030996,
+          "vw": 23.827,
+          "o": 24.18,
+          "c": 23.59,
+          "h": 24.4,
+          "l": 23.51,
+          "t": 1781668800000,
+          "n": 958
+        },
+        {
+          "v": 82779.308,
+          "vw": 23.8805,
+          "o": 23.93,
+          "c": 23.86,
+          "h": 24.32,
+          "l": 23.65,
+          "t": 1781755200000,
+          "n": 2079
+        },
+        {
+          "v": 33127.870704,
+          "vw": 24.0877,
+          "o": 23.95,
+          "c": 24.11,
+          "h": 24.24,
+          "l": 23.92,
+          "t": 1782100800000,
+          "n": 1124
+        },
+        {
+          "v": 100815.0073,
+          "vw": 24.4267,
+          "o": 24.24,
+          "c": 24.51,
+          "h": 24.66,
+          "l": 24.21,
+          "t": 1782187200000,
+          "n": 2514
+        },
+        {
+          "v": 165630,
+          "vw": 24.7012,
+          "o": 24.68,
+          "c": 24.74,
+          "h": 25,
+          "l": 24.38,
+          "t": 1782273600000,
+          "n": 6133
+        },
+        {
+          "v": 30770.904268,
+          "vw": 24.3472,
+          "o": 24.7,
+          "c": 24.29,
+          "h": 24.84,
+          "l": 24.06,
+          "t": 1782360000000,
+          "n": 1254
+        },
+        {
+          "v": 206767.0073,
+          "vw": 24.8608,
+          "o": 24.43,
+          "c": 25.1,
+          "h": 25.11,
+          "l": 24.165,
+          "t": 1782446400000,
+          "n": 2568
+        },
+        {
+          "v": 54466.1757,
+          "vw": 24.7309,
+          "o": 25.04,
+          "c": 24.65,
+          "h": 25.04,
+          "l": 24.28,
+          "t": 1782705600000,
+          "n": 1349
+        },
+        {
+          "v": 30094.162137,
+          "vw": 24.5481,
+          "o": 24.68,
+          "c": 24.69,
+          "h": 24.71,
+          "l": 24.265,
+          "t": 1782792000000,
+          "n": 995
+        },
+        {
+          "v": 46720.0364,
+          "vw": 25.0482,
+          "o": 24.69,
+          "c": 25.09,
+          "h": 25.21,
+          "l": 24.69,
+          "t": 1782878400000,
+          "n": 1087
+        },
+        {
+          "v": 21183.7369,
+          "vw": 24.8219,
+          "o": 25.11,
+          "c": 24.64,
+          "h": 25.285,
+          "l": 24.54,
+          "t": 1782964800000,
+          "n": 1148
+        },
+        {
+          "v": 20006.2215,
+          "vw": 24.5768,
+          "o": 24.83,
+          "c": 24.65,
+          "h": 24.86,
+          "l": 24.445,
+          "t": 1783310400000,
+          "n": 894
+        },
+        {
+          "v": 21723.3686,
+          "vw": 24.3498,
+          "o": 24.58,
+          "c": 24.055,
+          "h": 24.95,
+          "l": 24,
+          "t": 1783396800000,
+          "n": 1235
+        },
+        {
+          "v": 19130.097,
+          "vw": 23.9423,
+          "o": 23.92,
+          "c": 24.02,
+          "h": 24.18,
+          "l": 23.7,
+          "t": 1783483200000,
+          "n": 778
+        },
+        {
+          "v": 21280.997,
+          "vw": 23.975,
+          "o": 24,
+          "c": 24,
+          "h": 24.13,
+          "l": 23.65,
+          "t": 1783569600000,
+          "n": 805
+        },
+        {
+          "v": 10518.961,
+          "vw": 24.1076,
+          "o": 24.01,
+          "c": 24.16,
+          "h": 24.22,
+          "l": 23.98,
+          "t": 1783656000000,
+          "n": 474
+        },
+        {
+          "v": 29892.978501,
+          "vw": 24.2382,
+          "o": 24.052,
+          "c": 24.19,
+          "h": 24.4,
+          "l": 23.96,
+          "t": 1783915200000,
+          "n": 1062
+        },
+        {
+          "v": 33264.961,
+          "vw": 24.3166,
+          "o": 24.21,
+          "c": 24.13,
+          "h": 24.66,
+          "l": 24.13,
+          "t": 1784001600000,
+          "n": 1073
+        },
+        {
+          "v": 19580.961,
+          "vw": 24.3585,
+          "o": 24.28,
+          "c": 24.18,
+          "h": 24.68,
+          "l": 24.14,
+          "t": 1784088000000,
+          "n": 763
+        },
+        {
+          "v": 32244.961,
+          "vw": 24.7472,
+          "o": 24.22,
+          "c": 24.87,
+          "h": 25.035,
+          "l": 24.22,
+          "t": 1784174400000,
+          "n": 899
+        },
+        {
+          "v": 24282.991,
+          "vw": 24.3321,
+          "o": 24.77,
+          "c": 24.1,
+          "h": 24.86,
+          "l": 24.1,
+          "t": 1784260800000,
+          "n": 768
         }
       ]
     },
@@ -7400,6 +7747,54 @@
   },
   "news": [
     {
+      "headline": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+      "datetime": 1784550847,
+      "summary": "Yemen's Houthis say they will impose naval blockade against Saudi Arabia\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+      "datetime": 1784549711,
+      "summary": "Why oil prices haven't gone crazy despite 5 months of US-Iran war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "US pump prices cross $4 again on renewed Middle East fighting - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhIclJnQVdaRk83S1liRGJRNEVxbGEwR1RUSEZoN1BsLUV2X3hvelVGNGtESkZNbFoybUhaQmYyRmlzWTNZdzhQVVNrdEhoU2NDdjBNOGpaU0ZsSU51cGtOV0laN280T3Z0T1NtTjdWeUV5UGN1RTQ0dDBLcXNET3lZOVljX1RPUDBGanZkQjY3cDFra01jbk9WeVBsX0RvQWhHbEEtZ1ZqNGtVckE?oc=5",
+      "datetime": 1784549278,
+      "summary": "US pump prices cross $4 again on renewed Middle East fighting\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSE4zQ25lM2VIMGM1RkYteUt5YW1tMXNWanVyRV9jX1NzUHlFU213Ry1BaTVzZ0xoc2ZzZ01IVmR2eW1BWTNMT04tci1Ual9WeDN6b1VJbjNKeFBHUlFVZi1zOEZNZ3NfckhfMkRSSjJuSU5KOGxpUG54WFdPT19YNUxCTzlrSVlXWmZZTmNZTHBpSEtVd0Zya2VqOUZpbjFMUlFiU1FJdl9MN0V0VWd0d1JnYkhhUnRoLWdFZ0ZpNDhmSW5yeVVlXy04NA?oc=5",
+      "datetime": 1784548094,
+      "summary": "Mediators propose 10-day ceasefire to revive Iran-U.S. interim deal, senior Iranian official tells Reuters\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Spain beat Argentina to win World Cup - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5",
+      "datetime": 1784547496,
+      "summary": "Spain beat Argentina to win World Cup\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Hamas names Khalil Al-Hayya as new leader, statement says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
+      "datetime": 1784547122,
+      "summary": "Hamas names Khalil Al-Hayya as new leader, statement says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "UK to get a new prime minister as Trump slams Britain as 'Poverty Stricken Disaster'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
@@ -7408,28 +7803,12 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108324907-1782141968433-gettyimages-2282767586-3b9a9028_7vj5npod.jpeg?v=1782141991&w=1920&h=1080"
     },
     {
-      "headline": "Spain beat Argentina to win World Cup - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5",
-      "datetime": 1784542096,
-      "summary": "Spain beat Argentina to win World Cup\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
       "datetime": 1784539554,
       "summary": "The yield on the 10-year U.S. Treasury note \u2014 the key benchmark for U.S. government borrowing \u2014 rose over 1 basis point to 4.558%.",
       "image": "https://image.cnbcfm.com/api/v1/image/104705063-trader.jpg?v=1542823681&w=1920&h=1080"
-    },
-    {
-      "headline": "US pump prices cross $4 again on renewed fighting in the Middle East - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhIclJnQVdaRk83S1liRGJRNEVxbGEwR1RUSEZoN1BsLUV2X3hvelVGNGtESkZNbFoybUhaQmYyRmlzWTNZdzhQVVNrdEhoU2NDdjBNOGpaU0ZsSU51cGtOV0laN280T3Z0T1NtTjdWeUV5UGN1RTQ0dDBLcXNET3lZOVljX1RPUDBGanZkQjY3cDFra01jbk9WeVBsX0RvQWhHbEEtZ1ZqNGtVckE?oc=5",
-      "datetime": 1784535489,
-      "summary": "US pump prices cross $4 again on renewed fighting in the Middle East\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Iranian Sunni cleric killed by unknown gunmen in country's southeast, state media - Reuters",
@@ -7448,52 +7827,20 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "South African rand steady as investors await central bank guidance - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlRHa0RlaDJUU0F4eG5Hb3V6T3BUOThRLVJkeUsxek5BUzJFRDVPWHFzMGxIMjRrdEhQUVJTaEV3OWlwWnlnREUxUEV4cVVKYXhQVFNuTnlZOWFya1RINDdxX3Buc2RWUkN2LUdia0I5LVF5THZYWmZyRHZZOVlDY3BkOUFGUExhb1B0ZUQxdXpqN0p3N1A4SHZwUXVqWGFMeTVmd21QdndPdzV4Q1hUVEFR?oc=5",
+      "datetime": 1784531623,
+      "summary": "South African rand steady as investors await central bank guidance\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Forget crude. War pushes refiners to the brink - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTdqTE9KRlVTVDlGTWlvRzd6Tml3aXU3ZVdMejV3Z1dsLVNfcVFKMWh5MTJ0THhSdXV3TjIybjVXT3hHYXQ1M29Yc2xFMVg0SnNmOEluU2FrdUNlTG56dTE1ZEVfZnI5NHdvbWQtSzZOZGNRbUtja1NBX1paSmh2Qmk1TGJCOVVjOVc4YVBfdlpIRHM5MWlzaG1rbjZ4dmpkNlNkRkpFeFdXcjQ?oc=5",
       "datetime": 1784527200,
       "summary": "Forget crude. War pushes refiners to the brink\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Ryanair profits slump by a third on fuel cost spike, lower fares - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZFNEtHOEljcTJIRU92dnl3amtEbTR2WERmcHNOYi1RbW9scFh3MzU5Q0NiU0xQZEJDSy11ZVpVNlFESm9DdWkyY29YeFVYSnVoY1JyZG8wTF9zRkFkTGc0ZnFEWG1rSGJWUVV3ZzZQNmJJd2tvdGRBclRKdi0xQ2pudnBwbkNWM1I0X0llRF9iRk81MXppcGpPYzRWckhIcERkN3RqX0xHUGxKQmMtWFhTTVJOZmJUeVE?oc=5",
-      "datetime": 1784523660,
-      "summary": "Ryanair profits slump by a third on fuel cost spike, lower fares\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
-      "datetime": 1784512140,
-      "summary": "US strikes Iran for ninth day; Iran says two oil tankers in Strait of Hormuz exploded and immobilised\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold steady as markets assess Middle East escalation, Fed hike bets - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhCVlU1TTFYN2VLU1RZSk5va0EtOGxSclUtc2xMM2ZfSTVoSU9LOGVBZzg5NjdfakJNWFUzYUktd3FKX0ptZk5YU2dGWF9BR0xiSm9iS2NMN3pBTkx5RkRHc1BpbUlmQ21WQnVXamd3aFVmZVV3cnVJTjd3MHBmbFhSTmZid3ZZQUx3VWlBODB5TGliVnBma1dJZDl4dGxydTlyWjZB?oc=5",
-      "datetime": 1784511600,
-      "summary": "Gold steady as markets assess Middle East escalation, Fed hike bets\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Shares unsettled as oil climbs, earnings loom for AI - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXNOVkRxS1o3Q3pZUnR2TzZIVmRBbUs5MGZRYV9xRXJmVl8wUklWb0RfRjNETm5HR3Q3OEd1R3NZS0Nrc3Q0OGdQMDlVX041OGMybkpoZ0VWTFZ0Mlp4bGJmeXFUMzQ2NEpTdEFXbWh6eUNUQ1BXbkRRcHFUWnhLa3Fhdw?oc=5",
-      "datetime": 1784507700,
-      "summary": "Shares unsettled as oil climbs, earnings loom for AI\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Plenty of stocks are working in this market \u2014 you just have to look beyond tech",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
-      "datetime": 1784507632,
-      "summary": "The big unanswered question is how long there can be such terrific opportunities outside tech before it dawns on those overweight the sector.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108212620-1760555667310-251015_CNBC_InvestInAmerica_Rush_028.jpg?v=1760556342&w=1920&h=1080"
     }
   ],
   "sentiment": {
