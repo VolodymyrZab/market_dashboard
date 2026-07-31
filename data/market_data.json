@@ -1427,10 +1427,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": 3.6761,
-      "eps_actual": null,
+      "eps_actual": 3.65,
       "revenue_estimate": 17100793241,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 16990000000,
+      "revenue_beat": false,
       "market_cap": 454790140000.0,
       "last_close": 257.41,
       "prev_close": 263.3,
@@ -1442,6 +1442,16 @@
       "week52_pos": 87.4,
       "pe_ratio": 127.977,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.65,
+          "eps_estimate": 3.6761,
+          "surprise_pct": -0.71,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 16990000000,
+          "rev_estimate": 17100793241
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.65,
@@ -1462,28 +1472,24 @@
           "eps_estimate": 1.8103,
           "surprise_pct": 2.7454,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.97,
-          "eps_estimate": 2.9421,
-          "surprise_pct": 0.9483,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.65,
+          "eps_estimate": 3.6761,
+          "surprise_pct": -0.71,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 16990000000,
+          "rev_estimate": 17100793241
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.65,
           "eps_estimate": 2.6452,
           "surprise_pct": 0.1815,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.71,
-          "eps_estimate": 2.7053,
-          "surprise_pct": 0.1737,
           "beat": true
         }
       ],
@@ -2145,58 +2151,8 @@
       "week52_low": 387.78,
       "week52_pos": 75.3,
       "pe_ratio": 33.2246,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 4.5,
-          "eps_estimate": 4.5288,
-          "surprise_pct": -0.6359,
-          "beat": false,
-          "rev_beat": true,
-          "rev_actual": 9289000000,
-          "rev_estimate": 9078391999
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 4.33,
-          "eps_estimate": 4.3073,
-          "surprise_pct": 0.527,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 4.2,
-          "eps_estimate": 4.2183,
-          "surprise_pct": -0.4338,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 4.21,
-          "eps_estimate": 4.2194,
-          "surprise_pct": -0.2228,
-          "beat": false
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 4.5,
-          "eps_estimate": 4.5288,
-          "surprise_pct": -0.6359,
-          "beat": false,
-          "rev_beat": true,
-          "rev_actual": 9289000000,
-          "rev_estimate": 9078391999
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 4.33,
-          "eps_estimate": 4.3073,
-          "surprise_pct": 0.527,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 1926474.702686,
@@ -2486,10 +2442,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": 3.1015,
-      "eps_actual": null,
+      "eps_actual": 3.15,
       "revenue_estimate": 8214336393,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 8531000000,
+      "revenue_beat": true,
       "market_cap": 150229390000.0,
       "last_close": 386.89,
       "prev_close": 361.88,
@@ -2501,6 +2457,16 @@
       "week52_pos": 60.1,
       "pe_ratio": 37.0807,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.15,
+          "eps_estimate": 3.1015,
+          "surprise_pct": 1.5638,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 8531000000,
+          "rev_estimate": 8214336393
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.81,
@@ -2521,28 +2487,24 @@
           "eps_estimate": 3.0831,
           "surprise_pct": -0.4249,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.95,
-          "eps_estimate": 2.949,
-          "surprise_pct": 0.0339,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.15,
+          "eps_estimate": 3.1015,
+          "surprise_pct": 1.5638,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 8531000000,
+          "rev_estimate": 8214336393
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.81,
           "eps_estimate": 2.7676,
           "surprise_pct": 1.532,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.33,
-          "eps_estimate": 3.327,
-          "surprise_pct": 0.0902,
           "beat": true
         }
       ],
@@ -2835,10 +2797,10 @@
       "industry": "Consumer products",
       "timing": "bmo",
       "eps_estimate": 0.9753,
-      "eps_actual": null,
+      "eps_actual": 0.99,
       "revenue_estimate": 5518431298,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 5361000000,
+      "revenue_beat": false,
       "market_cap": 73297340000.0,
       "last_close": 91.6,
       "prev_close": 93.49,
@@ -2850,6 +2812,16 @@
       "week52_pos": 68.8,
       "pe_ratio": 35.0519,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.99,
+          "eps_estimate": 0.9753,
+          "surprise_pct": 1.5072,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 5361000000,
+          "rev_estimate": 5518431298
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.97,
@@ -2870,29 +2842,25 @@
           "eps_estimate": 0.915,
           "surprise_pct": -0.5464,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.92,
-          "eps_estimate": 0.923,
-          "surprise_pct": -0.325,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.99,
+          "eps_estimate": 0.9753,
+          "surprise_pct": 1.5072,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 5361000000,
+          "rev_estimate": 5518431298
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.97,
           "eps_estimate": 0.9734,
           "surprise_pct": -0.3493,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.95,
-          "eps_estimate": 0.9395,
-          "surprise_pct": 1.1176,
-          "beat": true
         }
       ],
       "bars": [
@@ -3539,10 +3507,10 @@
       "industry": "Utilities",
       "timing": "bmo",
       "eps_estimate": 0.6887,
-      "eps_actual": null,
+      "eps_actual": 0.79,
       "revenue_estimate": 4123808826,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 4480000000,
+      "revenue_beat": true,
       "market_cap": 61329340000.0,
       "last_close": 69.73,
       "prev_close": 70.55,
@@ -3554,6 +3522,16 @@
       "week52_pos": 81.0,
       "pe_ratio": 20.8148,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.79,
+          "eps_estimate": 0.6887,
+          "surprise_pct": 14.7089,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 4480000000,
+          "rev_estimate": 4123808826
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.95,
@@ -3574,29 +3552,25 @@
           "eps_estimate": 0.9677,
           "surprise_pct": 9.5381,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.75,
-          "eps_estimate": 0.6908,
-          "surprise_pct": 8.5698,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.79,
+          "eps_estimate": 0.6887,
+          "surprise_pct": 14.7089,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 4480000000,
+          "rev_estimate": 4123808826
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.95,
           "eps_estimate": 0.9287,
           "surprise_pct": 2.2935,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.68,
-          "eps_estimate": 0.6814,
-          "surprise_pct": -0.2055,
-          "beat": false
         }
       ],
       "bars": [
@@ -4953,10 +4927,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 1.3203,
-      "eps_actual": null,
+      "eps_actual": 1.29,
       "revenue_estimate": 1223691756,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1262310000,
+      "revenue_beat": true,
       "market_cap": 40940690000.0,
       "last_close": 124.12,
       "prev_close": 124.6,
@@ -4968,6 +4942,16 @@
       "week52_pos": 28.5,
       "pe_ratio": 44.4035,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.29,
+          "eps_estimate": 1.3203,
+          "surprise_pct": -2.2949,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 1262310000,
+          "rev_estimate": 1223691756
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.24,
@@ -4988,28 +4972,24 @@
           "eps_estimate": 1.1792,
           "surprise_pct": 0.9159,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.03,
-          "eps_estimate": 1.1073,
-          "surprise_pct": -6.9809,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.29,
+          "eps_estimate": 1.3203,
+          "surprise_pct": -2.2949,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 1262310000,
+          "rev_estimate": 1223691756
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.24,
           "eps_estimate": 1.3633,
           "surprise_pct": -9.0442,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.45,
-          "eps_estimate": 1.7264,
-          "surprise_pct": -16.0102,
           "beat": false
         }
       ],
@@ -5302,10 +5282,10 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 0.3806,
-      "eps_actual": null,
+      "eps_actual": 0.18226,
       "revenue_estimate": 846785414,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 824404040,
+      "revenue_beat": false,
       "market_cap": 38411460000.0,
       "last_close": 88.23,
       "prev_close": 84.57,
@@ -5316,52 +5296,8 @@
       "week52_low": 68.96,
       "week52_pos": 29.1,
       "pe_ratio": 82.1679,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.3,
-          "eps_estimate": 0.3654,
-          "surprise_pct": -17.8982,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.5,
-          "eps_estimate": 0.4444,
-          "surprise_pct": 12.5113,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.07,
-          "eps_estimate": 0.307,
-          "surprise_pct": -77.1987,
-          "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.71,
-          "eps_estimate": 0.5291,
-          "surprise_pct": 34.1901,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.3,
-          "eps_estimate": 0.3654,
-          "surprise_pct": -17.8982,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.5,
-          "eps_estimate": 0.4444,
-          "surprise_pct": 12.5113,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 2635295.740148,
@@ -5651,10 +5587,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 3.5456,
-      "eps_actual": null,
+      "eps_actual": 3.56,
       "revenue_estimate": 726399772,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 731600000,
+      "revenue_beat": true,
       "market_cap": 31031940000.0,
       "last_close": 296.52,
       "prev_close": 307.81,
@@ -5666,6 +5602,16 @@
       "week52_pos": 48.2,
       "pe_ratio": 25.2725,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.56,
+          "eps_estimate": 3.5456,
+          "surprise_pct": 0.4061,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 731600000,
+          "rev_estimate": 726399772
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 3.7,
@@ -5686,28 +5632,24 @@
           "eps_estimate": 2.5778,
           "surprise_pct": 3.5767,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.46,
-          "eps_estimate": 2.4696,
-          "surprise_pct": -0.3887,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.56,
+          "eps_estimate": 3.5456,
+          "surprise_pct": 0.4061,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 731600000,
+          "rev_estimate": 726399772
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 3.7,
           "eps_estimate": 3.3552,
           "surprise_pct": 10.2766,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.06,
-          "eps_estimate": 2.9964,
-          "surprise_pct": 2.1225,
           "beat": true
         }
       ],
@@ -8130,10 +8072,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 2.5493,
-      "eps_actual": null,
+      "eps_actual": 2.57,
       "revenue_estimate": 1920059393,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1907400000,
+      "revenue_beat": false,
       "market_cap": 25557720000.0,
       "last_close": 119.28,
       "prev_close": 118.87,
@@ -8144,52 +8086,8 @@
       "week52_low": 85.22,
       "week52_pos": 92.6,
       "pe_ratio": 12.1095,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 2.52,
-          "eps_estimate": 2.4007,
-          "surprise_pct": 4.9694,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.44,
-          "eps_estimate": 2.5177,
-          "surprise_pct": -3.0862,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 2.81,
-          "eps_estimate": 2.5623,
-          "surprise_pct": 9.6671,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.24,
-          "eps_estimate": 2.1772,
-          "surprise_pct": 2.8844,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 2.52,
-          "eps_estimate": 2.4007,
-          "surprise_pct": 4.9694,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.44,
-          "eps_estimate": 2.5177,
-          "surprise_pct": -3.0862,
-          "beat": false
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 2434157.859848,
@@ -8474,364 +8372,15 @@
       ]
     },
     {
-      "symbol": "NVT",
-      "name": "nVent Electric PLC",
-      "industry": "Electrical Equipment",
-      "timing": "bmo",
-      "eps_estimate": 1.1711,
-      "eps_actual": null,
-      "revenue_estimate": 1271220208,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 23417120000.0,
-      "last_close": 144.8,
-      "prev_close": 133.61,
-      "gap_pct": 8.38,
-      "volume": 4234850.947929,
-      "rvol": 2.13,
-      "week52_high": 184.64,
-      "week52_low": 78.03,
-      "week52_pos": 62.6,
-      "pe_ratio": 48.1085,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 1.09,
-          "eps_estimate": 0.9499,
-          "surprise_pct": 14.7489,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.9,
-          "eps_estimate": 0.9058,
-          "surprise_pct": -0.6403,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.91,
-          "eps_estimate": 0.8927,
-          "surprise_pct": 1.9379,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.86,
-          "eps_estimate": 0.7972,
-          "surprise_pct": 7.8776,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 1.09,
-          "eps_estimate": 0.9499,
-          "surprise_pct": 14.7489,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.9,
-          "eps_estimate": 0.9058,
-          "surprise_pct": -0.6403,
-          "beat": false
-        }
-      ],
-      "bars": [
-        {
-          "v": 2790242.438124,
-          "vw": 181.903,
-          "o": 180.55,
-          "c": 184.34,
-          "h": 184.64,
-          "l": 176.5401,
-          "t": 1782100800000,
-          "n": 48557
-        },
-        {
-          "v": 2625245.023064,
-          "vw": 169.6489,
-          "o": 171.98,
-          "c": 168.37,
-          "h": 174.38,
-          "l": 167.31,
-          "t": 1782187200000,
-          "n": 45238
-        },
-        {
-          "v": 1777551.539,
-          "vw": 168.0849,
-          "o": 166.58,
-          "c": 167.55,
-          "h": 171.725,
-          "l": 164.28,
-          "t": 1782273600000,
-          "n": 36572
-        },
-        {
-          "v": 1856158.470209,
-          "vw": 173.1525,
-          "o": 172.5,
-          "c": 171.91,
-          "h": 176.7799,
-          "l": 171,
-          "t": 1782360000000,
-          "n": 38492
-        },
-        {
-          "v": 3841326.990835,
-          "vw": 163.3577,
-          "o": 167.55,
-          "c": 162.92,
-          "h": 169,
-          "l": 161.77,
-          "t": 1782446400000,
-          "n": 37948
-        },
-        {
-          "v": 2020940.943796,
-          "vw": 162.8792,
-          "o": 162.92,
-          "c": 163.35,
-          "h": 165.5298,
-          "l": 159.46,
-          "t": 1782705600000,
-          "n": 36279
-        },
-        {
-          "v": 2098743.450058,
-          "vw": 168.1776,
-          "o": 164.31,
-          "c": 169.61,
-          "h": 170.055,
-          "l": 163.52,
-          "t": 1782792000000,
-          "n": 36149
-        },
-        {
-          "v": 1850431.631374,
-          "vw": 160.9658,
-          "o": 163.91,
-          "c": 159.99,
-          "h": 165.34,
-          "l": 158.23,
-          "t": 1782878400000,
-          "n": 35324
-        },
-        {
-          "v": 2948261.910134,
-          "vw": 153.1289,
-          "o": 160.06,
-          "c": 152.15,
-          "h": 160.85,
-          "l": 149.84,
-          "t": 1782964800000,
-          "n": 53108
-        },
-        {
-          "v": 1841795.42788,
-          "vw": 156.9347,
-          "o": 154.36,
-          "c": 156.89,
-          "h": 159.8599,
-          "l": 153.34,
-          "t": 1783310400000,
-          "n": 36293
-        },
-        {
-          "v": 3159824.426184,
-          "vw": 150.9546,
-          "o": 153.54,
-          "c": 153.18,
-          "h": 153.54,
-          "l": 146.56,
-          "t": 1783396800000,
-          "n": 46369
-        },
-        {
-          "v": 1936783.614279,
-          "vw": 153.9446,
-          "o": 151.99,
-          "c": 154.76,
-          "h": 155.79,
-          "l": 150.4,
-          "t": 1783483200000,
-          "n": 29577
-        },
-        {
-          "v": 2209360.414013,
-          "vw": 159.1226,
-          "o": 160.85,
-          "c": 158.05,
-          "h": 163.5,
-          "l": 157.34,
-          "t": 1783569600000,
-          "n": 33937
-        },
-        {
-          "v": 1479782.246198,
-          "vw": 160.606,
-          "o": 157.17,
-          "c": 160.72,
-          "h": 161.99,
-          "l": 155.75,
-          "t": 1783656000000,
-          "n": 31821
-        },
-        {
-          "v": 1313169.689325,
-          "vw": 157.9235,
-          "o": 158.31,
-          "c": 158.02,
-          "h": 160.23,
-          "l": 156.17,
-          "t": 1783915200000,
-          "n": 28552
-        },
-        {
-          "v": 1620338.449909,
-          "vw": 161.8559,
-          "o": 163,
-          "c": 161.78,
-          "h": 165.99,
-          "l": 160.32,
-          "t": 1784001600000,
-          "n": 33356
-        },
-        {
-          "v": 1380637.854887,
-          "vw": 158.9516,
-          "o": 163.29,
-          "c": 159.46,
-          "h": 163.335,
-          "l": 154.75,
-          "t": 1784088000000,
-          "n": 28380
-        },
-        {
-          "v": 2170562.147681,
-          "vw": 153.3054,
-          "o": 154.41,
-          "c": 153.65,
-          "h": 157.64,
-          "l": 151.22,
-          "t": 1784174400000,
-          "n": 37748
-        },
-        {
-          "v": 1856490.328333,
-          "vw": 153.8235,
-          "o": 148.925,
-          "c": 154.92,
-          "h": 157.2999,
-          "l": 145.67,
-          "t": 1784260800000,
-          "n": 39584
-        },
-        {
-          "v": 1598410.041884,
-          "vw": 155.8298,
-          "o": 157.41,
-          "c": 154.78,
-          "h": 159.155,
-          "l": 154.43,
-          "t": 1784520000000,
-          "n": 31680
-        },
-        {
-          "v": 1209265.21571,
-          "vw": 160.032,
-          "o": 159.66,
-          "c": 160.68,
-          "h": 161.2,
-          "l": 157.04,
-          "t": 1784606400000,
-          "n": 26825
-        },
-        {
-          "v": 1364318.119723,
-          "vw": 158.787,
-          "o": 156.37,
-          "c": 158.47,
-          "h": 160.4,
-          "l": 156.32,
-          "t": 1784692800000,
-          "n": 23976
-        },
-        {
-          "v": 1185806.601986,
-          "vw": 159.007,
-          "o": 159.53,
-          "c": 158.78,
-          "h": 162.71,
-          "l": 157.68,
-          "t": 1784779200000,
-          "n": 23625
-        },
-        {
-          "v": 1883630.460777,
-          "vw": 152.7125,
-          "o": 156.93,
-          "c": 151.79,
-          "h": 159.3151,
-          "l": 150.41,
-          "t": 1784865600000,
-          "n": 34293
-        },
-        {
-          "v": 2229994.763234,
-          "vw": 147.7694,
-          "o": 153.03,
-          "c": 149.29,
-          "h": 153.03,
-          "l": 142.48,
-          "t": 1785124800000,
-          "n": 35908
-        },
-        {
-          "v": 2747823.365489,
-          "vw": 140.7337,
-          "o": 144.4,
-          "c": 141.75,
-          "h": 144.41,
-          "l": 137.49,
-          "t": 1785211200000,
-          "n": 51133
-        },
-        {
-          "v": 3820960.80589,
-          "vw": 134.1483,
-          "o": 139.75,
-          "c": 133.61,
-          "h": 140.58,
-          "l": 130.97,
-          "t": 1785297600000,
-          "n": 59752
-        },
-        {
-          "v": 4234850.947929,
-          "vw": 144.6468,
-          "o": 145,
-          "c": 144.8,
-          "h": 148.39,
-          "l": 140.45,
-          "t": 1785384000000,
-          "n": 63014
-        }
-      ]
-    },
-    {
       "symbol": "CHD",
       "name": "Church & Dwight Co Inc",
       "industry": "Consumer products",
       "timing": "bmo",
       "eps_estimate": 0.9057,
-      "eps_actual": null,
+      "eps_actual": 0.89,
       "revenue_estimate": 1517735655,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1530000000,
+      "revenue_beat": true,
       "market_cap": 23144650000.0,
       "last_close": 97.68,
       "prev_close": 99.86,
@@ -8842,52 +8391,8 @@
       "week52_low": 81.33,
       "week52_pos": 66.2,
       "pe_ratio": 31.6754,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.95,
-          "eps_estimate": 0.9402,
-          "surprise_pct": 1.0423,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.86,
-          "eps_estimate": 0.845,
-          "surprise_pct": 1.7751,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.81,
-          "eps_estimate": 0.7444,
-          "surprise_pct": 8.8125,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.94,
-          "eps_estimate": 0.8655,
-          "surprise_pct": 8.6077,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.95,
-          "eps_estimate": 0.9402,
-          "surprise_pct": 1.0423,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.86,
-          "eps_estimate": 0.845,
-          "surprise_pct": 1.7751,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 1969504.213062,
@@ -9168,355 +8673,6 @@
           "l": 97.42,
           "t": 1785384000000,
           "n": 52825
-        }
-      ]
-    },
-    {
-      "symbol": "MRNA",
-      "name": "Moderna Inc",
-      "industry": "Biotechnology",
-      "timing": "bmo",
-      "eps_estimate": -2.1247,
-      "eps_actual": null,
-      "revenue_estimate": 105057521,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 22981860000.0,
-      "last_close": 57.92,
-      "prev_close": 54.49,
-      "gap_pct": 6.29,
-      "volume": 4458258.145067,
-      "rvol": 0.66,
-      "week52_high": 85.6,
-      "week52_low": 22.28,
-      "week52_pos": 56.3,
-      "pe_ratio": null,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -3.4,
-          "eps_estimate": -4.0402,
-          "surprise_pct": 15.8458,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -2.11,
-          "eps_estimate": -2.6953,
-          "surprise_pct": 21.7156,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.51,
-          "eps_estimate": -2.1494,
-          "surprise_pct": 76.2724,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -2.13,
-          "eps_estimate": -3.0257,
-          "surprise_pct": 29.6031,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -3.4,
-          "eps_estimate": -4.0402,
-          "surprise_pct": 15.8458,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -2.11,
-          "eps_estimate": -2.6953,
-          "surprise_pct": 21.7156,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 8363486.657077,
-          "vw": 59.7756,
-          "o": 64.07,
-          "c": 59.345,
-          "h": 65.51,
-          "l": 57.5,
-          "t": 1782100800000,
-          "n": 116960
-        },
-        {
-          "v": 6814161.060495,
-          "vw": 61.7276,
-          "o": 59.05,
-          "c": 61,
-          "h": 63.98,
-          "l": 58.34,
-          "t": 1782187200000,
-          "n": 97488
-        },
-        {
-          "v": 11704005.3084,
-          "vw": 60.7534,
-          "o": 61.17,
-          "c": 60.42,
-          "h": 62.75,
-          "l": 59.85,
-          "t": 1782273600000,
-          "n": 69561
-        },
-        {
-          "v": 6798819.551757,
-          "vw": 59.6674,
-          "o": 60.33,
-          "c": 59.75,
-          "h": 61.8565,
-          "l": 57.908,
-          "t": 1782360000000,
-          "n": 66989
-        },
-        {
-          "v": 14456655.051468,
-          "vw": 66.6907,
-          "o": 59.465,
-          "c": 67.27,
-          "h": 69.285,
-          "l": 59.23,
-          "t": 1782446400000,
-          "n": 162366
-        },
-        {
-          "v": 8077421.361948,
-          "vw": 68.937,
-          "o": 67.945,
-          "c": 69.7,
-          "h": 69.9,
-          "l": 66.3,
-          "t": 1782705600000,
-          "n": 101049
-        },
-        {
-          "v": 11805910.16779,
-          "vw": 70.7923,
-          "o": 69.835,
-          "c": 70.03,
-          "h": 73.28,
-          "l": 69.22,
-          "t": 1782792000000,
-          "n": 108922
-        },
-        {
-          "v": 9275292.821588,
-          "vw": 72.4202,
-          "o": 70.04,
-          "c": 72.5,
-          "h": 73.91,
-          "l": 68.8655,
-          "t": 1782878400000,
-          "n": 84551
-        },
-        {
-          "v": 14111998.018221,
-          "vw": 78.4286,
-          "o": 73.71,
-          "c": 79.76,
-          "h": 81.4,
-          "l": 73.68,
-          "t": 1782964800000,
-          "n": 148242
-        },
-        {
-          "v": 17296875.096791,
-          "vw": 82.1818,
-          "o": 78.55,
-          "c": 81.8,
-          "h": 85.6,
-          "l": 77.5,
-          "t": 1783310400000,
-          "n": 133801
-        },
-        {
-          "v": 8688340.405574,
-          "vw": 79.6834,
-          "o": 82.1,
-          "c": 79.77,
-          "h": 82.9,
-          "l": 77.41,
-          "t": 1783396800000,
-          "n": 88965
-        },
-        {
-          "v": 6581662.953583,
-          "vw": 74.7532,
-          "o": 77.34,
-          "c": 73.8,
-          "h": 78.3,
-          "l": 73.3401,
-          "t": 1783483200000,
-          "n": 89437
-        },
-        {
-          "v": 4415034.82178,
-          "vw": 75.8691,
-          "o": 73.8,
-          "c": 76.56,
-          "h": 76.84,
-          "l": 73.14,
-          "t": 1783569600000,
-          "n": 64199
-        },
-        {
-          "v": 9176930.892162,
-          "vw": 69.2741,
-          "o": 76.722,
-          "c": 68.27,
-          "h": 76.722,
-          "l": 67.31,
-          "t": 1783656000000,
-          "n": 107771
-        },
-        {
-          "v": 8521959.073288,
-          "vw": 67.4486,
-          "o": 66.33,
-          "c": 67.01,
-          "h": 69.55,
-          "l": 65.54,
-          "t": 1783915200000,
-          "n": 94476
-        },
-        {
-          "v": 5812332.196893,
-          "vw": 67.2232,
-          "o": 66.67,
-          "c": 67.44,
-          "h": 67.89,
-          "l": 65.8,
-          "t": 1784001600000,
-          "n": 60666
-        },
-        {
-          "v": 3427825.545415,
-          "vw": 67.5281,
-          "o": 67.79,
-          "c": 68.28,
-          "h": 68.49,
-          "l": 65.95,
-          "t": 1784088000000,
-          "n": 51987
-        },
-        {
-          "v": 5593100.654727,
-          "vw": 64.428,
-          "o": 67.07,
-          "c": 63.15,
-          "h": 67.42,
-          "l": 62.8,
-          "t": 1784174400000,
-          "n": 74340
-        },
-        {
-          "v": 4551991.627863,
-          "vw": 62.133,
-          "o": 61.68,
-          "c": 61.82,
-          "h": 63.28,
-          "l": 61.06,
-          "t": 1784260800000,
-          "n": 65258
-        },
-        {
-          "v": 4967920.71615,
-          "vw": 60.3385,
-          "o": 61.46,
-          "c": 59.49,
-          "h": 62.4251,
-          "l": 59.3,
-          "t": 1784520000000,
-          "n": 59407
-        },
-        {
-          "v": 4357386.503987,
-          "vw": 59.6508,
-          "o": 59.51,
-          "c": 59.66,
-          "h": 60.83,
-          "l": 58.61,
-          "t": 1784606400000,
-          "n": 54020
-        },
-        {
-          "v": 3780416.813089,
-          "vw": 58.5583,
-          "o": 59.52,
-          "c": 58.07,
-          "h": 59.86,
-          "l": 57.74,
-          "t": 1784692800000,
-          "n": 51205
-        },
-        {
-          "v": 4695588.462969,
-          "vw": 57.1377,
-          "o": 57.2,
-          "c": 57.02,
-          "h": 58.43,
-          "l": 56.275,
-          "t": 1784779200000,
-          "n": 53513
-        },
-        {
-          "v": 4427772.127194,
-          "vw": 54.6812,
-          "o": 57.255,
-          "c": 54.07,
-          "h": 57.46,
-          "l": 53.85,
-          "t": 1784865600000,
-          "n": 56148
-        },
-        {
-          "v": 5040423.85795,
-          "vw": 55.8929,
-          "o": 54.75,
-          "c": 55.63,
-          "h": 57.07,
-          "l": 54.39,
-          "t": 1785124800000,
-          "n": 64006
-        },
-        {
-          "v": 5557786.689234,
-          "vw": 54.9747,
-          "o": 54.831,
-          "c": 55.805,
-          "h": 55.85,
-          "l": 53.345,
-          "t": 1785211200000,
-          "n": 67510
-        },
-        {
-          "v": 4351698.427016,
-          "vw": 54.8638,
-          "o": 55.04,
-          "c": 54.49,
-          "h": 56.25,
-          "l": 54.1601,
-          "t": 1785297600000,
-          "n": 52157
-        },
-        {
-          "v": 4458258.145067,
-          "vw": 56.8603,
-          "o": 55.965,
-          "c": 57.92,
-          "h": 58.08,
-          "l": 54.52,
-          "t": 1785384000000,
-          "n": 63696
         }
       ]
     },
@@ -10591,10 +9747,10 @@
       "industry": "Chemicals",
       "timing": "bmo",
       "eps_estimate": 3.4478,
-      "eps_actual": null,
+      "eps_actual": 4.3,
       "revenue_estimate": 9236289702,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 9177000000,
+      "revenue_beat": false,
       "market_cap": 19509110000.0,
       "last_close": 60.44,
       "prev_close": 60.49,
@@ -10605,52 +9761,8 @@
       "week52_low": 41.58,
       "week52_pos": 44.5,
       "pe_ratio": null,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.49,
-          "eps_estimate": 0.2038,
-          "surprise_pct": 140.4318,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.26,
-          "eps_estimate": 0.1302,
-          "surprise_pct": -299.6928,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 1.01,
-          "eps_estimate": 0.8134,
-          "surprise_pct": 24.1701,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.62,
-          "eps_estimate": 0.81,
-          "surprise_pct": -23.4568,
-          "beat": false
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.49,
-          "eps_estimate": 0.2038,
-          "surprise_pct": 140.4318,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.26,
-          "eps_estimate": 0.1302,
-          "surprise_pct": -299.6928,
-          "beat": false
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 4018420.507449,
@@ -10931,355 +10043,6 @@
           "l": 59.04,
           "t": 1785384000000,
           "n": 62513
-        }
-      ]
-    },
-    {
-      "symbol": "RBC",
-      "name": "RBC Bearings Inc",
-      "industry": "Machinery",
-      "timing": "bmo",
-      "eps_estimate": 3.46,
-      "eps_actual": null,
-      "revenue_estimate": 514327521,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 17752670000.0,
-      "last_close": 561.9,
-      "prev_close": 550.27,
-      "gap_pct": 2.11,
-      "volume": 264824.183145,
-      "rvol": 1.2,
-      "week52_high": 667.6861,
-      "week52_low": 364.5,
-      "week52_pos": 65.1,
-      "pe_ratio": 61.7522,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 3.62,
-          "eps_estimate": 3.3532,
-          "surprise_pct": 7.9566,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.04,
-          "eps_estimate": 2.8911,
-          "surprise_pct": 5.1503,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 2.88,
-          "eps_estimate": 2.7616,
-          "surprise_pct": 4.2874,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.84,
-          "eps_estimate": 2.7708,
-          "surprise_pct": 2.4975,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 3.62,
-          "eps_estimate": 3.3532,
-          "surprise_pct": 7.9566,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.04,
-          "eps_estimate": 2.8911,
-          "surprise_pct": 5.1503,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 238296.965874,
-          "vw": 643.5342,
-          "o": 639.43,
-          "c": 645.73,
-          "h": 646.17,
-          "l": 635.635,
-          "t": 1782100800000,
-          "n": 13495
-        },
-        {
-          "v": 229939.310121,
-          "vw": 635.9258,
-          "o": 631.74,
-          "c": 633.44,
-          "h": 645.4599,
-          "l": 627.46,
-          "t": 1782187200000,
-          "n": 10698
-        },
-        {
-          "v": 195623.479274,
-          "vw": 639.9527,
-          "o": 633.52,
-          "c": 638.94,
-          "h": 648.3164,
-          "l": 629.15,
-          "t": 1782273600000,
-          "n": 10768
-        },
-        {
-          "v": 236094.982877,
-          "vw": 652.7086,
-          "o": 645.79,
-          "c": 648.89,
-          "h": 667.6861,
-          "l": 640.301,
-          "t": 1782360000000,
-          "n": 12074
-        },
-        {
-          "v": 560779.607703,
-          "vw": 629.1154,
-          "o": 645.93,
-          "c": 630.36,
-          "h": 646.38,
-          "l": 622.45,
-          "t": 1782446400000,
-          "n": 17641
-        },
-        {
-          "v": 254728.085616,
-          "vw": 632.2842,
-          "o": 627.1,
-          "c": 634.78,
-          "h": 635.61,
-          "l": 624.51,
-          "t": 1782705600000,
-          "n": 11526
-        },
-        {
-          "v": 242145.05422,
-          "vw": 643.3755,
-          "o": 636.39,
-          "c": 644.06,
-          "h": 648.93,
-          "l": 635,
-          "t": 1782792000000,
-          "n": 11832
-        },
-        {
-          "v": 292203.507896,
-          "vw": 626.4684,
-          "o": 639.86,
-          "c": 620.47,
-          "h": 639.86,
-          "l": 620.03,
-          "t": 1782878400000,
-          "n": 15883
-        },
-        {
-          "v": 255654.132603,
-          "vw": 602.1093,
-          "o": 620.18,
-          "c": 604.56,
-          "h": 624.64,
-          "l": 589.9,
-          "t": 1782964800000,
-          "n": 14539
-        },
-        {
-          "v": 203461.600522,
-          "vw": 608.8546,
-          "o": 606.02,
-          "c": 609.6,
-          "h": 614.19,
-          "l": 605.19,
-          "t": 1783310400000,
-          "n": 10551
-        },
-        {
-          "v": 203209.301,
-          "vw": 595.9102,
-          "o": 613.36,
-          "c": 600.26,
-          "h": 613.36,
-          "l": 588.03,
-          "t": 1783396800000,
-          "n": 12943
-        },
-        {
-          "v": 124386.014619,
-          "vw": 592.8954,
-          "o": 594.81,
-          "c": 593.89,
-          "h": 597.99,
-          "l": 588.4,
-          "t": 1783483200000,
-          "n": 8607
-        },
-        {
-          "v": 188246.147286,
-          "vw": 599.4532,
-          "o": 603.23,
-          "c": 595.61,
-          "h": 608.97,
-          "l": 595.45,
-          "t": 1783569600000,
-          "n": 9428
-        },
-        {
-          "v": 123210.100509,
-          "vw": 595.2824,
-          "o": 593.05,
-          "c": 595.49,
-          "h": 599.79,
-          "l": 585.22,
-          "t": 1783656000000,
-          "n": 7787
-        },
-        {
-          "v": 134290.857611,
-          "vw": 587.0785,
-          "o": 591.59,
-          "c": 584.59,
-          "h": 599.69,
-          "l": 582.18,
-          "t": 1783915200000,
-          "n": 10076
-        },
-        {
-          "v": 128583.101084,
-          "vw": 588.8897,
-          "o": 594.5,
-          "c": 588.18,
-          "h": 601.24,
-          "l": 585.76,
-          "t": 1784001600000,
-          "n": 10730
-        },
-        {
-          "v": 210154.401327,
-          "vw": 589.1917,
-          "o": 589.49,
-          "c": 590.14,
-          "h": 593.97,
-          "l": 583.99,
-          "t": 1784088000000,
-          "n": 12568
-        },
-        {
-          "v": 307008.63498,
-          "vw": 582.3314,
-          "o": 584.79,
-          "c": 580.27,
-          "h": 596.6563,
-          "l": 576.21,
-          "t": 1784174400000,
-          "n": 14934
-        },
-        {
-          "v": 492932.125583,
-          "vw": 576.7812,
-          "o": 572.21,
-          "c": 575.22,
-          "h": 584.49,
-          "l": 565.01,
-          "t": 1784260800000,
-          "n": 13416
-        },
-        {
-          "v": 212794.142271,
-          "vw": 570.7861,
-          "o": 579.39,
-          "c": 568.9,
-          "h": 583.98,
-          "l": 565.6,
-          "t": 1784520000000,
-          "n": 12657
-        },
-        {
-          "v": 210990.89382,
-          "vw": 581.4837,
-          "o": 575.68,
-          "c": 585.35,
-          "h": 586.31,
-          "l": 567.92,
-          "t": 1784606400000,
-          "n": 11136
-        },
-        {
-          "v": 224920.58424,
-          "vw": 588.4837,
-          "o": 581.78,
-          "c": 591.5,
-          "h": 592.38,
-          "l": 581.78,
-          "t": 1784692800000,
-          "n": 11659
-        },
-        {
-          "v": 206417.641384,
-          "vw": 594.9524,
-          "o": 585.89,
-          "c": 595.31,
-          "h": 598.42,
-          "l": 585.89,
-          "t": 1784779200000,
-          "n": 11337
-        },
-        {
-          "v": 175854.184385,
-          "vw": 599.0116,
-          "o": 595.67,
-          "c": 595.07,
-          "h": 606.3499,
-          "l": 593.61,
-          "t": 1784865600000,
-          "n": 9798
-        },
-        {
-          "v": 221947.103882,
-          "vw": 584.241,
-          "o": 597.79,
-          "c": 584.97,
-          "h": 602.17,
-          "l": 577.82,
-          "t": 1785124800000,
-          "n": 9603
-        },
-        {
-          "v": 236946.013041,
-          "vw": 576.6369,
-          "o": 583.76,
-          "c": 576.37,
-          "h": 583.76,
-          "l": 569.2501,
-          "t": 1785211200000,
-          "n": 14341
-        },
-        {
-          "v": 277576.538658,
-          "vw": 555.9372,
-          "o": 570.95,
-          "c": 550.27,
-          "h": 570.95,
-          "l": 550.27,
-          "t": 1785297600000,
-          "n": 14226
-        },
-        {
-          "v": 264824.183145,
-          "vw": 561.9506,
-          "o": 562.64,
-          "c": 561.9,
-          "h": 567.6499,
-          "l": 556.185,
-          "t": 1785384000000,
-          "n": 16655
         }
       ]
     },
@@ -11633,370 +10396,15 @@
       ]
     },
     {
-      "symbol": "BTSG",
-      "name": "Brightspring Health Services Inc",
-      "industry": "Health Care",
-      "timing": "bmo",
-      "eps_estimate": 0.4046,
-      "eps_actual": 0.45,
-      "revenue_estimate": 3730812384,
-      "revenue_actual": 3873140000,
-      "revenue_beat": true,
-      "market_cap": 14378120000.0,
-      "last_close": 72.88,
-      "prev_close": 69.37,
-      "gap_pct": 5.06,
-      "volume": 3426930.401208,
-      "rvol": 0.78,
-      "week52_high": 73.7499,
-      "week52_low": 19.01,
-      "week52_pos": 98.4,
-      "pe_ratio": 46.1559,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.45,
-          "eps_estimate": 0.4046,
-          "surprise_pct": 11.221,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 3873140000,
-          "rev_estimate": 3730812384
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.3162,
-          "surprise_pct": 23.3397,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.33,
-          "eps_estimate": 0.357,
-          "surprise_pct": -7.563,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.2754,
-          "surprise_pct": 41.6122,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.45,
-          "eps_estimate": 0.4046,
-          "surprise_pct": 11.221,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 3873140000,
-          "rev_estimate": 3730812384
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.3162,
-          "surprise_pct": 23.3397,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 2477030.259727,
-          "vw": 66.975,
-          "o": 67.3,
-          "c": 67.2,
-          "h": 67.759,
-          "l": 65.825,
-          "t": 1782100800000,
-          "n": 34892
-        },
-        {
-          "v": 2406628.887608,
-          "vw": 67.239,
-          "o": 66.05,
-          "c": 66.84,
-          "h": 67.855,
-          "l": 65.92,
-          "t": 1782187200000,
-          "n": 33861
-        },
-        {
-          "v": 2874760.362628,
-          "vw": 67.9381,
-          "o": 66.93,
-          "c": 67.61,
-          "h": 69.11,
-          "l": 66.32,
-          "t": 1782273600000,
-          "n": 39854
-        },
-        {
-          "v": 3070043.600647,
-          "vw": 69.2448,
-          "o": 68.43,
-          "c": 69.7,
-          "h": 69.89,
-          "l": 68.22,
-          "t": 1782360000000,
-          "n": 39895
-        },
-        {
-          "v": 10450196.889695,
-          "vw": 69.0747,
-          "o": 69.3,
-          "c": 68.98,
-          "h": 70.72,
-          "l": 68.13,
-          "t": 1782446400000,
-          "n": 54875
-        },
-        {
-          "v": 3977541.583828,
-          "vw": 69.1017,
-          "o": 68.6,
-          "c": 68.98,
-          "h": 70.295,
-          "l": 68.41,
-          "t": 1782705600000,
-          "n": 39705
-        },
-        {
-          "v": 3199580.738219,
-          "vw": 69.3052,
-          "o": 68.98,
-          "c": 69.74,
-          "h": 69.91,
-          "l": 68.095,
-          "t": 1782792000000,
-          "n": 37119
-        },
-        {
-          "v": 3494848.061759,
-          "vw": 69.4661,
-          "o": 69.44,
-          "c": 69.85,
-          "h": 70.25,
-          "l": 68.21,
-          "t": 1782878400000,
-          "n": 33892
-        },
-        {
-          "v": 2242934.17934,
-          "vw": 69.1371,
-          "o": 70.905,
-          "c": 69.03,
-          "h": 70.905,
-          "l": 68.45,
-          "t": 1782964800000,
-          "n": 35269
-        },
-        {
-          "v": 3277952.863426,
-          "vw": 70.7995,
-          "o": 69.67,
-          "c": 70.56,
-          "h": 72.06,
-          "l": 69.64,
-          "t": 1783310400000,
-          "n": 43112
-        },
-        {
-          "v": 3970831.163772,
-          "vw": 69.4748,
-          "o": 70.78,
-          "c": 70.17,
-          "h": 71.34,
-          "l": 68.6301,
-          "t": 1783396800000,
-          "n": 45887
-        },
-        {
-          "v": 3030174.579896,
-          "vw": 70.4529,
-          "o": 70.37,
-          "c": 70.5,
-          "h": 71.4,
-          "l": 69.37,
-          "t": 1783483200000,
-          "n": 29541
-        },
-        {
-          "v": 2048237.947932,
-          "vw": 71.4277,
-          "o": 71.44,
-          "c": 71.58,
-          "h": 71.82,
-          "l": 70.84,
-          "t": 1783569600000,
-          "n": 32722
-        },
-        {
-          "v": 1817862.077123,
-          "vw": 71.3225,
-          "o": 71.36,
-          "c": 71.43,
-          "h": 72.055,
-          "l": 70.11,
-          "t": 1783656000000,
-          "n": 30549
-        },
-        {
-          "v": 2271707.86103,
-          "vw": 70.1512,
-          "o": 71.89,
-          "c": 69.64,
-          "h": 72.22,
-          "l": 69.28,
-          "t": 1783915200000,
-          "n": 33587
-        },
-        {
-          "v": 1816976.399106,
-          "vw": 69.838,
-          "o": 70.43,
-          "c": 69.67,
-          "h": 71.2,
-          "l": 69.375,
-          "t": 1784001600000,
-          "n": 27408
-        },
-        {
-          "v": 5848552.953077,
-          "vw": 68.5522,
-          "o": 67.9,
-          "c": 68.26,
-          "h": 70.285,
-          "l": 66.58,
-          "t": 1784088000000,
-          "n": 75062
-        },
-        {
-          "v": 32760849.589738,
-          "vw": 68.3325,
-          "o": 68,
-          "c": 68.16,
-          "h": 70.61,
-          "l": 67.21,
-          "t": 1784174400000,
-          "n": 91536
-        },
-        {
-          "v": 3816889.496846,
-          "vw": 70.1643,
-          "o": 67.16,
-          "c": 70.69,
-          "h": 71.34,
-          "l": 66.65,
-          "t": 1784260800000,
-          "n": 51361
-        },
-        {
-          "v": 2727460.404376,
-          "vw": 71.5942,
-          "o": 71,
-          "c": 70.5,
-          "h": 73.4,
-          "l": 70.41,
-          "t": 1784520000000,
-          "n": 37392
-        },
-        {
-          "v": 2725357.203628,
-          "vw": 72.1783,
-          "o": 71.56,
-          "c": 72.56,
-          "h": 73.01,
-          "l": 70.7212,
-          "t": 1784606400000,
-          "n": 37836
-        },
-        {
-          "v": 3677653.047633,
-          "vw": 70.4274,
-          "o": 71.43,
-          "c": 69.74,
-          "h": 72.5599,
-          "l": 69.66,
-          "t": 1784692800000,
-          "n": 43093
-        },
-        {
-          "v": 3657207.468801,
-          "vw": 69.4314,
-          "o": 69.07,
-          "c": 69.84,
-          "h": 70.275,
-          "l": 68.25,
-          "t": 1784779200000,
-          "n": 36349
-        },
-        {
-          "v": 2482559.225421,
-          "vw": 72.7861,
-          "o": 71.42,
-          "c": 72.91,
-          "h": 73.4,
-          "l": 70.96,
-          "t": 1784865600000,
-          "n": 36674
-        },
-        {
-          "v": 1962435.146326,
-          "vw": 71.8987,
-          "o": 72.92,
-          "c": 71.98,
-          "h": 73.7499,
-          "l": 71.03,
-          "t": 1785124800000,
-          "n": 34509
-        },
-        {
-          "v": 1811507.225304,
-          "vw": 71.9268,
-          "o": 71.83,
-          "c": 72.46,
-          "h": 72.67,
-          "l": 69.98,
-          "t": 1785211200000,
-          "n": 28645
-        },
-        {
-          "v": 1972282.940406,
-          "vw": 70.5472,
-          "o": 72.75,
-          "c": 69.37,
-          "h": 73.2,
-          "l": 69.25,
-          "t": 1785297600000,
-          "n": 29422
-        },
-        {
-          "v": 3426930.401208,
-          "vw": 72.527,
-          "o": 70.58,
-          "c": 72.88,
-          "h": 73.286,
-          "l": 70,
-          "t": 1785384000000,
-          "n": 47774
-        }
-      ]
-    },
-    {
       "symbol": "MOG.A",
       "name": "Moog Inc",
       "industry": "Aerospace & Defense",
       "timing": "bmo",
       "eps_estimate": 2.7398,
-      "eps_actual": null,
+      "eps_actual": 3.72,
       "revenue_estimate": 1109459350,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1116550000,
+      "revenue_beat": true,
       "market_cap": 13218760000.0,
       "last_close": 419.25,
       "prev_close": 389.87,
@@ -12008,6 +10416,16 @@
       "week52_pos": 95.4,
       "pe_ratio": 43.299,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.72,
+          "eps_estimate": 2.7398,
+          "surprise_pct": 35.7763,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1116550000,
+          "rev_estimate": 1109459350
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.64,
@@ -12028,28 +10446,24 @@
           "eps_estimate": 2.29,
           "surprise_pct": 11.7904,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.37,
-          "eps_estimate": 2.2196,
-          "surprise_pct": 6.776,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.72,
+          "eps_estimate": 2.7398,
+          "surprise_pct": 35.7763,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1116550000,
+          "rev_estimate": 1109459350
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.64,
           "eps_estimate": 2.4342,
           "surprise_pct": 8.4545,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.63,
-          "eps_estimate": 2.2797,
-          "surprise_pct": 15.3661,
           "beat": true
         }
       ],
@@ -14117,10 +12531,10 @@
       "industry": "Construction",
       "timing": "bmo",
       "eps_estimate": 4.9266,
-      "eps_actual": null,
+      "eps_actual": 6.7,
       "revenue_estimate": 1101600000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1242700000,
+      "revenue_beat": true,
       "market_cap": 11387300000.0,
       "last_close": 571.54,
       "prev_close": 496.22,
@@ -14131,52 +12545,8 @@
       "week52_low": 309.51,
       "week52_pos": 53.0,
       "pe_ratio": 29.5767,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 5.44,
-          "eps_estimate": 4.029,
-          "surprise_pct": 35.0211,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.71,
-          "eps_estimate": 3.8964,
-          "surprise_pct": -4.7839,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 3.77,
-          "eps_estimate": 3.1722,
-          "surprise_pct": 18.845,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 3.81,
-          "eps_estimate": 3.621,
-          "surprise_pct": 5.2196,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 5.44,
-          "eps_estimate": 4.029,
-          "surprise_pct": 35.0211,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.71,
-          "eps_estimate": 3.8964,
-          "surprise_pct": -4.7839,
-          "beat": false
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 174259.986537,
@@ -14466,10 +12836,10 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": 0.7188,
-      "eps_actual": null,
+      "eps_actual": 1.88,
       "revenue_estimate": 335973692,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 335710000,
+      "revenue_beat": false,
       "market_cap": 10720040000.0,
       "last_close": 124.09,
       "prev_close": 125.78,
@@ -14481,6 +12851,16 @@
       "week52_pos": 89.2,
       "pe_ratio": 21.2978,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.88,
+          "eps_estimate": 0.7188,
+          "surprise_pct": 161.547,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 335710000,
+          "rev_estimate": 335973692
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.81,
@@ -14501,28 +12881,24 @@
           "eps_estimate": 0.7945,
           "surprise_pct": -13.1529,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.78,
-          "eps_estimate": 0.7461,
-          "surprise_pct": 138.5739,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.88,
+          "eps_estimate": 0.7188,
+          "surprise_pct": 161.547,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 335710000,
+          "rev_estimate": 335973692
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.81,
           "eps_estimate": 0.7095,
           "surprise_pct": 155.1092,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.56,
-          "eps_estimate": 0.7647,
-          "surprise_pct": 104.0016,
           "beat": true
         }
       ],
@@ -16590,10 +14966,10 @@
       "industry": "Auto Components",
       "timing": "bmo",
       "eps_estimate": 3.9988,
-      "eps_actual": null,
+      "eps_actual": 4.28,
       "revenue_estimate": 6162692255,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 6209400000,
+      "revenue_beat": true,
       "market_cap": 7330420000.0,
       "last_close": 146.33,
       "prev_close": 147.51,
@@ -16604,52 +14980,8 @@
       "week52_low": 91.67,
       "week52_pos": 93.2,
       "pe_ratio": 13.7069,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 3.87,
-          "eps_estimate": 3.5545,
-          "surprise_pct": 8.8761,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.41,
-          "eps_estimate": 2.828,
-          "surprise_pct": 20.5799,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 2.79,
-          "eps_estimate": 2.7441,
-          "surprise_pct": 1.6727,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 3.47,
-          "eps_estimate": 3.3168,
-          "surprise_pct": 4.6189,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 3.87,
-          "eps_estimate": 3.5545,
-          "surprise_pct": 8.8761,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.41,
-          "eps_estimate": 2.828,
-          "surprise_pct": 20.5799,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 1008103.385367,
@@ -16939,10 +15271,10 @@
       "industry": "Retail",
       "timing": "bmo",
       "eps_estimate": 5.6609,
-      "eps_actual": null,
+      "eps_actual": 5.56,
       "revenue_estimate": 7233279854,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 6929800000,
+      "revenue_beat": false,
       "market_cap": 7182510000.0,
       "last_close": 214.65,
       "prev_close": 229.98,
@@ -16954,6 +15286,16 @@
       "week52_pos": 64.3,
       "pe_ratio": 10.6574,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 5.56,
+          "eps_estimate": 5.6609,
+          "surprise_pct": -1.7824,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 6929800000,
+          "rev_estimate": 7233279854
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.69,
@@ -16974,28 +15316,24 @@
           "eps_estimate": 4.9672,
           "surprise_pct": 0.8617,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 5.46,
-          "eps_estimate": 4.8521,
-          "surprise_pct": 12.5286,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 5.56,
+          "eps_estimate": 5.6609,
+          "surprise_pct": -1.7824,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 6929800000,
+          "rev_estimate": 7233279854
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.69,
           "eps_estimate": 4.6429,
           "surprise_pct": 1.0145,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 5.08,
-          "eps_estimate": 4.9981,
-          "surprise_pct": 1.6386,
           "beat": true
         }
       ],
@@ -17288,10 +15626,10 @@
       "industry": "Machinery",
       "timing": "bmo",
       "eps_estimate": 0.4235,
-      "eps_actual": null,
+      "eps_actual": 0.44,
       "revenue_estimate": 945174044,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 941600000,
+      "revenue_beat": false,
       "market_cap": 6548120000.0,
       "last_close": 25.78,
       "prev_close": 24.92,
@@ -17302,52 +15640,8 @@
       "week52_low": 20.88,
       "week52_pos": 59.1,
       "pe_ratio": 26.1953,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.35,
-          "eps_estimate": 0.3343,
-          "surprise_pct": 4.6964,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.38,
-          "eps_estimate": 0.3726,
-          "surprise_pct": 1.986,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.3755,
-          "surprise_pct": 3.8615,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.3866,
-          "surprise_pct": 0.8795,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.35,
-          "eps_estimate": 0.3343,
-          "surprise_pct": 4.6964,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.38,
-          "eps_estimate": 0.3726,
-          "surprise_pct": 1.986,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 1738988.325857,
@@ -19065,58 +17359,8 @@
       "week52_low": 40.81,
       "week52_pos": 67.2,
       "pe_ratio": 23.2797,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.64,
-          "eps_estimate": 0.6864,
-          "surprise_pct": -6.7599,
-          "beat": false,
-          "rev_beat": false,
-          "rev_actual": 814000000,
-          "rev_estimate": 848229057
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.58,
-          "eps_estimate": 0.8872,
-          "surprise_pct": -34.6258,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.47,
-          "eps_estimate": 0.6357,
-          "surprise_pct": -26.0658,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 1,
-          "eps_estimate": 0.9763,
-          "surprise_pct": 2.4275,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.64,
-          "eps_estimate": 0.6864,
-          "surprise_pct": -6.7599,
-          "beat": false,
-          "rev_beat": false,
-          "rev_actual": 814000000,
-          "rev_estimate": 848229057
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.58,
-          "eps_estimate": 0.8872,
-          "surprise_pct": -34.6258,
-          "beat": false
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 863215.190801,
@@ -20471,10 +18715,10 @@
       "industry": "Chemicals",
       "timing": "bmo",
       "eps_estimate": 1.4229,
-      "eps_actual": null,
+      "eps_actual": 1.49,
       "revenue_estimate": 273872040,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 284000000,
+      "revenue_beat": true,
       "market_cap": 5228490000.0,
       "last_close": 162.73,
       "prev_close": 163.71,
@@ -20486,6 +18730,16 @@
       "week52_pos": 52.7,
       "pe_ratio": 32.8408,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.49,
+          "eps_estimate": 1.4229,
+          "surprise_pct": 4.7157,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 284000000,
+          "rev_estimate": 273872040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.33,
@@ -20506,28 +18760,24 @@
           "eps_estimate": 1.3362,
           "surprise_pct": 1.0328,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.27,
-          "eps_estimate": 1.275,
-          "surprise_pct": -0.3922,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.49,
+          "eps_estimate": 1.4229,
+          "surprise_pct": 4.7157,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 284000000,
+          "rev_estimate": 273872040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.33,
           "eps_estimate": 1.3566,
           "surprise_pct": -1.9608,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.31,
-          "eps_estimate": 1.3107,
-          "surprise_pct": -0.0534,
           "beat": false
         }
       ],
@@ -21895,10 +20145,10 @@
       "gap_pct": -0.5,
       "volume": 150928.424958,
       "rvol": 1.58,
-      "week52_high": 713.01,
-      "week52_low": 397.38,
-      "week52_pos": 52.3,
-      "pe_ratio": 22.896,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
         {
           "period": "2026-06-30",
@@ -22250,10 +20500,10 @@
       "gap_pct": -0.5,
       "volume": 150928.424958,
       "rvol": 1.58,
-      "week52_high": 713.01,
-      "week52_low": 397.38,
-      "week52_pos": 52.3,
-      "pe_ratio": 22.896,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
         {
           "period": "2026-06-30",
@@ -23315,9 +21565,9 @@
       "gap_pct": -5.42,
       "volume": 1077726.429563,
       "rvol": 0.84,
-      "week52_high": 37.83,
-      "week52_low": 15.88,
-      "week52_pos": 49.2,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -23651,361 +21901,6 @@
           "l": 26.295,
           "t": 1785384000000,
           "n": 19601
-        }
-      ]
-    },
-    {
-      "symbol": "VEON",
-      "name": "VEON Ltd",
-      "industry": "Telecommunication",
-      "timing": "bmo",
-      "eps_estimate": 1.4892,
-      "eps_actual": 1.69,
-      "revenue_estimate": 1242462000,
-      "revenue_actual": 1271000000,
-      "revenue_beat": true,
-      "market_cap": 3655250000.0,
-      "last_close": 52.79,
-      "prev_close": 50.58,
-      "gap_pct": 4.37,
-      "volume": 99247.72575,
-      "rvol": 1.19,
-      "week52_high": 64,
-      "week52_low": 42.6,
-      "week52_pos": 47.6,
-      "pe_ratio": 6.5831,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 1.69,
-          "eps_estimate": 1.4892,
-          "surprise_pct": 13.4837,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 1271000000,
-          "rev_estimate": 1242462000
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 1.39,
-          "eps_estimate": 1.3566,
-          "surprise_pct": 2.462,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.44,
-          "eps_estimate": 1.122,
-          "surprise_pct": -139.2157,
-          "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.48,
-          "eps_estimate": -2.2542,
-          "surprise_pct": 78.7064,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 1.69,
-          "eps_estimate": 1.4892,
-          "surprise_pct": 13.4837,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 1271000000,
-          "rev_estimate": 1242462000
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 1.39,
-          "eps_estimate": 1.3566,
-          "surprise_pct": 2.462,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 104371.349298,
-          "vw": 50.0918,
-          "o": 51.5,
-          "c": 50.43,
-          "h": 51.5,
-          "l": 49.095,
-          "t": 1782100800000,
-          "n": 1911
-        },
-        {
-          "v": 57250.283944,
-          "vw": 50.5319,
-          "o": 49.66,
-          "c": 51.75,
-          "h": 51.75,
-          "l": 49.08,
-          "t": 1782187200000,
-          "n": 1066
-        },
-        {
-          "v": 63024.311284,
-          "vw": 51.5051,
-          "o": 50.84,
-          "c": 51.56,
-          "h": 51.99,
-          "l": 50.495,
-          "t": 1782273600000,
-          "n": 1920
-        },
-        {
-          "v": 86253.260285,
-          "vw": 51.9248,
-          "o": 51.83,
-          "c": 51.47,
-          "h": 52.5,
-          "l": 51.3,
-          "t": 1782360000000,
-          "n": 1712
-        },
-        {
-          "v": 77174.815624,
-          "vw": 51.7777,
-          "o": 51.43,
-          "c": 51.66,
-          "h": 52.31,
-          "l": 51.26,
-          "t": 1782446400000,
-          "n": 1460
-        },
-        {
-          "v": 39015.66552,
-          "vw": 51.8197,
-          "o": 51.66,
-          "c": 51.96,
-          "h": 52.24,
-          "l": 51.21,
-          "t": 1782705600000,
-          "n": 1096
-        },
-        {
-          "v": 108948.718579,
-          "vw": 51.8205,
-          "o": 51.83,
-          "c": 52.21,
-          "h": 52.41,
-          "l": 51,
-          "t": 1782792000000,
-          "n": 1541
-        },
-        {
-          "v": 68772.696822,
-          "vw": 52.2175,
-          "o": 52,
-          "c": 52.31,
-          "h": 52.56,
-          "l": 51.3113,
-          "t": 1782878400000,
-          "n": 1543
-        },
-        {
-          "v": 81483.9279,
-          "vw": 52.2254,
-          "o": 52.76,
-          "c": 52,
-          "h": 52.99,
-          "l": 51.5,
-          "t": 1782964800000,
-          "n": 1599
-        },
-        {
-          "v": 349648.966061,
-          "vw": 52.743,
-          "o": 52.5,
-          "c": 53.13,
-          "h": 53.5,
-          "l": 52.445,
-          "t": 1783310400000,
-          "n": 4745
-        },
-        {
-          "v": 177128.840935,
-          "vw": 53.2985,
-          "o": 53.62,
-          "c": 52.1,
-          "h": 54.84,
-          "l": 51.72,
-          "t": 1783396800000,
-          "n": 3258
-        },
-        {
-          "v": 76921.196744,
-          "vw": 53.569,
-          "o": 52.09,
-          "c": 53.75,
-          "h": 54.1,
-          "l": 51.6205,
-          "t": 1783483200000,
-          "n": 2593
-        },
-        {
-          "v": 34469.26519,
-          "vw": 53.6391,
-          "o": 53.75,
-          "c": 53.82,
-          "h": 54.1,
-          "l": 52.4587,
-          "t": 1783569600000,
-          "n": 996
-        },
-        {
-          "v": 21318.768261,
-          "vw": 53.8448,
-          "o": 54.26,
-          "c": 53.3,
-          "h": 54.28,
-          "l": 53.3,
-          "t": 1783656000000,
-          "n": 614
-        },
-        {
-          "v": 46062.037505,
-          "vw": 52.7986,
-          "o": 53.8,
-          "c": 52.05,
-          "h": 53.905,
-          "l": 52.01,
-          "t": 1783915200000,
-          "n": 1323
-        },
-        {
-          "v": 49669.674137,
-          "vw": 52.8132,
-          "o": 53.15,
-          "c": 52.66,
-          "h": 53.49,
-          "l": 52.215,
-          "t": 1784001600000,
-          "n": 1120
-        },
-        {
-          "v": 52133.209524,
-          "vw": 52.523,
-          "o": 52.6,
-          "c": 52.25,
-          "h": 52.9,
-          "l": 51.62,
-          "t": 1784088000000,
-          "n": 1444
-        },
-        {
-          "v": 50102.4134,
-          "vw": 52.0848,
-          "o": 52.38,
-          "c": 51.595,
-          "h": 52.965,
-          "l": 51.3,
-          "t": 1784174400000,
-          "n": 1971
-        },
-        {
-          "v": 43252.008768,
-          "vw": 51.6787,
-          "o": 51.26,
-          "c": 51.62,
-          "h": 52.14,
-          "l": 51.13,
-          "t": 1784260800000,
-          "n": 1416
-        },
-        {
-          "v": 41823.292134,
-          "vw": 51.6617,
-          "o": 51.67,
-          "c": 51.69,
-          "h": 52.15,
-          "l": 51.25,
-          "t": 1784520000000,
-          "n": 1225
-        },
-        {
-          "v": 78554.207102,
-          "vw": 52.6169,
-          "o": 51.97,
-          "c": 53.01,
-          "h": 53.19,
-          "l": 51.97,
-          "t": 1784606400000,
-          "n": 2053
-        },
-        {
-          "v": 83648.0229,
-          "vw": 53.2201,
-          "o": 53.09,
-          "c": 53.175,
-          "h": 53.95,
-          "l": 52.68,
-          "t": 1784692800000,
-          "n": 1890
-        },
-        {
-          "v": 81601.737079,
-          "vw": 52.1377,
-          "o": 52.27,
-          "c": 51.98,
-          "h": 53.09,
-          "l": 51.5,
-          "t": 1784779200000,
-          "n": 2257
-        },
-        {
-          "v": 74687.2874,
-          "vw": 51.635,
-          "o": 51.82,
-          "c": 51.01,
-          "h": 52.586,
-          "l": 51,
-          "t": 1784865600000,
-          "n": 1574
-        },
-        {
-          "v": 67596.912847,
-          "vw": 51.702,
-          "o": 51.36,
-          "c": 51.7,
-          "h": 52.48,
-          "l": 51,
-          "t": 1785124800000,
-          "n": 1804
-        },
-        {
-          "v": 128593.989224,
-          "vw": 51.2799,
-          "o": 51.48,
-          "c": 51.605,
-          "h": 52.13,
-          "l": 50.795,
-          "t": 1785211200000,
-          "n": 1995
-        },
-        {
-          "v": 54841.66384,
-          "vw": 50.8255,
-          "o": 51.27,
-          "c": 50.58,
-          "h": 51.42,
-          "l": 50.3301,
-          "t": 1785297600000,
-          "n": 1560
-        },
-        {
-          "v": 99247.72575,
-          "vw": 52.6386,
-          "o": 50.97,
-          "c": 52.79,
-          "h": 53.4,
-          "l": 50.97,
-          "t": 1785384000000,
-          "n": 2465
         }
       ]
     },
@@ -26869,58 +24764,8 @@
       "week52_low": 10.69,
       "week52_pos": 77.0,
       "pe_ratio": 45.0273,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.31,
-          "eps_estimate": 0.2722,
-          "surprise_pct": 13.8868,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 177160000,
-          "rev_estimate": 175906150
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.27,
-          "eps_estimate": 0.2575,
-          "surprise_pct": 4.8544,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.29,
-          "eps_estimate": 0.2421,
-          "surprise_pct": 19.7852,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.23,
-          "eps_estimate": 0.2163,
-          "surprise_pct": 6.3338,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.31,
-          "eps_estimate": 0.2722,
-          "surprise_pct": 13.8868,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 177160000,
-          "rev_estimate": 175906150
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.27,
-          "eps_estimate": 0.2575,
-          "surprise_pct": 4.8544,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 2613668.53524,
@@ -28630,10 +26475,10 @@
       "industry": "Consumer products",
       "timing": "bmo",
       "eps_estimate": 0.2003,
-      "eps_actual": null,
+      "eps_actual": 0.42,
       "revenue_estimate": 1997636872,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1994000000,
+      "revenue_beat": false,
       "market_cap": 2183990000.0,
       "last_close": 5.14,
       "prev_close": 5.19,
@@ -28645,6 +26490,16 @@
       "week52_pos": 58.1,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.42,
+          "eps_estimate": 0.2003,
+          "surprise_pct": 109.6855,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1994000000,
+          "rev_estimate": 1997636872
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.05,
@@ -28665,29 +26520,25 @@
           "eps_estimate": 0.1805,
           "surprise_pct": -5.8172,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.24,
-          "eps_estimate": 0.2409,
-          "surprise_pct": -0.3736,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.42,
+          "eps_estimate": 0.2003,
+          "surprise_pct": 109.6855,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1994000000,
+          "rev_estimate": 1997636872
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.05,
           "eps_estimate": -0.0901,
           "surprise_pct": 44.5061,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.18,
-          "eps_estimate": 0.1852,
-          "surprise_pct": -2.8078,
-          "beat": false
         }
       ],
       "bars": [
@@ -29344,9 +27195,9 @@
       "gap_pct": 7.6,
       "volume": 1741528.351164,
       "rvol": 1.64,
-      "week52_high": 40.47,
-      "week52_low": 11.259,
-      "week52_pos": 91.9,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -31464,10 +29315,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 0.0455,
-      "eps_actual": null,
+      "eps_actual": 0.2,
       "revenue_estimate": 157231750,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 156530000,
+      "revenue_beat": false,
       "market_cap": 1414100000.0,
       "last_close": 14.91,
       "prev_close": 14.85,
@@ -31479,6 +29330,16 @@
       "week52_pos": 6.8,
       "pe_ratio": 71.7662,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.0455,
+          "surprise_pct": 339.5604,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 156530000,
+          "rev_estimate": 157231750
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.05,
@@ -31499,29 +29360,25 @@
           "eps_estimate": 0.1616,
           "surprise_pct": -19.5545,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.09,
-          "eps_estimate": 0.0694,
-          "surprise_pct": 29.683,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.0455,
+          "surprise_pct": 339.5604,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 156530000,
+          "rev_estimate": 157231750
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.05,
           "eps_estimate": 0.1629,
           "surprise_pct": -69.3063,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.17,
-          "eps_estimate": 0.1252,
-          "surprise_pct": 35.7827,
-          "beat": true
         }
       ],
       "bars": [
@@ -31827,58 +29684,8 @@
       "week52_low": 23.38,
       "week52_pos": 68.4,
       "pe_ratio": 15.573,
-      "revenue_streak": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.0623,
-          "surprise_pct": 317.3355,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 615490000,
-          "rev_estimate": 611732184
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.1268,
-          "surprise_pct": 207.571,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.9,
-          "eps_estimate": 1.7604,
-          "surprise_pct": 7.93,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.74,
-          "eps_estimate": 0.7423,
-          "surprise_pct": -0.3098,
-          "beat": false
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-06-30",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.0623,
-          "surprise_pct": 317.3355,
-          "beat": true,
-          "rev_beat": true,
-          "rev_actual": 615490000,
-          "rev_estimate": 611732184
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.39,
-          "eps_estimate": 0.1268,
-          "surprise_pct": 207.571,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 1333742.661978,
@@ -32523,7 +30330,7 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 0.4284,
-      "eps_actual": null,
+      "eps_actual": 0.46,
       "revenue_estimate": 20757000,
       "revenue_actual": null,
       "revenue_beat": null,
@@ -32537,52 +30344,8 @@
       "week52_low": 57.58,
       "week52_pos": 74.8,
       "pe_ratio": 51.0335,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.49,
-          "eps_estimate": 0.4539,
-          "surprise_pct": 7.9533,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.54,
-          "eps_estimate": 0.4896,
-          "surprise_pct": 10.2941,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.47,
-          "eps_estimate": 0.4641,
-          "surprise_pct": 1.2713,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.49,
-          "eps_estimate": 0.4437,
-          "surprise_pct": 10.435,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.49,
-          "eps_estimate": 0.4539,
-          "surprise_pct": 7.9533,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.54,
-          "eps_estimate": 0.4896,
-          "surprise_pct": 10.2941,
-          "beat": true
-        }
-      ],
+      "revenue_streak": [],
+      "prev_quarters": [],
       "bars": [
         {
           "v": 95062.590367,
@@ -34296,9 +32059,9 @@
       "gap_pct": 0.7,
       "volume": 1953283.328615,
       "rvol": 0.83,
-      "week52_high": 3.4698,
-      "week52_low": 1.15,
-      "week52_pos": 75.0,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -34651,9 +32414,9 @@
       "gap_pct": 0.7,
       "volume": 1953283.328615,
       "rvol": 0.83,
-      "week52_high": 3.4698,
-      "week52_low": 1.15,
-      "week52_pos": 75.0,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -37825,355 +35588,6 @@
       ]
     },
     {
-      "symbol": "MITT",
-      "name": "TPG Mortgage Investment Trust Inc",
-      "industry": "Real Estate",
-      "timing": "bmo",
-      "eps_estimate": 0.2754,
-      "eps_actual": null,
-      "revenue_estimate": 25111380,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 225490000.0,
-      "last_close": 7.09,
-      "prev_close": 7.16,
-      "gap_pct": -0.98,
-      "volume": 168441.818576,
-      "rvol": 1.27,
-      "week52_high": 9.27,
-      "week52_low": 6.86,
-      "week52_pos": 9.5,
-      "pe_ratio": 6.6862,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.2468,
-          "surprise_pct": 5.3485,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2244,
-          "surprise_pct": 11.4082,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.47,
-          "eps_estimate": 0.2091,
-          "surprise_pct": 124.7728,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.05,
-          "eps_estimate": 0.2278,
-          "surprise_pct": -121.9491,
-          "beat": false
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.2468,
-          "surprise_pct": 5.3485,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2244,
-          "surprise_pct": 11.4082,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 285010.507426,
-          "vw": 7.952,
-          "o": 8.12,
-          "c": 7.82,
-          "h": 8.15,
-          "l": 7.82,
-          "t": 1782100800000,
-          "n": 3888
-        },
-        {
-          "v": 142891.494782,
-          "vw": 7.958,
-          "o": 7.79,
-          "c": 8.01,
-          "h": 8.04,
-          "l": 7.78,
-          "t": 1782187200000,
-          "n": 2257
-        },
-        {
-          "v": 204672.443208,
-          "vw": 8.0942,
-          "o": 8.01,
-          "c": 8.08,
-          "h": 8.17,
-          "l": 7.99,
-          "t": 1782273600000,
-          "n": 3315
-        },
-        {
-          "v": 121459.681688,
-          "vw": 8.0755,
-          "o": 8.16,
-          "c": 8.07,
-          "h": 8.17,
-          "l": 8.02,
-          "t": 1782360000000,
-          "n": 3742
-        },
-        {
-          "v": 625430.686659,
-          "vw": 8.0818,
-          "o": 8,
-          "c": 8.09,
-          "h": 8.15,
-          "l": 8,
-          "t": 1782446400000,
-          "n": 3731
-        },
-        {
-          "v": 264911.708445,
-          "vw": 7.9983,
-          "o": 8.07,
-          "c": 8.06,
-          "h": 8.08,
-          "l": 7.89,
-          "t": 1782705600000,
-          "n": 3321
-        },
-        {
-          "v": 177826.288823,
-          "vw": 7.8928,
-          "o": 7.83,
-          "c": 7.92,
-          "h": 7.94,
-          "l": 7.75,
-          "t": 1782792000000,
-          "n": 3025
-        },
-        {
-          "v": 148390.454181,
-          "vw": 7.8936,
-          "o": 7.9,
-          "c": 7.85,
-          "h": 7.975,
-          "l": 7.825,
-          "t": 1782878400000,
-          "n": 3009
-        },
-        {
-          "v": 154717.767114,
-          "vw": 7.7066,
-          "o": 7.82,
-          "c": 7.68,
-          "h": 7.85,
-          "l": 7.62,
-          "t": 1782964800000,
-          "n": 2618
-        },
-        {
-          "v": 168348.1398,
-          "vw": 7.7265,
-          "o": 7.7,
-          "c": 7.75,
-          "h": 7.7782,
-          "l": 7.685,
-          "t": 1783310400000,
-          "n": 2731
-        },
-        {
-          "v": 105456.904286,
-          "vw": 7.741,
-          "o": 7.75,
-          "c": 7.71,
-          "h": 7.79,
-          "l": 7.69,
-          "t": 1783396800000,
-          "n": 2479
-        },
-        {
-          "v": 103103.97282,
-          "vw": 7.6656,
-          "o": 7.68,
-          "c": 7.61,
-          "h": 7.82,
-          "l": 7.61,
-          "t": 1783483200000,
-          "n": 2571
-        },
-        {
-          "v": 91897.100816,
-          "vw": 7.7412,
-          "o": 7.64,
-          "c": 7.77,
-          "h": 7.77,
-          "l": 7.61,
-          "t": 1783569600000,
-          "n": 2183
-        },
-        {
-          "v": 75670.758883,
-          "vw": 7.7342,
-          "o": 7.76,
-          "c": 7.72,
-          "h": 7.78,
-          "l": 7.69,
-          "t": 1783656000000,
-          "n": 2049
-        },
-        {
-          "v": 113726.277137,
-          "vw": 7.6354,
-          "o": 7.75,
-          "c": 7.63,
-          "h": 7.75,
-          "l": 7.595,
-          "t": 1783915200000,
-          "n": 2324
-        },
-        {
-          "v": 117749.07193,
-          "vw": 7.7319,
-          "o": 7.7,
-          "c": 7.71,
-          "h": 7.77,
-          "l": 7.67,
-          "t": 1784001600000,
-          "n": 2437
-        },
-        {
-          "v": 142231.975043,
-          "vw": 7.7343,
-          "o": 7.73,
-          "c": 7.71,
-          "h": 7.82,
-          "l": 7.67,
-          "t": 1784088000000,
-          "n": 2216
-        },
-        {
-          "v": 116401.85022,
-          "vw": 7.7536,
-          "o": 7.66,
-          "c": 7.81,
-          "h": 7.81,
-          "l": 7.66,
-          "t": 1784174400000,
-          "n": 2428
-        },
-        {
-          "v": 138752.820311,
-          "vw": 7.6643,
-          "o": 7.74,
-          "c": 7.64,
-          "h": 7.79,
-          "l": 7.59,
-          "t": 1784260800000,
-          "n": 3569
-        },
-        {
-          "v": 192142.395942,
-          "vw": 7.5237,
-          "o": 7.66,
-          "c": 7.5,
-          "h": 7.68,
-          "l": 7.45,
-          "t": 1784520000000,
-          "n": 3795
-        },
-        {
-          "v": 124836.85404,
-          "vw": 7.4455,
-          "o": 7.5,
-          "c": 7.42,
-          "h": 7.54,
-          "l": 7.4088,
-          "t": 1784606400000,
-          "n": 2648
-        },
-        {
-          "v": 148558.501242,
-          "vw": 7.3622,
-          "o": 7.4,
-          "c": 7.4,
-          "h": 7.42,
-          "l": 7.28,
-          "t": 1784692800000,
-          "n": 2791
-        },
-        {
-          "v": 145739.001594,
-          "vw": 7.2601,
-          "o": 7.3,
-          "c": 7.26,
-          "h": 7.345,
-          "l": 7.22,
-          "t": 1784779200000,
-          "n": 2616
-        },
-        {
-          "v": 167007.05623,
-          "vw": 7.2754,
-          "o": 7.29,
-          "c": 7.23,
-          "h": 7.335,
-          "l": 7.22,
-          "t": 1784865600000,
-          "n": 3087
-        },
-        {
-          "v": 114535.978551,
-          "vw": 7.3205,
-          "o": 7.26,
-          "c": 7.32,
-          "h": 7.37,
-          "l": 7.25,
-          "t": 1785124800000,
-          "n": 2372
-        },
-        {
-          "v": 167692.194935,
-          "vw": 7.2527,
-          "o": 7.32,
-          "c": 7.24,
-          "h": 7.32,
-          "l": 7.21,
-          "t": 1785211200000,
-          "n": 3755
-        },
-        {
-          "v": 112893.914671,
-          "vw": 7.2061,
-          "o": 7.28,
-          "c": 7.16,
-          "h": 7.28,
-          "l": 7.15,
-          "t": 1785297600000,
-          "n": 2742
-        },
-        {
-          "v": 168441.818576,
-          "vw": 7.1055,
-          "o": 7.16,
-          "c": 7.09,
-          "h": 7.255,
-          "l": 7.0601,
-          "t": 1785384000000,
-          "n": 2927
-        }
-      ]
-    },
-    {
       "symbol": "GSIT",
       "name": "GSI Technology Inc",
       "industry": "Semiconductors",
@@ -39238,9 +36652,9 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 0.0612,
-      "eps_actual": null,
+      "eps_actual": 0.05,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 9400000,
       "revenue_beat": null,
       "market_cap": 151280000.0,
       "last_close": 1.44,
@@ -39253,6 +36667,13 @@
       "week52_pos": 28.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.05,
+          "eps_estimate": 0.0612,
+          "surprise_pct": -18.3007,
+          "beat": false
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.05,
@@ -39273,28 +36694,21 @@
           "eps_estimate": 0.0714,
           "surprise_pct": -1.9608,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.08,
-          "eps_estimate": 0.0816,
-          "surprise_pct": -1.9608,
-          "beat": false
         }
       ],
       "prev_quarters": [
         {
-          "period": "2026-03-31",
+          "period": "2026-06-30",
           "eps_actual": 0.05,
           "eps_estimate": 0.0612,
           "surprise_pct": -18.3007,
           "beat": false
         },
         {
-          "period": "2025-12-31",
-          "eps_actual": 0.07,
-          "eps_estimate": 0.0714,
-          "surprise_pct": -1.9608,
+          "period": "2026-03-31",
+          "eps_actual": 0.05,
+          "eps_estimate": 0.0612,
+          "surprise_pct": -18.3007,
           "beat": false
         }
       ],
@@ -41294,6 +38708,2130 @@
           "l": 2.7601,
           "t": 1785384000000,
           "n": 368
+        }
+      ]
+    },
+    {
+      "symbol": "BTSG",
+      "name": "BTSG",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": 0.4046,
+      "eps_actual": 0.45,
+      "revenue_estimate": 3730812384,
+      "revenue_actual": 3873140000,
+      "revenue_beat": true,
+      "market_cap": null,
+      "last_close": 72.88,
+      "prev_close": 69.37,
+      "gap_pct": 5.06,
+      "volume": 3426930.401208,
+      "rvol": 0.78,
+      "week52_high": 73.7499,
+      "week52_low": 19.01,
+      "week52_pos": 98.4,
+      "pe_ratio": 46.1559,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.45,
+          "eps_estimate": 0.4046,
+          "surprise_pct": 11.221,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3873140000,
+          "rev_estimate": 3730812384
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.3162,
+          "surprise_pct": 23.3397,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.33,
+          "eps_estimate": 0.357,
+          "surprise_pct": -7.563,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.2754,
+          "surprise_pct": 41.6122,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.45,
+          "eps_estimate": 0.4046,
+          "surprise_pct": 11.221,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3873140000,
+          "rev_estimate": 3730812384
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.3162,
+          "surprise_pct": 23.3397,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 2477030.259727,
+          "vw": 66.975,
+          "o": 67.3,
+          "c": 67.2,
+          "h": 67.759,
+          "l": 65.825,
+          "t": 1782100800000,
+          "n": 34892
+        },
+        {
+          "v": 2406628.887608,
+          "vw": 67.239,
+          "o": 66.05,
+          "c": 66.84,
+          "h": 67.855,
+          "l": 65.92,
+          "t": 1782187200000,
+          "n": 33861
+        },
+        {
+          "v": 2874760.362628,
+          "vw": 67.9381,
+          "o": 66.93,
+          "c": 67.61,
+          "h": 69.11,
+          "l": 66.32,
+          "t": 1782273600000,
+          "n": 39854
+        },
+        {
+          "v": 3070043.600647,
+          "vw": 69.2448,
+          "o": 68.43,
+          "c": 69.7,
+          "h": 69.89,
+          "l": 68.22,
+          "t": 1782360000000,
+          "n": 39895
+        },
+        {
+          "v": 10450196.889695,
+          "vw": 69.0747,
+          "o": 69.3,
+          "c": 68.98,
+          "h": 70.72,
+          "l": 68.13,
+          "t": 1782446400000,
+          "n": 54875
+        },
+        {
+          "v": 3977541.583828,
+          "vw": 69.1017,
+          "o": 68.6,
+          "c": 68.98,
+          "h": 70.295,
+          "l": 68.41,
+          "t": 1782705600000,
+          "n": 39705
+        },
+        {
+          "v": 3199580.738219,
+          "vw": 69.3052,
+          "o": 68.98,
+          "c": 69.74,
+          "h": 69.91,
+          "l": 68.095,
+          "t": 1782792000000,
+          "n": 37119
+        },
+        {
+          "v": 3494848.061759,
+          "vw": 69.4661,
+          "o": 69.44,
+          "c": 69.85,
+          "h": 70.25,
+          "l": 68.21,
+          "t": 1782878400000,
+          "n": 33892
+        },
+        {
+          "v": 2242934.17934,
+          "vw": 69.1371,
+          "o": 70.905,
+          "c": 69.03,
+          "h": 70.905,
+          "l": 68.45,
+          "t": 1782964800000,
+          "n": 35269
+        },
+        {
+          "v": 3277952.863426,
+          "vw": 70.7995,
+          "o": 69.67,
+          "c": 70.56,
+          "h": 72.06,
+          "l": 69.64,
+          "t": 1783310400000,
+          "n": 43112
+        },
+        {
+          "v": 3970831.163772,
+          "vw": 69.4748,
+          "o": 70.78,
+          "c": 70.17,
+          "h": 71.34,
+          "l": 68.6301,
+          "t": 1783396800000,
+          "n": 45887
+        },
+        {
+          "v": 3030174.579896,
+          "vw": 70.4529,
+          "o": 70.37,
+          "c": 70.5,
+          "h": 71.4,
+          "l": 69.37,
+          "t": 1783483200000,
+          "n": 29541
+        },
+        {
+          "v": 2048237.947932,
+          "vw": 71.4277,
+          "o": 71.44,
+          "c": 71.58,
+          "h": 71.82,
+          "l": 70.84,
+          "t": 1783569600000,
+          "n": 32722
+        },
+        {
+          "v": 1817862.077123,
+          "vw": 71.3225,
+          "o": 71.36,
+          "c": 71.43,
+          "h": 72.055,
+          "l": 70.11,
+          "t": 1783656000000,
+          "n": 30549
+        },
+        {
+          "v": 2271707.86103,
+          "vw": 70.1512,
+          "o": 71.89,
+          "c": 69.64,
+          "h": 72.22,
+          "l": 69.28,
+          "t": 1783915200000,
+          "n": 33587
+        },
+        {
+          "v": 1816976.399106,
+          "vw": 69.838,
+          "o": 70.43,
+          "c": 69.67,
+          "h": 71.2,
+          "l": 69.375,
+          "t": 1784001600000,
+          "n": 27408
+        },
+        {
+          "v": 5848552.953077,
+          "vw": 68.5522,
+          "o": 67.9,
+          "c": 68.26,
+          "h": 70.285,
+          "l": 66.58,
+          "t": 1784088000000,
+          "n": 75062
+        },
+        {
+          "v": 32760849.589738,
+          "vw": 68.3325,
+          "o": 68,
+          "c": 68.16,
+          "h": 70.61,
+          "l": 67.21,
+          "t": 1784174400000,
+          "n": 91536
+        },
+        {
+          "v": 3816889.496846,
+          "vw": 70.1643,
+          "o": 67.16,
+          "c": 70.69,
+          "h": 71.34,
+          "l": 66.65,
+          "t": 1784260800000,
+          "n": 51361
+        },
+        {
+          "v": 2727460.404376,
+          "vw": 71.5942,
+          "o": 71,
+          "c": 70.5,
+          "h": 73.4,
+          "l": 70.41,
+          "t": 1784520000000,
+          "n": 37392
+        },
+        {
+          "v": 2725357.203628,
+          "vw": 72.1783,
+          "o": 71.56,
+          "c": 72.56,
+          "h": 73.01,
+          "l": 70.7212,
+          "t": 1784606400000,
+          "n": 37836
+        },
+        {
+          "v": 3677653.047633,
+          "vw": 70.4274,
+          "o": 71.43,
+          "c": 69.74,
+          "h": 72.5599,
+          "l": 69.66,
+          "t": 1784692800000,
+          "n": 43093
+        },
+        {
+          "v": 3657207.468801,
+          "vw": 69.4314,
+          "o": 69.07,
+          "c": 69.84,
+          "h": 70.275,
+          "l": 68.25,
+          "t": 1784779200000,
+          "n": 36349
+        },
+        {
+          "v": 2482559.225421,
+          "vw": 72.7861,
+          "o": 71.42,
+          "c": 72.91,
+          "h": 73.4,
+          "l": 70.96,
+          "t": 1784865600000,
+          "n": 36674
+        },
+        {
+          "v": 1962435.146326,
+          "vw": 71.8987,
+          "o": 72.92,
+          "c": 71.98,
+          "h": 73.7499,
+          "l": 71.03,
+          "t": 1785124800000,
+          "n": 34509
+        },
+        {
+          "v": 1811507.225304,
+          "vw": 71.9268,
+          "o": 71.83,
+          "c": 72.46,
+          "h": 72.67,
+          "l": 69.98,
+          "t": 1785211200000,
+          "n": 28645
+        },
+        {
+          "v": 1972282.940406,
+          "vw": 70.5472,
+          "o": 72.75,
+          "c": 69.37,
+          "h": 73.2,
+          "l": 69.25,
+          "t": 1785297600000,
+          "n": 29422
+        },
+        {
+          "v": 3426930.401208,
+          "vw": 72.527,
+          "o": 70.58,
+          "c": 72.88,
+          "h": 73.286,
+          "l": 70,
+          "t": 1785384000000,
+          "n": 47774
+        }
+      ]
+    },
+    {
+      "symbol": "MITT",
+      "name": "MITT",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": 0.2754,
+      "eps_actual": null,
+      "revenue_estimate": 25111380,
+      "revenue_actual": null,
+      "revenue_beat": null,
+      "market_cap": null,
+      "last_close": 7.09,
+      "prev_close": 7.16,
+      "gap_pct": -0.98,
+      "volume": 168441.818576,
+      "rvol": 1.27,
+      "week52_high": 9.27,
+      "week52_low": 6.86,
+      "week52_pos": 9.5,
+      "pe_ratio": 6.6862,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.26,
+          "eps_estimate": 0.2468,
+          "surprise_pct": 5.3485,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.25,
+          "eps_estimate": 0.2244,
+          "surprise_pct": 11.4082,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 0.47,
+          "eps_estimate": 0.2091,
+          "surprise_pct": 124.7728,
+          "beat": true
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": -0.05,
+          "eps_estimate": 0.2278,
+          "surprise_pct": -121.9491,
+          "beat": false
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": 0.26,
+          "eps_estimate": 0.2468,
+          "surprise_pct": 5.3485,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.25,
+          "eps_estimate": 0.2244,
+          "surprise_pct": 11.4082,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 285010.507426,
+          "vw": 7.952,
+          "o": 8.12,
+          "c": 7.82,
+          "h": 8.15,
+          "l": 7.82,
+          "t": 1782100800000,
+          "n": 3888
+        },
+        {
+          "v": 142891.494782,
+          "vw": 7.958,
+          "o": 7.79,
+          "c": 8.01,
+          "h": 8.04,
+          "l": 7.78,
+          "t": 1782187200000,
+          "n": 2257
+        },
+        {
+          "v": 204672.443208,
+          "vw": 8.0942,
+          "o": 8.01,
+          "c": 8.08,
+          "h": 8.17,
+          "l": 7.99,
+          "t": 1782273600000,
+          "n": 3315
+        },
+        {
+          "v": 121459.681688,
+          "vw": 8.0755,
+          "o": 8.16,
+          "c": 8.07,
+          "h": 8.17,
+          "l": 8.02,
+          "t": 1782360000000,
+          "n": 3742
+        },
+        {
+          "v": 625430.686659,
+          "vw": 8.0818,
+          "o": 8,
+          "c": 8.09,
+          "h": 8.15,
+          "l": 8,
+          "t": 1782446400000,
+          "n": 3731
+        },
+        {
+          "v": 264911.708445,
+          "vw": 7.9983,
+          "o": 8.07,
+          "c": 8.06,
+          "h": 8.08,
+          "l": 7.89,
+          "t": 1782705600000,
+          "n": 3321
+        },
+        {
+          "v": 177826.288823,
+          "vw": 7.8928,
+          "o": 7.83,
+          "c": 7.92,
+          "h": 7.94,
+          "l": 7.75,
+          "t": 1782792000000,
+          "n": 3025
+        },
+        {
+          "v": 148390.454181,
+          "vw": 7.8936,
+          "o": 7.9,
+          "c": 7.85,
+          "h": 7.975,
+          "l": 7.825,
+          "t": 1782878400000,
+          "n": 3009
+        },
+        {
+          "v": 154717.767114,
+          "vw": 7.7066,
+          "o": 7.82,
+          "c": 7.68,
+          "h": 7.85,
+          "l": 7.62,
+          "t": 1782964800000,
+          "n": 2618
+        },
+        {
+          "v": 168348.1398,
+          "vw": 7.7265,
+          "o": 7.7,
+          "c": 7.75,
+          "h": 7.7782,
+          "l": 7.685,
+          "t": 1783310400000,
+          "n": 2731
+        },
+        {
+          "v": 105456.904286,
+          "vw": 7.741,
+          "o": 7.75,
+          "c": 7.71,
+          "h": 7.79,
+          "l": 7.69,
+          "t": 1783396800000,
+          "n": 2479
+        },
+        {
+          "v": 103103.97282,
+          "vw": 7.6656,
+          "o": 7.68,
+          "c": 7.61,
+          "h": 7.82,
+          "l": 7.61,
+          "t": 1783483200000,
+          "n": 2571
+        },
+        {
+          "v": 91897.100816,
+          "vw": 7.7412,
+          "o": 7.64,
+          "c": 7.77,
+          "h": 7.77,
+          "l": 7.61,
+          "t": 1783569600000,
+          "n": 2183
+        },
+        {
+          "v": 75670.758883,
+          "vw": 7.7342,
+          "o": 7.76,
+          "c": 7.72,
+          "h": 7.78,
+          "l": 7.69,
+          "t": 1783656000000,
+          "n": 2049
+        },
+        {
+          "v": 113726.277137,
+          "vw": 7.6354,
+          "o": 7.75,
+          "c": 7.63,
+          "h": 7.75,
+          "l": 7.595,
+          "t": 1783915200000,
+          "n": 2324
+        },
+        {
+          "v": 117749.07193,
+          "vw": 7.7319,
+          "o": 7.7,
+          "c": 7.71,
+          "h": 7.77,
+          "l": 7.67,
+          "t": 1784001600000,
+          "n": 2437
+        },
+        {
+          "v": 142231.975043,
+          "vw": 7.7343,
+          "o": 7.73,
+          "c": 7.71,
+          "h": 7.82,
+          "l": 7.67,
+          "t": 1784088000000,
+          "n": 2216
+        },
+        {
+          "v": 116401.85022,
+          "vw": 7.7536,
+          "o": 7.66,
+          "c": 7.81,
+          "h": 7.81,
+          "l": 7.66,
+          "t": 1784174400000,
+          "n": 2428
+        },
+        {
+          "v": 138752.820311,
+          "vw": 7.6643,
+          "o": 7.74,
+          "c": 7.64,
+          "h": 7.79,
+          "l": 7.59,
+          "t": 1784260800000,
+          "n": 3569
+        },
+        {
+          "v": 192142.395942,
+          "vw": 7.5237,
+          "o": 7.66,
+          "c": 7.5,
+          "h": 7.68,
+          "l": 7.45,
+          "t": 1784520000000,
+          "n": 3795
+        },
+        {
+          "v": 124836.85404,
+          "vw": 7.4455,
+          "o": 7.5,
+          "c": 7.42,
+          "h": 7.54,
+          "l": 7.4088,
+          "t": 1784606400000,
+          "n": 2648
+        },
+        {
+          "v": 148558.501242,
+          "vw": 7.3622,
+          "o": 7.4,
+          "c": 7.4,
+          "h": 7.42,
+          "l": 7.28,
+          "t": 1784692800000,
+          "n": 2791
+        },
+        {
+          "v": 145739.001594,
+          "vw": 7.2601,
+          "o": 7.3,
+          "c": 7.26,
+          "h": 7.345,
+          "l": 7.22,
+          "t": 1784779200000,
+          "n": 2616
+        },
+        {
+          "v": 167007.05623,
+          "vw": 7.2754,
+          "o": 7.29,
+          "c": 7.23,
+          "h": 7.335,
+          "l": 7.22,
+          "t": 1784865600000,
+          "n": 3087
+        },
+        {
+          "v": 114535.978551,
+          "vw": 7.3205,
+          "o": 7.26,
+          "c": 7.32,
+          "h": 7.37,
+          "l": 7.25,
+          "t": 1785124800000,
+          "n": 2372
+        },
+        {
+          "v": 167692.194935,
+          "vw": 7.2527,
+          "o": 7.32,
+          "c": 7.24,
+          "h": 7.32,
+          "l": 7.21,
+          "t": 1785211200000,
+          "n": 3755
+        },
+        {
+          "v": 112893.914671,
+          "vw": 7.2061,
+          "o": 7.28,
+          "c": 7.16,
+          "h": 7.28,
+          "l": 7.15,
+          "t": 1785297600000,
+          "n": 2742
+        },
+        {
+          "v": 168441.818576,
+          "vw": 7.1055,
+          "o": 7.16,
+          "c": 7.09,
+          "h": 7.255,
+          "l": 7.0601,
+          "t": 1785384000000,
+          "n": 2927
+        }
+      ]
+    },
+    {
+      "symbol": "MRNA",
+      "name": "MRNA",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": -2.1247,
+      "eps_actual": -1.97,
+      "revenue_estimate": 105057521,
+      "revenue_actual": 145000000,
+      "revenue_beat": true,
+      "market_cap": null,
+      "last_close": 57.92,
+      "prev_close": 54.49,
+      "gap_pct": 6.29,
+      "volume": 4458258.145067,
+      "rvol": 0.66,
+      "week52_high": 85.6,
+      "week52_low": 22.28,
+      "week52_pos": 56.3,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.97,
+          "eps_estimate": -2.1247,
+          "surprise_pct": 7.281,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 145000000,
+          "rev_estimate": 105057521
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -3.4,
+          "eps_estimate": -4.0402,
+          "surprise_pct": 15.8458,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -2.11,
+          "eps_estimate": -2.6953,
+          "surprise_pct": 21.7156,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.51,
+          "eps_estimate": -2.1494,
+          "surprise_pct": 76.2724,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.97,
+          "eps_estimate": -2.1247,
+          "surprise_pct": 7.281,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 145000000,
+          "rev_estimate": 105057521
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -3.4,
+          "eps_estimate": -4.0402,
+          "surprise_pct": 15.8458,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 8363486.657077,
+          "vw": 59.7756,
+          "o": 64.07,
+          "c": 59.345,
+          "h": 65.51,
+          "l": 57.5,
+          "t": 1782100800000,
+          "n": 116960
+        },
+        {
+          "v": 6814161.060495,
+          "vw": 61.7276,
+          "o": 59.05,
+          "c": 61,
+          "h": 63.98,
+          "l": 58.34,
+          "t": 1782187200000,
+          "n": 97488
+        },
+        {
+          "v": 11704005.3084,
+          "vw": 60.7534,
+          "o": 61.17,
+          "c": 60.42,
+          "h": 62.75,
+          "l": 59.85,
+          "t": 1782273600000,
+          "n": 69561
+        },
+        {
+          "v": 6798819.551757,
+          "vw": 59.6674,
+          "o": 60.33,
+          "c": 59.75,
+          "h": 61.8565,
+          "l": 57.908,
+          "t": 1782360000000,
+          "n": 66989
+        },
+        {
+          "v": 14456655.051468,
+          "vw": 66.6907,
+          "o": 59.465,
+          "c": 67.27,
+          "h": 69.285,
+          "l": 59.23,
+          "t": 1782446400000,
+          "n": 162366
+        },
+        {
+          "v": 8077421.361948,
+          "vw": 68.937,
+          "o": 67.945,
+          "c": 69.7,
+          "h": 69.9,
+          "l": 66.3,
+          "t": 1782705600000,
+          "n": 101049
+        },
+        {
+          "v": 11805910.16779,
+          "vw": 70.7923,
+          "o": 69.835,
+          "c": 70.03,
+          "h": 73.28,
+          "l": 69.22,
+          "t": 1782792000000,
+          "n": 108922
+        },
+        {
+          "v": 9275292.821588,
+          "vw": 72.4202,
+          "o": 70.04,
+          "c": 72.5,
+          "h": 73.91,
+          "l": 68.8655,
+          "t": 1782878400000,
+          "n": 84551
+        },
+        {
+          "v": 14111998.018221,
+          "vw": 78.4286,
+          "o": 73.71,
+          "c": 79.76,
+          "h": 81.4,
+          "l": 73.68,
+          "t": 1782964800000,
+          "n": 148242
+        },
+        {
+          "v": 17296875.096791,
+          "vw": 82.1818,
+          "o": 78.55,
+          "c": 81.8,
+          "h": 85.6,
+          "l": 77.5,
+          "t": 1783310400000,
+          "n": 133801
+        },
+        {
+          "v": 8688340.405574,
+          "vw": 79.6834,
+          "o": 82.1,
+          "c": 79.77,
+          "h": 82.9,
+          "l": 77.41,
+          "t": 1783396800000,
+          "n": 88965
+        },
+        {
+          "v": 6581662.953583,
+          "vw": 74.7532,
+          "o": 77.34,
+          "c": 73.8,
+          "h": 78.3,
+          "l": 73.3401,
+          "t": 1783483200000,
+          "n": 89437
+        },
+        {
+          "v": 4415034.82178,
+          "vw": 75.8691,
+          "o": 73.8,
+          "c": 76.56,
+          "h": 76.84,
+          "l": 73.14,
+          "t": 1783569600000,
+          "n": 64199
+        },
+        {
+          "v": 9176930.892162,
+          "vw": 69.2741,
+          "o": 76.722,
+          "c": 68.27,
+          "h": 76.722,
+          "l": 67.31,
+          "t": 1783656000000,
+          "n": 107771
+        },
+        {
+          "v": 8521959.073288,
+          "vw": 67.4486,
+          "o": 66.33,
+          "c": 67.01,
+          "h": 69.55,
+          "l": 65.54,
+          "t": 1783915200000,
+          "n": 94476
+        },
+        {
+          "v": 5812332.196893,
+          "vw": 67.2232,
+          "o": 66.67,
+          "c": 67.44,
+          "h": 67.89,
+          "l": 65.8,
+          "t": 1784001600000,
+          "n": 60666
+        },
+        {
+          "v": 3427825.545415,
+          "vw": 67.5281,
+          "o": 67.79,
+          "c": 68.28,
+          "h": 68.49,
+          "l": 65.95,
+          "t": 1784088000000,
+          "n": 51987
+        },
+        {
+          "v": 5593100.654727,
+          "vw": 64.428,
+          "o": 67.07,
+          "c": 63.15,
+          "h": 67.42,
+          "l": 62.8,
+          "t": 1784174400000,
+          "n": 74340
+        },
+        {
+          "v": 4551991.627863,
+          "vw": 62.133,
+          "o": 61.68,
+          "c": 61.82,
+          "h": 63.28,
+          "l": 61.06,
+          "t": 1784260800000,
+          "n": 65258
+        },
+        {
+          "v": 4967920.71615,
+          "vw": 60.3385,
+          "o": 61.46,
+          "c": 59.49,
+          "h": 62.4251,
+          "l": 59.3,
+          "t": 1784520000000,
+          "n": 59407
+        },
+        {
+          "v": 4357386.503987,
+          "vw": 59.6508,
+          "o": 59.51,
+          "c": 59.66,
+          "h": 60.83,
+          "l": 58.61,
+          "t": 1784606400000,
+          "n": 54020
+        },
+        {
+          "v": 3780416.813089,
+          "vw": 58.5583,
+          "o": 59.52,
+          "c": 58.07,
+          "h": 59.86,
+          "l": 57.74,
+          "t": 1784692800000,
+          "n": 51205
+        },
+        {
+          "v": 4695588.462969,
+          "vw": 57.1377,
+          "o": 57.2,
+          "c": 57.02,
+          "h": 58.43,
+          "l": 56.275,
+          "t": 1784779200000,
+          "n": 53513
+        },
+        {
+          "v": 4427772.127194,
+          "vw": 54.6812,
+          "o": 57.255,
+          "c": 54.07,
+          "h": 57.46,
+          "l": 53.85,
+          "t": 1784865600000,
+          "n": 56148
+        },
+        {
+          "v": 5040423.85795,
+          "vw": 55.8929,
+          "o": 54.75,
+          "c": 55.63,
+          "h": 57.07,
+          "l": 54.39,
+          "t": 1785124800000,
+          "n": 64006
+        },
+        {
+          "v": 5557786.689234,
+          "vw": 54.9747,
+          "o": 54.831,
+          "c": 55.805,
+          "h": 55.85,
+          "l": 53.345,
+          "t": 1785211200000,
+          "n": 67510
+        },
+        {
+          "v": 4351698.427016,
+          "vw": 54.8638,
+          "o": 55.04,
+          "c": 54.49,
+          "h": 56.25,
+          "l": 54.1601,
+          "t": 1785297600000,
+          "n": 52157
+        },
+        {
+          "v": 4458258.145067,
+          "vw": 56.8603,
+          "o": 55.965,
+          "c": 57.92,
+          "h": 58.08,
+          "l": 54.52,
+          "t": 1785384000000,
+          "n": 63696
+        }
+      ]
+    },
+    {
+      "symbol": "NVT",
+      "name": "NVT",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": 1.1711,
+      "eps_actual": 1.45,
+      "revenue_estimate": 1271220208,
+      "revenue_actual": 1471300000,
+      "revenue_beat": true,
+      "market_cap": null,
+      "last_close": 144.8,
+      "prev_close": 133.61,
+      "gap_pct": 8.38,
+      "volume": 4234850.947929,
+      "rvol": 2.13,
+      "week52_high": 184.64,
+      "week52_low": 78.03,
+      "week52_pos": 62.6,
+      "pe_ratio": 48.1085,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.45,
+          "eps_estimate": 1.1711,
+          "surprise_pct": 23.8152,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1471300000,
+          "rev_estimate": 1271220208
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.09,
+          "eps_estimate": 0.9499,
+          "surprise_pct": 14.7489,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 0.9,
+          "eps_estimate": 0.9058,
+          "surprise_pct": -0.6403,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 0.91,
+          "eps_estimate": 0.8927,
+          "surprise_pct": 1.9379,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.45,
+          "eps_estimate": 1.1711,
+          "surprise_pct": 23.8152,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1471300000,
+          "rev_estimate": 1271220208
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.09,
+          "eps_estimate": 0.9499,
+          "surprise_pct": 14.7489,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 2790242.438124,
+          "vw": 181.903,
+          "o": 180.55,
+          "c": 184.34,
+          "h": 184.64,
+          "l": 176.5401,
+          "t": 1782100800000,
+          "n": 48557
+        },
+        {
+          "v": 2625245.023064,
+          "vw": 169.6489,
+          "o": 171.98,
+          "c": 168.37,
+          "h": 174.38,
+          "l": 167.31,
+          "t": 1782187200000,
+          "n": 45238
+        },
+        {
+          "v": 1777551.539,
+          "vw": 168.0849,
+          "o": 166.58,
+          "c": 167.55,
+          "h": 171.725,
+          "l": 164.28,
+          "t": 1782273600000,
+          "n": 36572
+        },
+        {
+          "v": 1856158.470209,
+          "vw": 173.1525,
+          "o": 172.5,
+          "c": 171.91,
+          "h": 176.7799,
+          "l": 171,
+          "t": 1782360000000,
+          "n": 38492
+        },
+        {
+          "v": 3841326.990835,
+          "vw": 163.3577,
+          "o": 167.55,
+          "c": 162.92,
+          "h": 169,
+          "l": 161.77,
+          "t": 1782446400000,
+          "n": 37948
+        },
+        {
+          "v": 2020940.943796,
+          "vw": 162.8792,
+          "o": 162.92,
+          "c": 163.35,
+          "h": 165.5298,
+          "l": 159.46,
+          "t": 1782705600000,
+          "n": 36279
+        },
+        {
+          "v": 2098743.450058,
+          "vw": 168.1776,
+          "o": 164.31,
+          "c": 169.61,
+          "h": 170.055,
+          "l": 163.52,
+          "t": 1782792000000,
+          "n": 36149
+        },
+        {
+          "v": 1850431.631374,
+          "vw": 160.9658,
+          "o": 163.91,
+          "c": 159.99,
+          "h": 165.34,
+          "l": 158.23,
+          "t": 1782878400000,
+          "n": 35324
+        },
+        {
+          "v": 2948261.910134,
+          "vw": 153.1289,
+          "o": 160.06,
+          "c": 152.15,
+          "h": 160.85,
+          "l": 149.84,
+          "t": 1782964800000,
+          "n": 53108
+        },
+        {
+          "v": 1841795.42788,
+          "vw": 156.9347,
+          "o": 154.36,
+          "c": 156.89,
+          "h": 159.8599,
+          "l": 153.34,
+          "t": 1783310400000,
+          "n": 36293
+        },
+        {
+          "v": 3159824.426184,
+          "vw": 150.9546,
+          "o": 153.54,
+          "c": 153.18,
+          "h": 153.54,
+          "l": 146.56,
+          "t": 1783396800000,
+          "n": 46369
+        },
+        {
+          "v": 1936783.614279,
+          "vw": 153.9446,
+          "o": 151.99,
+          "c": 154.76,
+          "h": 155.79,
+          "l": 150.4,
+          "t": 1783483200000,
+          "n": 29577
+        },
+        {
+          "v": 2209360.414013,
+          "vw": 159.1226,
+          "o": 160.85,
+          "c": 158.05,
+          "h": 163.5,
+          "l": 157.34,
+          "t": 1783569600000,
+          "n": 33937
+        },
+        {
+          "v": 1479782.246198,
+          "vw": 160.606,
+          "o": 157.17,
+          "c": 160.72,
+          "h": 161.99,
+          "l": 155.75,
+          "t": 1783656000000,
+          "n": 31821
+        },
+        {
+          "v": 1313169.689325,
+          "vw": 157.9235,
+          "o": 158.31,
+          "c": 158.02,
+          "h": 160.23,
+          "l": 156.17,
+          "t": 1783915200000,
+          "n": 28552
+        },
+        {
+          "v": 1620338.449909,
+          "vw": 161.8559,
+          "o": 163,
+          "c": 161.78,
+          "h": 165.99,
+          "l": 160.32,
+          "t": 1784001600000,
+          "n": 33356
+        },
+        {
+          "v": 1380637.854887,
+          "vw": 158.9516,
+          "o": 163.29,
+          "c": 159.46,
+          "h": 163.335,
+          "l": 154.75,
+          "t": 1784088000000,
+          "n": 28380
+        },
+        {
+          "v": 2170562.147681,
+          "vw": 153.3054,
+          "o": 154.41,
+          "c": 153.65,
+          "h": 157.64,
+          "l": 151.22,
+          "t": 1784174400000,
+          "n": 37748
+        },
+        {
+          "v": 1856490.328333,
+          "vw": 153.8235,
+          "o": 148.925,
+          "c": 154.92,
+          "h": 157.2999,
+          "l": 145.67,
+          "t": 1784260800000,
+          "n": 39584
+        },
+        {
+          "v": 1598410.041884,
+          "vw": 155.8298,
+          "o": 157.41,
+          "c": 154.78,
+          "h": 159.155,
+          "l": 154.43,
+          "t": 1784520000000,
+          "n": 31680
+        },
+        {
+          "v": 1209265.21571,
+          "vw": 160.032,
+          "o": 159.66,
+          "c": 160.68,
+          "h": 161.2,
+          "l": 157.04,
+          "t": 1784606400000,
+          "n": 26825
+        },
+        {
+          "v": 1364318.119723,
+          "vw": 158.787,
+          "o": 156.37,
+          "c": 158.47,
+          "h": 160.4,
+          "l": 156.32,
+          "t": 1784692800000,
+          "n": 23976
+        },
+        {
+          "v": 1185806.601986,
+          "vw": 159.007,
+          "o": 159.53,
+          "c": 158.78,
+          "h": 162.71,
+          "l": 157.68,
+          "t": 1784779200000,
+          "n": 23625
+        },
+        {
+          "v": 1883630.460777,
+          "vw": 152.7125,
+          "o": 156.93,
+          "c": 151.79,
+          "h": 159.3151,
+          "l": 150.41,
+          "t": 1784865600000,
+          "n": 34293
+        },
+        {
+          "v": 2229994.763234,
+          "vw": 147.7694,
+          "o": 153.03,
+          "c": 149.29,
+          "h": 153.03,
+          "l": 142.48,
+          "t": 1785124800000,
+          "n": 35908
+        },
+        {
+          "v": 2747823.365489,
+          "vw": 140.7337,
+          "o": 144.4,
+          "c": 141.75,
+          "h": 144.41,
+          "l": 137.49,
+          "t": 1785211200000,
+          "n": 51133
+        },
+        {
+          "v": 3820960.80589,
+          "vw": 134.1483,
+          "o": 139.75,
+          "c": 133.61,
+          "h": 140.58,
+          "l": 130.97,
+          "t": 1785297600000,
+          "n": 59752
+        },
+        {
+          "v": 4234850.947929,
+          "vw": 144.6468,
+          "o": 145,
+          "c": 144.8,
+          "h": 148.39,
+          "l": 140.45,
+          "t": 1785384000000,
+          "n": 63014
+        }
+      ]
+    },
+    {
+      "symbol": "RBC",
+      "name": "RBC",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": 3.46,
+      "eps_actual": 3.88,
+      "revenue_estimate": 514327521,
+      "revenue_actual": 519500000,
+      "revenue_beat": true,
+      "market_cap": null,
+      "last_close": 561.9,
+      "prev_close": 550.27,
+      "gap_pct": 2.11,
+      "volume": 264824.183145,
+      "rvol": 1.2,
+      "week52_high": 667.6861,
+      "week52_low": 364.5,
+      "week52_pos": 65.1,
+      "pe_ratio": 61.7522,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.88,
+          "eps_estimate": 3.46,
+          "surprise_pct": 12.1387,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 519500000,
+          "rev_estimate": 514327521
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 3.62,
+          "eps_estimate": 3.3532,
+          "surprise_pct": 7.9566,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": 3.04,
+          "eps_estimate": 2.8911,
+          "surprise_pct": 5.1503,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": 2.88,
+          "eps_estimate": 2.7616,
+          "surprise_pct": 4.2874,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.88,
+          "eps_estimate": 3.46,
+          "surprise_pct": 12.1387,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 519500000,
+          "rev_estimate": 514327521
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 3.62,
+          "eps_estimate": 3.3532,
+          "surprise_pct": 7.9566,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 238296.965874,
+          "vw": 643.5342,
+          "o": 639.43,
+          "c": 645.73,
+          "h": 646.17,
+          "l": 635.635,
+          "t": 1782100800000,
+          "n": 13495
+        },
+        {
+          "v": 229939.310121,
+          "vw": 635.9258,
+          "o": 631.74,
+          "c": 633.44,
+          "h": 645.4599,
+          "l": 627.46,
+          "t": 1782187200000,
+          "n": 10698
+        },
+        {
+          "v": 195623.479274,
+          "vw": 639.9527,
+          "o": 633.52,
+          "c": 638.94,
+          "h": 648.3164,
+          "l": 629.15,
+          "t": 1782273600000,
+          "n": 10768
+        },
+        {
+          "v": 236094.982877,
+          "vw": 652.7086,
+          "o": 645.79,
+          "c": 648.89,
+          "h": 667.6861,
+          "l": 640.301,
+          "t": 1782360000000,
+          "n": 12074
+        },
+        {
+          "v": 560779.607703,
+          "vw": 629.1154,
+          "o": 645.93,
+          "c": 630.36,
+          "h": 646.38,
+          "l": 622.45,
+          "t": 1782446400000,
+          "n": 17641
+        },
+        {
+          "v": 254728.085616,
+          "vw": 632.2842,
+          "o": 627.1,
+          "c": 634.78,
+          "h": 635.61,
+          "l": 624.51,
+          "t": 1782705600000,
+          "n": 11526
+        },
+        {
+          "v": 242145.05422,
+          "vw": 643.3755,
+          "o": 636.39,
+          "c": 644.06,
+          "h": 648.93,
+          "l": 635,
+          "t": 1782792000000,
+          "n": 11832
+        },
+        {
+          "v": 292203.507896,
+          "vw": 626.4684,
+          "o": 639.86,
+          "c": 620.47,
+          "h": 639.86,
+          "l": 620.03,
+          "t": 1782878400000,
+          "n": 15883
+        },
+        {
+          "v": 255654.132603,
+          "vw": 602.1093,
+          "o": 620.18,
+          "c": 604.56,
+          "h": 624.64,
+          "l": 589.9,
+          "t": 1782964800000,
+          "n": 14539
+        },
+        {
+          "v": 203461.600522,
+          "vw": 608.8546,
+          "o": 606.02,
+          "c": 609.6,
+          "h": 614.19,
+          "l": 605.19,
+          "t": 1783310400000,
+          "n": 10551
+        },
+        {
+          "v": 203209.301,
+          "vw": 595.9102,
+          "o": 613.36,
+          "c": 600.26,
+          "h": 613.36,
+          "l": 588.03,
+          "t": 1783396800000,
+          "n": 12943
+        },
+        {
+          "v": 124386.014619,
+          "vw": 592.8954,
+          "o": 594.81,
+          "c": 593.89,
+          "h": 597.99,
+          "l": 588.4,
+          "t": 1783483200000,
+          "n": 8607
+        },
+        {
+          "v": 188246.147286,
+          "vw": 599.4532,
+          "o": 603.23,
+          "c": 595.61,
+          "h": 608.97,
+          "l": 595.45,
+          "t": 1783569600000,
+          "n": 9428
+        },
+        {
+          "v": 123210.100509,
+          "vw": 595.2824,
+          "o": 593.05,
+          "c": 595.49,
+          "h": 599.79,
+          "l": 585.22,
+          "t": 1783656000000,
+          "n": 7787
+        },
+        {
+          "v": 134290.857611,
+          "vw": 587.0785,
+          "o": 591.59,
+          "c": 584.59,
+          "h": 599.69,
+          "l": 582.18,
+          "t": 1783915200000,
+          "n": 10076
+        },
+        {
+          "v": 128583.101084,
+          "vw": 588.8897,
+          "o": 594.5,
+          "c": 588.18,
+          "h": 601.24,
+          "l": 585.76,
+          "t": 1784001600000,
+          "n": 10730
+        },
+        {
+          "v": 210154.401327,
+          "vw": 589.1917,
+          "o": 589.49,
+          "c": 590.14,
+          "h": 593.97,
+          "l": 583.99,
+          "t": 1784088000000,
+          "n": 12568
+        },
+        {
+          "v": 307008.63498,
+          "vw": 582.3314,
+          "o": 584.79,
+          "c": 580.27,
+          "h": 596.6563,
+          "l": 576.21,
+          "t": 1784174400000,
+          "n": 14934
+        },
+        {
+          "v": 492932.125583,
+          "vw": 576.7812,
+          "o": 572.21,
+          "c": 575.22,
+          "h": 584.49,
+          "l": 565.01,
+          "t": 1784260800000,
+          "n": 13416
+        },
+        {
+          "v": 212794.142271,
+          "vw": 570.7861,
+          "o": 579.39,
+          "c": 568.9,
+          "h": 583.98,
+          "l": 565.6,
+          "t": 1784520000000,
+          "n": 12657
+        },
+        {
+          "v": 210990.89382,
+          "vw": 581.4837,
+          "o": 575.68,
+          "c": 585.35,
+          "h": 586.31,
+          "l": 567.92,
+          "t": 1784606400000,
+          "n": 11136
+        },
+        {
+          "v": 224920.58424,
+          "vw": 588.4837,
+          "o": 581.78,
+          "c": 591.5,
+          "h": 592.38,
+          "l": 581.78,
+          "t": 1784692800000,
+          "n": 11659
+        },
+        {
+          "v": 206417.641384,
+          "vw": 594.9524,
+          "o": 585.89,
+          "c": 595.31,
+          "h": 598.42,
+          "l": 585.89,
+          "t": 1784779200000,
+          "n": 11337
+        },
+        {
+          "v": 175854.184385,
+          "vw": 599.0116,
+          "o": 595.67,
+          "c": 595.07,
+          "h": 606.3499,
+          "l": 593.61,
+          "t": 1784865600000,
+          "n": 9798
+        },
+        {
+          "v": 221947.103882,
+          "vw": 584.241,
+          "o": 597.79,
+          "c": 584.97,
+          "h": 602.17,
+          "l": 577.82,
+          "t": 1785124800000,
+          "n": 9603
+        },
+        {
+          "v": 236946.013041,
+          "vw": 576.6369,
+          "o": 583.76,
+          "c": 576.37,
+          "h": 583.76,
+          "l": 569.2501,
+          "t": 1785211200000,
+          "n": 14341
+        },
+        {
+          "v": 277576.538658,
+          "vw": 555.9372,
+          "o": 570.95,
+          "c": 550.27,
+          "h": 570.95,
+          "l": 550.27,
+          "t": 1785297600000,
+          "n": 14226
+        },
+        {
+          "v": 264824.183145,
+          "vw": 561.9506,
+          "o": 562.64,
+          "c": 561.9,
+          "h": 567.6499,
+          "l": 556.185,
+          "t": 1785384000000,
+          "n": 16655
+        }
+      ]
+    },
+    {
+      "symbol": "VEON",
+      "name": "VEON",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": 1.4892,
+      "eps_actual": 1.69,
+      "revenue_estimate": 1242462000,
+      "revenue_actual": 1271000000,
+      "revenue_beat": true,
+      "market_cap": null,
+      "last_close": 52.79,
+      "prev_close": 50.58,
+      "gap_pct": 4.37,
+      "volume": 99247.72575,
+      "rvol": 1.19,
+      "week52_high": 64,
+      "week52_low": 42.6,
+      "week52_pos": 47.6,
+      "pe_ratio": 6.5831,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.69,
+          "eps_estimate": 1.4892,
+          "surprise_pct": 13.4837,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1271000000,
+          "rev_estimate": 1242462000
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.39,
+          "eps_estimate": 1.3566,
+          "surprise_pct": 2.462,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.44,
+          "eps_estimate": 1.122,
+          "surprise_pct": -139.2157,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.48,
+          "eps_estimate": -2.2542,
+          "surprise_pct": 78.7064,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.69,
+          "eps_estimate": 1.4892,
+          "surprise_pct": 13.4837,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1271000000,
+          "rev_estimate": 1242462000
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": 1.39,
+          "eps_estimate": 1.3566,
+          "surprise_pct": 2.462,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 104371.349298,
+          "vw": 50.0918,
+          "o": 51.5,
+          "c": 50.43,
+          "h": 51.5,
+          "l": 49.095,
+          "t": 1782100800000,
+          "n": 1911
+        },
+        {
+          "v": 57250.283944,
+          "vw": 50.5319,
+          "o": 49.66,
+          "c": 51.75,
+          "h": 51.75,
+          "l": 49.08,
+          "t": 1782187200000,
+          "n": 1066
+        },
+        {
+          "v": 63024.311284,
+          "vw": 51.5051,
+          "o": 50.84,
+          "c": 51.56,
+          "h": 51.99,
+          "l": 50.495,
+          "t": 1782273600000,
+          "n": 1920
+        },
+        {
+          "v": 86253.260285,
+          "vw": 51.9248,
+          "o": 51.83,
+          "c": 51.47,
+          "h": 52.5,
+          "l": 51.3,
+          "t": 1782360000000,
+          "n": 1712
+        },
+        {
+          "v": 77174.815624,
+          "vw": 51.7777,
+          "o": 51.43,
+          "c": 51.66,
+          "h": 52.31,
+          "l": 51.26,
+          "t": 1782446400000,
+          "n": 1460
+        },
+        {
+          "v": 39015.66552,
+          "vw": 51.8197,
+          "o": 51.66,
+          "c": 51.96,
+          "h": 52.24,
+          "l": 51.21,
+          "t": 1782705600000,
+          "n": 1096
+        },
+        {
+          "v": 108948.718579,
+          "vw": 51.8205,
+          "o": 51.83,
+          "c": 52.21,
+          "h": 52.41,
+          "l": 51,
+          "t": 1782792000000,
+          "n": 1541
+        },
+        {
+          "v": 68772.696822,
+          "vw": 52.2175,
+          "o": 52,
+          "c": 52.31,
+          "h": 52.56,
+          "l": 51.3113,
+          "t": 1782878400000,
+          "n": 1543
+        },
+        {
+          "v": 81483.9279,
+          "vw": 52.2254,
+          "o": 52.76,
+          "c": 52,
+          "h": 52.99,
+          "l": 51.5,
+          "t": 1782964800000,
+          "n": 1599
+        },
+        {
+          "v": 349648.966061,
+          "vw": 52.743,
+          "o": 52.5,
+          "c": 53.13,
+          "h": 53.5,
+          "l": 52.445,
+          "t": 1783310400000,
+          "n": 4745
+        },
+        {
+          "v": 177128.840935,
+          "vw": 53.2985,
+          "o": 53.62,
+          "c": 52.1,
+          "h": 54.84,
+          "l": 51.72,
+          "t": 1783396800000,
+          "n": 3258
+        },
+        {
+          "v": 76921.196744,
+          "vw": 53.569,
+          "o": 52.09,
+          "c": 53.75,
+          "h": 54.1,
+          "l": 51.6205,
+          "t": 1783483200000,
+          "n": 2593
+        },
+        {
+          "v": 34469.26519,
+          "vw": 53.6391,
+          "o": 53.75,
+          "c": 53.82,
+          "h": 54.1,
+          "l": 52.4587,
+          "t": 1783569600000,
+          "n": 996
+        },
+        {
+          "v": 21318.768261,
+          "vw": 53.8448,
+          "o": 54.26,
+          "c": 53.3,
+          "h": 54.28,
+          "l": 53.3,
+          "t": 1783656000000,
+          "n": 614
+        },
+        {
+          "v": 46062.037505,
+          "vw": 52.7986,
+          "o": 53.8,
+          "c": 52.05,
+          "h": 53.905,
+          "l": 52.01,
+          "t": 1783915200000,
+          "n": 1323
+        },
+        {
+          "v": 49669.674137,
+          "vw": 52.8132,
+          "o": 53.15,
+          "c": 52.66,
+          "h": 53.49,
+          "l": 52.215,
+          "t": 1784001600000,
+          "n": 1120
+        },
+        {
+          "v": 52133.209524,
+          "vw": 52.523,
+          "o": 52.6,
+          "c": 52.25,
+          "h": 52.9,
+          "l": 51.62,
+          "t": 1784088000000,
+          "n": 1444
+        },
+        {
+          "v": 50102.4134,
+          "vw": 52.0848,
+          "o": 52.38,
+          "c": 51.595,
+          "h": 52.965,
+          "l": 51.3,
+          "t": 1784174400000,
+          "n": 1971
+        },
+        {
+          "v": 43252.008768,
+          "vw": 51.6787,
+          "o": 51.26,
+          "c": 51.62,
+          "h": 52.14,
+          "l": 51.13,
+          "t": 1784260800000,
+          "n": 1416
+        },
+        {
+          "v": 41823.292134,
+          "vw": 51.6617,
+          "o": 51.67,
+          "c": 51.69,
+          "h": 52.15,
+          "l": 51.25,
+          "t": 1784520000000,
+          "n": 1225
+        },
+        {
+          "v": 78554.207102,
+          "vw": 52.6169,
+          "o": 51.97,
+          "c": 53.01,
+          "h": 53.19,
+          "l": 51.97,
+          "t": 1784606400000,
+          "n": 2053
+        },
+        {
+          "v": 83648.0229,
+          "vw": 53.2201,
+          "o": 53.09,
+          "c": 53.175,
+          "h": 53.95,
+          "l": 52.68,
+          "t": 1784692800000,
+          "n": 1890
+        },
+        {
+          "v": 81601.737079,
+          "vw": 52.1377,
+          "o": 52.27,
+          "c": 51.98,
+          "h": 53.09,
+          "l": 51.5,
+          "t": 1784779200000,
+          "n": 2257
+        },
+        {
+          "v": 74687.2874,
+          "vw": 51.635,
+          "o": 51.82,
+          "c": 51.01,
+          "h": 52.586,
+          "l": 51,
+          "t": 1784865600000,
+          "n": 1574
+        },
+        {
+          "v": 67596.912847,
+          "vw": 51.702,
+          "o": 51.36,
+          "c": 51.7,
+          "h": 52.48,
+          "l": 51,
+          "t": 1785124800000,
+          "n": 1804
+        },
+        {
+          "v": 128593.989224,
+          "vw": 51.2799,
+          "o": 51.48,
+          "c": 51.605,
+          "h": 52.13,
+          "l": 50.795,
+          "t": 1785211200000,
+          "n": 1995
+        },
+        {
+          "v": 54841.66384,
+          "vw": 50.8255,
+          "o": 51.27,
+          "c": 50.58,
+          "h": 51.42,
+          "l": 50.3301,
+          "t": 1785297600000,
+          "n": 1560
+        },
+        {
+          "v": 99247.72575,
+          "vw": 52.6386,
+          "o": 50.97,
+          "c": 52.79,
+          "h": 53.4,
+          "l": 50.97,
+          "t": 1785384000000,
+          "n": 2465
         }
       ]
     },
@@ -48362,35 +47900,67 @@
   },
   "news": [
     {
-      "headline": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge - reuters.com",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "datetime": 1785503694,
+      "summary": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108254538-1770326418274-108254538-1768938695162-CNBC_Stage_01_062.jpg?v=1771351348&w=1920&h=1080"
+    },
+    {
+      "headline": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "datetime": 1785501694,
+      "summary": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241908-1765819608472-gettyimages-2252060021-mms22834_njfknwmp.jpeg?v=1765819630&w=1920&h=1080"
+    },
+    {
+      "headline": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
+      "datetime": 1785496289,
+      "summary": "CNBC's Arjun Kharpal sits down on The Tech Download podcast with the defense company chief.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108343046-1785494703819-anduril-shot-1-professional.png?v=1785496170&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
+      "datetime": 1785493463,
+      "summary": "Trump convenes Cabinet at Camp David amid simmering Iran war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM0c1Y3Z1S3JvRDl6YklGRHdRWXJWWDdOMUJYQ0FURHpwLTByV1N0bzBCZ0ZGWGZoc0FwakZlLTI2S3cxWGxOV010X1I1NWlBVGRRbmdJeW9penZraklmQ2dtVERtdVMwM1ljR2t4QTl0OEZicThhNTZnN1ZJb3dlMC05TXBoOG4ybGpka1hRX2hUVGtkYTVjRHhBbk9CZDlMYWluVk03Yl9HeWt6UnhyMXZTMGtBQTE3S2l6NHoxOW96WTg?oc=5",
       "datetime": 1785488081,
-      "summary": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge\u00a0\u00a0reuters.com",
+      "summary": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Man suspected of spying on UK military base for Iran arrested in Cyprus - reuters.com",
+      "headline": "Man suspected of spying on UK military base for Iran arrested in Cyprus - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUERJVzM5MU9rRDVOc3RfUFdneGROMFVWdTlZU2d2RW0yVWtmcDk4cWhodHYtTF9CQlV0dmdIWmhlTUZFQllhWjZxb2RCTk1hTmxpcmxxNV8xM0pNaVh6ZThGZUdtTDVNOFhFSkhtRTdGOGk1RGZybVBQRXBxVVJLbXlfNFRSWUhiRXJfbDV2NUxFY1dlQ1Vsd3pJckNaenpNNVdSaWFn?oc=5",
       "datetime": 1785486324,
-      "summary": "Man suspected of spying on UK military base for Iran arrested in Cyprus\u00a0\u00a0reuters.com",
+      "summary": "Man suspected of spying on UK military base for Iran arrested in Cyprus\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - reuters.com",
+      "headline": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk5qYUJZMjJGUjlDVnpUSnRleDVfejMwdVpYTTJTT1oxVF90SEVMeklYbEZJd0FEdG8xWU5mcUZVUHVEWFczRmNQYWI0aEE0aGhXNnNwUG9rWGtYU1NrSGtBbC1yd2ZQMC1pLWtXNlp2SnM0RG1rLXgtWjl1V3NCOEVsMThwaEpNZXREVlJ0UFNESjZ3VkxyeHk2Q1A4VkJHN1I5ZjFfOA?oc=5",
       "datetime": 1785477900,
-      "summary": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases\u00a0\u00a0reuters.com",
+      "summary": "British Airways-owner IAG trims capacity outlook; jet fuel bill eases\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil steady as traders assess shipping flows; monthly gains in sight - reuters.com",
+      "headline": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWtnbUQ2S2JIalNxeXVETFdYcU95VDBtOHpPdlAxWDkzd1B0VVBPNnNpMW8xTGVRbkJ1NTFqbmJ0Ui1ucUUtSVhZeXZwRTQ4eE5FTWRkdzBlZEVJUzZHR0tKdnZTeXFoQlFPSHpGX0pqaEVVU3RhWFJqR2xNZnVJeDdOaG9ONUEtaThtRXhXakladzRkT2JvR1hxSEREVmxkRGRjQWw5ZTNoeTQ?oc=5",
       "datetime": 1785466800,
-      "summary": "Oil steady as traders assess shipping flows; monthly gains in sight\u00a0\u00a0reuters.com",
+      "summary": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -48402,59 +47972,27 @@
       "image": "https://image.cnbcfm.com/api/v1/image/107300175-1694620703538-gettyimages-1662881031-AI_CEOs_519_091323.jpeg?v=1762286173&w=1920&h=1080"
     },
     {
-      "headline": "US cyber defense agency warns hackers are increasingly targeting water systems - reuters.com",
+      "headline": "US cyber defense agency warns hackers are increasingly targeting water systems - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWNJNFA5THZLRlg3TTVYX2tkQmJzOUdQamtWQXZDOU81R1RTdjBtX3E2S3k3RlVfR2p6WE9uZGpfbzNCUHpGN0hhZ3ROY3pmN1FiS1JZa0FjQ2FDMDZuOUFRSjJad0wyX3lZWUFfQ1FjdGs4RGZvRVpnYzBwT1o0UlkyaGVRTkpvdVo0SmpCUkdhWFN3TEVaVHpfTnB1YWUwbzNuMUpoa2VsdHdtM2hNZ2JaRUE?oc=5",
       "datetime": 1785447780,
-      "summary": "US cyber defense agency warns hackers are increasingly targeting water systems\u00a0\u00a0reuters.com",
+      "summary": "US cyber defense agency warns hackers are increasingly targeting water systems\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - reuters.com",
+      "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
       "datetime": 1785444870,
-      "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta\u00a0\u00a0reuters.com",
+      "summary": "Egypt confirms drone caused fire on two gas vessels at Damietta\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Drone strike in Egypt sparks security concerns about Suez oil exports - reuters.com",
+      "headline": "Drone strike in Egypt sparks security concerns about Suez oil exports - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19zWlhiQmx4WmRhRHRLMUdTbjhwdEdVcHpaUmMtWndRMlB1MFNiZ2pJMzJZcFJQWEJSTzdfSGl6R0FXV016c2JUODlSV0Y3ZzBEbWRFeUVkRDQxQ2p5S0VPRWoyc0lZS3pobjVGR0l5YTV1V1FEbmE2N1BscGlFZWlLTjl6Qmp4TDJmalFTX1ZYVUJEYkV2NjBCWVhuNmRsdC1UZzBCVm1GQ2djejdiWUo1UnBfT1UzNmc?oc=5",
       "datetime": 1785442092,
-      "summary": "Drone strike in Egypt sparks security concerns about Suez oil exports\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
-      "datetime": 1785439450,
-      "summary": "Universal and IMAX have extended the availability of 70mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339540-1784840429335-CT-47787.jpg?v=1784932847&w=1920&h=1080"
-    },
-    {
-      "headline": "Saudi Arabia unveils plans for multinational maritime defence coalition - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVV1X2lpNHZQWlFIclZsaER1azctU1NVTk5FcjhEYTVULU9NU1JibElRWUYzWllrZFRKY3NiYVRKdnVhS0hoWkRMeWczMnZXX2Y0UnNrMlVPQzN5QWRnMVFacTBPQkNEZ29BTzh0M2dRSU9BZ1ZZNmN0RHoxaE5GbW5aR3NETW5fREF6UklGUHo5ZkM3NTVDdHpkUXNFY0hWZmxUZHB0aEk1NDBtUEd2VTJqV2RwazVoY0lPYnhR?oc=5",
-      "datetime": 1785438469,
-      "summary": "Saudi Arabia unveils plans for multinational maritime defence coalition\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
-      "datetime": 1785437533,
-      "summary": "Jim Cramer has had a change of heart about Microsoft following Wednesday evening's earnings report.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324167-17818086432026-06-18t184626z_2089636406_rc2fwlandty4_rtrmadp_0_france-tech.jpeg?v=1781808690&w=1920&h=1080"
-    },
-    {
-      "headline": "Imports hold back US economic growth in Q2, but domestic demand robust - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWh4Um5od3luS0pRM0hOYTNwN0Z4bElZWFBXVDRRdFFVT2FpejU4ZkQ3MTVuY3hYb1NpMVd4QXV4WFhFMFUwbTRCbGs2cGlPOW11LWUxdzFyRnU0a0cwZU02b0s5b012M0p3Y2prV25KT0RQd3BGZk52aWNlanFDSDh5UTRRUVYtc2lsSm1RWjM4MjlzMXFCcEVrVjNvYVNzN3pNTm1zU2ZpV1U?oc=5",
-      "datetime": 1785436561,
-      "summary": "Imports hold back US economic growth in Q2, but domestic demand robust\u00a0\u00a0Reuters",
+      "summary": "Drone strike in Egypt sparks security concerns about Suez oil exports\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
