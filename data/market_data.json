@@ -7,10 +7,10 @@
       "industry": "Pharmaceuticals",
       "timing": "bmo",
       "eps_estimate": 6.0661,
-      "eps_actual": null,
+      "eps_actual": 8.38,
       "revenue_estimate": 20932741920,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 22974000000,
+      "revenue_beat": true,
       "market_cap": 1050682089087.9996,
       "last_close": 1115.68,
       "prev_close": 1121.36,
@@ -22,6 +22,16 @@
       "week52_pos": 78.6,
       "pe_ratio": 41.9707,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 8.38,
+          "eps_estimate": 6.0661,
+          "surprise_pct": 38.1448,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 22974000000,
+          "rev_estimate": 20932741920
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 8.55,
@@ -42,28 +52,24 @@
           "eps_estimate": 5.7519,
           "surprise_pct": 22.0466,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 6.31,
-          "eps_estimate": 5.5107,
-          "surprise_pct": 14.5045,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 8.38,
+          "eps_estimate": 6.0661,
+          "surprise_pct": 38.1448,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 22974000000,
+          "rev_estimate": 20932741920
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 8.55,
           "eps_estimate": 6.73,
           "surprise_pct": 27.0431,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 7.54,
-          "eps_estimate": 6.7372,
-          "surprise_pct": 11.9159,
           "beat": true
         }
       ],
@@ -346,21 +352,31 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": 1.879,
-      "eps_actual": null,
+      "eps_actual": 2.06,
       "revenue_estimate": 25658241808,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 25248000000,
+      "revenue_beat": false,
       "market_cap": 170490685122.0,
       "last_close": 98.18,
       "prev_close": 98.14,
       "gap_pct": 0.04,
       "volume": 16796758.407523,
       "rvol": 1.54,
-      "week52_high": 119.78,
-      "week52_low": 92.19,
-      "week52_pos": 21.7,
-      "pe_ratio": 15.213,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 2.06,
+          "eps_estimate": 1.879,
+          "surprise_pct": 9.6328,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 25248000000,
+          "rev_estimate": 25658241808
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.57,
@@ -381,28 +397,24 @@
           "eps_estimate": 1.0556,
           "surprise_pct": 5.1535,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.61,
-          "eps_estimate": 1.4849,
-          "surprise_pct": 8.4248,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 2.06,
+          "eps_estimate": 1.879,
+          "surprise_pct": 9.6328,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 25248000000,
+          "rev_estimate": 25658241808
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.57,
           "eps_estimate": 1.5042,
           "surprise_pct": 4.3744,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.63,
-          "eps_estimate": 1.5862,
-          "surprise_pct": 2.7613,
           "beat": true
         }
       ],
@@ -685,21 +697,31 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 1.8702,
-      "eps_actual": null,
+      "eps_actual": 2.58,
       "revenue_estimate": 101115104650,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 106096000000,
+      "revenue_beat": true,
       "market_cap": 133232320700.99998,
       "last_close": 104.42,
       "prev_close": 105.37,
       "gap_pct": -0.9,
       "volume": 7229227.040554,
       "rvol": 0.95,
-      "week52_high": 110.68,
-      "week52_low": 61.35,
-      "week52_pos": 87.3,
-      "pe_ratio": 45.0861,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.58,
+          "eps_estimate": 1.8702,
+          "surprise_pct": 37.9532,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 106096000000,
+          "rev_estimate": 101115104650
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.57,
@@ -720,28 +742,24 @@
           "eps_estimate": 1.383,
           "surprise_pct": 15.6905,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.81,
-          "eps_estimate": 1.4717,
-          "surprise_pct": 22.987,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.58,
+          "eps_estimate": 1.8702,
+          "surprise_pct": 37.9532,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 106096000000,
+          "rev_estimate": 101115104650
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.57,
           "eps_estimate": 2.2194,
           "surprise_pct": 15.7971,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.09,
-          "eps_estimate": 1.0018,
-          "surprise_pct": 8.8042,
           "beat": true
         }
       ],
@@ -1034,10 +1052,10 @@
       "gap_pct": 2.47,
       "volume": 4747528.676287,
       "rvol": 2.17,
-      "week52_high": 64.1,
-      "week52_low": 42.2,
-      "week52_pos": 44.5,
-      "pe_ratio": 33.7523,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
         {
           "period": "2026-03-31",
@@ -1363,10 +1381,10 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 7.5136,
-      "eps_actual": null,
+      "eps_actual": 9.41,
       "revenue_estimate": 44153338477,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 52044000000,
+      "revenue_beat": true,
       "market_cap": 82548512686.0,
       "last_close": 205.89,
       "prev_close": 206.19,
@@ -1378,6 +1396,16 @@
       "week52_pos": 89.6,
       "pe_ratio": 20.0506,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 9.41,
+          "eps_estimate": 7.5136,
+          "surprise_pct": 25.2396,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 52044000000,
+          "rev_estimate": 44153338477
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.49,
@@ -1398,28 +1426,24 @@
           "eps_estimate": 2.1881,
           "surprise_pct": 15.1684,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.38,
-          "eps_estimate": 1.7233,
-          "surprise_pct": 38.1071,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 9.41,
+          "eps_estimate": 7.5136,
+          "surprise_pct": 25.2396,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 52044000000,
+          "rev_estimate": 44153338477
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.49,
           "eps_estimate": -0.404,
           "surprise_pct": 221.2871,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.47,
-          "eps_estimate": 2.186,
-          "surprise_pct": 12.9918,
           "beat": true
         }
       ],
@@ -1702,21 +1726,31 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 4.3924,
-      "eps_actual": null,
+      "eps_actual": 4.48,
       "revenue_estimate": 85157696691,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 84754840000,
+      "revenue_beat": false,
       "market_cap": 59590162957.0,
       "last_close": 306.28,
       "prev_close": 308.37,
       "gap_pct": -0.68,
       "volume": 2454388.940467,
       "rvol": 1.84,
-      "week52_high": 377.54,
-      "week52_low": 244.82,
-      "week52_pos": 46.3,
-      "pe_ratio": 23.3617,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 4.48,
+          "eps_estimate": 4.3924,
+          "surprise_pct": 1.9944,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 84754840000,
+          "rev_estimate": 85157696691
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.75,
@@ -1737,29 +1771,25 @@
           "eps_estimate": 3.8243,
           "surprise_pct": 0.4105,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 4,
-          "eps_estimate": 3.8777,
-          "surprise_pct": 3.1539,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 4.48,
+          "eps_estimate": 4.3924,
+          "surprise_pct": 1.9944,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 84754840000,
+          "rev_estimate": 85157696691
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 4.75,
           "eps_estimate": 4.8599,
           "surprise_pct": -2.2614,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 4.08,
-          "eps_estimate": 4.0789,
-          "surprise_pct": 0.027,
-          "beat": true
         }
       ],
       "bars": [
@@ -2041,10 +2071,10 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 0.3291,
-      "eps_actual": null,
+      "eps_actual": 0.5,
       "revenue_estimate": 7668271912,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 7685000000,
+      "revenue_beat": true,
       "market_cap": 55227452212.99999,
       "last_close": 42.04,
       "prev_close": 40.47,
@@ -2056,6 +2086,16 @@
       "week52_pos": 51.1,
       "pe_ratio": 57.1713,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.5,
+          "eps_estimate": 0.3291,
+          "surprise_pct": 51.9295,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 7685000000,
+          "rev_estimate": 7668271912
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.33,
@@ -2073,17 +2113,20 @@
       ],
       "prev_quarters": [
         {
+          "period": "2026-06-30",
+          "eps_actual": 0.5,
+          "eps_estimate": 0.3291,
+          "surprise_pct": 51.9295,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 7685000000,
+          "rev_estimate": 7668271912
+        },
+        {
           "period": "2026-03-31",
           "eps_actual": 0.33,
           "eps_estimate": 0.3014,
           "surprise_pct": 9.4891,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.43,
-          "eps_estimate": 0.2541,
-          "surprise_pct": 69.2247,
           "beat": true
         }
       ],
@@ -2366,10 +2409,10 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": 0.5639,
-      "eps_actual": null,
+      "eps_actual": 1.44,
       "revenue_estimate": 1987757658,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 2029060000,
+      "revenue_beat": true,
       "market_cap": 37342324317.0,
       "last_close": 125.51,
       "prev_close": 124.08,
@@ -2381,6 +2424,16 @@
       "week52_pos": 83.9,
       "pe_ratio": 137.3751,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.44,
+          "eps_estimate": 0.5639,
+          "surprise_pct": 155.3644,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 2029060000,
+          "rev_estimate": 1987757658
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.6,
@@ -2401,28 +2454,24 @@
           "eps_estimate": 0.5319,
           "surprise_pct": 1.5228,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.48,
-          "eps_estimate": 0.505,
-          "surprise_pct": -4.9505,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.44,
+          "eps_estimate": 0.5639,
+          "surprise_pct": 155.3644,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 2029060000,
+          "rev_estimate": 1987757658
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.6,
           "eps_estimate": 0.5202,
           "surprise_pct": 15.3403,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.61,
-          "eps_estimate": 0.5919,
-          "surprise_pct": 3.0579,
           "beat": true
         }
       ],
@@ -2705,10 +2754,10 @@
       "industry": "Pharmaceuticals",
       "timing": "bmo",
       "eps_estimate": 1.3031,
-      "eps_actual": null,
+      "eps_actual": 1.32,
       "revenue_estimate": 707053973,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 773000000,
+      "revenue_beat": true,
       "market_cap": 33101709103.0,
       "last_close": 57.48,
       "prev_close": 57.17,
@@ -2720,6 +2769,16 @@
       "week52_pos": 88.8,
       "pe_ratio": 39.9462,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.32,
+          "eps_estimate": 1.3031,
+          "surprise_pct": 1.2969,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 773000000,
+          "rev_estimate": 707053973
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.3,
@@ -2740,28 +2799,24 @@
           "eps_estimate": 1.0637,
           "surprise_pct": 9.9934,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.14,
-          "eps_estimate": 1.1067,
-          "surprise_pct": 3.0089,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.32,
+          "eps_estimate": 1.3031,
+          "surprise_pct": 1.2969,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 773000000,
+          "rev_estimate": 707053973
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.3,
           "eps_estimate": 1.2368,
           "surprise_pct": 5.11,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.47,
-          "eps_estimate": 1.3525,
-          "surprise_pct": 8.6876,
           "beat": true
         }
       ],
@@ -3044,10 +3099,10 @@
       "industry": "Food Products",
       "timing": "bmo",
       "eps_estimate": 0.5344,
-      "eps_actual": null,
+      "eps_actual": 0.56,
       "revenue_estimate": 6185453322,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 6262000000,
+      "revenue_beat": true,
       "market_cap": 31589114218.0,
       "last_close": 26.64,
       "prev_close": 26.42,
@@ -3059,6 +3114,16 @@
       "week52_pos": 79.3,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.56,
+          "eps_estimate": 0.5344,
+          "surprise_pct": 4.7904,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 6262000000,
+          "rev_estimate": 6185453322
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.58,
@@ -3079,28 +3144,24 @@
           "eps_estimate": 0.5844,
           "surprise_pct": 4.3806,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.69,
-          "eps_estimate": 0.6419,
-          "surprise_pct": 7.4934,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.56,
+          "eps_estimate": 0.5344,
+          "surprise_pct": 4.7904,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 6262000000,
+          "rev_estimate": 6185453322
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.58,
           "eps_estimate": 0.508,
           "surprise_pct": 14.1732,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.67,
-          "eps_estimate": 0.6167,
-          "surprise_pct": 8.6428,
           "beat": true
         }
       ],
@@ -3383,10 +3444,10 @@
       "industry": "Semiconductors",
       "timing": "bmo",
       "eps_estimate": 0.4468,
-      "eps_actual": null,
+      "eps_actual": 0.46,
       "revenue_estimate": 1782289763,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1786000000,
+      "revenue_beat": true,
       "market_cap": 28543416162.000004,
       "last_close": 52.02,
       "prev_close": 50.01,
@@ -3398,6 +3459,16 @@
       "week52_pos": 33.6,
       "pe_ratio": 36.6411,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.46,
+          "eps_estimate": 0.4468,
+          "surprise_pct": 2.9543,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1786000000,
+          "rev_estimate": 1782289763
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
@@ -3418,28 +3489,24 @@
           "eps_estimate": 0.3773,
           "surprise_pct": 8.6668,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.42,
-          "eps_estimate": 0.3583,
-          "surprise_pct": 17.2202,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.46,
+          "eps_estimate": 0.4468,
+          "surprise_pct": 2.9543,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1786000000,
+          "rev_estimate": 1782289763
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
           "eps_estimate": 0.3401,
           "surprise_pct": 17.6125,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.55,
-          "eps_estimate": 0.4725,
-          "surprise_pct": 16.4021,
           "beat": true
         }
       ],
@@ -3722,10 +3789,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 3.4818,
-      "eps_actual": null,
+      "eps_actual": 3.46,
       "revenue_estimate": 3159292200,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3159070000,
+      "revenue_beat": false,
       "market_cap": 24140212776.0,
       "last_close": 88.25,
       "prev_close": 86.19,
@@ -3737,6 +3804,16 @@
       "week52_pos": 91.9,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.46,
+          "eps_estimate": 3.4818,
+          "surprise_pct": -0.6261,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 3159070000,
+          "rev_estimate": 3159292200
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.96,
@@ -3757,29 +3834,25 @@
           "eps_estimate": 3.2759,
           "surprise_pct": -0.4854,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 3.1,
-          "eps_estimate": 3.0864,
-          "surprise_pct": 0.4406,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.46,
+          "eps_estimate": 3.4818,
+          "surprise_pct": -0.6261,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 3159070000,
+          "rev_estimate": 3159292200
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.96,
           "eps_estimate": 2.8556,
           "surprise_pct": 3.656,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 3.18,
-          "eps_estimate": 3.1899,
-          "surprise_pct": -0.3104,
-          "beat": false
         }
       ],
       "bars": [
@@ -4061,10 +4134,10 @@
       "industry": "Utilities",
       "timing": "bmo",
       "eps_estimate": 0.1635,
-      "eps_actual": null,
+      "eps_actual": 0.16,
       "revenue_estimate": 1377024098,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1358400000,
+      "revenue_beat": false,
       "market_cap": 21349428749.999996,
       "last_close": 44.53,
       "prev_close": 44.53,
@@ -4076,6 +4149,16 @@
       "week52_pos": 56.5,
       "pe_ratio": 22.0827,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.16,
+          "eps_estimate": 0.1635,
+          "surprise_pct": -2.1407,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 1358400000,
+          "rev_estimate": 1377024098
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.06,
@@ -4096,28 +4179,24 @@
           "eps_estimate": 0.2038,
           "surprise_pct": -6.7713,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.22,
-          "eps_estimate": 0.2135,
-          "surprise_pct": 3.0445,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.16,
+          "eps_estimate": 0.1635,
+          "surprise_pct": -2.1407,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 1358400000,
+          "rev_estimate": 1377024098
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.06,
           "eps_estimate": 1.0849,
           "surprise_pct": -2.2951,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.51,
-          "eps_estimate": 0.5166,
-          "surprise_pct": -1.2776,
           "beat": false
         }
       ],
@@ -4400,21 +4479,31 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": 2.8275,
-      "eps_actual": null,
+      "eps_actual": 2.91,
       "revenue_estimate": 6268128175,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 6572200000,
+      "revenue_beat": true,
       "market_cap": 19674032242.0,
       "last_close": 154,
       "prev_close": 147.7,
       "gap_pct": 4.27,
       "volume": 2931970.045699,
       "rvol": 1.59,
-      "week52_high": 173.38,
-      "week52_low": 97.12,
-      "week52_pos": 74.6,
-      "pe_ratio": 17.5185,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.91,
+          "eps_estimate": 2.8275,
+          "surprise_pct": 2.9178,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 6572200000,
+          "rev_estimate": 6268128175
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.28,
@@ -4435,29 +4524,25 @@
           "eps_estimate": 2.6472,
           "surprise_pct": 2.3723,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.6,
-          "eps_estimate": 2.5158,
-          "surprise_pct": 3.3468,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.91,
+          "eps_estimate": 2.8275,
+          "surprise_pct": 2.9178,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 6572200000,
+          "rev_estimate": 6268128175
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.28,
           "eps_estimate": 2.3082,
           "surprise_pct": -1.2217,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.57,
-          "eps_estimate": 2.4675,
-          "surprise_pct": 4.154,
-          "beat": true
         }
       ],
       "bars": [
@@ -4739,10 +4824,10 @@
       "industry": "Hotels, Restaurants & Leisure",
       "timing": "bmo",
       "eps_estimate": 0.6235,
-      "eps_actual": null,
+      "eps_actual": 0.49,
       "revenue_estimate": 4344560970,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 4326000000,
+      "revenue_beat": false,
       "market_cap": 18260121794.0,
       "last_close": 104.96,
       "prev_close": 105.96,
@@ -4754,6 +4839,16 @@
       "week52_pos": 6.0,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.49,
+          "eps_estimate": 0.6235,
+          "surprise_pct": -21.4114,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 4326000000,
+          "rev_estimate": 4344560970
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.22,
@@ -4774,28 +4869,24 @@
           "eps_estimate": 0.8528,
           "surprise_pct": 92.3077,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.95,
-          "eps_estimate": 2.1195,
-          "surprise_pct": 39.1838,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.49,
+          "eps_estimate": 0.6235,
+          "surprise_pct": -21.4114,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 4326000000,
+          "rev_estimate": 4344560970
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.22,
           "eps_estimate": 1.2248,
           "surprise_pct": -0.3919,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.74,
-          "eps_estimate": 1.9861,
-          "surprise_pct": -12.3911,
           "beat": false
         }
       ],
@@ -5078,21 +5169,31 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 0.9424,
-      "eps_actual": null,
+      "eps_actual": 1.07,
       "revenue_estimate": 911740550,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1112200000,
+      "revenue_beat": true,
       "market_cap": 18229104727.000004,
       "last_close": 50.64,
       "prev_close": 48.91,
       "gap_pct": 3.54,
       "volume": 6094957.485306,
       "rvol": 2.12,
-      "week52_high": 69.85,
-      "week52_low": 39.6,
-      "week52_pos": 36.5,
-      "pe_ratio": 33.3693,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.07,
+          "eps_estimate": 0.9424,
+          "surprise_pct": 13.5399,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1112200000,
+          "rev_estimate": 911740550
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.89,
@@ -5113,28 +5214,24 @@
           "eps_estimate": 1.0393,
           "surprise_pct": -7.6301,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.91,
-          "eps_estimate": 0.9155,
-          "surprise_pct": -0.6008,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.07,
+          "eps_estimate": 0.9424,
+          "surprise_pct": 13.5399,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1112200000,
+          "rev_estimate": 911740550
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.89,
           "eps_estimate": 0.972,
           "surprise_pct": -8.4362,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.01,
-          "eps_estimate": 1.0312,
-          "surprise_pct": -2.0559,
           "beat": false
         }
       ],
@@ -5427,9 +5524,9 @@
       "gap_pct": 4.81,
       "volume": 12757725.374385,
       "rvol": 1.03,
-      "week52_high": 189.92,
-      "week52_low": 49.9,
-      "week52_pos": 9.5,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -5762,10 +5859,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": 2.6095,
-      "eps_actual": null,
+      "eps_actual": 2.99,
       "revenue_estimate": 1594542459,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1558400000,
+      "revenue_beat": false,
       "market_cap": 14647968274.999998,
       "last_close": 220.04,
       "prev_close": 211.21,
@@ -5777,6 +5874,16 @@
       "week52_pos": 76.8,
       "pe_ratio": 49.3455,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.99,
+          "eps_estimate": 2.6095,
+          "surprise_pct": 14.5813,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1558400000,
+          "rev_estimate": 1594542459
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.17,
@@ -5797,28 +5904,24 @@
           "eps_estimate": 2.5683,
           "surprise_pct": -2.27,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.48,
-          "eps_estimate": 2.4689,
-          "surprise_pct": 0.4496,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.99,
+          "eps_estimate": 2.6095,
+          "surprise_pct": 14.5813,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1558400000,
+          "rev_estimate": 1594542459
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.17,
           "eps_estimate": 2.1375,
           "surprise_pct": 1.5205,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.51,
-          "eps_estimate": 2.4958,
-          "surprise_pct": 0.569,
           "beat": true
         }
       ],
@@ -6101,21 +6204,31 @@
       "industry": "Technology",
       "timing": "bmo",
       "eps_estimate": 0.4586,
-      "eps_actual": null,
+      "eps_actual": 0.48,
       "revenue_estimate": 566540355,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 554550000,
+      "revenue_beat": false,
       "market_cap": 13266361923.000002,
       "last_close": 45.71,
       "prev_close": 44.54,
       "gap_pct": 2.63,
       "volume": 5731980.670521,
       "rvol": 1.43,
-      "week52_high": 53.2,
-      "week52_low": 31.635,
-      "week52_pos": 65.3,
-      "pe_ratio": 81.5454,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": 0.48,
+          "eps_estimate": 0.4586,
+          "surprise_pct": 4.6664,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 554550000,
+          "rev_estimate": 566540355
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.41,
@@ -6136,28 +6249,24 @@
           "eps_estimate": 0.4213,
           "surprise_pct": 4.4386,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.42,
-          "eps_estimate": 0.3864,
-          "surprise_pct": 8.6957,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": 0.48,
+          "eps_estimate": 0.4586,
+          "surprise_pct": 4.6664,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 554550000,
+          "rev_estimate": 566540355
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.41,
           "eps_estimate": 0.4005,
           "surprise_pct": 2.372,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.44,
-          "eps_estimate": 0.4245,
-          "surprise_pct": 3.6514,
           "beat": true
         }
       ],
@@ -6440,21 +6549,31 @@
       "industry": "Auto Components",
       "timing": "bmo",
       "eps_estimate": 1.2874,
-      "eps_actual": null,
+      "eps_actual": 1.42,
       "revenue_estimate": 3612624812,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3648000000,
+      "revenue_beat": true,
       "market_cap": 12930446286.0,
       "last_close": 63.04,
       "prev_close": 63.31,
       "gap_pct": -0.43,
       "volume": 3544156.639413,
       "rvol": 1.67,
-      "week52_high": 78.82,
-      "week52_low": 37.36,
-      "week52_pos": 61.9,
-      "pe_ratio": 35.7081,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.42,
+          "eps_estimate": 1.2874,
+          "surprise_pct": 10.2998,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3648000000,
+          "rev_estimate": 3612624812
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.24,
@@ -6475,28 +6594,24 @@
           "eps_estimate": 1.172,
           "surprise_pct": 5.802,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.21,
-          "eps_estimate": 1.0941,
-          "surprise_pct": 10.5932,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.42,
+          "eps_estimate": 1.2874,
+          "surprise_pct": 10.2998,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 3648000000,
+          "rev_estimate": 3612624812
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.24,
           "eps_estimate": 1.1825,
           "surprise_pct": 4.8626,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.35,
-          "eps_estimate": 1.1975,
-          "surprise_pct": 12.7349,
           "beat": true
         }
       ],
@@ -6779,21 +6894,31 @@
       "industry": "Pharmaceuticals",
       "timing": "bmo",
       "eps_estimate": 0.2747,
-      "eps_actual": null,
+      "eps_actual": 0.34,
       "revenue_estimate": 1338792330,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1368000000,
+      "revenue_beat": true,
       "market_cap": 12785909566.0,
       "last_close": 25.6,
       "prev_close": 25.72,
       "gap_pct": -0.47,
       "volume": 9071361.289871,
       "rvol": 1.96,
-      "week52_high": 27.72,
-      "week52_low": 13.75,
-      "week52_pos": 84.8,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.34,
+          "eps_estimate": 0.2747,
+          "surprise_pct": 23.7714,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1368000000,
+          "rev_estimate": 1338792330
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
@@ -6814,28 +6939,24 @@
           "eps_estimate": 0.1329,
           "surprise_pct": 42.9646,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.1993,
-          "surprise_pct": 30.4566,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.34,
+          "eps_estimate": 0.2747,
+          "surprise_pct": 23.7714,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1368000000,
+          "rev_estimate": 1338792330
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
           "eps_estimate": 0.3528,
           "surprise_pct": 13.3787,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.13,
-          "eps_estimate": 0.113,
-          "surprise_pct": 15.0442,
           "beat": true
         }
       ],
@@ -7118,10 +7239,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": 0.6718,
-      "eps_actual": null,
+      "eps_actual": 0.69,
       "revenue_estimate": 759493406,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 762460000,
+      "revenue_beat": true,
       "market_cap": 12238438408.0,
       "last_close": 75.61,
       "prev_close": 75.44,
@@ -7133,6 +7254,16 @@
       "week52_pos": 66.9,
       "pe_ratio": 31.3839,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.69,
+          "eps_estimate": 0.6718,
+          "surprise_pct": 2.7091,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 762460000,
+          "rev_estimate": 759493406
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.61,
@@ -7153,28 +7284,24 @@
           "eps_estimate": 0.5388,
           "surprise_pct": 9.5026,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.58,
-          "eps_estimate": 0.5012,
-          "surprise_pct": 15.7223,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.69,
+          "eps_estimate": 0.6718,
+          "surprise_pct": 2.7091,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 762460000,
+          "rev_estimate": 759493406
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.61,
           "eps_estimate": 0.4786,
           "surprise_pct": 27.4551,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.89,
-          "eps_estimate": 0.8813,
-          "surprise_pct": 0.9872,
           "beat": true
         }
       ],
@@ -7802,10 +7929,10 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 1.4795,
-      "eps_actual": null,
+      "eps_actual": 1.66,
       "revenue_estimate": 802972233,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 801700000,
+      "revenue_beat": false,
       "market_cap": 11554732978.0,
       "last_close": 166.82,
       "prev_close": 169.7,
@@ -7817,6 +7944,16 @@
       "week52_pos": 13.0,
       "pe_ratio": 38.9622,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.66,
+          "eps_estimate": 1.4795,
+          "surprise_pct": 12.2001,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 801700000,
+          "rev_estimate": 802972233
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.42,
@@ -7837,28 +7974,24 @@
           "eps_estimate": 1.1643,
           "surprise_pct": 6.5018,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.17,
-          "eps_estimate": 0.9458,
-          "surprise_pct": 23.7048,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.66,
+          "eps_estimate": 1.4795,
+          "surprise_pct": 12.2001,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 801700000,
+          "rev_estimate": 802972233
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.42,
           "eps_estimate": 1.2221,
           "surprise_pct": 16.1934,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.55,
-          "eps_estimate": 1.4832,
-          "surprise_pct": 4.5038,
           "beat": true
         }
       ],
@@ -8141,21 +8274,31 @@
       "industry": "Life Sciences Tools & Services",
       "timing": "bmo",
       "eps_estimate": 2.7609,
-      "eps_actual": null,
+      "eps_actual": 3.02,
       "revenue_estimate": 984472068,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1004080000,
+      "revenue_beat": true,
       "market_cap": 11277029237.0,
       "last_close": 234.12,
       "prev_close": 230.87,
       "gap_pct": 1.41,
       "volume": 1146546.292809,
       "rvol": 1.39,
-      "week52_high": 242.73,
-      "week52_low": 144.26,
-      "week52_pos": 91.3,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.02,
+          "eps_estimate": 2.7609,
+          "surprise_pct": 9.3846,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1004080000,
+          "rev_estimate": 984472068
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.06,
@@ -8176,28 +8319,24 @@
           "eps_estimate": 2.3619,
           "surprise_pct": 2.8833,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 3.12,
-          "eps_estimate": 2.5226,
-          "surprise_pct": 23.6819,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.02,
+          "eps_estimate": 2.7609,
+          "surprise_pct": 9.3846,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 1004080000,
+          "rev_estimate": 984472068
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.06,
           "eps_estimate": 1.9623,
           "surprise_pct": 4.9789,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.39,
-          "eps_estimate": 2.3668,
-          "surprise_pct": 0.9802,
           "beat": true
         }
       ],
@@ -9164,10 +9303,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": -0.0262,
-      "eps_actual": null,
+      "eps_actual": -0.09,
       "revenue_estimate": 11648716812,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 8576209999,
+      "revenue_beat": false,
       "market_cap": 8632387938.0,
       "last_close": 22.14,
       "prev_close": 21.88,
@@ -9179,6 +9318,16 @@
       "week52_pos": 19.4,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.09,
+          "eps_estimate": -0.0262,
+          "surprise_pct": -243.5115,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 8576209999,
+          "rev_estimate": 11648716812
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.49,
@@ -9199,28 +9348,24 @@
           "eps_estimate": 0.1663,
           "surprise_pct": 573.4817,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.08,
-          "eps_estimate": 0.1451,
-          "surprise_pct": -44.8656,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.09,
+          "eps_estimate": -0.0262,
+          "surprise_pct": -243.5115,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 8576209999,
+          "rev_estimate": 11648716812
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.49,
           "eps_estimate": -0.4401,
           "surprise_pct": -11.3383,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -1.04,
-          "eps_estimate": -0.4988,
-          "surprise_pct": -108.5004,
           "beat": false
         }
       ],
@@ -9503,10 +9648,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.7316,
-      "eps_actual": null,
+      "eps_actual": -0.62,
       "revenue_estimate": 31045576,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 65000000,
+      "revenue_beat": true,
       "market_cap": 8586869103.999999,
       "last_close": 104.39,
       "prev_close": 100.31,
@@ -9518,6 +9663,16 @@
       "week52_pos": 72.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.62,
+          "eps_estimate": -0.7316,
+          "surprise_pct": 15.2542,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 65000000,
+          "rev_estimate": 31045576
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.71,
@@ -9538,29 +9693,25 @@
           "eps_estimate": -0.82,
           "surprise_pct": -14.6341,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.95,
-          "eps_estimate": -0.8262,
-          "surprise_pct": -14.9843,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.62,
+          "eps_estimate": -0.7316,
+          "surprise_pct": 15.2542,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 65000000,
+          "rev_estimate": 31045576
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.71,
           "eps_estimate": -0.8993,
           "surprise_pct": 21.0497,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.97,
-          "eps_estimate": -0.8122,
-          "surprise_pct": -19.4287,
-          "beat": false
         }
       ],
       "bars": [
@@ -10526,21 +10677,31 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": 1.7882,
-      "eps_actual": null,
+      "eps_actual": 2.28,
       "revenue_estimate": 7593914775,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 8295379999,
+      "revenue_beat": true,
       "market_cap": 7589687871.0,
       "last_close": 92.53,
       "prev_close": 88.88,
       "gap_pct": 4.11,
       "volume": 1718462.546658,
       "rvol": 1.76,
-      "week52_high": 95.26,
-      "week52_low": 44.25,
-      "week52_pos": 94.6,
-      "pe_ratio": 35.6839,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 2.28,
+          "eps_estimate": 1.7882,
+          "surprise_pct": 27.5025,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 8295379999,
+          "rev_estimate": 7593914775
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.48,
@@ -10561,28 +10722,24 @@
           "eps_estimate": 0.8214,
           "surprise_pct": 2.2644,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.81,
-          "eps_estimate": 0.7555,
-          "surprise_pct": 7.2138,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 2.28,
+          "eps_estimate": 1.7882,
+          "surprise_pct": 27.5025,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 8295379999,
+          "rev_estimate": 7593914775
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.48,
           "eps_estimate": 1.3332,
           "surprise_pct": 11.0111,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.05,
-          "eps_estimate": 0.962,
-          "surprise_pct": 9.1476,
           "beat": true
         }
       ],
@@ -11549,21 +11706,31 @@
       "industry": "Hotels, Restaurants & Leisure",
       "timing": "bmo",
       "eps_estimate": 1.9784,
-      "eps_actual": null,
+      "eps_actual": 2.02,
       "revenue_estimate": 434648702,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 440760000,
+      "revenue_beat": true,
       "market_cap": 4941265308.0,
       "last_close": 108.61,
       "prev_close": 108.47,
       "gap_pct": 0.13,
       "volume": 1019014.577544,
       "rvol": 1.76,
-      "week52_high": 127.27,
-      "week52_low": 84.04,
-      "week52_pos": 56.8,
-      "pe_ratio": 14.5679,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.02,
+          "eps_estimate": 1.9784,
+          "surprise_pct": 2.1027,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 440760000,
+          "rev_estimate": 434648702
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.07,
@@ -11584,29 +11751,25 @@
           "eps_estimate": 2.2041,
           "surprise_pct": -4.723,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.92,
-          "eps_estimate": 1.9207,
-          "surprise_pct": -0.0364,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.02,
+          "eps_estimate": 1.9784,
+          "surprise_pct": 2.1027,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 440760000,
+          "rev_estimate": 434648702
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.07,
           "eps_estimate": 1.332,
           "surprise_pct": -19.6697,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.6,
-          "eps_estimate": 1.5546,
-          "surprise_pct": 2.9204,
-          "beat": true
         }
       ],
       "bars": [
@@ -11888,21 +12051,31 @@
       "industry": "Commercial Services & Supplies",
       "timing": "bmo",
       "eps_estimate": 2.0671,
-      "eps_actual": null,
+      "eps_actual": 2.13,
       "revenue_estimate": 1401308006,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1392000000,
+      "revenue_beat": false,
       "market_cap": 4858537639.999999,
       "last_close": 117.98,
       "prev_close": 115.61,
       "gap_pct": 2.05,
       "volume": 531351.763073,
       "rvol": 0.92,
-      "week52_high": 136.37,
-      "week52_low": 84.99,
-      "week52_pos": 64.2,
-      "pe_ratio": 26.7162,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.13,
+          "eps_estimate": 2.0671,
+          "surprise_pct": 3.0429,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1392000000,
+          "rev_estimate": 1401308006
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.8,
@@ -11923,28 +12096,24 @@
           "eps_estimate": 2.1042,
           "surprise_pct": -1.1501,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.79,
-          "eps_estimate": 1.4611,
-          "surprise_pct": 22.5104,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.13,
+          "eps_estimate": 2.0671,
+          "surprise_pct": 3.0429,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1392000000,
+          "rev_estimate": 1401308006
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.8,
           "eps_estimate": 1.5756,
           "surprise_pct": 14.2422,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.54,
-          "eps_estimate": 2.4981,
-          "surprise_pct": 1.6773,
           "beat": true
         }
       ],
@@ -12227,10 +12396,10 @@
       "industry": "Metals & Mining",
       "timing": "bmo",
       "eps_estimate": 1.5443,
-      "eps_actual": null,
+      "eps_actual": 1.9,
       "revenue_estimate": 559470000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 613910000,
+      "revenue_beat": true,
       "market_cap": 4724017384.0,
       "last_close": 227.1,
       "prev_close": 213.73,
@@ -12242,6 +12411,16 @@
       "week52_pos": 63.1,
       "pe_ratio": 60.3395,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.9,
+          "eps_estimate": 1.5443,
+          "surprise_pct": 23.0331,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 613910000,
+          "rev_estimate": 559470000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.27,
@@ -12262,29 +12441,25 @@
           "eps_estimate": 1.4402,
           "surprise_pct": -2.0969,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.37,
-          "eps_estimate": 1.1679,
-          "surprise_pct": 17.3046,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.9,
+          "eps_estimate": 1.5443,
+          "surprise_pct": 23.0331,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 613910000,
+          "rev_estimate": 559470000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.27,
           "eps_estimate": 1.1934,
           "surprise_pct": 6.4186,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.53,
-          "eps_estimate": 1.5382,
-          "surprise_pct": -0.5331,
-          "beat": false
         }
       ],
       "bars": [
@@ -12911,10 +13086,10 @@
       "industry": "Building",
       "timing": "bmo",
       "eps_estimate": 1.3601,
-      "eps_actual": null,
+      "eps_actual": 1.51,
       "revenue_estimate": 462349144,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 481370000,
+      "revenue_beat": true,
       "market_cap": 4292199727.9999995,
       "last_close": 93.58,
       "prev_close": 89.41,
@@ -12926,6 +13101,16 @@
       "week52_pos": 85.7,
       "pe_ratio": 591.7063,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 1.51,
+          "eps_estimate": 1.3601,
+          "surprise_pct": 11.0212,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 481370000,
+          "rev_estimate": 462349144
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.05,
@@ -12946,28 +13131,24 @@
           "eps_estimate": 1.5265,
           "surprise_pct": 0.8844,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.5,
-          "eps_estimate": 1.5092,
-          "surprise_pct": -0.6096,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 1.51,
+          "eps_estimate": 1.3601,
+          "surprise_pct": 11.0212,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 481370000,
+          "rev_estimate": 462349144
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.05,
           "eps_estimate": 0.997,
           "surprise_pct": 5.3159,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.45,
-          "eps_estimate": 1.3505,
-          "surprise_pct": 7.3676,
           "beat": true
         }
       ],
@@ -13250,10 +13431,10 @@
       "industry": "Communications",
       "timing": "bmo",
       "eps_estimate": 0.2964,
-      "eps_actual": null,
+      "eps_actual": 0.32,
       "revenue_estimate": 339134577,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 338550000,
+      "revenue_beat": false,
       "market_cap": 4229363497.0000005,
       "last_close": 32.34,
       "prev_close": 29.98,
@@ -13265,6 +13446,16 @@
       "week52_pos": 93.1,
       "pe_ratio": 253.2952,
       "revenue_streak": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 0.32,
+          "eps_estimate": 0.2964,
+          "surprise_pct": 7.9622,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 338550000,
+          "rev_estimate": 339134577
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.26,
@@ -13285,28 +13476,24 @@
           "eps_estimate": 0.2192,
           "surprise_pct": 0.365,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2295,
-          "surprise_pct": 8.9325,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 0.32,
+          "eps_estimate": 0.2964,
+          "surprise_pct": 7.9622,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 338550000,
+          "rev_estimate": 339134577
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.26,
           "eps_estimate": 0.2423,
           "surprise_pct": 7.305,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.26,
-          "eps_estimate": 0.2456,
-          "surprise_pct": 5.8632,
           "beat": true
         }
       ],
@@ -13589,21 +13776,31 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 2.8201,
-      "eps_actual": null,
+      "eps_actual": 5.48,
       "revenue_estimate": 3719016241,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 4087000000,
+      "revenue_beat": true,
       "market_cap": 4057235242.0,
       "last_close": 66.2,
       "prev_close": 66.01,
       "gap_pct": 0.29,
       "volume": 1457822.094419,
       "rvol": 1.22,
-      "week52_high": 68.93,
-      "week52_low": 19.81,
-      "week52_pos": 94.4,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 5.48,
+          "eps_estimate": 2.8201,
+          "surprise_pct": 94.3194,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 4087000000,
+          "rev_estimate": 3719016241
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.08,
@@ -13624,28 +13821,24 @@
           "eps_estimate": 0.0324,
           "surprise_pct": 21906.1728,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.56,
-          "eps_estimate": -0.9116,
-          "surprise_pct": 38.5695,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 5.48,
+          "eps_estimate": 2.8201,
+          "surprise_pct": 94.3194,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 4087000000,
+          "rev_estimate": 3719016241
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.08,
           "eps_estimate": -1.2371,
           "surprise_pct": 106.4667,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 2.31,
-          "eps_estimate": -0.2028,
-          "surprise_pct": 1239.0533,
           "beat": true
         }
       ],
@@ -13928,10 +14121,10 @@
       "industry": "Insurance",
       "timing": "bmo",
       "eps_estimate": -0.0889,
-      "eps_actual": null,
+      "eps_actual": -0.02,
       "revenue_estimate": 320411784,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 354820000,
+      "revenue_beat": true,
       "market_cap": 4024113594.9999995,
       "last_close": 11.72,
       "prev_close": 11.55,
@@ -13943,6 +14136,16 @@
       "week52_pos": 56.1,
       "pe_ratio": 111.2986,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0889,
+          "surprise_pct": 77.5028,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 354820000,
+          "rev_estimate": 320411784
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
@@ -13963,28 +14166,24 @@
           "eps_estimate": 0.0809,
           "surprise_pct": 60.6922,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.13,
-          "eps_estimate": 0.1156,
-          "surprise_pct": 12.4567,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0889,
+          "surprise_pct": 77.5028,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 354820000,
+          "rev_estimate": 320411784
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
           "eps_estimate": -0.0408,
           "surprise_pct": 1.9608,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.08,
-          "eps_estimate": 0.0356,
-          "surprise_pct": 124.7191,
           "beat": true
         }
       ],
@@ -14612,21 +14811,31 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": 0.3488,
-      "eps_actual": null,
+      "eps_actual": 0.35,
       "revenue_estimate": 2672586825,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 2762600000,
+      "revenue_beat": true,
       "market_cap": 3298951115.0,
       "last_close": 14.08,
       "prev_close": 13.57,
       "gap_pct": 3.76,
       "volume": 2403176.384614,
       "rvol": 1.23,
-      "week52_high": 17.4,
-      "week52_low": 11.57,
-      "week52_pos": 43.1,
-      "pe_ratio": 44.6983,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.35,
+          "eps_estimate": 0.3488,
+          "surprise_pct": 0.344,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 2762600000,
+          "rev_estimate": 2672586825
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.15,
@@ -14647,29 +14856,25 @@
           "eps_estimate": 0.282,
           "surprise_pct": 2.8369,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.3,
-          "eps_estimate": 0.2211,
-          "surprise_pct": 35.6852,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.35,
+          "eps_estimate": 0.3488,
+          "surprise_pct": 0.344,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 2762600000,
+          "rev_estimate": 2672586825
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.15,
           "eps_estimate": 0.1346,
           "surprise_pct": 11.4413,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.54,
-          "eps_estimate": 0.5442,
-          "surprise_pct": -0.7718,
-          "beat": false
         }
       ],
       "bars": [
@@ -14951,21 +15156,31 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": 0.4051,
-      "eps_actual": null,
+      "eps_actual": -0.19,
       "revenue_estimate": 327986329,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 305120000,
+      "revenue_beat": false,
       "market_cap": 3271248189.9999995,
       "last_close": 54.8,
       "prev_close": 54.45,
       "gap_pct": 0.64,
       "volume": 83796.182288,
       "rvol": 1.5,
-      "week52_high": 58.37,
-      "week52_low": 41.5,
-      "week52_pos": 78.8,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.19,
+          "eps_estimate": 0.4051,
+          "surprise_pct": -146.902,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 305120000,
+          "rev_estimate": 327986329
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.63,
@@ -14986,29 +15201,25 @@
           "eps_estimate": 0.2266,
           "surprise_pct": 107.4139,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.46,
-          "eps_estimate": 0.3296,
-          "surprise_pct": 39.5631,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.19,
+          "eps_estimate": 0.4051,
+          "surprise_pct": -146.902,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 305120000,
+          "rev_estimate": 327986329
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.63,
           "eps_estimate": -0.824,
           "surprise_pct": 23.5437,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.66,
-          "eps_estimate": -0.582,
-          "surprise_pct": -13.4021,
-          "beat": false
         }
       ],
       "bars": [
@@ -15290,10 +15501,10 @@
       "industry": "Technology",
       "timing": "bmo",
       "eps_estimate": -0.067,
-      "eps_actual": null,
+      "eps_actual": -0.12,
       "revenue_estimate": 3771167840,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3618000000,
+      "revenue_beat": false,
       "market_cap": 3239397526.0000005,
       "last_close": 14.69,
       "prev_close": 13.92,
@@ -15305,6 +15516,16 @@
       "week52_pos": 17.1,
       "pe_ratio": 16.2784,
       "revenue_streak": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": -0.12,
+          "eps_estimate": -0.067,
+          "surprise_pct": -79.1045,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 3618000000,
+          "rev_estimate": 3771167840
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.18,
@@ -15325,28 +15546,24 @@
           "eps_estimate": 0.3682,
           "surprise_pct": 3.2048,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.37,
-          "eps_estimate": 0.3348,
-          "surprise_pct": 10.5137,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": -0.12,
+          "eps_estimate": -0.067,
+          "surprise_pct": -79.1045,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 3618000000,
+          "rev_estimate": 3771167840
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.18,
           "eps_estimate": 0.4635,
           "surprise_pct": -61.165,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.52,
-          "eps_estimate": 0.6214,
-          "surprise_pct": -16.318,
           "beat": false
         }
       ],
@@ -15629,21 +15846,31 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 0.9185,
-      "eps_actual": null,
+      "eps_actual": 0.54,
       "revenue_estimate": 296572764,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 384760000,
+      "revenue_beat": true,
       "market_cap": 3088009237.0,
       "last_close": 58.08,
       "prev_close": 58.03,
       "gap_pct": 0.09,
       "volume": 76090.757551,
       "rvol": 1.02,
-      "week52_high": 61.5,
-      "week52_low": 41.72,
-      "week52_pos": 82.7,
-      "pe_ratio": 18.1729,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.54,
+          "eps_estimate": 0.9185,
+          "surprise_pct": -41.2085,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 384760000,
+          "rev_estimate": 296572764
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.6,
@@ -15664,28 +15891,24 @@
           "eps_estimate": 1.0019,
           "surprise_pct": -15.1612,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.83,
-          "eps_estimate": 0.9501,
-          "surprise_pct": -12.6408,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.54,
+          "eps_estimate": 0.9185,
+          "surprise_pct": -41.2085,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 384760000,
+          "rev_estimate": 296572764
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.6,
           "eps_estimate": 0.8517,
           "surprise_pct": -29.5527,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.88,
-          "eps_estimate": 1.1309,
-          "surprise_pct": -22.1859,
           "beat": false
         }
       ],
@@ -15968,10 +16191,10 @@
       "industry": "Food Products",
       "timing": "bmo",
       "eps_estimate": 0.3044,
-      "eps_actual": null,
+      "eps_actual": 0.33,
       "revenue_estimate": 298006188,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 305590000,
+      "revenue_beat": true,
       "market_cap": 3065527164.0,
       "last_close": 62.38,
       "prev_close": 59.62,
@@ -15983,6 +16206,16 @@
       "week52_pos": 40.3,
       "pe_ratio": 14.6245,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.33,
+          "eps_estimate": 0.3044,
+          "surprise_pct": 8.41,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 305590000,
+          "rev_estimate": 298006188
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.24,
@@ -16003,29 +16236,25 @@
           "eps_estimate": 0.4425,
           "surprise_pct": 320.339,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.33,
-          "eps_estimate": 0.1283,
-          "surprise_pct": 157.2097,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.33,
+          "eps_estimate": 0.3044,
+          "surprise_pct": 8.41,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 305590000,
+          "rev_estimate": 298006188
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.24,
           "eps_estimate": 0.102,
           "surprise_pct": -335.2941,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.64,
-          "eps_estimate": 0.38,
-          "surprise_pct": 68.4211,
-          "beat": true
         }
       ],
       "bars": [
@@ -16302,354 +16531,15 @@
       ]
     },
     {
-      "symbol": "SEDG",
-      "name": "Solaredge Technologies Inc",
-      "industry": "Semiconductors",
-      "timing": "bmo",
-      "eps_estimate": -0.0021,
-      "eps_actual": null,
-      "revenue_estimate": 347764104,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 2965495475.0,
-      "last_close": 48.76,
-      "prev_close": 45.12,
-      "gap_pct": 8.07,
-      "volume": 3575015.248563,
-      "rvol": 1.63,
-      "week52_high": 81.25,
-      "week52_low": 23.01,
-      "week52_pos": 44.2,
-      "pe_ratio": null,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -0.43,
-          "eps_estimate": -0.2864,
-          "surprise_pct": -50.1397,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.14,
-          "eps_estimate": -0.2667,
-          "surprise_pct": 47.5066,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.31,
-          "eps_estimate": -0.3883,
-          "surprise_pct": 20.1648,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.81,
-          "eps_estimate": -0.8754,
-          "surprise_pct": 7.4709,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -0.43,
-          "eps_estimate": -0.2864,
-          "surprise_pct": -50.1397,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.14,
-          "eps_estimate": -0.2667,
-          "surprise_pct": 47.5066,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 1507548.58623,
-          "vw": 51.9066,
-          "o": 51.48,
-          "c": 51.75,
-          "h": 53.39,
-          "l": 50.925,
-          "t": 1782446400000,
-          "n": 35382
-        },
-        {
-          "v": 2022856.687814,
-          "vw": 53.9743,
-          "o": 53.06,
-          "c": 55.36,
-          "h": 55.8756,
-          "l": 50.32,
-          "t": 1782705600000,
-          "n": 30951
-        },
-        {
-          "v": 4320614.641577,
-          "vw": 58.769,
-          "o": 59.815,
-          "c": 58.44,
-          "h": 60.94,
-          "l": 56.2702,
-          "t": 1782792000000,
-          "n": 53130
-        },
-        {
-          "v": 2251979.521003,
-          "vw": 56.9997,
-          "o": 57.495,
-          "c": 56,
-          "h": 59.92,
-          "l": 55.03,
-          "t": 1782878400000,
-          "n": 37305
-        },
-        {
-          "v": 2543729.915768,
-          "vw": 53.5448,
-          "o": 56.71,
-          "c": 52.38,
-          "h": 57.6594,
-          "l": 51.85,
-          "t": 1782964800000,
-          "n": 39183
-        },
-        {
-          "v": 2789950.917457,
-          "vw": 56.309,
-          "o": 53.29,
-          "c": 56.91,
-          "h": 58.45,
-          "l": 51.21,
-          "t": 1783310400000,
-          "n": 40767
-        },
-        {
-          "v": 2652243.353989,
-          "vw": 52.7596,
-          "o": 54.73,
-          "c": 52.94,
-          "h": 55.805,
-          "l": 51.01,
-          "t": 1783396800000,
-          "n": 40498
-        },
-        {
-          "v": 3420073.323925,
-          "vw": 50.5938,
-          "o": 50.34,
-          "c": 52.41,
-          "h": 52.7995,
-          "l": 47.75,
-          "t": 1783483200000,
-          "n": 143736
-        },
-        {
-          "v": 1619457.267945,
-          "vw": 55.0331,
-          "o": 53.87,
-          "c": 54.76,
-          "h": 56.195,
-          "l": 53,
-          "t": 1783569600000,
-          "n": 24863
-        },
-        {
-          "v": 1058714.784534,
-          "vw": 55.3904,
-          "o": 55.41,
-          "c": 55.18,
-          "h": 57.35,
-          "l": 54.28,
-          "t": 1783656000000,
-          "n": 19768
-        },
-        {
-          "v": 1226771.994512,
-          "vw": 52.5406,
-          "o": 54.102,
-          "c": 52.13,
-          "h": 54.3299,
-          "l": 51.61,
-          "t": 1783915200000,
-          "n": 22831
-        },
-        {
-          "v": 2277298.457029,
-          "vw": 55.5088,
-          "o": 54.08,
-          "c": 55.52,
-          "h": 56.94,
-          "l": 53.06,
-          "t": 1784001600000,
-          "n": 29196
-        },
-        {
-          "v": 1850775.218822,
-          "vw": 54.3966,
-          "o": 55.61,
-          "c": 54.58,
-          "h": 58.05,
-          "l": 52.28,
-          "t": 1784088000000,
-          "n": 27842
-        },
-        {
-          "v": 1987565.334494,
-          "vw": 52.3095,
-          "o": 53.6,
-          "c": 52.34,
-          "h": 54.27,
-          "l": 50.8,
-          "t": 1784174400000,
-          "n": 26448
-        },
-        {
-          "v": 1843320.717419,
-          "vw": 52.9692,
-          "o": 51.05,
-          "c": 53.47,
-          "h": 54.875,
-          "l": 50.06,
-          "t": 1784260800000,
-          "n": 25752
-        },
-        {
-          "v": 2704271.749627,
-          "vw": 49.6124,
-          "o": 53.56,
-          "c": 48.61,
-          "h": 53.6,
-          "l": 48.48,
-          "t": 1784520000000,
-          "n": 36499
-        },
-        {
-          "v": 1922715.628706,
-          "vw": 49.8788,
-          "o": 50,
-          "c": 50.27,
-          "h": 50.93,
-          "l": 47.86,
-          "t": 1784606400000,
-          "n": 22933
-        },
-        {
-          "v": 1236009.528198,
-          "vw": 48.7793,
-          "o": 49.22,
-          "c": 47.88,
-          "h": 50.305,
-          "l": 47.8,
-          "t": 1784692800000,
-          "n": 20752
-        },
-        {
-          "v": 2340936.596984,
-          "vw": 45.2837,
-          "o": 47.24,
-          "c": 45.14,
-          "h": 47.635,
-          "l": 44.22,
-          "t": 1784779200000,
-          "n": 30250
-        },
-        {
-          "v": 2150592.357988,
-          "vw": 42.8973,
-          "o": 45.47,
-          "c": 42.6,
-          "h": 46.11,
-          "l": 41.91,
-          "t": 1784865600000,
-          "n": 28634
-        },
-        {
-          "v": 1820064.439849,
-          "vw": 42.5512,
-          "o": 44.46,
-          "c": 43.09,
-          "h": 44.46,
-          "l": 41.08,
-          "t": 1785124800000,
-          "n": 27091
-        },
-        {
-          "v": 4813031.43694,
-          "vw": 39.4349,
-          "o": 41.03,
-          "c": 40.07,
-          "h": 41.37,
-          "l": 38,
-          "t": 1785211200000,
-          "n": 56579
-        },
-        {
-          "v": 2676451.686072,
-          "vw": 39.7178,
-          "o": 40.81,
-          "c": 39.04,
-          "h": 42.18,
-          "l": 38.2601,
-          "t": 1785297600000,
-          "n": 36045
-        },
-        {
-          "v": 1838687.624663,
-          "vw": 41.2265,
-          "o": 40.4,
-          "c": 41.76,
-          "h": 42.14,
-          "l": 40,
-          "t": 1785384000000,
-          "n": 25463
-        },
-        {
-          "v": 1163988.631812,
-          "vw": 41.3823,
-          "o": 42.17,
-          "c": 41.2,
-          "h": 42.91,
-          "l": 40.51,
-          "t": 1785470400000,
-          "n": 19381
-        },
-        {
-          "v": 3157240.138015,
-          "vw": 44.0281,
-          "o": 40.75,
-          "c": 45.12,
-          "h": 45.22,
-          "l": 40.5322,
-          "t": 1785729600000,
-          "n": 35237
-        },
-        {
-          "v": 3575015.248563,
-          "vw": 48.1317,
-          "o": 46.5,
-          "c": 48.76,
-          "h": 49.64,
-          "l": 45.29,
-          "t": 1785816000000,
-          "n": 48132
-        }
-      ]
-    },
-    {
       "symbol": "KMT",
       "name": "Kennametal Inc",
       "industry": "Machinery",
       "timing": "bmo",
       "eps_estimate": 2.3277,
-      "eps_actual": null,
+      "eps_actual": 2.96,
       "revenue_estimate": 733021781,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 736610000,
+      "revenue_beat": true,
       "market_cap": 2748136247.9999995,
       "last_close": 36.06,
       "prev_close": 34.9,
@@ -16661,6 +16551,16 @@
       "week52_pos": 70.4,
       "pe_ratio": 20.1812,
       "revenue_streak": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 2.96,
+          "eps_estimate": 2.3277,
+          "surprise_pct": 27.1642,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 736610000,
+          "rev_estimate": 733021781
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.77,
@@ -16681,28 +16581,24 @@
           "eps_estimate": 0.2374,
           "surprise_pct": 43.2182,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.34,
-          "eps_estimate": 0.395,
-          "surprise_pct": -13.9241,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-12-31",
+          "eps_actual": 2.96,
+          "eps_estimate": 2.3277,
+          "surprise_pct": 27.1642,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 736610000,
+          "rev_estimate": 733021781
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.77,
           "eps_estimate": 0.6787,
           "surprise_pct": 13.4522,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.47,
-          "eps_estimate": 0.3825,
-          "surprise_pct": 22.8758,
           "beat": true
         }
       ],
@@ -16985,10 +16881,10 @@
       "industry": "Auto Components",
       "timing": "bmo",
       "eps_estimate": 2.8007,
-      "eps_actual": null,
+      "eps_actual": 2.7,
       "revenue_estimate": 1158032826,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 968680000,
+      "revenue_beat": false,
       "market_cap": 2599730951.0,
       "last_close": 107.05,
       "prev_close": 103.5,
@@ -17000,6 +16896,16 @@
       "week52_pos": 30.2,
       "pe_ratio": 12.8227,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.7,
+          "eps_estimate": 2.8007,
+          "surprise_pct": -3.5955,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 968680000,
+          "rev_estimate": 1158032826
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.59,
@@ -17020,28 +16926,24 @@
           "eps_estimate": 1.4719,
           "surprise_pct": 73.2455,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.39,
-          "eps_estimate": 2.3343,
-          "surprise_pct": 2.3862,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 2.7,
+          "eps_estimate": 2.8007,
+          "surprise_pct": -3.5955,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 968680000,
+          "rev_estimate": 1158032826
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.59,
           "eps_estimate": 2.2385,
           "surprise_pct": 15.7025,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.77,
-          "eps_estimate": 0.7168,
-          "surprise_pct": 7.4219,
           "beat": true
         }
       ],
@@ -17324,21 +17226,31 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": 0.1209,
-      "eps_actual": null,
+      "eps_actual": 0.3,
       "revenue_estimate": 186163974,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 218250000,
+      "revenue_beat": true,
       "market_cap": 2292547298.0,
       "last_close": 9.02,
       "prev_close": 8.81,
       "gap_pct": 2.38,
       "volume": 2920912.325111,
       "rvol": 0.79,
-      "week52_high": 11.22,
-      "week52_low": 6,
-      "week52_pos": 57.9,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.3,
+          "eps_estimate": 0.1209,
+          "surprise_pct": 148.139,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 218250000,
+          "rev_estimate": 186163974
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.09,
@@ -17359,28 +17271,24 @@
           "eps_estimate": 0.0359,
           "surprise_pct": 67.1309,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.04,
-          "eps_estimate": 0.0143,
-          "surprise_pct": 179.7203,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.3,
+          "eps_estimate": 0.1209,
+          "surprise_pct": 148.139,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 218250000,
+          "rev_estimate": 186163974
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.09,
           "eps_estimate": 0.0495,
           "surprise_pct": -281.8182,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.01,
-          "eps_estimate": 0.0386,
-          "surprise_pct": -74.0933,
           "beat": false
         }
       ],
@@ -18008,21 +17916,31 @@
       "industry": "Textiles, Apparel & Luxury Goods",
       "timing": "bmo",
       "eps_estimate": 0.411,
-      "eps_actual": null,
+      "eps_actual": 0.67,
       "revenue_estimate": 767733304,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 769000000,
+      "revenue_beat": true,
       "market_cap": 1896431824.0,
       "last_close": 16.52,
       "prev_close": 16.37,
       "gap_pct": 0.92,
       "volume": 4900267.771769,
       "rvol": 1.45,
-      "week52_high": 28.27,
-      "week52_low": 15.195,
-      "week52_pos": 10.1,
-      "pe_ratio": 13.8384,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": 0.67,
+          "eps_estimate": 0.411,
+          "surprise_pct": 63.017,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 769000000,
+          "rev_estimate": 767733304
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.22,
@@ -18043,28 +17961,24 @@
           "eps_estimate": 0.1354,
           "surprise_pct": -122.1566,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.5,
-          "eps_estimate": 0.1326,
-          "surprise_pct": 277.0739,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": 0.67,
+          "eps_estimate": 0.411,
+          "surprise_pct": 63.017,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 769000000,
+          "rev_estimate": 767733304
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.22,
           "eps_estimate": 0.1139,
           "surprise_pct": 93.1519,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.81,
-          "eps_estimate": 0.7886,
-          "surprise_pct": 2.7137,
           "beat": true
         }
       ],
@@ -18687,365 +18601,36 @@
       ]
     },
     {
-      "symbol": "RXRX",
-      "name": "Recursion Pharmaceuticals Inc",
-      "industry": "Biotechnology",
-      "timing": "bmo",
-      "eps_estimate": -0.2387,
-      "eps_actual": null,
-      "revenue_estimate": 12185603,
-      "revenue_actual": null,
-      "revenue_beat": null,
-      "market_cap": 1756822817.0,
-      "last_close": 3.31,
-      "prev_close": 3.18,
-      "gap_pct": 4.09,
-      "volume": 21577753.563648,
-      "rvol": 1.04,
-      "week52_high": 7.18,
-      "week52_low": 2.77,
-      "week52_pos": 12.2,
-      "pe_ratio": null,
-      "revenue_streak": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -0.22,
-          "eps_estimate": -0.2769,
-          "surprise_pct": 20.5489,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.21,
-          "eps_estimate": -0.322,
-          "surprise_pct": 34.7826,
-          "beat": true
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.36,
-          "eps_estimate": -0.3774,
-          "surprise_pct": 4.6105,
-          "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.41,
-          "eps_estimate": -0.357,
-          "surprise_pct": -14.8459,
-          "beat": false
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-03-31",
-          "eps_actual": -0.22,
-          "eps_estimate": -0.2769,
-          "surprise_pct": 20.5489,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.21,
-          "eps_estimate": -0.322,
-          "surprise_pct": 34.7826,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 42587971.212766,
-          "vw": 3.5052,
-          "o": 3.29,
-          "c": 3.52,
-          "h": 3.62,
-          "l": 3.2819,
-          "t": 1782446400000,
-          "n": 59484
-        },
-        {
-          "v": 22932849.582198,
-          "vw": 3.6699,
-          "o": 3.615,
-          "c": 3.69,
-          "h": 3.74,
-          "l": 3.55,
-          "t": 1782705600000,
-          "n": 53641
-        },
-        {
-          "v": 23159953.647993,
-          "vw": 3.6642,
-          "o": 3.678,
-          "c": 3.67,
-          "h": 3.72,
-          "l": 3.57,
-          "t": 1782792000000,
-          "n": 60234
-        },
-        {
-          "v": 35726754.184361,
-          "vw": 3.7488,
-          "o": 3.65,
-          "c": 3.67,
-          "h": 4.04,
-          "l": 3.61,
-          "t": 1782878400000,
-          "n": 71354
-        },
-        {
-          "v": 32680470.408414,
-          "vw": 3.7985,
-          "o": 3.745,
-          "c": 3.8,
-          "h": 3.91,
-          "l": 3.7,
-          "t": 1782964800000,
-          "n": 61886
-        },
-        {
-          "v": 38065212.448632,
-          "vw": 3.9285,
-          "o": 3.78,
-          "c": 3.96,
-          "h": 4.09,
-          "l": 3.66,
-          "t": 1783310400000,
-          "n": 70399
-        },
-        {
-          "v": 28855557.152163,
-          "vw": 3.9,
-          "o": 3.95,
-          "c": 3.84,
-          "h": 4.05,
-          "l": 3.81,
-          "t": 1783396800000,
-          "n": 76167
-        },
-        {
-          "v": 22705628.536387,
-          "vw": 3.7042,
-          "o": 3.72,
-          "c": 3.72,
-          "h": 3.8083,
-          "l": 3.63,
-          "t": 1783483200000,
-          "n": 58340
-        },
-        {
-          "v": 22293569.991104,
-          "vw": 3.7999,
-          "o": 3.725,
-          "c": 3.76,
-          "h": 3.9,
-          "l": 3.69,
-          "t": 1783569600000,
-          "n": 56747
-        },
-        {
-          "v": 20808232.549726,
-          "vw": 3.5454,
-          "o": 3.8,
-          "c": 3.56,
-          "h": 3.8,
-          "l": 3.44,
-          "t": 1783656000000,
-          "n": 49094
-        },
-        {
-          "v": 24497736.407919,
-          "vw": 3.3832,
-          "o": 3.515,
-          "c": 3.3,
-          "h": 3.54,
-          "l": 3.271,
-          "t": 1783915200000,
-          "n": 52819
-        },
-        {
-          "v": 25658546.959919,
-          "vw": 3.3084,
-          "o": 3.29,
-          "c": 3.34,
-          "h": 3.38,
-          "l": 3.205,
-          "t": 1784001600000,
-          "n": 50670
-        },
-        {
-          "v": 19429100.179118,
-          "vw": 3.3566,
-          "o": 3.37,
-          "c": 3.31,
-          "h": 3.44,
-          "l": 3.28,
-          "t": 1784088000000,
-          "n": 48843
-        },
-        {
-          "v": 40174578.718614,
-          "vw": 3.0655,
-          "o": 3.25,
-          "c": 3.02,
-          "h": 3.27,
-          "l": 2.975,
-          "t": 1784174400000,
-          "n": 58448
-        },
-        {
-          "v": 19353220.999738,
-          "vw": 2.9628,
-          "o": 2.96,
-          "c": 2.945,
-          "h": 3.02,
-          "l": 2.93,
-          "t": 1784260800000,
-          "n": 44962
-        },
-        {
-          "v": 20807965.640753,
-          "vw": 2.9064,
-          "o": 2.945,
-          "c": 2.89,
-          "h": 2.955,
-          "l": 2.84,
-          "t": 1784520000000,
-          "n": 48905
-        },
-        {
-          "v": 14868167.999747,
-          "vw": 3.0331,
-          "o": 2.9,
-          "c": 3.08,
-          "h": 3.08,
-          "l": 2.9,
-          "t": 1784606400000,
-          "n": 35090
-        },
-        {
-          "v": 15209127.374225,
-          "vw": 3.0047,
-          "o": 3.04,
-          "c": 2.98,
-          "h": 3.07,
-          "l": 2.97,
-          "t": 1784692800000,
-          "n": 30912
-        },
-        {
-          "v": 18832246.965181,
-          "vw": 2.9811,
-          "o": 2.925,
-          "c": 3.01,
-          "h": 3.03,
-          "l": 2.92,
-          "t": 1784779200000,
-          "n": 33180
-        },
-        {
-          "v": 16530380.900969,
-          "vw": 2.9854,
-          "o": 3.04,
-          "c": 2.96,
-          "h": 3.09,
-          "l": 2.92,
-          "t": 1784865600000,
-          "n": 32136
-        },
-        {
-          "v": 21724275.010574,
-          "vw": 3.0484,
-          "o": 3.03,
-          "c": 3.01,
-          "h": 3.13,
-          "l": 2.99,
-          "t": 1785124800000,
-          "n": 39186
-        },
-        {
-          "v": 24398105.975355,
-          "vw": 2.9819,
-          "o": 2.975,
-          "c": 3.05,
-          "h": 3.05,
-          "l": 2.86,
-          "t": 1785211200000,
-          "n": 41339
-        },
-        {
-          "v": 17954125.394855,
-          "vw": 3.0061,
-          "o": 3.03,
-          "c": 2.97,
-          "h": 3.09,
-          "l": 2.945,
-          "t": 1785297600000,
-          "n": 41776
-        },
-        {
-          "v": 10409906.002961,
-          "vw": 3.0086,
-          "o": 2.99,
-          "c": 3.04,
-          "h": 3.04,
-          "l": 2.95,
-          "t": 1785384000000,
-          "n": 28775
-        },
-        {
-          "v": 15329356.617423,
-          "vw": 2.9926,
-          "o": 3.09,
-          "c": 3,
-          "h": 3.105,
-          "l": 2.95,
-          "t": 1785470400000,
-          "n": 43476
-        },
-        {
-          "v": 14721699.684567,
-          "vw": 3.1433,
-          "o": 3.03,
-          "c": 3.18,
-          "h": 3.2,
-          "l": 3,
-          "t": 1785729600000,
-          "n": 52693
-        },
-        {
-          "v": 21577753.563648,
-          "vw": 3.303,
-          "o": 3.265,
-          "c": 3.31,
-          "h": 3.36,
-          "l": 3.21,
-          "t": 1785816000000,
-          "n": 62238
-        }
-      ]
-    },
-    {
       "symbol": "ADNT",
       "name": "Adient PLC",
       "industry": "Auto Components",
       "timing": "bmo",
       "eps_estimate": 0.5778,
-      "eps_actual": null,
+      "eps_actual": 0.48,
       "revenue_estimate": 3796869420,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3929000000,
+      "revenue_beat": true,
       "market_cap": 1659227344.0,
       "last_close": 21.16,
       "prev_close": 21.01,
       "gap_pct": 0.71,
       "volume": 1390185.221063,
       "rvol": 1.57,
-      "week52_high": 27.32,
-      "week52_low": 17.68,
-      "week52_pos": 36.1,
-      "pe_ratio": 28.2288,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.48,
+          "eps_estimate": 0.5778,
+          "surprise_pct": -16.9263,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 3929000000,
+          "rev_estimate": 3796869420
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.52,
@@ -19066,28 +18651,24 @@
           "eps_estimate": 0.5409,
           "surprise_pct": -3.8639,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.45,
-          "eps_estimate": 0.4833,
-          "surprise_pct": -6.8901,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.48,
+          "eps_estimate": 0.5778,
+          "surprise_pct": -16.9263,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 3929000000,
+          "rev_estimate": 3796869420
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.52,
           "eps_estimate": 0.4437,
           "surprise_pct": 17.1963,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.35,
-          "eps_estimate": 0.2265,
-          "surprise_pct": 54.5254,
           "beat": true
         }
       ],
@@ -19370,21 +18951,31 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.4051,
-      "eps_actual": null,
+      "eps_actual": -0.36,
       "revenue_estimate": 0,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 0,
+      "revenue_beat": true,
       "market_cap": 1592094907.0,
       "last_close": 11.8,
       "prev_close": 11.25,
       "gap_pct": 4.89,
       "volume": 2369462.813531,
       "rvol": 0.54,
-      "week52_high": 15.4,
-      "week52_low": 3.97,
-      "week52_pos": 68.5,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.36,
+          "eps_estimate": -0.4051,
+          "surprise_pct": 11.1331,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.71,
@@ -19405,29 +18996,25 @@
           "eps_estimate": -0.3978,
           "surprise_pct": -261.991,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.41,
-          "eps_estimate": -0.4366,
-          "surprise_pct": 6.0925,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.36,
+          "eps_estimate": -0.4051,
+          "surprise_pct": 11.1331,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 0,
+          "rev_estimate": 0
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.71,
           "eps_estimate": -0.3856,
           "surprise_pct": 284.1286,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -1,
-          "eps_estimate": -0.4023,
-          "surprise_pct": -148.5707,
-          "beat": false
         }
       ],
       "bars": [
@@ -19709,10 +19296,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": -0.1875,
-      "eps_actual": null,
+      "eps_actual": -1.2,
       "revenue_estimate": 70818141,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 68780000,
+      "revenue_beat": false,
       "market_cap": 1536409798.0,
       "last_close": 4.35,
       "prev_close": 3.75,
@@ -19724,6 +19311,16 @@
       "week52_pos": 7.4,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.2,
+          "eps_estimate": -0.1875,
+          "surprise_pct": -540,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 68780000,
+          "rev_estimate": 70818141
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.18,
@@ -19744,29 +19341,25 @@
           "eps_estimate": -0.2296,
           "surprise_pct": -2038.5017,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -1.03,
-          "eps_estimate": -0.1447,
-          "surprise_pct": -611.8176,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.2,
+          "eps_estimate": -0.1875,
+          "surprise_pct": -540,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 68780000,
+          "rev_estimate": 70818141
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.18,
           "eps_estimate": -0.2217,
           "surprise_pct": 18.8092,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.88,
-          "eps_estimate": -0.1827,
-          "surprise_pct": -381.6639,
-          "beat": false
         }
       ],
       "bars": [
@@ -20058,9 +19651,9 @@
       "gap_pct": 6.82,
       "volume": 8765391.223687,
       "rvol": 1.48,
-      "week52_high": 24.225,
-      "week52_low": 6.363,
-      "week52_pos": 24.9,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -20387,10 +19980,10 @@
       "industry": "Pharmaceuticals",
       "timing": "bmo",
       "eps_estimate": 0.3492,
-      "eps_actual": null,
+      "eps_actual": 0.5,
       "revenue_estimate": 1033701996,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1022800000,
+      "revenue_beat": false,
       "market_cap": 1491604495.0,
       "last_close": 10.78,
       "prev_close": 10.68,
@@ -20402,6 +19995,16 @@
       "week52_pos": 8.7,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.5,
+          "eps_estimate": 0.3492,
+          "surprise_pct": 43.1844,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1022800000,
+          "rev_estimate": 1033701996
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.43,
@@ -20422,29 +20025,25 @@
           "eps_estimate": 0.7694,
           "surprise_pct": 3.9771,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.57,
-          "eps_estimate": 0.6052,
-          "surprise_pct": -5.8163,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.5,
+          "eps_estimate": 0.3492,
+          "surprise_pct": 43.1844,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1022800000,
+          "rev_estimate": 1033701996
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.43,
           "eps_estimate": 0.3196,
           "surprise_pct": 34.5432,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.788,
-          "eps_estimate": 0.7993,
-          "surprise_pct": -1.4137,
-          "beat": false
         }
       ],
       "bars": [
@@ -20726,10 +20325,10 @@
       "industry": "Food Products",
       "timing": "bmo",
       "eps_estimate": 1.751,
-      "eps_actual": null,
+      "eps_actual": 1.96,
       "revenue_estimate": 437631000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 425960000,
+      "revenue_beat": false,
       "market_cap": 1474768628.0,
       "last_close": 78.64,
       "prev_close": 79.02,
@@ -20741,6 +20340,16 @@
       "week52_pos": 16.2,
       "pe_ratio": 25.7771,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 1.96,
+          "eps_estimate": 1.751,
+          "surprise_pct": 11.936,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 425960000,
+          "rev_estimate": 437631000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
@@ -20761,28 +20370,24 @@
           "eps_estimate": 1.2138,
           "surprise_pct": 30.1697,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2,
-          "eps_estimate": 1.8294,
-          "surprise_pct": 9.3255,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 1.96,
+          "eps_estimate": 1.751,
+          "surprise_pct": 11.936,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 425960000,
+          "rev_estimate": 437631000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.4,
           "eps_estimate": 0.4182,
           "surprise_pct": -4.352,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.33,
-          "eps_estimate": 0.356,
-          "surprise_pct": -7.3034,
           "beat": false
         }
       ],
@@ -21065,10 +20670,10 @@
       "industry": "Building",
       "timing": "bmo",
       "eps_estimate": 1.0379,
-      "eps_actual": null,
+      "eps_actual": 1.11,
       "revenue_estimate": 481516500,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 509550000,
+      "revenue_beat": true,
       "market_cap": 1425551942.0,
       "last_close": 48.06,
       "prev_close": 46.25,
@@ -21080,6 +20685,16 @@
       "week52_pos": 34.9,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.11,
+          "eps_estimate": 1.0379,
+          "surprise_pct": 6.9467,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 509550000,
+          "rev_estimate": 481516500
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.45,
@@ -21100,29 +20715,25 @@
           "eps_estimate": 1.2342,
           "surprise_pct": -7.6325,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.13,
-          "eps_estimate": 1.207,
-          "surprise_pct": -6.3795,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.11,
+          "eps_estimate": 1.0379,
+          "surprise_pct": 6.9467,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 509550000,
+          "rev_estimate": 481516500
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.45,
           "eps_estimate": 0.6426,
           "surprise_pct": -29.972,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.76,
-          "eps_estimate": 0.7582,
-          "surprise_pct": 0.2374,
-          "beat": true
         }
       ],
       "bars": [
@@ -21543,9 +21154,9 @@
       "gap_pct": 0.5,
       "volume": 1121279.021693,
       "rvol": 0.87,
-      "week52_high": 15.085,
-      "week52_low": 7.41,
-      "week52_pos": 61.2,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -22223,9 +21834,9 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 1.85,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 48110000,
       "revenue_beat": null,
       "market_cap": 1284494970.0,
       "last_close": 96.94,
@@ -22238,6 +21849,13 @@
       "week52_pos": 4.3,
       "pe_ratio": 11.0427,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.85,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.44,
@@ -22258,26 +21876,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 2.52,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2026-03-31",
-          "eps_actual": 1.44,
+          "period": "2026-06-30",
+          "eps_actual": 1.85,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2025-12-31",
-          "eps_actual": 2.27,
+          "period": "2026-03-31",
+          "eps_actual": 1.44,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -22562,21 +22173,31 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": 0.7175,
-      "eps_actual": null,
+      "eps_actual": 0.8,
       "revenue_estimate": 268498506,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 255470000,
+      "revenue_beat": false,
       "market_cap": 1203527188.9999998,
       "last_close": 22.4,
       "prev_close": 21.37,
       "gap_pct": 4.82,
       "volume": 362274.7939,
       "rvol": 0.76,
-      "week52_high": 25.29,
-      "week52_low": 15.575,
-      "week52_pos": 70.3,
-      "pe_ratio": 10.0286,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.8,
+          "eps_estimate": 0.7175,
+          "surprise_pct": 11.4983,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 255470000,
+          "rev_estimate": 268498506
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.73,
@@ -22597,29 +22218,25 @@
           "eps_estimate": 0.9522,
           "surprise_pct": 37.5761,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.92,
-          "eps_estimate": 0.7198,
-          "surprise_pct": 27.8133,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.8,
+          "eps_estimate": 0.7175,
+          "surprise_pct": 11.4983,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 255470000,
+          "rev_estimate": 268498506
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.73,
           "eps_estimate": 0.5765,
           "surprise_pct": 26.6262,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.3,
-          "eps_estimate": 1.4314,
-          "surprise_pct": -9.1798,
-          "beat": false
         }
       ],
       "bars": [
@@ -22901,21 +22518,31 @@
       "industry": "Machinery",
       "timing": "bmo",
       "eps_estimate": 1.0634,
-      "eps_actual": null,
+      "eps_actual": 0.94,
       "revenue_estimate": 413607450,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 408100000,
+      "revenue_beat": false,
       "market_cap": 1201364918.0,
       "last_close": 52.25,
       "prev_close": 52.55,
       "gap_pct": -0.57,
       "volume": 576168.918285,
       "rvol": 3.03,
-      "week52_high": 65.69,
-      "week52_low": 38.09,
-      "week52_pos": 51.3,
-      "pe_ratio": 47.9993,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.94,
+          "eps_estimate": 1.0634,
+          "surprise_pct": -11.6043,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 408100000,
+          "rev_estimate": 413607450
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.54,
@@ -22936,29 +22563,25 @@
           "eps_estimate": 0.3876,
           "surprise_pct": 21.259,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.88,
-          "eps_estimate": 0.5661,
-          "surprise_pct": 55.4496,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.94,
+          "eps_estimate": 1.0634,
+          "surprise_pct": -11.6043,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 408100000,
+          "rev_estimate": 413607450
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.54,
           "eps_estimate": 0.8534,
           "surprise_pct": -36.7237,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.06,
-          "eps_estimate": 0.8466,
-          "surprise_pct": 25.2067,
-          "beat": true
         }
       ],
       "bars": [
@@ -23240,21 +22863,31 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 0.2182,
-      "eps_actual": null,
+      "eps_actual": 0.22,
       "revenue_estimate": 157196400,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 153210000,
+      "revenue_beat": false,
       "market_cap": 1121036806.0,
       "last_close": 13.42,
       "prev_close": 13.47,
       "gap_pct": -0.37,
       "volume": 947264.083425,
       "rvol": 1.36,
-      "week52_high": 14,
-      "week52_low": 5.81,
-      "week52_pos": 92.9,
-      "pe_ratio": 39.1835,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.22,
+          "eps_estimate": 0.2182,
+          "surprise_pct": 0.8249,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 153210000,
+          "rev_estimate": 157196400
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.15,
@@ -23275,28 +22908,24 @@
           "eps_estimate": 0.1162,
           "surprise_pct": 29.0878,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.21,
-          "eps_estimate": 0.2121,
-          "surprise_pct": -0.9901,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.22,
+          "eps_estimate": 0.2182,
+          "surprise_pct": 0.8249,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 153210000,
+          "rev_estimate": 157196400
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.15,
           "eps_estimate": 0.0985,
           "surprise_pct": 52.2843,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.24,
-          "eps_estimate": 0.2188,
-          "surprise_pct": 9.6892,
           "beat": true
         }
       ],
@@ -23924,10 +23553,10 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": -0.4016,
-      "eps_actual": null,
+      "eps_actual": -0.02,
       "revenue_estimate": 1527708774,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1481710000,
+      "revenue_beat": false,
       "market_cap": 1035566430.0000001,
       "last_close": 9.55,
       "prev_close": 9.61,
@@ -23939,6 +23568,16 @@
       "week52_pos": 3.3,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.4016,
+          "surprise_pct": 95.0199,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1481710000,
+          "rev_estimate": 1527708774
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.07,
@@ -23959,28 +23598,24 @@
           "eps_estimate": -0.0204,
           "surprise_pct": -145.098,
           "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.02,
-          "eps_estimate": -0.0428,
-          "surprise_pct": 146.729,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.4016,
+          "surprise_pct": 95.0199,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1481710000,
+          "rev_estimate": 1527708774
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.07,
           "eps_estimate": -0.3203,
           "surprise_pct": 78.1455,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.8,
-          "eps_estimate": -0.2448,
-          "surprise_pct": 835.2941,
           "beat": true
         }
       ],
@@ -24603,6 +24238,351 @@
       ]
     },
     {
+      "symbol": "EYPT",
+      "name": "EyePoint Inc",
+      "industry": "Pharmaceuticals",
+      "timing": "bmo",
+      "eps_estimate": -0.9705,
+      "eps_actual": -1.09,
+      "revenue_estimate": 414997,
+      "revenue_actual": 510000,
+      "revenue_beat": true,
+      "market_cap": 978427900.0000001,
+      "last_close": 11.67,
+      "prev_close": 12.42,
+      "gap_pct": -6.04,
+      "volume": 2929693.09765,
+      "rvol": 1.94,
+      "week52_high": 19.11,
+      "week52_low": 9.4,
+      "week52_pos": 23.4,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.09,
+          "eps_estimate": -0.9705,
+          "surprise_pct": -12.3132,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 510000,
+          "rev_estimate": 414997
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.99,
+          "eps_estimate": -0.824,
+          "surprise_pct": -20.1456,
+          "beat": false
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.81,
+          "eps_estimate": -0.7627,
+          "surprise_pct": -6.2017,
+          "beat": false
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.85,
+          "eps_estimate": -0.8005,
+          "surprise_pct": -6.1836,
+          "beat": false
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -1.09,
+          "eps_estimate": -0.9705,
+          "surprise_pct": -12.3132,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 510000,
+          "rev_estimate": 414997
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.99,
+          "eps_estimate": -0.824,
+          "surprise_pct": -20.1456,
+          "beat": false
+        }
+      ],
+      "bars": [
+        {
+          "v": 3554606.30687,
+          "vw": 13.6816,
+          "o": 13.71,
+          "c": 13.66,
+          "h": 14.07,
+          "l": 13.52,
+          "t": 1782446400000,
+          "n": 16846
+        },
+        {
+          "v": 1579256.814482,
+          "vw": 13.9714,
+          "o": 13.77,
+          "c": 14.11,
+          "h": 14.19,
+          "l": 13.43,
+          "t": 1782705600000,
+          "n": 19863
+        },
+        {
+          "v": 2319320.883309,
+          "vw": 14.6019,
+          "o": 14.18,
+          "c": 14.3,
+          "h": 15.38,
+          "l": 13.965,
+          "t": 1782792000000,
+          "n": 27138
+        },
+        {
+          "v": 2153433.349608,
+          "vw": 14.3758,
+          "o": 14.73,
+          "c": 13.195,
+          "h": 15.92,
+          "l": 13.17,
+          "t": 1782878400000,
+          "n": 28106
+        },
+        {
+          "v": 1490930.173602,
+          "vw": 13.9199,
+          "o": 13.22,
+          "c": 13.98,
+          "h": 14.19,
+          "l": 13.01,
+          "t": 1782964800000,
+          "n": 25273
+        },
+        {
+          "v": 1589400.43279,
+          "vw": 14.2802,
+          "o": 14,
+          "c": 14.44,
+          "h": 14.65,
+          "l": 13.4,
+          "t": 1783310400000,
+          "n": 20849
+        },
+        {
+          "v": 2117886.931595,
+          "vw": 14.0432,
+          "o": 14.65,
+          "c": 14.02,
+          "h": 14.85,
+          "l": 13.73,
+          "t": 1783396800000,
+          "n": 27718
+        },
+        {
+          "v": 1899461.39464,
+          "vw": 14.0304,
+          "o": 13.97,
+          "c": 14.01,
+          "h": 14.49,
+          "l": 13.69,
+          "t": 1783483200000,
+          "n": 22696
+        },
+        {
+          "v": 1570866.198927,
+          "vw": 14.709,
+          "o": 14,
+          "c": 14.84,
+          "h": 14.99,
+          "l": 13.97,
+          "t": 1783569600000,
+          "n": 22916
+        },
+        {
+          "v": 1638977.842696,
+          "vw": 14.4631,
+          "o": 14.8,
+          "c": 14.72,
+          "h": 14.8,
+          "l": 13.89,
+          "t": 1783656000000,
+          "n": 24480
+        },
+        {
+          "v": 1122270.832272,
+          "vw": 14.1504,
+          "o": 14.45,
+          "c": 14.28,
+          "h": 14.72,
+          "l": 13.89,
+          "t": 1783915200000,
+          "n": 16987
+        },
+        {
+          "v": 1064508.956498,
+          "vw": 14.0378,
+          "o": 14.32,
+          "c": 13.73,
+          "h": 14.58,
+          "l": 13.705,
+          "t": 1784001600000,
+          "n": 16569
+        },
+        {
+          "v": 1484510.211335,
+          "vw": 13.7613,
+          "o": 13.73,
+          "c": 13.85,
+          "h": 14,
+          "l": 13.41,
+          "t": 1784088000000,
+          "n": 21990
+        },
+        {
+          "v": 1551216.339378,
+          "vw": 13.2043,
+          "o": 14.14,
+          "c": 13.04,
+          "h": 14.2,
+          "l": 12.86,
+          "t": 1784174400000,
+          "n": 21142
+        },
+        {
+          "v": 1283890.096865,
+          "vw": 13.393,
+          "o": 12.76,
+          "c": 13.3,
+          "h": 13.69,
+          "l": 12.61,
+          "t": 1784260800000,
+          "n": 18759
+        },
+        {
+          "v": 1099731.725452,
+          "vw": 12.8378,
+          "o": 13.27,
+          "c": 12.66,
+          "h": 13.79,
+          "l": 12.65,
+          "t": 1784520000000,
+          "n": 16075
+        },
+        {
+          "v": 1585308.933797,
+          "vw": 12.9876,
+          "o": 12.66,
+          "c": 13.05,
+          "h": 13.23,
+          "l": 12.45,
+          "t": 1784606400000,
+          "n": 17241
+        },
+        {
+          "v": 1063990.75806,
+          "vw": 12.6779,
+          "o": 12.81,
+          "c": 12.66,
+          "h": 13.04,
+          "l": 12.52,
+          "t": 1784692800000,
+          "n": 16089
+        },
+        {
+          "v": 1284723.792337,
+          "vw": 12.4869,
+          "o": 12.45,
+          "c": 12.47,
+          "h": 12.89,
+          "l": 12.295,
+          "t": 1784779200000,
+          "n": 15345
+        },
+        {
+          "v": 1468697.330602,
+          "vw": 12.1958,
+          "o": 12.45,
+          "c": 12.19,
+          "h": 12.4975,
+          "l": 12.06,
+          "t": 1784865600000,
+          "n": 18360
+        },
+        {
+          "v": 1390307.288131,
+          "vw": 12.4723,
+          "o": 12.48,
+          "c": 12.41,
+          "h": 13.025,
+          "l": 12.17,
+          "t": 1785124800000,
+          "n": 18296
+        },
+        {
+          "v": 1698346.117873,
+          "vw": 11.8955,
+          "o": 12.34,
+          "c": 11.96,
+          "h": 12.53,
+          "l": 11.72,
+          "t": 1785211200000,
+          "n": 20553
+        },
+        {
+          "v": 2054155.291492,
+          "vw": 11.9487,
+          "o": 11.98,
+          "c": 11.92,
+          "h": 12.355,
+          "l": 11.555,
+          "t": 1785297600000,
+          "n": 20420
+        },
+        {
+          "v": 1561104.09591,
+          "vw": 12.6264,
+          "o": 12.17,
+          "c": 12.86,
+          "h": 13,
+          "l": 11.79,
+          "t": 1785384000000,
+          "n": 19318
+        },
+        {
+          "v": 1711475.698434,
+          "vw": 12.2385,
+          "o": 12.81,
+          "c": 12.25,
+          "h": 12.83,
+          "l": 12.04,
+          "t": 1785470400000,
+          "n": 18923
+        },
+        {
+          "v": 1479361.891767,
+          "vw": 12.2855,
+          "o": 12.34,
+          "c": 12.42,
+          "h": 12.51,
+          "l": 12.02,
+          "t": 1785729600000,
+          "n": 14085
+        },
+        {
+          "v": 2929693.09765,
+          "vw": 11.9955,
+          "o": 12.44,
+          "c": 11.67,
+          "h": 12.7,
+          "l": 11.54,
+          "t": 1785816000000,
+          "n": 30781
+        }
+      ]
+    },
+    {
       "symbol": "MFA",
       "name": "MFA Financial Inc",
       "industry": "Real Estate",
@@ -24947,10 +24927,10 @@
       "industry": "Communications",
       "timing": "bmo",
       "eps_estimate": 0.102,
-      "eps_actual": null,
+      "eps_actual": 0.2,
       "revenue_estimate": 123137123,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 122660000,
+      "revenue_beat": false,
       "market_cap": 900919177.0,
       "last_close": 11.91,
       "prev_close": 11.7,
@@ -24962,6 +24942,16 @@
       "week52_pos": 34.2,
       "pe_ratio": 28.1715,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.102,
+          "surprise_pct": 96.0784,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 122660000,
+          "rev_estimate": 123137123
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.18,
@@ -24982,28 +24972,24 @@
           "eps_estimate": 0.102,
           "surprise_pct": 86.2745,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.21,
-          "eps_estimate": 0.034,
-          "surprise_pct": 517.6471,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.102,
+          "surprise_pct": 96.0784,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 122660000,
+          "rev_estimate": 123137123
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.18,
           "eps_estimate": 0.0408,
           "surprise_pct": 341.1765,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.2,
-          "eps_estimate": 0.1394,
-          "surprise_pct": 43.472,
           "beat": true
         }
       ],
@@ -25286,10 +25272,10 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": 0.3393,
-      "eps_actual": null,
+      "eps_actual": 0.35,
       "revenue_estimate": 94892844,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 95590000,
+      "revenue_beat": true,
       "market_cap": 883479489.0,
       "last_close": 15.37,
       "prev_close": 15.35,
@@ -25301,6 +25287,16 @@
       "week52_pos": 65.9,
       "pe_ratio": 10.1194,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.35,
+          "eps_estimate": 0.3393,
+          "surprise_pct": 3.1536,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 95590000,
+          "rev_estimate": 94892844
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.25,
@@ -25321,29 +25317,25 @@
           "eps_estimate": 0.3615,
           "surprise_pct": 5.1176,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.47,
-          "eps_estimate": 0.4249,
-          "surprise_pct": 10.6143,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.35,
+          "eps_estimate": 0.3393,
+          "surprise_pct": 3.1536,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 95590000,
+          "rev_estimate": 94892844
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.25,
           "eps_estimate": 0.3028,
           "surprise_pct": -17.4373,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.46,
-          "eps_estimate": 0.4258,
-          "surprise_pct": 8.0319,
-          "beat": true
         }
       ],
       "bars": [
@@ -25625,10 +25617,10 @@
       "industry": "Biotechnology",
       "timing": "bmo",
       "eps_estimate": -0.0092,
-      "eps_actual": null,
+      "eps_actual": -0.02,
       "revenue_estimate": 56312364,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 57480000,
+      "revenue_beat": true,
       "market_cap": 859638156.0,
       "last_close": 1.34,
       "prev_close": 1.28,
@@ -25640,6 +25632,16 @@
       "week52_pos": 30.9,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0092,
+          "surprise_pct": -117.3913,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 57480000,
+          "rev_estimate": 56312364
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.01,
@@ -25660,28 +25662,24 @@
           "eps_estimate": -0.0337,
           "surprise_pct": 10.9792,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.02,
-          "eps_estimate": -0.0311,
-          "surprise_pct": 35.6913,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.02,
+          "eps_estimate": -0.0092,
+          "surprise_pct": -117.3913,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 57480000,
+          "rev_estimate": 56312364
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.01,
           "eps_estimate": -0.0211,
           "surprise_pct": 52.6066,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.02,
-          "eps_estimate": -0.0323,
-          "surprise_pct": 38.0805,
           "beat": true
         }
       ],
@@ -26303,21 +26301,31 @@
       "industry": "Hotels, Restaurants & Leisure",
       "timing": "bmo",
       "eps_estimate": 0.2946,
-      "eps_actual": null,
+      "eps_actual": 0.39,
       "revenue_estimate": 1020633644,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1015810000,
+      "revenue_beat": false,
       "market_cap": 763679457.9999999,
       "last_close": 8.92,
       "prev_close": 9.04,
       "gap_pct": -1.33,
       "volume": 1953546.711911,
       "rvol": 1.2,
-      "week52_high": 9.275,
-      "week52_low": 5.19,
-      "week52_pos": 91.3,
-      "pe_ratio": 35.6021,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.2946,
+          "surprise_pct": 32.3829,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1015810000,
+          "rev_estimate": 1020633644
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.67,
@@ -26338,29 +26346,25 @@
           "eps_estimate": -0.1234,
           "surprise_pct": 75.6888,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.33,
-          "eps_estimate": 0.29,
-          "surprise_pct": 13.7931,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.2946,
+          "surprise_pct": 32.3829,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 1015810000,
+          "rev_estimate": 1020633644
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.67,
           "eps_estimate": 0.5777,
           "surprise_pct": 15.9772,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2509,
-          "surprise_pct": -0.3587,
-          "beat": false
         }
       ],
       "bars": [
@@ -26642,21 +26646,31 @@
       "industry": "Media",
       "timing": "bmo",
       "eps_estimate": 1.5251,
-      "eps_actual": null,
+      "eps_actual": -3.29,
       "revenue_estimate": 896173000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 889450000,
+      "revenue_beat": false,
       "market_cap": 554679117.0,
       "last_close": 41.72,
       "prev_close": 39.65,
       "gap_pct": 5.22,
       "volume": 55574.560467,
       "rvol": 0.41,
-      "week52_high": 53.62,
-      "week52_low": 12.22,
-      "week52_pos": 71.3,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -3.29,
+          "eps_estimate": 1.5251,
+          "surprise_pct": -315.7236,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 889450000,
+          "rev_estimate": 896173000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.81,
@@ -26677,29 +26691,25 @@
           "eps_estimate": 5.9338,
           "surprise_pct": -69.244,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.5,
-          "eps_estimate": 2.9038,
-          "surprise_pct": -117.2188,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -3.29,
+          "eps_estimate": 1.5251,
+          "surprise_pct": -315.7236,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 889450000,
+          "rev_estimate": 896173000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.81,
           "eps_estimate": 0.1111,
           "surprise_pct": 629.0729,
           "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -10,
-          "eps_estimate": 2.7775,
-          "surprise_pct": -460.036,
-          "beat": false
         }
       ],
       "bars": [
@@ -26981,10 +26991,10 @@
       "industry": "Retail",
       "timing": "bmo",
       "eps_estimate": -0.1166,
-      "eps_actual": null,
+      "eps_actual": -0.15,
       "revenue_estimate": 81505282,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 82650000,
+      "revenue_beat": true,
       "market_cap": 542976692.9999999,
       "last_close": 1.73,
       "prev_close": 1.61,
@@ -26996,6 +27006,16 @@
       "week52_pos": 8.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.15,
+          "eps_estimate": -0.1166,
+          "surprise_pct": -28.6449,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 82650000,
+          "rev_estimate": 81505282
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.12,
@@ -27016,28 +27036,24 @@
           "eps_estimate": -0.0893,
           "surprise_pct": -0.7839,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.1,
-          "eps_estimate": -0.0933,
-          "surprise_pct": -7.1811,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.15,
+          "eps_estimate": -0.1166,
+          "surprise_pct": -28.6449,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 82650000,
+          "rev_estimate": 81505282
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.12,
           "eps_estimate": -0.1275,
           "surprise_pct": 5.8824,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.04,
-          "eps_estimate": -0.0759,
-          "surprise_pct": 47.2991,
           "beat": true
         }
       ],
@@ -27320,10 +27336,10 @@
       "industry": "Health Care",
       "timing": "bmo",
       "eps_estimate": -0.4182,
-      "eps_actual": null,
+      "eps_actual": 0.07,
       "revenue_estimate": 213462540,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 210900000,
+      "revenue_beat": false,
       "market_cap": 493144168.0,
       "last_close": 12.2,
       "prev_close": 12.26,
@@ -27335,6 +27351,16 @@
       "week52_pos": 41.2,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.07,
+          "eps_estimate": -0.4182,
+          "surprise_pct": 116.7384,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 210900000,
+          "rev_estimate": 213462540
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.13,
@@ -27355,28 +27381,24 @@
           "eps_estimate": -0.4148,
           "surprise_pct": -37.4156,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.45,
-          "eps_estimate": -0.4998,
-          "surprise_pct": 9.964,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.07,
+          "eps_estimate": -0.4182,
+          "surprise_pct": 116.7384,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 210900000,
+          "rev_estimate": 213462540
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.13,
           "eps_estimate": -0.6936,
           "surprise_pct": 81.2572,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.06,
-          "eps_estimate": -0.3162,
-          "surprise_pct": 81.0247,
           "beat": true
         }
       ],
@@ -27669,9 +27691,9 @@
       "gap_pct": 2.97,
       "volume": 2710171.549429,
       "rvol": 0.8,
-      "week52_high": 4.23,
-      "week52_low": 1.26,
-      "week52_pos": 50.8,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -27998,21 +28020,31 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": -0.102,
-      "eps_actual": null,
+      "eps_actual": 0.13,
       "revenue_estimate": 50490000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 114560000,
+      "revenue_beat": true,
       "market_cap": 445275922.0,
       "last_close": 4.61,
       "prev_close": 4.63,
       "gap_pct": -0.43,
       "volume": 212612.687334,
       "rvol": 0.89,
-      "week52_high": 5.27,
-      "week52_low": 3.12,
-      "week52_pos": 69.3,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.13,
+          "eps_estimate": -0.102,
+          "surprise_pct": 227.451,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 114560000,
+          "rev_estimate": 50490000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.16,
@@ -28033,29 +28065,25 @@
           "eps_estimate": -0.153,
           "surprise_pct": 80.3922,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.03,
-          "eps_estimate": -0.0612,
-          "surprise_pct": 50.9804,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.13,
+          "eps_estimate": -0.102,
+          "surprise_pct": 227.451,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 114560000,
+          "rev_estimate": 50490000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.16,
           "eps_estimate": -0.0918,
           "surprise_pct": -74.2919,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.04,
-          "eps_estimate": -0.153,
-          "surprise_pct": 126.1438,
-          "beat": true
         }
       ],
       "bars": [
@@ -28337,21 +28365,31 @@
       "industry": "Hotels, Restaurants & Leisure",
       "timing": "bmo",
       "eps_estimate": 1.2381,
-      "eps_actual": null,
+      "eps_actual": 1.16,
       "revenue_estimate": 238457970,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 240900000,
+      "revenue_beat": true,
       "market_cap": 442078327.0,
       "last_close": 34.85,
       "prev_close": 36.08,
       "gap_pct": -3.41,
       "volume": 359509.759022,
       "rvol": 1.52,
-      "week52_high": 39.68,
-      "week52_low": 19.58,
-      "week52_pos": 76.0,
-      "pe_ratio": 27.5734,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.16,
+          "eps_estimate": 1.2381,
+          "surprise_pct": -6.3081,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 240900000,
+          "rev_estimate": 238457970
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.07,
@@ -28372,28 +28410,24 @@
           "eps_estimate": 1.0842,
           "surprise_pct": -32.6692,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 1.17,
-          "eps_estimate": 1.4663,
-          "surprise_pct": -20.2073,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1.16,
+          "eps_estimate": 1.2381,
+          "surprise_pct": -6.3081,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 240900000,
+          "rev_estimate": 238457970
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 1.07,
           "eps_estimate": 1.0162,
           "surprise_pct": 5.2942,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.46,
-          "eps_estimate": 1.0664,
-          "surprise_pct": 36.9092,
           "beat": true
         }
       ],
@@ -28676,10 +28710,10 @@
       "industry": "Insurance",
       "timing": "bmo",
       "eps_estimate": 0.7293,
-      "eps_actual": null,
+      "eps_actual": 0.59,
       "revenue_estimate": 122383680,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 116100000,
+      "revenue_beat": false,
       "market_cap": 397587382.0,
       "last_close": 27.215,
       "prev_close": 27.5,
@@ -28691,6 +28725,16 @@
       "week52_pos": 45.1,
       "pe_ratio": 11.916,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.59,
+          "eps_estimate": 0.7293,
+          "surprise_pct": -19.1005,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 116100000,
+          "rev_estimate": 122383680
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.29,
@@ -28711,28 +28755,24 @@
           "eps_estimate": 0.7752,
           "surprise_pct": 10.9391,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.71,
-          "eps_estimate": 0.7854,
-          "surprise_pct": -9.6002,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.59,
+          "eps_estimate": 0.7293,
+          "surprise_pct": -19.1005,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 116100000,
+          "rev_estimate": 122383680
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.29,
           "eps_estimate": 0.612,
           "surprise_pct": -52.6144,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.45,
-          "eps_estimate": 0.9078,
-          "surprise_pct": -50.4296,
           "beat": false
         }
       ],
@@ -28995,10 +29035,10 @@
       "industry": "Technology",
       "timing": "bmo",
       "eps_estimate": -0.0202,
-      "eps_actual": null,
+      "eps_actual": -0.01,
       "revenue_estimate": 8589040,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 9350000,
+      "revenue_beat": true,
       "market_cap": 353453901.0,
       "last_close": 14.27,
       "prev_close": 13.06,
@@ -29010,6 +29050,16 @@
       "week52_pos": 60.4,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.01,
+          "eps_estimate": -0.0202,
+          "surprise_pct": 50.495,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 9350000,
+          "rev_estimate": 8589040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.01,
@@ -29030,28 +29080,24 @@
           "eps_estimate": 0.0202,
           "surprise_pct": 48.5149,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.07,
-          "eps_estimate": -0.0657,
-          "surprise_pct": -6.5449,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.01,
+          "eps_estimate": -0.0202,
+          "surprise_pct": 50.495,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 9350000,
+          "rev_estimate": 8589040
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.01,
           "eps_estimate": -0.0455,
           "surprise_pct": 121.978,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.1,
-          "eps_estimate": 0.0404,
-          "surprise_pct": 147.5248,
           "beat": true
         }
       ],
@@ -29334,10 +29380,10 @@
       "industry": "Auto Components",
       "timing": "bmo",
       "eps_estimate": 0.1219,
-      "eps_actual": null,
+      "eps_actual": 0.2,
       "revenue_estimate": 176082712,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 172010000,
+      "revenue_beat": false,
       "market_cap": 340646667.0,
       "last_close": 2.83,
       "prev_close": 2.76,
@@ -29349,6 +29395,16 @@
       "week52_pos": 34.0,
       "pe_ratio": 14.425,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.1219,
+          "surprise_pct": 64.0689,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 172010000,
+          "rev_estimate": 176082712
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.05,
@@ -29369,28 +29425,24 @@
           "eps_estimate": 0.0469,
           "surprise_pct": -36.0341,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.09,
-          "eps_estimate": 0.0976,
-          "surprise_pct": -7.7869,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.2,
+          "eps_estimate": 0.1219,
+          "surprise_pct": 64.0689,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 172010000,
+          "rev_estimate": 176082712
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.05,
           "eps_estimate": 0.0563,
           "surprise_pct": -11.1901,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.04,
-          "eps_estimate": 0.0832,
-          "surprise_pct": -51.9231,
           "beat": false
         }
       ],
@@ -29673,10 +29725,10 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": 0.6161,
-      "eps_actual": null,
+      "eps_actual": 0.39,
       "revenue_estimate": 27050400,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 27300000,
+      "revenue_beat": true,
       "market_cap": 308407275.00000006,
       "last_close": 9.91,
       "prev_close": 9.74,
@@ -29688,6 +29740,16 @@
       "week52_pos": 11.2,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.6161,
+          "surprise_pct": -36.6986,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 27300000,
+          "rev_estimate": 27050400
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -1.19,
@@ -29708,28 +29770,24 @@
           "eps_estimate": 0.4403,
           "surprise_pct": -77.2882,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.22,
-          "eps_estimate": 0.3791,
-          "surprise_pct": -41.9678,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": 0.6161,
+          "surprise_pct": -36.6986,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 27300000,
+          "rev_estimate": 27050400
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -1.19,
           "eps_estimate": 0.5116,
           "surprise_pct": -332.6036,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.16,
-          "eps_estimate": 0.4223,
-          "surprise_pct": -137.8878,
           "beat": false
         }
       ],
@@ -30012,10 +30070,10 @@
       "industry": "Technology",
       "timing": "bmo",
       "eps_estimate": -0.064,
-      "eps_actual": null,
+      "eps_actual": -0.06,
       "revenue_estimate": 43095356,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 43150000,
+      "revenue_beat": true,
       "market_cap": 267440481.9999999,
       "last_close": 4.17,
       "prev_close": 4.07,
@@ -30027,6 +30085,16 @@
       "week52_pos": 25.8,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.064,
+          "surprise_pct": 6.25,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 43150000,
+          "rev_estimate": 43095356
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.065,
@@ -30047,28 +30115,24 @@
           "eps_estimate": -0.0707,
           "surprise_pct": 85.8557,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.04,
-          "eps_estimate": -0.0741,
-          "surprise_pct": 46.0189,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.064,
+          "surprise_pct": 6.25,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 43150000,
+          "rev_estimate": 43095356
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.065,
           "eps_estimate": -0.0875,
           "surprise_pct": 25.7143,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.039,
-          "eps_estimate": -0.0505,
-          "surprise_pct": 22.7723,
           "beat": true
         }
       ],
@@ -30351,10 +30415,10 @@
       "industry": "Technology",
       "timing": "bmo",
       "eps_estimate": -0.0102,
-      "eps_actual": null,
+      "eps_actual": 0.01,
       "revenue_estimate": 46512000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 46890000,
+      "revenue_beat": true,
       "market_cap": 210524633.0,
       "last_close": 1.4,
       "prev_close": 1.38,
@@ -30366,6 +30430,16 @@
       "week52_pos": 36.1,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.01,
+          "eps_estimate": -0.0102,
+          "surprise_pct": 198.0392,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 46890000,
+          "rev_estimate": 46512000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.01,
@@ -30386,28 +30460,24 @@
           "eps_estimate": -0.0051,
           "surprise_pct": 296.0784,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.01,
-          "eps_estimate": -0.0051,
-          "surprise_pct": 296.0784,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.01,
+          "eps_estimate": -0.0102,
+          "surprise_pct": 198.0392,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 46890000,
+          "rev_estimate": 46512000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.01,
           "eps_estimate": 0.002,
           "surprise_pct": 400,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.03,
-          "eps_estimate": 0,
-          "surprise_pct": null,
           "beat": true
         }
       ],
@@ -31097,21 +31167,31 @@
       "industry": "Retail",
       "timing": "bmo",
       "eps_estimate": -0.0612,
-      "eps_actual": null,
+      "eps_actual": -0.03,
       "revenue_estimate": 22674600,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 23320000,
+      "revenue_beat": true,
       "market_cap": 154407441.00000003,
       "last_close": 4.37,
       "prev_close": 4.23,
       "gap_pct": 3.31,
       "volume": 131575.324267,
       "rvol": 1.66,
-      "week52_high": 6.625,
-      "week52_low": 2.503,
-      "week52_pos": 45.3,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.03,
+          "eps_estimate": -0.0612,
+          "surprise_pct": 50.9804,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 23320000,
+          "rev_estimate": 22674600
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
@@ -31132,28 +31212,24 @@
           "eps_estimate": -0.1734,
           "surprise_pct": 42.3299,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.12,
-          "eps_estimate": -0.1734,
-          "surprise_pct": 30.7958,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.03,
+          "eps_estimate": -0.0612,
+          "surprise_pct": 50.9804,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 23320000,
+          "rev_estimate": 22674600
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.04,
           "eps_estimate": -0.0408,
           "surprise_pct": 1.9608,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.03,
-          "eps_estimate": -0.0408,
-          "surprise_pct": 26.4706,
           "beat": true
         }
       ],
@@ -31436,10 +31512,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": -0.0816,
-      "eps_actual": null,
+      "eps_actual": -0.06,
       "revenue_estimate": 15810000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 18080000,
+      "revenue_beat": true,
       "market_cap": 120253362.0,
       "last_close": 0.4175,
       "prev_close": 0.4103,
@@ -31451,6 +31527,16 @@
       "week52_pos": 3.1,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.0816,
+          "surprise_pct": 26.4706,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 18080000,
+          "rev_estimate": 15810000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.12,
@@ -31471,28 +31557,24 @@
           "eps_estimate": -0.0782,
           "surprise_pct": -2.3018,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.09,
-          "eps_estimate": -0.0918,
-          "surprise_pct": 1.9608,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.06,
+          "eps_estimate": -0.0816,
+          "surprise_pct": 26.4706,
+          "beat": true,
+          "rev_beat": true,
+          "rev_actual": 18080000,
+          "rev_estimate": 15810000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.12,
           "eps_estimate": -0.0867,
           "surprise_pct": -38.4083,
-          "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.1,
-          "eps_estimate": -0.0765,
-          "surprise_pct": -30.719,
           "beat": false
         }
       ],
@@ -31775,9 +31857,9 @@
       "industry": "Tobacco",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": -0.28,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 437800000,
       "revenue_beat": null,
       "market_cap": 84650806.0,
       "last_close": 3.44,
@@ -31790,6 +31872,13 @@
       "week52_pos": 39.7,
       "pe_ratio": 5.8103,
       "revenue_streak": [
+        {
+          "period": "2027-03-31",
+          "eps_actual": -0.28,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-12-31",
           "eps_actual": 0.55,
@@ -31810,26 +31899,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": -0.62,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2026-12-31",
-          "eps_actual": 0.55,
+          "period": "2027-03-31",
+          "eps_actual": -0.28,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2026-09-30",
-          "eps_actual": 0.65,
+          "period": "2026-12-31",
+          "eps_actual": 0.55,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -32064,21 +32146,31 @@
       "industry": "Building",
       "timing": "bmo",
       "eps_estimate": -0.2652,
-      "eps_actual": null,
+      "eps_actual": -0.1,
       "revenue_estimate": 104550000,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 96550000,
+      "revenue_beat": false,
       "market_cap": 79700162.0,
       "last_close": 2.305,
       "prev_close": 2.18,
       "gap_pct": 5.73,
       "volume": 94313.547826,
       "rvol": 0.87,
-      "week52_high": 2.62,
-      "week52_low": 0.5576,
-      "week52_pos": 84.7,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.1,
+          "eps_estimate": -0.2652,
+          "surprise_pct": 62.2926,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 96550000,
+          "rev_estimate": 104550000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.32,
@@ -32099,29 +32191,25 @@
           "eps_estimate": -0.2958,
           "surprise_pct": -35.2265,
           "beat": false
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.33,
-          "eps_estimate": -0.1836,
-          "surprise_pct": -79.7386,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.1,
+          "eps_estimate": -0.2652,
+          "surprise_pct": 62.2926,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 96550000,
+          "rev_estimate": 104550000
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.32,
           "eps_estimate": -0.357,
           "surprise_pct": 10.3641,
           "beat": true
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.48,
-          "eps_estimate": -0.3876,
-          "surprise_pct": -23.839,
-          "beat": false
         }
       ],
       "bars": [
@@ -32403,10 +32491,10 @@
       "industry": "Electrical Equipment",
       "timing": "bmo",
       "eps_estimate": -0.4335,
-      "eps_actual": null,
+      "eps_actual": -0.76,
       "revenue_estimate": 24873720,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 26160000,
+      "revenue_beat": true,
       "market_cap": 49296307.0,
       "last_close": 3.08,
       "prev_close": 2.85,
@@ -32418,6 +32506,16 @@
       "week52_pos": 5.0,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.76,
+          "eps_estimate": -0.4335,
+          "surprise_pct": -75.3172,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 26160000,
+          "rev_estimate": 24873720
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.67,
@@ -32438,29 +32536,25 @@
           "eps_estimate": -0.5709,
           "surprise_pct": 36.9417,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": -0.86,
-          "eps_estimate": -0.731,
-          "surprise_pct": -17.6471,
-          "beat": false
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.76,
+          "eps_estimate": -0.4335,
+          "surprise_pct": -75.3172,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 26160000,
+          "rev_estimate": 24873720
+        },
         {
           "period": "2026-03-31",
           "eps_actual": -0.67,
           "eps_estimate": -0.3468,
           "surprise_pct": -93.1949,
           "beat": false
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": -0.17,
-          "eps_estimate": -0.221,
-          "surprise_pct": 23.0769,
-          "beat": true
         }
       ],
       "bars": [
@@ -32742,9 +32836,9 @@
       "industry": "Financial Services",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.24,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 1390000,
       "revenue_beat": null,
       "market_cap": 30826670.0,
       "last_close": 10.38,
@@ -32757,6 +32851,13 @@
       "week52_pos": 4.2,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.24,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.18,
@@ -32777,26 +32878,19 @@
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2024-12-31",
-          "eps_actual": 0.45,
-          "eps_estimate": null,
-          "surprise_pct": null,
-          "beat": null
         }
       ],
       "prev_quarters": [
         {
-          "period": "2026-03-31",
-          "eps_actual": 0.18,
+          "period": "2026-06-30",
+          "eps_actual": 0.24,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
         },
         {
-          "period": "2025-06-30",
-          "eps_actual": 0.33,
+          "period": "2026-03-31",
+          "eps_actual": 0.18,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
@@ -33031,9 +33125,9 @@
       "gap_pct": -5.87,
       "volume": 83747.095721,
       "rvol": 2.3,
-      "week52_high": 1.83,
-      "week52_low": 0.512,
-      "week52_pos": 4.0,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
       "pe_ratio": null,
       "revenue_streak": [
         {
@@ -33355,15 +33449,384 @@
       ]
     },
     {
+      "symbol": "RXRX",
+      "name": "RXRX",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": -0.2387,
+      "eps_actual": -0.25,
+      "revenue_estimate": 12185603,
+      "revenue_actual": 7670000,
+      "revenue_beat": false,
+      "market_cap": null,
+      "last_close": 3.31,
+      "prev_close": 3.18,
+      "gap_pct": 4.09,
+      "volume": 21577753.563648,
+      "rvol": 1.04,
+      "week52_high": 7.18,
+      "week52_low": 2.77,
+      "week52_pos": 12.2,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.25,
+          "eps_estimate": -0.2387,
+          "surprise_pct": -4.734,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 7670000,
+          "rev_estimate": 12185603
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.22,
+          "eps_estimate": -0.2769,
+          "surprise_pct": 20.5489,
+          "beat": true
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.21,
+          "eps_estimate": -0.322,
+          "surprise_pct": 34.7826,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.36,
+          "eps_estimate": -0.3774,
+          "surprise_pct": 4.6105,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": -0.25,
+          "eps_estimate": -0.2387,
+          "surprise_pct": -4.734,
+          "beat": false,
+          "rev_beat": false,
+          "rev_actual": 7670000,
+          "rev_estimate": 12185603
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.22,
+          "eps_estimate": -0.2769,
+          "surprise_pct": 20.5489,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 42587971.212766,
+          "vw": 3.5052,
+          "o": 3.29,
+          "c": 3.52,
+          "h": 3.62,
+          "l": 3.2819,
+          "t": 1782446400000,
+          "n": 59484
+        },
+        {
+          "v": 22932849.582198,
+          "vw": 3.6699,
+          "o": 3.615,
+          "c": 3.69,
+          "h": 3.74,
+          "l": 3.55,
+          "t": 1782705600000,
+          "n": 53641
+        },
+        {
+          "v": 23159953.647993,
+          "vw": 3.6642,
+          "o": 3.678,
+          "c": 3.67,
+          "h": 3.72,
+          "l": 3.57,
+          "t": 1782792000000,
+          "n": 60234
+        },
+        {
+          "v": 35726754.184361,
+          "vw": 3.7488,
+          "o": 3.65,
+          "c": 3.67,
+          "h": 4.04,
+          "l": 3.61,
+          "t": 1782878400000,
+          "n": 71354
+        },
+        {
+          "v": 32680470.408414,
+          "vw": 3.7985,
+          "o": 3.745,
+          "c": 3.8,
+          "h": 3.91,
+          "l": 3.7,
+          "t": 1782964800000,
+          "n": 61886
+        },
+        {
+          "v": 38065212.448632,
+          "vw": 3.9285,
+          "o": 3.78,
+          "c": 3.96,
+          "h": 4.09,
+          "l": 3.66,
+          "t": 1783310400000,
+          "n": 70399
+        },
+        {
+          "v": 28855557.152163,
+          "vw": 3.9,
+          "o": 3.95,
+          "c": 3.84,
+          "h": 4.05,
+          "l": 3.81,
+          "t": 1783396800000,
+          "n": 76167
+        },
+        {
+          "v": 22705628.536387,
+          "vw": 3.7042,
+          "o": 3.72,
+          "c": 3.72,
+          "h": 3.8083,
+          "l": 3.63,
+          "t": 1783483200000,
+          "n": 58340
+        },
+        {
+          "v": 22293569.991104,
+          "vw": 3.7999,
+          "o": 3.725,
+          "c": 3.76,
+          "h": 3.9,
+          "l": 3.69,
+          "t": 1783569600000,
+          "n": 56747
+        },
+        {
+          "v": 20808232.549726,
+          "vw": 3.5454,
+          "o": 3.8,
+          "c": 3.56,
+          "h": 3.8,
+          "l": 3.44,
+          "t": 1783656000000,
+          "n": 49094
+        },
+        {
+          "v": 24497736.407919,
+          "vw": 3.3832,
+          "o": 3.515,
+          "c": 3.3,
+          "h": 3.54,
+          "l": 3.271,
+          "t": 1783915200000,
+          "n": 52819
+        },
+        {
+          "v": 25658546.959919,
+          "vw": 3.3084,
+          "o": 3.29,
+          "c": 3.34,
+          "h": 3.38,
+          "l": 3.205,
+          "t": 1784001600000,
+          "n": 50670
+        },
+        {
+          "v": 19429100.179118,
+          "vw": 3.3566,
+          "o": 3.37,
+          "c": 3.31,
+          "h": 3.44,
+          "l": 3.28,
+          "t": 1784088000000,
+          "n": 48843
+        },
+        {
+          "v": 40174578.718614,
+          "vw": 3.0655,
+          "o": 3.25,
+          "c": 3.02,
+          "h": 3.27,
+          "l": 2.975,
+          "t": 1784174400000,
+          "n": 58448
+        },
+        {
+          "v": 19353220.999738,
+          "vw": 2.9628,
+          "o": 2.96,
+          "c": 2.945,
+          "h": 3.02,
+          "l": 2.93,
+          "t": 1784260800000,
+          "n": 44962
+        },
+        {
+          "v": 20807965.640753,
+          "vw": 2.9064,
+          "o": 2.945,
+          "c": 2.89,
+          "h": 2.955,
+          "l": 2.84,
+          "t": 1784520000000,
+          "n": 48905
+        },
+        {
+          "v": 14868167.999747,
+          "vw": 3.0331,
+          "o": 2.9,
+          "c": 3.08,
+          "h": 3.08,
+          "l": 2.9,
+          "t": 1784606400000,
+          "n": 35090
+        },
+        {
+          "v": 15209127.374225,
+          "vw": 3.0047,
+          "o": 3.04,
+          "c": 2.98,
+          "h": 3.07,
+          "l": 2.97,
+          "t": 1784692800000,
+          "n": 30912
+        },
+        {
+          "v": 18832246.965181,
+          "vw": 2.9811,
+          "o": 2.925,
+          "c": 3.01,
+          "h": 3.03,
+          "l": 2.92,
+          "t": 1784779200000,
+          "n": 33180
+        },
+        {
+          "v": 16530380.900969,
+          "vw": 2.9854,
+          "o": 3.04,
+          "c": 2.96,
+          "h": 3.09,
+          "l": 2.92,
+          "t": 1784865600000,
+          "n": 32136
+        },
+        {
+          "v": 21724275.010574,
+          "vw": 3.0484,
+          "o": 3.03,
+          "c": 3.01,
+          "h": 3.13,
+          "l": 2.99,
+          "t": 1785124800000,
+          "n": 39186
+        },
+        {
+          "v": 24398105.975355,
+          "vw": 2.9819,
+          "o": 2.975,
+          "c": 3.05,
+          "h": 3.05,
+          "l": 2.86,
+          "t": 1785211200000,
+          "n": 41339
+        },
+        {
+          "v": 17954125.394855,
+          "vw": 3.0061,
+          "o": 3.03,
+          "c": 2.97,
+          "h": 3.09,
+          "l": 2.945,
+          "t": 1785297600000,
+          "n": 41776
+        },
+        {
+          "v": 10409906.002961,
+          "vw": 3.0086,
+          "o": 2.99,
+          "c": 3.04,
+          "h": 3.04,
+          "l": 2.95,
+          "t": 1785384000000,
+          "n": 28775
+        },
+        {
+          "v": 15329356.617423,
+          "vw": 2.9926,
+          "o": 3.09,
+          "c": 3,
+          "h": 3.105,
+          "l": 2.95,
+          "t": 1785470400000,
+          "n": 43476
+        },
+        {
+          "v": 14721699.684567,
+          "vw": 3.1433,
+          "o": 3.03,
+          "c": 3.18,
+          "h": 3.2,
+          "l": 3,
+          "t": 1785729600000,
+          "n": 52693
+        },
+        {
+          "v": 21577753.563648,
+          "vw": 3.303,
+          "o": 3.265,
+          "c": 3.31,
+          "h": 3.36,
+          "l": 3.21,
+          "t": 1785816000000,
+          "n": 62238
+        }
+      ]
+    },
+    {
+      "symbol": "SEDG",
+      "name": "SEDG",
+      "industry": "",
+      "timing": "bmo",
+      "eps_estimate": -0.0021,
+      "eps_actual": 0.06,
+      "revenue_estimate": 347764104,
+      "revenue_actual": 346250000,
+      "revenue_beat": false,
+      "market_cap": null,
+      "last_close": null,
+      "prev_close": null,
+      "gap_pct": null,
+      "volume": null,
+      "rvol": null,
+      "week52_high": null,
+      "week52_low": null,
+      "week52_pos": null,
+      "pe_ratio": null,
+      "revenue_streak": [],
+      "prev_quarters": [],
+      "bars": []
+    },
+    {
       "symbol": "SHAK",
       "name": "SHAK",
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.3217,
-      "eps_actual": null,
+      "eps_actual": 0.43,
       "revenue_estimate": 426111813,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 417620000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33384,10 +33847,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.4107,
-      "eps_actual": null,
+      "eps_actual": 0.42,
       "revenue_estimate": 3513364398,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 3583000000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33408,10 +33871,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": -0.0204,
-      "eps_actual": null,
+      "eps_actual": -0.03,
       "revenue_estimate": 40414950,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 39840000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33432,10 +33895,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 1.1382,
-      "eps_actual": null,
+      "eps_actual": 1.26,
       "revenue_estimate": 1703735154,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 1765480000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33456,10 +33919,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": -0.2722,
-      "eps_actual": null,
+      "eps_actual": -0.26,
       "revenue_estimate": 419840875,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 420200000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33480,10 +33943,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.3026,
-      "eps_actual": null,
+      "eps_actual": 0.35,
       "revenue_estimate": 45752100,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 52940000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33528,10 +33991,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.5304,
-      "eps_actual": null,
+      "eps_actual": 0.51,
       "revenue_estimate": 93344453,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 87170000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33552,10 +34015,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.8309,
-      "eps_actual": null,
+      "eps_actual": 1.17,
       "revenue_estimate": 14523853276,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 14191000000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33576,10 +34039,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": -0.2929,
-      "eps_actual": null,
+      "eps_actual": -0.28,
       "revenue_estimate": 64797030,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 72460000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33600,10 +34063,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 6.969,
-      "eps_actual": null,
+      "eps_actual": 7.27,
       "revenue_estimate": 821758369,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 783300000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33624,10 +34087,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.2011,
-      "eps_actual": null,
+      "eps_actual": 0.19,
       "revenue_estimate": 377903175,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 371800000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33672,10 +34135,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.1465,
-      "eps_actual": null,
+      "eps_actual": 0.19,
       "revenue_estimate": 906464900,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 888580000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33696,10 +34159,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.5075,
-      "eps_actual": null,
+      "eps_actual": 0.57,
       "revenue_estimate": 547765167,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 544600000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33720,10 +34183,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.1515,
-      "eps_actual": null,
+      "eps_actual": 0.17,
       "revenue_estimate": 521030720,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 523000000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33744,10 +34207,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": -0.2299,
-      "eps_actual": null,
+      "eps_actual": -0.37,
       "revenue_estimate": 47319840,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 44770000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33768,10 +34231,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 0.6154,
-      "eps_actual": null,
+      "eps_actual": 0.68,
       "revenue_estimate": 137784996,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 143050000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -33816,10 +34279,10 @@
       "industry": "",
       "timing": "bmo",
       "eps_estimate": 2.0294,
-      "eps_actual": null,
+      "eps_actual": 2.07,
       "revenue_estimate": 2155600620,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 2177000000,
+      "revenue_beat": true,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -36072,10 +36535,10 @@
       "industry": "",
       "timing": "amc",
       "eps_estimate": -2.537,
-      "eps_actual": null,
+      "eps_actual": -3.3,
       "revenue_estimate": 436564528,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 405350000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -36504,10 +36967,10 @@
       "industry": "",
       "timing": "amc",
       "eps_estimate": 0.0204,
-      "eps_actual": null,
+      "eps_actual": 0.01,
       "revenue_estimate": 31303800,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 29780000,
+      "revenue_beat": false,
       "market_cap": null,
       "last_close": null,
       "prev_close": null,
@@ -44043,6 +44506,22 @@
   },
   "news": [
     {
+      "headline": "Stock bears obliterated as Nasdaq 100 logs top 10 bullish stat of past decade",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/05/stock-bears-obliterated-as-nasdaq-logs-top-10-bullish-stat-of-past-decade.html",
+      "datetime": 1785932566,
+      "summary": "\"Pessimists threw in the towel and optimism was running amok today,\" said Nations Indexes president Scott Nations.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108344532-1785853710277-Traders-Photo-20260803-KK-PRESS-007.jpg?v=1785853829&w=1920&h=1080"
+    },
+    {
+      "headline": "UN rights chief says Iran executed at least 56 people since March - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW9QZjd0R3djcFhWMjBZSmhadjhVekQyU0JzYW03NWdpN3VWMVZjelZuX0Rqa0RlbkZBRXF2YkFGcFBBZk93X3U4Y01neXEybmh3QlRrcnp2WEQ2LV9Ldk9DbTlLNThQTUlEOXNrYlZCdkVzeGpGcEdvYmFhYjBEM2YxaFVPY0FWSS1TblRuMFM1TDF3MmlJRFBtWm9oLUhzY0dtQlZmblpRTEpscTdxenEzclJSbG8?oc=5",
+      "datetime": 1785925918,
+      "summary": "UN rights chief says Iran executed at least 56 people since March\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Yemen's Houthis say they attacked Saudi oil tanker in Red Sea - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
@@ -44051,11 +44530,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "US and Iran having 'very good discussions', Trump says - Reuters",
+      "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
       "datetime": 1785906660,
-      "summary": "US and Iran having 'very good discussions', Trump says\u00a0\u00a0Reuters",
+      "summary": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -44121,22 +44600,6 @@
       "datetime": 1785884867,
       "summary": "Antisemitism in UK remains near record levels, charity says\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
-      "datetime": 1785884558,
-      "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-      "datetime": 1785882142,
-      "summary": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080"
     }
   ],
   "sentiment": {
