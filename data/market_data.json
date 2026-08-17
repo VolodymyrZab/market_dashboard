@@ -700,6 +700,355 @@
       ]
     },
     {
+      "symbol": "CRGO",
+      "name": "Freightos Ltd",
+      "industry": "Logistics & Transportation",
+      "timing": "bmo",
+      "eps_estimate": -0.051,
+      "eps_actual": null,
+      "revenue_estimate": 7445490,
+      "revenue_actual": null,
+      "revenue_beat": null,
+      "market_cap": 69255885.93939394,
+      "last_close": 1.35,
+      "prev_close": 1.32,
+      "gap_pct": 2.27,
+      "volume": 47799.40663,
+      "rvol": 1.37,
+      "week52_high": 4.24,
+      "week52_low": 1.14,
+      "week52_pos": 6.8,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.13,
+          "eps_estimate": -0.0765,
+          "surprise_pct": -69.9346,
+          "beat": false
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.08,
+          "eps_estimate": -0.0816,
+          "surprise_pct": 1.9608,
+          "beat": true
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.1,
+          "eps_estimate": -0.0816,
+          "surprise_pct": -22.549,
+          "beat": false
+        },
+        {
+          "period": "2025-06-30",
+          "eps_actual": -0.09,
+          "eps_estimate": -0.0884,
+          "surprise_pct": -1.81,
+          "beat": false
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.13,
+          "eps_estimate": -0.0765,
+          "surprise_pct": -69.9346,
+          "beat": false
+        },
+        {
+          "period": "2025-12-31",
+          "eps_actual": -0.08,
+          "eps_estimate": -0.0816,
+          "surprise_pct": 1.9608,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 39241.143265,
+          "vw": 1.2545,
+          "o": 1.23,
+          "c": 1.23,
+          "h": 1.29,
+          "l": 1.23,
+          "t": 1783483200000,
+          "n": 281
+        },
+        {
+          "v": 40996.388863,
+          "vw": 1.3071,
+          "o": 1.2743,
+          "c": 1.32,
+          "h": 1.38,
+          "l": 1.2358,
+          "t": 1783569600000,
+          "n": 335
+        },
+        {
+          "v": 69237,
+          "vw": 1.2585,
+          "o": 1.3,
+          "c": 1.25,
+          "h": 1.3,
+          "l": 1.24,
+          "t": 1783656000000,
+          "n": 502
+        },
+        {
+          "v": 14676.527181,
+          "vw": 1.2482,
+          "o": 1.24,
+          "c": 1.24,
+          "h": 1.2785,
+          "l": 1.23,
+          "t": 1783915200000,
+          "n": 134
+        },
+        {
+          "v": 54678.697961,
+          "vw": 1.2625,
+          "o": 1.23,
+          "c": 1.25,
+          "h": 1.3,
+          "l": 1.23,
+          "t": 1784001600000,
+          "n": 284
+        },
+        {
+          "v": 162783.411726,
+          "vw": 1.3539,
+          "o": 1.3,
+          "c": 1.37,
+          "h": 1.4581,
+          "l": 1.28,
+          "t": 1784088000000,
+          "n": 984
+        },
+        {
+          "v": 133639.84131,
+          "vw": 1.3132,
+          "o": 1.37,
+          "c": 1.36,
+          "h": 1.4,
+          "l": 1.23,
+          "t": 1784174400000,
+          "n": 1483
+        },
+        {
+          "v": 21013.073084,
+          "vw": 1.274,
+          "o": 1.33,
+          "c": 1.25,
+          "h": 1.33,
+          "l": 1.25,
+          "t": 1784260800000,
+          "n": 121
+        },
+        {
+          "v": 50337,
+          "vw": 1.2478,
+          "o": 1.26,
+          "c": 1.21,
+          "h": 1.3908,
+          "l": 1.21,
+          "t": 1784520000000,
+          "n": 404
+        },
+        {
+          "v": 41661.606451,
+          "vw": 1.2462,
+          "o": 1.24,
+          "c": 1.245,
+          "h": 1.27,
+          "l": 1.23,
+          "t": 1784606400000,
+          "n": 115
+        },
+        {
+          "v": 35088.172,
+          "vw": 1.2072,
+          "o": 1.26,
+          "c": 1.21,
+          "h": 1.3,
+          "l": 1.19,
+          "t": 1784692800000,
+          "n": 390
+        },
+        {
+          "v": 65263.851465,
+          "vw": 1.2876,
+          "o": 1.21,
+          "c": 1.33,
+          "h": 1.34,
+          "l": 1.21,
+          "t": 1784779200000,
+          "n": 291
+        },
+        {
+          "v": 11350.440669,
+          "vw": 1.2891,
+          "o": 1.34,
+          "c": 1.26,
+          "h": 1.34,
+          "l": 1.25,
+          "t": 1784865600000,
+          "n": 195
+        },
+        {
+          "v": 16179.184885,
+          "vw": 1.2611,
+          "o": 1.29,
+          "c": 1.27,
+          "h": 1.2997,
+          "l": 1.24,
+          "t": 1785124800000,
+          "n": 169
+        },
+        {
+          "v": 13775,
+          "vw": 1.2396,
+          "o": 1.27,
+          "c": 1.25,
+          "h": 1.27,
+          "l": 1.22,
+          "t": 1785211200000,
+          "n": 178
+        },
+        {
+          "v": 21424.344002,
+          "vw": 1.2096,
+          "o": 1.22,
+          "c": 1.23,
+          "h": 1.23,
+          "l": 1.2,
+          "t": 1785297600000,
+          "n": 183
+        },
+        {
+          "v": 47008.022316,
+          "vw": 1.1858,
+          "o": 1.21,
+          "c": 1.18,
+          "h": 1.21,
+          "l": 1.165,
+          "t": 1785384000000,
+          "n": 515
+        },
+        {
+          "v": 24086.194196,
+          "vw": 1.1649,
+          "o": 1.17,
+          "c": 1.15,
+          "h": 1.206,
+          "l": 1.14,
+          "t": 1785470400000,
+          "n": 103
+        },
+        {
+          "v": 22285.96923,
+          "vw": 1.1888,
+          "o": 1.15,
+          "c": 1.22,
+          "h": 1.22,
+          "l": 1.15,
+          "t": 1785729600000,
+          "n": 232
+        },
+        {
+          "v": 184824.401436,
+          "vw": 1.3087,
+          "o": 1.23,
+          "c": 1.33,
+          "h": 1.4,
+          "l": 1.1896,
+          "t": 1785816000000,
+          "n": 631
+        },
+        {
+          "v": 39482,
+          "vw": 1.3243,
+          "o": 1.31,
+          "c": 1.26,
+          "h": 1.35,
+          "l": 1.26,
+          "t": 1785902400000,
+          "n": 361
+        },
+        {
+          "v": 7838.074295,
+          "vw": 1.2413,
+          "o": 1.25,
+          "c": 1.25,
+          "h": 1.26,
+          "l": 1.22,
+          "t": 1785988800000,
+          "n": 161
+        },
+        {
+          "v": 15522.904,
+          "vw": 1.2695,
+          "o": 1.25,
+          "c": 1.27,
+          "h": 1.2899,
+          "l": 1.23,
+          "t": 1786075200000,
+          "n": 95
+        },
+        {
+          "v": 7417.36395,
+          "vw": 1.2896,
+          "o": 1.28,
+          "c": 1.29,
+          "h": 1.295,
+          "l": 1.28,
+          "t": 1786334400000,
+          "n": 110
+        },
+        {
+          "v": 22142.856,
+          "vw": 1.2471,
+          "o": 1.25,
+          "c": 1.25,
+          "h": 1.26,
+          "l": 1.23,
+          "t": 1786420800000,
+          "n": 291
+        },
+        {
+          "v": 15366.390502,
+          "vw": 1.2482,
+          "o": 1.25,
+          "c": 1.25,
+          "h": 1.26,
+          "l": 1.23,
+          "t": 1786507200000,
+          "n": 199
+        },
+        {
+          "v": 34489.609106,
+          "vw": 1.2852,
+          "o": 1.25,
+          "c": 1.32,
+          "h": 1.33,
+          "l": 1.25,
+          "t": 1786593600000,
+          "n": 144
+        },
+        {
+          "v": 47799.40663,
+          "vw": 1.3498,
+          "o": 1.3863,
+          "c": 1.35,
+          "h": 1.3863,
+          "l": 1.3062,
+          "t": 1786680000000,
+          "n": 386
+        }
+      ]
+    },
+    {
       "symbol": "NSPR",
       "name": "InspireMD Inc",
       "industry": "Health Care",
@@ -7057,19 +7406,59 @@
   },
   "news": [
     {
-      "headline": "Kushner to hold talks with Netanyahu after rare meeting with Hamas - reuters.com",
+      "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
+      "datetime": 1786962693,
+      "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran says two French embassy employees barred from returning - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
-      "datetime": 1786947420,
-      "summary": "Kushner to hold talks with Netanyahu after rare meeting with Hamas\u00a0\u00a0reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5",
+      "datetime": 1786959713,
+      "summary": "Iran says two French embassy employees barred from returning\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Indian shares fall as crude remains at elevated levels - reuters.com",
+      "headline": "Drones target office of Iraqi Kurdistan's PM, no casualties reported - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
+      "datetime": 1786957852,
+      "summary": "Drones target office of Iraqi Kurdistan's PM, no casualties reported\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
+      "datetime": 1786947420,
+      "summary": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump seeks cuts to US-South Korea drills, reviving earlier objections - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5",
+      "datetime": 1786947000,
+      "summary": "Trump seeks cuts to US-South Korea drills, reviving earlier objections\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDFjUnFHUE1WM1psUjhsS0N3R0plSTRER2cyeTVlQl9wSDBLankxeEkyT2w1cGlrZWJNaUxZcktrVU96QU1rd0lkdjh1ZjVmR2dqRDBSNFdNNVdpV1c2MkVqbXFBWjdPTURwVjBnazA4OGdyOXZDMWtlOEo2ajJsQVpRV2kwUHFCRnc5MDBnbS1vdm5xcWpXRHJRNURnRjVpQ3NzNklpVGtUc3RDajdWREVSLXN0cWlGWTlJQmppeENNb0w3RGc?oc=5",
+      "datetime": 1786933920,
+      "summary": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Indian shares fall as crude remains at elevated levels - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
       "datetime": 1786933260,
-      "summary": "Indian shares fall as crude remains at elevated levels\u00a0\u00a0reuters.com",
+      "summary": "Indian shares fall as crude remains at elevated levels\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -7081,75 +7470,35 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows - reuters.com",
+      "headline": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
       "datetime": 1786926660,
-      "summary": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows\u00a0\u00a0reuters.com",
+      "summary": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
+      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+      "datetime": 1786925940,
+      "summary": "Japan Q2 growth misses forecasts on weaker spending, investment\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
       "datetime": 1786924491,
-      "summary": "Shipping slows through Strait of Hormuz after tanker attacks, data shows\u00a0\u00a0reuters.com",
+      "summary": "Shipping slows through Strait of Hormuz after tanker attacks, data shows\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - reuters.com",
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
       "datetime": 1786916340,
-      "summary": "Trump orders Pentagon to cut back military exercises with South Korea\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Believe the unbelievable in this market \u2014 things can be different this time",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
-      "datetime": 1786915945,
-      "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108242674-1765922857470-gettyimages-2251668534-MICRON_EARNS.jpeg?v=1773262309&w=1920&h=1080"
-    },
-    {
-      "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
-      "datetime": 1786910312,
-      "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108277507-17733468252026-03-12t201739z_1867101499_rc2n1karw15x_rtrmadp_0_iran-crisis.jpeg?v=1773346961&w=1920&h=1080"
-    },
-    {
-      "headline": "Trump's envoys meet mediators, Israel strikes Gaza - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-      "datetime": 1786910163,
-      "summary": "Trump's envoys meet mediators, Israel strikes Gaza\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iranian parliament advances bill to curb foreign influence - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
-      "datetime": 1786898624,
-      "summary": "Iranian parliament advances bill to curb foreign influence\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Here are the 2 big things we're watching in the stock market in the week ahead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "datetime": 1786896253,
-      "summary": "The housing industry and consumer spending take center stage across earnings reports and economic releases.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108269360-1771964339199-gettyimages-2263364069-dji_20260224095932_0062_d_eu4fq6ty.jpeg?v=1771964411&w=1920&h=1080"
-    },
-    {
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
-      "datetime": 1786886264,
-      "summary": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption\u00a0\u00a0reuters.com",
+      "summary": "Trump orders Pentagon to cut back military exercises with South Korea\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
