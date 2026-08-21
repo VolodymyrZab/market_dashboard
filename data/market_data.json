@@ -1820,9 +1820,9 @@
       "industry": "Trading Companies & Distributors",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.268844,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 2420671376,
       "revenue_beat": null,
       "market_cap": 460890000.0,
       "last_close": 2.9,
@@ -1835,6 +1835,13 @@
       "week52_pos": 49.5,
       "pe_ratio": null,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.268844,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0,
@@ -1855,29 +1862,22 @@
           "eps_estimate": -0.202,
           "surprise_pct": -13.8614,
           "beat": false
-        },
-        {
-          "period": "2025-03-31",
-          "eps_actual": -0.31,
-          "eps_estimate": -0.3333,
-          "surprise_pct": 6.9907,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.268844,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": -0.09,
-          "eps_estimate": 0.1919,
-          "surprise_pct": -146.8994,
-          "beat": false
         }
       ],
       "bars": [
@@ -8541,6 +8541,30 @@
   },
   "news": [
     {
+      "headline": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTlOa0p6cWFWR2FCZ0dZY2tEZEZLMkNWR3RvQkUzdUwyTE11aVF0TkVpMExXM3otZy0wbVRZU0lBOUpLV2lhYTdPWHBMZ3plOGFwekxwbVdQLTM5anpldkwtTWpnak05T3VLdDVUT3ItVVpEeHllS3E5SjFOeHFCT0FPeXU5c1I3X203S0pGcENjeFRESF9YaTZnV0JNNGNZUnl4RUxGTFZIN2RNU0k0YXpJbVhyVW55UlB6Rw?oc=5",
+      "datetime": 1787301959,
+      "summary": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+      "datetime": 1787300081,
+      "summary": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Six months of war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
+      "datetime": 1787298803,
+      "summary": "Six months of war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "War-hit European markets are far from down and out - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
@@ -8557,19 +8581,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
+      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
       "datetime": 1787277000,
-      "summary": "Oil set for second weekly rise as unsettled US-Iran war crimps supply\u00a0\u00a0Reuters",
+      "summary": "Oil set for second weekly gain as US ramps up pressure on Iran\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
+      "headline": "Iran vows 'devastating' response as US threatens toughest ever economic hit - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
       "datetime": 1787270340,
-      "summary": "US says it will impose 'toughest sanctions in history' on Iran\u00a0\u00a0Reuters",
+      "summary": "Iran vows 'devastating' response as US threatens toughest ever economic hit\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -8610,30 +8634,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
       "datetime": 1787258623,
       "summary": "Harry and Meghan: Their life together in photos\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "The Los Angeles Lakers sold for $12.5 billion. Here\u2019s what every NBA team is now worth",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
-      "datetime": 1787257701,
-      "summary": "The pending $12.5 billion Lakers sale would lift CNBC\u2019s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352318-1787249601193-gettyimages-2275035501-r1g5_04292026_rockets_lakers_pantozzi_468.jpeg?v=1787249645&w=1920&h=1080"
-    },
-    {
-      "headline": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "datetime": 1787255992,
-      "summary": "The previously undisclosed capacity increase is part of Hyundai's plan to invest $26 billion in the U.S. through 2028.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108294011-17766979032026-04-20t150936z_1985427063_rc22tkajk0nt_rtrmadp_0_autos-hyundai-ceo.jpeg?v=1776698051&w=1920&h=1080"
-    },
-    {
-      "headline": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
-      "datetime": 1787250015,
-      "summary": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
