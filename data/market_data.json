@@ -7063,6 +7063,54 @@
   },
   "news": [
     {
+      "headline": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
+      "datetime": 1788196845,
+      "summary": "The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108244369-17661755422025-12-19t201810z_1824743728_rc2kjiaoz50f_rtrmadp_0_usa-trump.jpeg?v=1766175565&w=1920&h=1080"
+    },
+    {
+      "headline": "Waiting for homebuying to get more affordable? Here's what to expect in 2027",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/what-homebuyers-can-expect-in-2027.html",
+      "datetime": 1788196619,
+      "summary": "Mortgage rates aren't expected to get much cheaper for homebuyers in 2027, especially if inflation stays high.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356158-1788130899104-gettyimages-1923168454-mec-70.jpeg?v=1788130945&w=1920&h=1080"
+    },
+    {
+      "headline": "Why Nvidia and CrowdStrike are up in an otherwise down stock market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/why-nvidia-and-crowdstrike-are-up-in-an-otherwise-down-stock-market.html",
+      "datetime": 1788194281,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354636-1787762833729-gettyimages-2291592328-2026_aug_26_nvidia_0293.jpeg?v=1787762914&w=1920&h=1080"
+    },
+    {
+      "headline": "Europe's STOXX 600 falls as oil prices jump, but secures fifth monthly gain - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzdFeEJfZ24zM2Yxemdobk42RnA2M1RVTWMwdWZ1NDA1X21PTS04d3BMWVZwTkNUTGRCNWdmS2phTUhJdUVZR29TMWVBU3dqUkhtVFdZRVgtUEM5WldFRlNFcGh4U05tdGYtN21pam5uU1hzd19aSlFGaXRzbXlMWFp2ZmZDMXdQeXc3QVRXdDM4UHg4OVlUODdmLTNCVk5PQzZEaQ?oc=5",
+      "datetime": 1788193195,
+      "summary": "Europe's STOXX 600 falls as oil prices jump, but secures fifth monthly gain\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump was sending message to Iran with Kharg Island post, says Vance - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeElJSjJGWk5EandMUHVfb3J5dmhzdzh2eVNWQjdZYnFPaGFzMmNLX2N1c21TQzFtb0tfeTRhTlBJMnlUVThxR1FqNXg2Q0pTanRSMnVlY0s5RDNqcHhqVVE3YjVrTnlTWGVXd3hERnc0N0lsdmJLcEM2Yk5EUnBKSnI4UUZKeDkwY2ZFVm1aRFJYRG8yR3hRV0RzZFhucUNzdnNjcTJGN3lPdVdPQXVwYmVOUHdzS01zRVE?oc=5",
+      "datetime": 1788191178,
+      "summary": "Trump was sending message to Iran with Kharg Island post, says Vance\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Depleted US oil stash loses potency as Iran war grinds on - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhmd2cwQ2lLMjFlWXpza0hEZWhGZU1NcGg2eGJ3Y0x4OVA0YWhIUVptWmcxVnU0V0hKRnRJR1FQSU5WT2M4aUZDRngzSDVpczVybkN5dUEyZ0FrdFFSaVlxZ0I2WjVLTEprenVzY2VCdFN2c0NXQXhldWxzN1daOGNya2RjMkZsSHN2ZXhuS19kdXJvS3VBYkk4OFVIYmtyN2JoRFJR?oc=5",
+      "datetime": 1788190385,
+      "summary": "Depleted US oil stash loses potency as Iran war grinds on\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "We're trimming one of our top-performing tech stocks to lock in some gains",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/31/were-trimming-a-top-performing-stock-to-lock-in-some-gains.html",
@@ -7087,14 +7135,6 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108356095-1788021743068-gettyimages-2292308803-huty4191007.jpeg?v=1788021778&w=1920&h=1080"
     },
     {
-      "headline": "Depleted US oil stash loses potency as Iran war grinds on - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUhmd2cwQ2lLMjFlWXpza0hEZWhGZU1NcGg2eGJ3Y0x4OVA0YWhIUVptWmcxVnU0V0hKRnRJR1FQSU5WT2M4aUZDRngzSDVpczVybkN5dUEyZ0FrdFFSaVlxZ0I2WjVLTEprenVzY2VCdFN2c0NXQXhldWxzN1daOGNya2RjMkZsSHN2ZXhuS19kdXJvS3VBYkk4OFVIYmtyN2JoRFJR?oc=5",
-      "datetime": 1788183224,
-      "summary": "Depleted US oil stash loses potency as Iran war grinds on\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "Turkey says it has Black Sea grain plan and is in contact with Russia, Ukraine - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzNCeTl1Slh2LXg1ZW04UUFZS2xtdHE5ZjhXZ2FlVmZsTTRiN2dENVBjZFAyTWk3a0s1cDltV1dsSXFjWlNuTU5RaG9abDE2bVFGS3lNTC1NZWFsS2hUM3FpQUJQd2Y0dVdMWlhEUjdMb1B3blNPV0I4VDZwVkVleDNjRHlMNTY3aGFzRThESGhMejJFcENCR2hzZFpsVHRhMC1WSVV1SlZwVk1wV0xKTk5NMUZLbVI5VFNqRUprTU90UQ?oc=5",
@@ -7111,51 +7151,11 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108353939-1787671143247-gettyimages-2285783561-JAPAN_NVIDIA.jpeg?v=1787671203&w=1920&h=1080"
     },
     {
-      "headline": "EU aviation safety agency narrows Gulf airspace warning - Reuters",
+      "headline": "Taiwan says 'unpredictable' China strengthens air and sea control nearby - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVczeUFtaTZ6UjkwS0lSdkI1ZE9xU195ZE5FTDJQZ01QdGNtelZHc3YwUXhfMDFwUUJidGFCTmtrVElnYjRNaU84N0FRb2I2cEdOQTE2dnBySDZFVFhxdlV3MkxSSmRURzRBSG9ENHA1Qkc4VTFZeUo4ZXJycjRDek9uX0ZIWGk1ZlJkWEZUZ3dQTEdlanFMVVhhSzJadmJJTjZLS3FwWTc1NGRTaFE?oc=5",
-      "datetime": 1788180090,
-      "summary": "EU aviation safety agency narrows Gulf airspace warning\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israel signs $3.5 billion air defence deal with Greece - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUwxUlJXWEx0eFk4ZlpsQm5xZ3ROSXZvWkZwVjFRendPR0F4cGdYSnlFdkR4RzR1Y2NtTk43OFZuekJCNDNjZWdqRy1QX05MS1JySVdQN1JsYk5wRDJtTGpyQmJjV0NjQmFtR2E3dlA5MF9qbDZkbmJDcFVhblFrSTdMdXNXWU5YeGFCRmRxWThnWHRJaWJ6N3pSUllBdkdZU1lEdklaMk9ybDN4TmtpYmJpMl9WUQ?oc=5",
-      "datetime": 1788178741,
-      "summary": "Israel signs $3.5 billion air defence deal with Greece\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil to hold above $80 a barrel as Middle East supply risks persist - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1UZWgzbTlVVzdIeFRJQWN1TEMtZGdwZFpaaUx6ZmhNU0RrakpicWtuNHNKb0JPc2VvbURJZzlYQkNzVk9Sc3NoMFBjcWZHQ0NoQ3hmaG1iZS0zdjJlbERFU25uN2VaNGp0Q3ZBb0JPRldfQjZLVDB5X25NdlBBT04tblFSdTFPTTVLUWxRMUNkM1NNSjE5X1A1WDlVUmtLZUs1bjItRmFqd1hEbHdzbDJn?oc=5",
-      "datetime": 1788174489,
-      "summary": "Oil to hold above $80 a barrel as Middle East supply risks persist\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "EXCLUSIVE: Turkey's wealth fund to become shareholder in local EV maker TOGG, Vestel and Anadolu to exit - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2RrbjUxQWdINldfLTBrZlJmZExhOWxZUWZOeWwtWHdmX0x4TVhYU0FQV3dOVWtRNzYtS05BcjhwVW5XN3o3dno2ZFRkSnVvRVdnbzlxaEs3UWxUTG9ud2NDU3Z5OUhhTU4wd3dHUDNfZEVyRGxKYjkxWnNWRkdSWWx3TGdHMFNRaDBVUTZPb1A5UGJ1Y0MySjBTWXJjSWxGVVl2MjNxd0Q5Ym5vWnZRbVV1UjRNSVlxRm53bTdmMG9lSWQyVUVHMng4eTI?oc=5",
-      "datetime": 1788174038,
-      "summary": "EXCLUSIVE: Turkey's wealth fund to become shareholder in local EV maker TOGG, Vestel and Anadolu to exit\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Santoli: Why investors should be on high alert heading into September",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
-      "datetime": 1788174001,
-      "summary": "Investors should be on high alert because various key market metrics are coiling near consequential thresholds.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&w=1920&h=1080"
-    },
-    {
-      "headline": "Qatar's first-quarter GDP falls 7% as Iran war weighs on energy production - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDRKOEZ0M3JrM0M1RTFRSHZubzF4SF9UX21fUWNJNjJIc1pSZnVORnIxaHNzdENEbEtiLV85NG9sQVlDdjBaWW00ZlpDUzhzT0RGbHdScUliNnlsUlEzNHpaSHNXTEx4S1pyTm5MRGNERDQ1czI1dzZkOG4xVkVPTUVpb1ZiaEk0b1FIY2c3OURDYUpETjItd19sbHpXMDRubDhiRGNVZFQ3X2hLTFhMbmo2bExSc3NXRmlFSQ?oc=5",
-      "datetime": 1788172303,
-      "summary": "Qatar's first-quarter GDP falls 7% as Iran war weighs on energy production\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWGpQaG9aejdkNW53TDNqVW04YzBQZE55SlJVU3JZVzByZHlUWEp5bXEwdFU1S1hmZDROaHFUeUR1aThZaGg3WnJQMTRtWlkyWTF0RDZEUnFsYmxTUG5JMldvdEtMeHBJQmxscFZ5NXRqSWhXRXBmOVc1TmFkbDNROExFWlZuM0JESE5kVzVZYzVvV1d3SjhvZGhVNGE0c0VWUjQxeTZjLUlnLUVPNmFHUmd4VVJfMXE2RnFPcmZQZklad1kzWWYwaA?oc=5",
+      "datetime": 1788180585,
+      "summary": "Taiwan says 'unpredictable' China strengthens air and sea control nearby\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
