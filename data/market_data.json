@@ -6195,6 +6195,365 @@
       ]
     },
     {
+      "symbol": "HURC",
+      "name": "Hurco Companies Inc",
+      "industry": "Machinery",
+      "timing": "bmo",
+      "eps_estimate": null,
+      "eps_actual": 0.35,
+      "revenue_estimate": null,
+      "revenue_actual": 47290000,
+      "revenue_beat": null,
+      "market_cap": 147660139.28571427,
+      "last_close": 22.8,
+      "prev_close": 21.28,
+      "gap_pct": 7.14,
+      "volume": 45585.007412,
+      "rvol": 2.11,
+      "week52_high": 23.75,
+      "week52_low": 14.5,
+      "week52_pos": 89.7,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.35,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.54,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
+        {
+          "period": "2025-09-30",
+          "eps_actual": -0.58,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
+        {
+          "period": "2025-03-31",
+          "eps_actual": -0.67,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.35,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
+        {
+          "period": "2026-03-31",
+          "eps_actual": -0.54,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        }
+      ],
+      "bars": [
+        {
+          "v": 36011.981644,
+          "vw": 21.0367,
+          "o": 21.27,
+          "c": 20.53,
+          "h": 21.96,
+          "l": 20.52,
+          "t": 1785124800000,
+          "n": 1247
+        },
+        {
+          "v": 18651.882351,
+          "vw": 20.6817,
+          "o": 20.4,
+          "c": 20.78,
+          "h": 21.12,
+          "l": 20.39,
+          "t": 1785211200000,
+          "n": 920
+        },
+        {
+          "v": 24099.5823,
+          "vw": 20.4153,
+          "o": 20.9,
+          "c": 20.35,
+          "h": 20.975,
+          "l": 20.04,
+          "t": 1785297600000,
+          "n": 650
+        },
+        {
+          "v": 16044.0387,
+          "vw": 20.9965,
+          "o": 20.78,
+          "c": 21.2,
+          "h": 21.3,
+          "l": 20.3,
+          "t": 1785384000000,
+          "n": 380
+        },
+        {
+          "v": 12236.5944,
+          "vw": 20.8666,
+          "o": 20.95,
+          "c": 20.84,
+          "h": 21.01,
+          "l": 20.61,
+          "t": 1785470400000,
+          "n": 499
+        },
+        {
+          "v": 17041.6643,
+          "vw": 21.6459,
+          "o": 21.01,
+          "c": 21.9,
+          "h": 21.92,
+          "l": 21.01,
+          "t": 1785729600000,
+          "n": 733
+        },
+        {
+          "v": 20280.616538,
+          "vw": 21.4215,
+          "o": 21.275,
+          "c": 21.53,
+          "h": 21.8999,
+          "l": 21.18,
+          "t": 1785816000000,
+          "n": 788
+        },
+        {
+          "v": 14148.464218,
+          "vw": 21.8267,
+          "o": 21.65,
+          "c": 21.89,
+          "h": 21.93,
+          "l": 21.3801,
+          "t": 1785902400000,
+          "n": 589
+        },
+        {
+          "v": 11441.956492,
+          "vw": 21.7601,
+          "o": 21.73,
+          "c": 21.9,
+          "h": 21.99,
+          "l": 21.62,
+          "t": 1785988800000,
+          "n": 701
+        },
+        {
+          "v": 13055.6622,
+          "vw": 22.013,
+          "o": 21.81,
+          "c": 22.06,
+          "h": 22.305,
+          "l": 21.7001,
+          "t": 1786075200000,
+          "n": 617
+        },
+        {
+          "v": 25754.6622,
+          "vw": 21.8405,
+          "o": 21.89,
+          "c": 21.72,
+          "h": 22.46,
+          "l": 21.44,
+          "t": 1786334400000,
+          "n": 667
+        },
+        {
+          "v": 16487.1406,
+          "vw": 22.1208,
+          "o": 21.9,
+          "c": 22.08,
+          "h": 22.285,
+          "l": 21.88,
+          "t": 1786420800000,
+          "n": 446
+        },
+        {
+          "v": 12151.781206,
+          "vw": 22.2092,
+          "o": 22.38,
+          "c": 22.21,
+          "h": 22.5188,
+          "l": 21.9202,
+          "t": 1786507200000,
+          "n": 576
+        },
+        {
+          "v": 7370.864537,
+          "vw": 22.1123,
+          "o": 22.3,
+          "c": 22.07,
+          "h": 22.43,
+          "l": 21.9,
+          "t": 1786593600000,
+          "n": 384
+        },
+        {
+          "v": 26763.191715,
+          "vw": 22.4242,
+          "o": 22.07,
+          "c": 22.52,
+          "h": 22.99,
+          "l": 22.06,
+          "t": 1786680000000,
+          "n": 728
+        },
+        {
+          "v": 24335.259185,
+          "vw": 22.6702,
+          "o": 22.66,
+          "c": 22.6,
+          "h": 23.07,
+          "l": 22.2,
+          "t": 1786939200000,
+          "n": 666
+        },
+        {
+          "v": 11220.1573,
+          "vw": 22.4294,
+          "o": 22.525,
+          "c": 22.42,
+          "h": 22.88,
+          "l": 22.23,
+          "t": 1787025600000,
+          "n": 522
+        },
+        {
+          "v": 50610.5837,
+          "vw": 22.8834,
+          "o": 22.64,
+          "c": 22.755,
+          "h": 23.16,
+          "l": 22.61,
+          "t": 1787112000000,
+          "n": 1233
+        },
+        {
+          "v": 28009.828279,
+          "vw": 22.8507,
+          "o": 22.62,
+          "c": 22.73,
+          "h": 23.23,
+          "l": 22.445,
+          "t": 1787198400000,
+          "n": 878
+        },
+        {
+          "v": 13509.331,
+          "vw": 22.7947,
+          "o": 23,
+          "c": 22.92,
+          "h": 23.01,
+          "l": 22.51,
+          "t": 1787284800000,
+          "n": 466
+        },
+        {
+          "v": 5002.2878,
+          "vw": 22.6606,
+          "o": 22.8,
+          "c": 22.64,
+          "h": 22.8,
+          "l": 22.6031,
+          "t": 1787544000000,
+          "n": 365
+        },
+        {
+          "v": 4020.9562,
+          "vw": 22.7103,
+          "o": 22.35,
+          "c": 22.69,
+          "h": 22.775,
+          "l": 22.35,
+          "t": 1787630400000,
+          "n": 260
+        },
+        {
+          "v": 38507.1091,
+          "vw": 22.8801,
+          "o": 22.67,
+          "c": 22.91,
+          "h": 22.97,
+          "l": 22.37,
+          "t": 1787716800000,
+          "n": 1006
+        },
+        {
+          "v": 6003.9376,
+          "vw": 22.6897,
+          "o": 22.7,
+          "c": 22.52,
+          "h": 22.87,
+          "l": 22.5,
+          "t": 1787803200000,
+          "n": 477
+        },
+        {
+          "v": 9244.466395,
+          "vw": 22.9171,
+          "o": 22.77,
+          "c": 22.93,
+          "h": 23.15,
+          "l": 22.66,
+          "t": 1787889600000,
+          "n": 382
+        },
+        {
+          "v": 47658.9122,
+          "vw": 22.4059,
+          "o": 23,
+          "c": 21.48,
+          "h": 23.17,
+          "l": 21.48,
+          "t": 1788148800000,
+          "n": 1283
+        },
+        {
+          "v": 21293.872592,
+          "vw": 21.3412,
+          "o": 21.51,
+          "c": 20.85,
+          "h": 21.85,
+          "l": 20.79,
+          "t": 1788235200000,
+          "n": 680
+        },
+        {
+          "v": 60188.369063,
+          "vw": 21.5035,
+          "o": 20.86,
+          "c": 21.28,
+          "h": 21.91,
+          "l": 20.86,
+          "t": 1788321600000,
+          "n": 1173
+        },
+        {
+          "v": 45585.007412,
+          "vw": 22.0851,
+          "o": 21.4,
+          "c": 22.8,
+          "h": 22.8,
+          "l": 20.9069,
+          "t": 1788408000000,
+          "n": 736
+        }
+      ]
+    },
+    {
       "symbol": "AOUT",
       "name": "American Outdoor Brands Inc",
       "industry": "Leisure Products",
@@ -12927,6 +13286,46 @@
   },
   "news": [
     {
+      "headline": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
+      "datetime": 1788531022,
+      "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357725-1788357115618-gettyimages-2267357536-20250830_20250830__bot3584.jpeg?v=1788357175&w=1920&h=1080"
+    },
+    {
+      "headline": "Gloria Steinem hosted salons in her living room for decades\u2014how to gather for conversation and connection, says expert",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
+      "datetime": 1788529092,
+      "summary": "Steinem's living room \"cracked open opportunities to lend support, let ideas flow, and build trust face-to-face,\" says journalist and author Allison Gilbert, founder of More Connected.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358739-1788477286763-gettyimages-510370535-Huty1990301.jpeg?v=1788477378&w=1920&h=1080"
+    },
+    {
+      "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
+      "datetime": 1788527366,
+      "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
+      "image": "https://image.cnbcfm.com/api/v1/image/106080676-1565867451468gettyimages-1168052560.jpeg?v=1610701548&w=1920&h=1080"
+    },
+    {
+      "headline": "Here are our top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/here-are-our-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "datetime": 1788527249,
+      "summary": "Bond yields jumped and stocks dipped after a strong August jobs report.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108294489-1776771976272-gettyimages-2264522575-APPLE_LAUNCH.jpeg?v=1776962019&w=1920&h=1080"
+    },
+    {
+      "headline": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+      "datetime": 1788525643,
+      "summary": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354868-1787783781456-gettyimages-2291635462-AFP_C6KY7DP.jpeg?v=1787783850&w=1920&h=1080"
+    },
+    {
       "headline": "The big business of personal protection: How private security became a $50 billion industry",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
@@ -12943,6 +13342,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108357992-1788375690734-gettyimages-519234496-g_dsc5455_6_7_8_9_tonemapped.jpeg?v=1788375859&w=1920&h=1080"
     },
     {
+      "headline": "Air Tanzania to resume flights to Russia on September 7 after temporary halt - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWVSWXZZcTdRTVlSaFlBRDJBcUFmZmY5T002SC1zMzNvMDhOS2FDZVhvTVF3clRlNlVlcHgwV29ER2g4bnJhV2tJZXNuTzd0ZVVEXzN4UEhfTXlXUkpQeVk5S0NhRnJFQmlpRDA5SzFHdl9FV3VHaUtkdTJnVFROMDVSWWxpN21YRkFLVjBZeXlKaWVQZW9iWk5rMUdvUjRRRVJqdjVNajhPRFYxdUl0dlNGMGVIdG8?oc=5",
+      "datetime": 1788515633,
+      "summary": "Air Tanzania to resume flights to Russia on September 7 after temporary halt\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmJxV2JuVVpNSWV4QTRZZktncFBvaUQtcXZVaDZHdkJfV1JkZFhoeU0ybFRIU19qYmZKUkt1VXZZaFlaR2FKY2dxZFN0U2NkRjZYZWt1dlh2N21aN092aEpVdmZ2MmlvMVNDeThDZ1p4aHJpR0x6NV9MREtJb3dFeXY3ZktVbTFJZVZXNzd1ZkFaTWg0TWtQM1dzRlVVeHlUcTYtSFA3UEFPTEQ4ckc0TFRTcEUtQUpzTUFRWWVHd09ZUQ?oc=5",
@@ -12951,11 +13358,11 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high - Reuters",
+      "headline": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
       "datetime": 1788485280,
-      "summary": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high\u00a0\u00a0Reuters",
+      "summary": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -12972,54 +13379,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5",
       "datetime": 1788473580,
       "summary": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Vance says Iran conflict is not a war, declines to offer timeline for end - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-      "datetime": 1788473423,
-      "summary": "Vance says Iran conflict is not a war, declines to offer timeline for end\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "South Korea reviewing military options for Hormuz, no decision made, official says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5",
-      "datetime": 1788472980,
-      "summary": "South Korea reviewing military options for Hormuz, no decision made, official says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Vance: US probing airstrike that Iran says hit a wedding party - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZGdyY0d2X01maFd2M2xxLVFCVEg2aUw4aGMwd3pzZHpOQWE2X1hXTG9OR0NMcmZnUDl1a00xRkRKMHhqRk9WYlcxZTBXbmZNZG9BLU0wWnJRRmFkYTlZd256cEZNOUo5YTN5b011OF9ZUWVWVEI0VTduM1FULWVzMnJCX1Jyb0xZTmlKOW5FWHhFR0dXUnBFZHdXY2t5SjZvcGpELWx0M3h5MzZPYlpYVVh0bw?oc=5",
-      "datetime": 1788467976,
-      "summary": "Vance: US probing airstrike that Iran says hit a wedding party\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
-      "datetime": 1788467368,
-      "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&w=1920&h=1080"
-    },
-    {
-      "headline": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
-      "datetime": 1788466437,
-      "summary": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US diesel prices hit record high as conflicts intensify supply crunch - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF2Z29UenJROHZ5YlJpTFBHM1pmWmdNaWROSnhyNlhDVVZmVGVXTkRaT1k4N1NBY1B1YUhDbmE2SGQ2TllTNExHWk9JT1JCWHRKQnVpZEx5SVVNZHdhc2tsbEEtWG01Ty1QUXpMSWdWR3NuQTVQaWNhLUViMXkzRl9WNk81bDdiVk5tb1hPeVBMczFGaWVmaTNzWEdYZ29P?oc=5",
-      "datetime": 1788464820,
-      "summary": "US diesel prices hit record high as conflicts intensify supply crunch\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
