@@ -1036,9 +1036,9 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": null,
-      "eps_actual": null,
+      "eps_actual": 0.39,
       "revenue_estimate": null,
-      "revenue_actual": null,
+      "revenue_actual": 41190000,
       "revenue_beat": null,
       "market_cap": 133158165.0,
       "last_close": 3.66,
@@ -1051,6 +1051,13 @@
       "week52_pos": 33.1,
       "pe_ratio": 2.6407,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.29,
@@ -1071,29 +1078,22 @@
           "eps_estimate": 0.3162,
           "surprise_pct": 13.852,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2448,
-          "surprise_pct": 2.1242,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 0.39,
+          "eps_estimate": null,
+          "surprise_pct": null,
+          "beat": null
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 0.29,
           "eps_estimate": null,
           "surprise_pct": null,
           "beat": null
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 0.34,
-          "eps_estimate": 0.2652,
-          "surprise_pct": 28.2051,
-          "beat": true
         }
       ],
       "bars": [
@@ -7710,11 +7710,35 @@
   },
   "news": [
     {
-      "headline": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
+      "headline": "UK announces new Israel sanctions, despite U.S. warning of economic consequences",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/uk-israel-sanctions-miliband-florida-trump.html",
+      "datetime": 1788876732,
+      "summary": "U.S. officials have warned the U.K. of potential economic consequences if it moved ahead with sanctions targeting Israel.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108000265-1719841882166-gettyimages-2158994421-pbn21819.jpeg?v=1732893832&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "datetime": 1788873236,
+      "summary": "OpenAI's Astra model is generating a lot of buzz, and Intel shares are up almost 5% premarket.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108320444-17811980572026-06-11t163738z_1837455652_rc2srlabsnhz_rtrmadp_0_openai-ai.jpeg?v=1781198085&w=1920&h=1080"
+    },
+    {
+      "headline": "Property Play: Here\u2019s where rental demand is heading and what it means for future home sales",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
+      "datetime": 1788872334,
+      "summary": "As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080"
+    },
+    {
+      "headline": "Netanyahu races to unify Israel's right wing in bid to avert election defeat - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
-      "datetime": 1788869731,
-      "summary": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2FPczJOb2lpcFNYMEVRVlpXaXJ5dllBZjFvMDhsbGEzVDV5dlQ4QVJjV1d0N1FPYmFrNzVRYkRvbzFmVXp5WFdxMXUwZ1VvNFdVVnkybnpFU19GVmdSaEpRaldoTWRsRGs5NVdhR09BNmNLZUtsYlI1TjE4cVpLeUs2NTZIcEpxS1F6NWlid0tHU05FNklhTUdLbkhPQjRQeTVxLWpzRlAzQ3pNSUlQazc4NV92V3FnNEpkeg?oc=5",
+      "datetime": 1788872196,
+      "summary": "Netanyahu races to unify Israel's right wing in bid to avert election defeat\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -7742,6 +7766,22 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108359613-1788856051816-gettyimages-2265567416-HL_GBEYSON_3093747.jpeg?v=1788856059&w=1920&h=1080"
     },
     {
+      "headline": "South African economy shrinks in second quarter, dragged down by Iran war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb19hOFRsQkpXaGdUVWFUVUpaaERhV0FyMmZPNHNoM1c5OXBsandiOUlSMERZWHhXUHllcVNNUUg0Rkh5czRtaHU1bjM4ZHpNV1MwT29EdlNaMS03ejllRklQcUJQYW1jcVFUNGUwbF9LdVJWc0Q3VkVkazlGOTFOUzUxU2lwZVUzMUt5NDJ6VkpQREdiU3MyMTVPX3Q0QQ?oc=5",
+      "datetime": 1788864511,
+      "summary": "South African economy shrinks in second quarter, dragged down by Iran war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Why isn't oil above $100 despite supply disruptions? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEwxQTVrUWVzenpNQVoxdkFTWDRCckVzNmNFR1B4bTJoSDhOVTZZZVlFb2FjMHdGWFU2WlpfbmE2eksxeXBSM1hhcnZwSDUyTVJ3M2dJaUtqejdmY3FBSWRvZmFkOVVGeVdZbmFrTUlpZ0lIWTdCYTdpcUx5MHV3ZFBnSFE3dGV4cG9JYWlpR2J5MDE0WjdueUV3V1FkaEc5ZUlR?oc=5",
+      "datetime": 1788862944,
+      "summary": "Why isn't oil above $100 despite supply disruptions?\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Huawei heads to trial in US over its business dealings in Iran - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnZfcVJUeEZKOFpSTE5oQk9WTU1GWE5fc1U2R1g3NGFuOGdnNnZfT29tOU4xbmFISzhvd2paSmIyb2Y1V05nTFRjTl9xejZrUGdoSTJHS3prREdOOVlSbkl2UkxFQlk3NFRvM3J6YUdBdklRZ2RmZ3gzVUd2NXFsN01PcUFTXzZmSU1SQ3NUakdWc1MxU2V5N0RGMzd1ejFydDNnR2ptdUlYZw?oc=5",
@@ -7750,59 +7790,19 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil hits multi-week highs after Houthi attacks on Saudi energy facilities - Reuters",
+      "headline": "COMMENTARY: Europe's winter gas drama could leave deep scars - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTBHazRJMEhoZks2V2o5M2loY0UtV3pnUjMweXB6cXZuVjQtYmhTWV9oSnF0cDhRZGVybzBuNk9fYWRJU1diemp5VDFxZWdHYy16a0ctWG9ob0JfMUZqRTIwRnoyeHhxckI4NFZCVmM1MGVRaDFPeWh0MVFKTXYyVURKSWdJZGJ5ZWZWYzdHanhyQTBNTGYyRWF6bXVWSDRZdXdYN0pWdURYU0p6Z1lkVzlRWlF4UEIyY1E?oc=5",
-      "datetime": 1788861970,
-      "summary": "Oil hits multi-week highs after Houthi attacks on Saudi energy facilities\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTWVIVVZMUTZCb2wzSUhhZEZTVWF6Y2F2MTJxaDZoTWQ1SjdHS0szQ1Y0endPeUkyMlpVbTlEYkZlc0hnb1VBNWNqLW1jaDBUVnppNWRaQzFEdHJ0VktLdEhqNDJnM1lkbzlvUG1zN0J0bFgxRWFXZ1NWaGlyOFc2NzRNeFN4MVkyV1VCOFZCZWZEWmtJRFZaOThnamZtNlZFOEp3T3ZDd1JDS2RHS3VzWFh5cFRoN0k?oc=5",
+      "datetime": 1788861728,
+      "summary": "COMMENTARY: Europe's winter gas drama could leave deep scars\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Houthi attacks disrupt Saudi energy facilities, wound 73, authorities say - Reuters",
+      "headline": "Indian central bank extends intervention streak to support rupee, traders say - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXB6MGlpMW50OElMY1FiZ2hXYlNmbmI0ZG8xT2RLc0FOWG9IazNMVDdfdTdILUJINFYweFF5VFFOQldXU3k2T0NSekpIOVhyT050UXR3TzRGTEk4TGlnLVhJQ2s2LWRmamNyRGwyT3ZyU1gwQVlSYU5hQ3hBUHo2bTBwckJNQXlqSTQySzhhUV9WR0laNjZJVEktLXpiMF93N3hrYmRRejBXRFlPVmNrTTJJZ0w1NlhITEE?oc=5",
-      "datetime": 1788841140,
-      "summary": "Houthi attacks disrupt Saudi energy facilities, wound 73, authorities say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Rupee endures sharpest fall in over a month as Brent oil barrels towards $100 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa05iLVFENGVBNnNsMDFGeFJfdFJOVXVGRFU5LUw1UUtLLXYzZ2gzZjBwaHkzZDN1SFRjNElJQnVvek9LOVpISW02UHpTRkk5ektMbXFYQ1VCTHI0QkRFY0kzSmtNZG52cTVpSjdEb3F1VlJ6RHI1YnVzNmMtZWNwSnA4ZTBtVlAwWXo0RG52dnQ4X0tQVVdrakpNS3UyeWhSZHJpLWVIR1NZdlAtaUpQMTA1MlU5NDVoNGk0RTBlVE8?oc=5",
-      "datetime": 1788836160,
-      "summary": "Rupee endures sharpest fall in over a month as Brent oil barrels towards $100\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hormuz traffic slows after Iran threatens retaliation for US attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVZqbU1CYlBIcWpOcEhmWWNHbk1PaUxMa1REWVpsUnpHcEgySUVnWDZ5cFJJbG9tZ1IyV1A1UXFocFEzQkRZVmNNWVNkVlEzZWc4TExyVnNvdWJ2Tjg3a0swQUlKbXo3VzlncDNqZ2w2MUJVLVpJRVBFcXdlR3lpSW5CMVZneGtYcG51MWJZSkpLZmhpSzlrLUNoUXFXTlhQSm8xS25kdEhKM1VOa2pFdV85dnBRNENqWXc?oc=5",
-      "datetime": 1788835980,
-      "summary": "Hormuz traffic slows after Iran threatens retaliation for US attacks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gold ticks up with US inflation data on radar - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
-      "datetime": 1788834480,
-      "summary": "Gold ticks up with US inflation data on radar\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Indian shares fall as persistent Middle East risks push up oil prices - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
-      "datetime": 1788833700,
-      "summary": "Indian shares fall as persistent Middle East risks push up oil prices\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Why isn't oil above $100 despite supply disruptions? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEwxQTVrUWVzenpNQVoxdkFTWDRCckVzNmNFR1B4bTJoSDhOVTZZZVlFb2FjMHdGWFU2WlpfbmE2eksxeXBSM1hhcnZwSDUyTVJ3M2dJaUtqejdmY3FBSWRvZmFkOVVGeVdZbmFrTUlpZ0lIWTdCYTdpcUx5MHV3ZFBnSFE3dGV4cG9JYWlpR2J5MDE0WjdueUV3V1FkaEc5ZUlR?oc=5",
-      "datetime": 1788832800,
-      "summary": "Why isn't oil above $100 despite supply disruptions?\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDc0QVVDRm5Ud0ZCWnhONzRDZ0JjZEhMWF9ocnVTS1JXNF9wbmtWcHdIR0pFSnh6ZnhaRXNQZ2x3MmFrUUdveFYxNGZnVlN0enFFRVVjSkZqaWJfQjdRdlNpaS04bmZtX0dPOUJHbTBsLURWeERyZkJpcWlxSG1oRDRkVFhQS0REUW9LS3FOWkFFVENhU3c5MGF5SUlIVmUtN0c5MTh0aHM3dnNBYnN5ZnFLLVBoMHg4dWFJd1RR?oc=5",
+      "datetime": 1788842460,
+      "summary": "Indian central bank extends intervention streak to support rupee, traders say\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
