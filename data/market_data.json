@@ -1732,10 +1732,10 @@
       "industry": "Energy",
       "timing": "bmo",
       "eps_estimate": 2.5041,
-      "eps_actual": null,
+      "eps_actual": 3.14,
       "revenue_estimate": 259435165,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 246280000,
+      "revenue_beat": false,
       "market_cap": 1305198771.6139703,
       "last_close": 44.32,
       "prev_close": 43.52,
@@ -1747,6 +1747,16 @@
       "week52_pos": 94.0,
       "pe_ratio": 6.1471,
       "revenue_streak": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.14,
+          "eps_estimate": 2.5041,
+          "surprise_pct": 25.3944,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 246280000,
+          "rev_estimate": 259435165
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.72,
@@ -1767,28 +1777,24 @@
           "eps_estimate": 0.808,
           "surprise_pct": 29.9505,
           "beat": true
-        },
-        {
-          "period": "2025-06-30",
-          "eps_actual": 0.67,
-          "eps_estimate": 0.5148,
-          "surprise_pct": 30.1476,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-06-30",
+          "eps_actual": 3.14,
+          "eps_estimate": 2.5041,
+          "surprise_pct": 25.3944,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 246280000,
+          "rev_estimate": 259435165
+        },
         {
           "period": "2026-03-31",
           "eps_actual": 2.72,
           "eps_estimate": 1.983,
           "surprise_pct": 37.1659,
-          "beat": true
-        },
-        {
-          "period": "2025-12-31",
-          "eps_actual": 1.7,
-          "eps_estimate": 0.7777,
-          "surprise_pct": 118.5933,
           "beat": true
         }
       ],
@@ -12196,12 +12202,68 @@
   },
   "news": [
     {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "datetime": 1789046784,
+      "summary": "Stocks tumble as oil tops $100.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358943-1788527323525-ottava_arms_deployed__2__720.jpg?v=1788527506&w=1920&h=1080"
+    },
+    {
+      "headline": "Oil jumps to $105 a barrel after Middle East tanker attacks escalate - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5",
+      "datetime": 1789046378,
+      "summary": "Oil jumps to $105 a barrel after Middle East tanker attacks escalate\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Algeria cuts diplomatic ties with the UAE - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
+      "datetime": 1789046287,
+      "summary": "Algeria cuts diplomatic ties with the UAE\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "VIEW ECB hikes rates as Iran war adds to inflation angst - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0VWcFhfaVg1bHdEUzlqVTlvNlREOFdweDVteVNCVWFCY29MVFJMRVdWeEJuSDAxWlY3cjU4ZGlxdkNremFBTThYSVQ5cFNBaTliSGMwbmJRR0NkNkwtUUhORFFwZ3gwLXJSZnNOR1ZfVDlEanZ5TzFNZ3FsX1hobnkyODI3cE96RkI2S3htVk5LRWNWbmF1c1FvNA?oc=5",
+      "datetime": 1789044834,
+      "summary": "VIEW ECB hikes rates as Iran war adds to inflation angst\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Oracle options are doing something curious heading into earnings",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
       "datetime": 1789042851,
       "summary": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle.",
       "image": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
+      "datetime": 1789042785,
+      "summary": "Trump touts $5,000 payout if Republicans win as Vance waits in wings\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "India hosts BRICS summit as Iran war tests bloc unity - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckJSazh5QjVkOTBaUXN3cm5TRkM5NGhqN3NWTUNidU5BX2QyZmNlSHkwYmQ0S2JPSmlFUWl2TWswaUlrVWJCRmkyMUZ6c0U5eTZsdldNZEZHR0cySmg5dTAyNW4td2JzZUNhaVhMaXFJTEpuMEQzZUJDbUhlTXhoMGt5elNXRU5TUGR2XzZmd2xXMzcwR09SYUlzRGlZb1E?oc=5",
+      "datetime": 1789040693,
+      "summary": "India hosts BRICS summit as Iran war tests bloc unity\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "A year after Charlie Kirk's death, Turning Point USA grows but Trump slips with young voters - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHpUcWNtNXREbnhzblktM2l6a2luRS1zeENZa2tPNGJ0dC1veUdLWVZCM3MzYmJDN1I4YUtoYllMV3EyckZtUl9IQURlbnVNZW51VVJhRWdZQXVGLWs2THZleXIyNlZ2QjJCTElvUE02Zy1zNTlZVktsT0dnenZPbjRuSzBCLVhFY3VzdFNPV1M3blB3eFY2MXM1a3dNT0E3T0h5MURDNDdwY2VMNjhwMmZrMFg1M0FLeG9aUDB6Zw?oc=5",
+      "datetime": 1789040514,
+      "summary": "A year after Charlie Kirk's death, Turning Point USA grows but Trump slips with young voters\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "NFL's Roger Goodell is playing the international long game ahead of league's Australia debut",
@@ -12220,14 +12282,6 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Algeria cuts diplomatic ties with the UAE - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
-      "datetime": 1789038577,
-      "summary": "Algeria cuts diplomatic ties with the UAE\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "COMMENTARY: Asia's oil industry wants Trump to leave the Gulf, but expects he won't - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm1IdXZwdFBoY28xel9yZ3VNRGs3a0RTbDhTb3ZDWEw0VFZqZE5mNVJ6b2theVp3Q2p0emhIWmZwLXc4ako5eDl3UzVWZkRaQ3RHX05VbkNhVkVxbk9ISXhLMjVaLTRHc1FDdHAxb1QxN2hYSldJUzVGYVhmeWNiRVV0UjNtcHdubFpKWVFYWDZ4OVBJRFRSREhvcVlYVjV0YnFwUTNKeDBvU2hYMEE5SWFubFFCZlhSMTFaUnJMY19oYnI5?oc=5",
@@ -12242,54 +12296,6 @@
       "datetime": 1789037768,
       "summary": "Macy's posted strong second fiscal quarter results on Thursday and raised its full-year guidance.",
       "image": "https://image.cnbcfm.com/api/v1/image/108359874-1788885738689-gettyimages-2286308570-dsc0123_macys02_07142026.jpeg?v=1788885769&w=1920&h=1080"
-    },
-    {
-      "headline": "Brent holds above $100 as tanker attacks dampen hopes for Hormuz traffic recovery - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5",
-      "datetime": 1789037083,
-      "summary": "Brent holds above $100 as tanker attacks dampen hopes for Hormuz traffic recovery\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Treasury yields move higher as investors await key wholesale inflation data",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "datetime": 1789037047,
-      "summary": "Treasury yields moved higher on Thursday as traders await the release of U.S. wholesale inflation data.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108311920-1779805922260-gettyimages-2278301221-mms24146_spltijn9.jpeg?v=1779805998&w=1920&h=1080"
-    },
-    {
-      "headline": "OPEC oil output falls in August, Reuters survey shows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZWQVVsSEY1MDZDLXRVM2g2N0t1bHJ1VXpWX3pScTFZak53OGQ5VVNxemw0Mjdrd1paNjRYb1YtdFlYN3RIOURKM00xZmc4eFRlTHk2cTNhODJKWW5TOS1BMEE1cVF2NTN5YjJaeHRRNFlBVHUwUU9CN0pyOEdRMHE0c2VtcGNvamRPVFd3OVVlTnFmV3Fobks2WlZJU21oRW44?oc=5",
-      "datetime": 1789036542,
-      "summary": "OPEC oil output falls in August, Reuters survey shows\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Pakistan says no military response discussed under Mecca pact over Houthi attacks on Saudi Arabia - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRW1PVVFpV1gtVzExVGJtc3V2Vko1OS1aQlFsb0pRam82WER6dXQ5anVPSTRzTmVrSmNUSmFncENWYVZ5WU1CLTc0OVp4RGY4R0cyU29lZ0QxdzFCVWc2UVRwS0Fpbk5VcDQ3cC0wTW4yZktsdk55blg0VFRCZWg4S0RpVDFic0J0Ui1zbU83MG9ZS3RKX19QRkxfbE5sZ013dms1Y3UybVdJbVhuanc1V01QUlZhWHpQR0NPUGEwdU15Q0UyeGc?oc=5",
-      "datetime": 1789031710,
-      "summary": "Pakistan says no military response discussed under Mecca pact over Houthi attacks on Saudi Arabia\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israeli strike kills parents and two children in Gaza, medics say - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1BVbUJWZ3BnTEl4XzBYMjByVm0zb3dncFFidmQ4TWlrRVVOTkZYUGpzQllwVzQyUWZKUjBjQk12ZUxTM2FJTFRlb292d1JRZHZXMWREZ2Y4bVdMUGVXczRJa0NuYjZXQXd3dDJrajZFazAtcXNlQld6c0RjekV0N09RSU51Z3Fld1EwdFI5dm5tLU5aMERvTEVtcWlsOE5pS3BGQnRrZUt1U1FVSUZ1Xw?oc=5",
-      "datetime": 1789031263,
-      "summary": "Israeli strike kills parents and two children in Gaza, medics say\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "'Fear gauge' VIX is starting to attract hedges into historically volatile part of calendar",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/fear-gauge-vix-hedges-volatility-stocks.html",
-      "datetime": 1789029696,
-      "summary": "Big moves in Treasury yields over the past couple of months have led to a renewed focus on the CBOE Volatility Index and the Merrill Lynch Option Volatility Estimate.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108172683-1752671621281-gettyimages-2165732414-fintechv1_0007r.jpeg?v=1763389388&w=1920&h=1080"
     }
   ],
   "sentiment": {
