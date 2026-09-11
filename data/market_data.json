@@ -10264,6 +10264,38 @@
   },
   "news": [
     {
+      "headline": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
+      "datetime": 1789135014,
+      "summary": "Situational Awareness has been buying options positions in stocks including Advanced Micro Devices, Bloom Energy and Coreweave, sources told CNBC's David Faber.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&w=1920&h=1080"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "datetime": 1789132446,
+      "summary": "Stocks are still looking at a higher open after consumer inflation, excluding food and energy prices, came in hotter than expected.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080"
+    },
+    {
+      "headline": "Nonprofit received $2 million from Olivia Rodrigo and Melinda French Gates\u2014it wants to give cash to abuse survivors",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/abuse-survivors-nonprofit-got-2-million-at-olivia-rodrigos-festival.html",
+      "datetime": 1789131601,
+      "summary": "The money nonprofit Freefrom received from participating in Olivia Rodrigo's Daisy Chain Music Festival helped the organization hit its annual finacial goal.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360816-1788985691180-IMG_3751.jpg?v=1789068361&w=1920&h=1080"
+    },
+    {
+      "headline": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
+      "datetime": 1789131375,
+      "summary": "Yemen's Houthis reach strategic island at mouth of vital shipping lane\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
@@ -10277,14 +10309,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSU9CbFZHQ3lERUYxd1YyMmdlY3kzSGZ4bFpDamVkMUhqZVRVdXRHX0thb3FLYWYwX2xhUDhsRjZHSDZTVEJ2SFE0UTg3U3V6eEhzYlZIemZFYUdxNE5wVGo5UktZMWt5WFo2cWdhSGhNa0RPY0twMDZUU09tY004THY1Ri1KQk5NNkJocF9HZWJYLXNPeHZr?oc=5",
       "datetime": 1789123522,
       "summary": "COMMENTARY: Morning Bid: Take a hike\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Yemen's Houthis reach strategic island at mouth of vital shipping lane - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-      "datetime": 1789123222,
-      "summary": "Yemen's Houthis reach strategic island at mouth of vital shipping lane\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -10333,30 +10357,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSDFBSllVM3pZWVBqSlo3UGhUaVB2VXpyTXJMMUVpTmQ0U3NrMjVFblZDZHJnY3pKbHJ3S0l1aWRFMmJGYWR3eTBidlU3aksybDVpMWJxaXk5anI3OXYtREoxbXh3R0ZTZUJ2cklkQVlmNi1YX0Rz?oc=5",
       "datetime": 1789106580,
       "summary": "UK economy grows by most since early 2025 on possible AI boost\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "South Korean, Iranian foreign ministers discuss Strait of Hormuz, Seoul says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWYyU1hhQWhiN21Nd2tXNGxEZjdKQmFhbWlpRDNiZVdLZk45YzM3T2NOcUd5ZVAtUVozN2tsak9aYzBIX1BFSndGM3Vsa255UktpTVhhS0JqVWI3U0JJSTlNRU51eVpHT3dwcC1QNnVkbUlGTm0zZUJ1UFBaWVpVazgwZXFKSXVUYVEzNGhxNDVLWXJVSHZPMHVqUHVCNUNPNWZFeW5veHMxb0tielkxZFRmclVocmdXOXVjNFlRNWQwSm94?oc=5",
-      "datetime": 1789106400,
-      "summary": "South Korean, Iranian foreign ministers discuss Strait of Hormuz, Seoul says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Trump declines Saudi crown prince's call for US strikes on Houthis, Axios reports - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnRRY3VzRTctZXFzVUl1VUg5NHlqeTFwdUR2NXJZcmNNTzdmSFBrbWJseno3d1hVUElZQ1ozUUYwVXJwX0paZmdFUk4tZGdyb0gzUzhRTzFiTXAxT3VMM0tLTTBiUHUtOXBTeUVmZzdyYWhtdWlHNmdLOGtMX3dUbTdwUTRadllYaVFhRFpZakpfWnJtNFFOLWdlY1JaY3U5YjQxMlhVcUktd3hHRms1MlFKWWY?oc=5",
-      "datetime": 1789102200,
-      "summary": "Trump declines Saudi crown prince's call for US strikes on Houthis, Axios reports\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hormuz shipping traffic falls to single digits, data shows - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXNiYVFqaWhNQW1zamxmTm9HMEtQSFZhUDAzX3pEVzk2NnJleHYwNDFXT1YyeWRUS3ZGOHhIbmRGd0NoNVVIenZhUTVrWnd6VzdFbWs2RnVKTi16Zk94TDkzRU9qcDhuY0UtU293SDAwUVk5Wm40UVpzWEFFZm1JZUxuOE5fUkg1Q2VfeEdOX2hNeEVsRjdCTWZXS1lRdGVsZm1sa2RQUC1GYjNG?oc=5",
-      "datetime": 1789098480,
-      "summary": "Hormuz shipping traffic falls to single digits, data shows\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
