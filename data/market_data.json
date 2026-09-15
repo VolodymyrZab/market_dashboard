@@ -9306,6 +9306,54 @@
   },
   "news": [
     {
+      "headline": "Airfares, gas and hotel prices were up this summer\u2014Americans traveled anyway",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
+      "datetime": 1789482601,
+      "summary": "If the fall travel season looks anything like the summer, costs for flights, hotels and gas will be higher and Americans will still find money for vacations.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362678-1789416458034-gettyimages-2200625695-business_57556copy.jpeg?v=1789416464&w=1920&h=1080"
+    },
+    {
+      "headline": "What to expect from stocks and bonds if interest rates remain higher for longer, according to investing pros",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/what-higher-for-longer-interest-rates-mean-for-your-investments.html",
+      "datetime": 1789480802,
+      "summary": "Higher interest rates are typically viewed as dicey for stocks but also mean you can earn more on your fixed income investments.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362760-1789423401356-gettyimages-2067544688-120_0124_128766.jpeg?v=1789423428&w=1920&h=1080"
+    },
+    {
+      "headline": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSExSUVU1Q05HQlpsVG5mSngtVTZFUkYtV1dhYVNqZDdFTTVvWWsxU0d5SUZWV1luUXJXMG9Hb1JKeU9MSTdzb3I5MDZEWVlzZWMzN3dQRHNMZk5nSzIxSW1KWGFvMkVHSlYxdnowc2x3c2xPamVScEhCYXhBS0VheDd6VFR6SkZ4SkROR1UwQi1BR0dCdUd3T1FZYnhrc2ZqTTdvMkRJZzhGZUluRHRJ?oc=5",
+      "datetime": 1789478219,
+      "summary": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "datetime": 1789478094,
+      "summary": "We're headed for a slightly lower open today.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108355819-1787935047563-108355819-1787932538588-_05A6269.jpg?v=1787935061&w=1920&h=1080"
+    },
+    {
+      "headline": "Fed up with AI interviews, some job seekers are dropping out as candidates and blacklisting companies from consideration",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/job-seekers-refusing-ai-interviews-blacklisting-employers.html",
+      "datetime": 1789477501,
+      "summary": "AI-driven job interviews, without a human present, are a dealbreaker for some job candidates, even in this tough market.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362122-1789168291193-AI_interview_hostility_v1.png?v=1789405615&w=1920&h=1080"
+    },
+    {
+      "headline": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGhFMHZVNGthdVl1bjYza3ZOWVpRY3ZMS1JmZkgxVnJTWGRhZFdFS3JfYk1nX2Y1Nzl3RlZDN21lWFA3b0xUU1E3UkdZR0hPQXNXdG5seEhsQ0hUR1gxVnZCWHFpTXdQdGhGQkFKTFd0cW80QUNBdnpXYzdOX25zZEJpN2lkOW1IWVlnc0RZNDk0cGgzSTlNYXFaMS1EcUJTM0ZUUjlhS0FLV0NrbGtsM3BKOVlFOWdFUi1sbGQtWmRqX3ZsODdPczRYRUw?oc=5",
+      "datetime": 1789473532,
+      "summary": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
@@ -9320,14 +9368,6 @@
       "datetime": 1789470393,
       "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
       "image": "https://image.cnbcfm.com/api/v1/image/108318068-1784661914756-108318068-1780921564776-gettyimages-2280481266-jr_11057_ghbfkref.jpeg?v=1784666744&w=1920&h=1080"
-    },
-    {
-      "headline": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGhFMHZVNGthdVl1bjYza3ZOWVpRY3ZMS1JmZkgxVnJTWGRhZFdFS3JfYk1nX2Y1Nzl3RlZDN21lWFA3b0xUU1E3UkdZR0hPQXNXdG5seEhsQ0hUR1gxVnZCWHFpTXdQdGhGQkFKTFd0cW80QUNBdnpXYzdOX25zZEJpN2lkOW1IWVlnc0RZNDk0cGgzSTlNYXFaMS1EcUJTM0ZUUjlhS0FLV0NrbGtsM3BKOVlFOWdFUi1sbGQtWmRqX3ZsODdPczRYRUw?oc=5",
-      "datetime": 1789469264,
-      "summary": "Amazon's AWS is unable to restore access to Bahrain, one UAE cloud data zone after war damage\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "China's August oil throughput rises as fuel exports rebound amid Iran war - Reuters",
@@ -9360,46 +9400,6 @@
       "datetime": 1789438620,
       "summary": "LNG demand in China, India and Pakistan expected to rebound after US-Iran war ends\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Bonds slump as US 10-year Treasury yields hit highest since 2007 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
-      "datetime": 1789436640,
-      "summary": "Bonds slump as US 10-year Treasury yields hit highest since 2007\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5",
-      "datetime": 1789430640,
-      "summary": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUV9iZ1hvNXptVGtUeEZ2X3Q1bkxtdm93Zm1neUNFdjlKM3Y2eElENzhEbHNpMFRRUXlGaWtUakU1al9wM3gtanR4R05saV9fWXVmNXlOWFUtQkpvRnJBbDdybE5CdVJtUmFRVDdLazdXRGljQUVVa0xpcUEzWHNpUEd5ZEhjOUlQMVMzY2hnamY1endIa0RZbFRlM3pKOUUx?oc=5",
-      "datetime": 1789420327,
-      "summary": "US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
-      "datetime": 1789414450,
-      "summary": "Billionaire Dangote launches oil refinery 'people's IPO', Africa's biggest\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html",
-      "datetime": 1789414049,
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080"
     }
   ],
   "sentiment": {
