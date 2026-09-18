@@ -6009,12 +6009,36 @@
   },
   "news": [
     {
+      "headline": "Caviar and champagne: Air France's luxury shift helps ride out Iran war impact - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRi1pY1Bqc1lTWGhEbU5ydjdqZFVDQ2RYb3NidmNYTTc4Mkw2WkZFbXNqWlEzS0FVN200UjgwWElaWFlWcTRPSXRIN2Z4YmVDZ2dJdGZ2cnJWMDA4NUNVUnoxS3RuV2IwNDBZVjRSaGFFMTZ6Q3hUeF9fdEg4MEg4VVBtT2hyLTllVmw2QmRCNlVJY3IyVTEzM2hwbnpKTVVnN2hwem9wZmpFQUpaTHpEQTJtUkxnRC1Jc1RFX2Znem1IVmth?oc=5",
+      "datetime": 1789740223,
+      "summary": "Caviar and champagne: Air France's luxury shift helps ride out Iran war impact\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "datetime": 1789736939,
+      "summary": "Bonds are misbehaving, and Apple's iPhone 18 hits stores today.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354004-1787676180476-gettyimages-2290721706-zawrzel-economya260810_npjvR.jpeg?v=1787676253&w=1920&h=1080"
+    },
+    {
       "headline": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
       "datetime": 1789730925,
       "summary": "Nestl\u00e9 is assessing its options after Russia placed the Swiss food giant\u2019s local assets under temporary external administration.",
       "image": "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080"
+    },
+    {
+      "headline": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUExZWpSNWc5WFNGWkZ0Wkt1V3FHN0ZSWmc2eTlnVTJkMjkwTGpKT2ZON3AtNFppRm9EUWtaVGY1MHNOaTJPd2dQSFk5STdTN0pMUU5kWF94ZE1PdWRmOXJ2Z1dfZmF2N3VxekRoTXJkVjMtVXd3N3AzTlNZVkdwdzFvOFRyMldtZkVDRGgyb1ZiWk5LVXNlMUlncXZIT1J5djBEd3VpcG1URlVnaWQxaW40VTRabktxQVhiQmUzRDdFcUNmT1c3RTJtZFVnYkU?oc=5",
+      "datetime": 1789726041,
+      "summary": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Parents are interfering with teens\u2019 first jobs. Here\u2019s why employers say it can backfire",
@@ -6025,83 +6049,59 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108348691-1786561873482-Lifeguard_Duty-1048717344-Getty.jpg?v=1786561964&w=1920&h=1080"
     },
     {
-      "headline": "Jet financiers fret as Iran war pumps up fuel and borrowing costs - reuters.com",
+      "headline": "Jet financiers fret as Iran war pumps up fuel and borrowing costs - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjdxellSQnUza3c3bW9obVhsNHRrOGdzOXZDNDE1S3BOdkpDa1F0bXNVSjhtejlCeE9reHRlck9HSDkzaWltX18waDJocjdURFBOV1ZQZlZaNEJQQnRzNVZMQ1Vjd2gyUEZkUkhfVFp4YkVkTTdXM0Z3QmZnbDYtLWlsRldiZkZnQkU2Mm5ob2luem5OSkh4cGFXdVNUdktvQzRJRmFCV19fMkgzcTBnYQ?oc=5",
       "datetime": 1789723223,
-      "summary": "Jet financiers fret as Iran war pumps up fuel and borrowing costs\u00a0\u00a0reuters.com",
+      "summary": "Jet financiers fret as Iran war pumps up fuel and borrowing costs\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "As Iran war grinds on, Trump to face skeptical world leaders at UN - reuters.com",
+      "headline": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5",
       "datetime": 1789707780,
-      "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN\u00a0\u00a0reuters.com",
+      "summary": "As Iran war grinds on, Trump to face skeptical world leaders at UN\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high - reuters.com",
+      "headline": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnFaY2NnUy01cTdSa0g0N05CaHpYcGF3QjBfSGpLMlhRWllYQWVmT0EtOE81bUVBbVBEMlNBODFDdHdHd3o2SHpFdFhWUWlQRXdEbDgyTFY4TlZjT3hvRi1mMFo4TWZrZTg3UWhiRTNMTTd1QXNReEdsYnlFNlNLYnZqVGgyN3NBTlNzN2pBSWdQQjI1VkdRWlBfVjlBN1RiMzRwN0dKREVnSnUwLWc1NW9rQ2NKWDJxNUxmNzFaeEs2VWc1R3JpN1FB?oc=5",
       "datetime": 1789704840,
-      "summary": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high\u00a0\u00a0reuters.com",
+      "summary": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Hormuz traffic below 10-day average, LNG vessels reappear outside strait - reuters.com",
+      "headline": "Hormuz traffic below 10-day average, LNG vessels reappear outside strait - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUxiUzdsYTJRdFoyOG1oY0FHU0daRGxzTzhwQVhiYXg1ZUpEVDM4Rk1td01IZEV2Z0VDVVlTY0hHTElnTnZ1cnNuMWxDWUZCWjNhYmpZVkN1bFAyZ1RtT0xQVko0OExlUm9wc3lFNjZNNnU1eE1DcjlmTkZQY2ZuWkFvUGEwTnNZOVhqdmh1dlRsZk1nd3I3emo1dnRybG51Z09xMTR4a3lPak9WbDFsd25qTVEtSFVVTmpKZkZ0OUlFYXpT?oc=5",
       "datetime": 1789702020,
-      "summary": "Hormuz traffic below 10-day average, LNG vessels reappear outside strait\u00a0\u00a0reuters.com",
+      "summary": "Hormuz traffic below 10-day average, LNG vessels reappear outside strait\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "South Korea's Lee says will not deploy military to get involved in Middle East conflict - reuters.com",
+      "headline": "South Korea's Lee says will not deploy military to get involved in Middle East conflict - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
       "datetime": 1789698360,
-      "summary": "South Korea's Lee says will not deploy military to get involved in Middle East conflict\u00a0\u00a0reuters.com",
+      "summary": "South Korea's Lee says will not deploy military to get involved in Middle East conflict\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Oil prices set for weekly fall on easing fears over Saudi supply disruption - reuters.com",
+      "headline": "South Korea's Lee rules out military involvement in Middle East conflict - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGtCTnFxZUpSMHE0YWJXbHNobk8yRzAzX2E1aDF0SUdTa21YVlNyN3lXSlJabmdyUXR5X1NDLUozR0pKbU1UaGFhbkVmU2p3M1RJeGx1MUJEdnp1cDJhbkVFTEc3aktid0J2Y1lrcGVCbmxNVjFWVGdaUGhhZlU0aF9jTWd1VEpRYnRZWW9JMkVCTzZJVGVFYXFyLXJEYTdFMy14dTc0QUZyVmZzY3pEVmxHdFNyV3c?oc=5",
+      "datetime": 1789696500,
+      "summary": "South Korea's Lee rules out military involvement in Middle East conflict\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Oil prices edge lower on easing fears over Saudi supply disruption - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
       "datetime": 1789693260,
-      "summary": "Oil prices set for weekly fall on easing fears over Saudi supply disruption\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
-      "datetime": 1789687407,
-      "summary": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Jim Cramer says history offers a playbook for navigating a Fed rate-hiking cycle",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/jim-cramer-fed-rate-hike-investing.html",
-      "datetime": 1789685908,
-      "summary": "CNBC's Jim Cramer said investors shouldn\u2019t assume stocks will struggle for the entire period.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080"
-    },
-    {
-      "headline": "China's Djibouti base upgrades should boost its monitoring reach, report says - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUW1WdlNaai13LUY1bEpxN3dqSTJLcVB5dUdmX000eUVMZVB1UHZkUXhVQWNZVURtVUVibUllb18wNEY5NGVyS2JRSVdKQng1M0lNWUR0LVJUdHRMbEl0SnFMVVBGcFIwR0hVYWpZdHdndFhTZWNIQkt0RGxuOThPY3RycHV2MDBjM1VkMXptSThmRjZhU1lXYzR1NDZSdlZsMjF6NmRQMzlHWEtGVTRIczBZLXNIOWNzM1NEQXBOeDM?oc=5",
-      "datetime": 1789681020,
-      "summary": "China's Djibouti base upgrades should boost its monitoring reach, report says\u00a0\u00a0reuters.com",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US to allow Iranian leaders to attend UN General Assembly - reuters.com",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlRxdXlUU25MV1Q5ZThqV29lYjBpb1Y0V2MwV3RqZFNoR25hS2ZUX0VpR0hENmZIMlRPWWxGS1p1WUJmNktPZ0ZMWE8xSGRQYmFOUHkwamNjVTFhZFdpSkUxUEhROGl4Y0Y4X05kcTM5QmxqRXVnRm9hSzNCWGZza2RNX1JqYmJiLUJ3UUFFeHFlZVNQQ2QxbzEtbkF5MzlKSktFV3ZUaEdMdTdOdy1rMU9CYWxlRG81SlM0Zg?oc=5",
-      "datetime": 1789679292,
-      "summary": "US to allow Iranian leaders to attend UN General Assembly\u00a0\u00a0reuters.com",
+      "summary": "Oil prices edge lower on easing fears over Saudi supply disruption\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
