@@ -7723,6 +7723,62 @@
   },
   "news": [
     {
+      "headline": "Democrats lead the polls. Republicans lead in cash heading into the midterms",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/republicans-democrats-election-fundraising-2026.html",
+      "datetime": 1790088656,
+      "summary": "Republicans hold a $103 million cash advantage across national party committees as the fight for control of Congress enters its final six weeks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272809-17725528062026-03-03t153158z_1980154696_rc22xjad02v7_rtrmadp_0_usa-election-north-carolina.jpeg?v=1772552824&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump to use UN speech to defend Iran war, tout peace efforts - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
+      "datetime": 1790087772,
+      "summary": "Trump to use UN speech to defend Iran war, tout peace efforts\u00a0\u00a0reuters.com",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+      "datetime": 1790087542,
+      "summary": "Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes\u00a0\u00a0reuters.com",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Watch: Trump speaks at UN General Assembly",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+      "datetime": 1790087236,
+      "summary": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump will say, according to his prepared remarks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108202762-1758637947920-gettyimages-2236454967-AFP_76H98R4.jpeg?v=1758638007&w=1920&h=1080"
+    },
+    {
+      "headline": "September surge or October offload? Jobs experts weigh in on this fall\u2019s hiring trends",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/september-surge-october-offload-jobs-experts-on-fall-2026-hiring-trends.html",
+      "datetime": 1790084832,
+      "summary": "The \"September surge\" might boost hiring this fall, but the Fed rate hike could slow down the job market. Here's what experts say to do.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365792-1790015086327-gettyimages-2240292899-036a8150.jpeg?v=1790015102&w=1920&h=1080"
+    },
+    {
+      "headline": "Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN - reuters.com",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHFVWHVmRkJDV09JMHNSQ2RvNk5zS2NwN3lwZ3lNOFNLd0tUdjZHS09lMUhZdHBCWXZUQ1NJUHh5cUxmYlU4NjNTRGRtWDJ3UkFpb05jS1U2R2huempndzFvVEtqZmV1RjN2cTRJWWYybEpQSkptR2NjLWFySUtUeDdXMmdBd0N4dktqeGN6WjdTOGVfQXZJLVgyX2k1RTlzbDZncmktWlI?oc=5",
+      "datetime": 1790084762,
+      "summary": "Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN\u00a0\u00a0reuters.com",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Santoli: The S&P 500 is within striking distance of record as bull relies on familiar leadership",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html",
+      "datetime": 1790083315,
+      "summary": "Rerun generation, Gen X, seems obsessed with finding parallels between today's market and past cycles, Mike Santoli writes.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359842-1788882800936-Traders-Photo-MW-20260908-PRESS-1.jpg?v=1788882860&w=1920&h=1080"
+    },
+    {
       "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
@@ -7739,83 +7795,27 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108144398-17470837082025-05-12t205557z_968943746_rc2kgea6ublc_rtrmadp_0_usa-aviation-newark.jpeg?v=1747083769&w=1920&h=1080"
     },
     {
-      "headline": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda - Reuters",
+      "headline": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds - reuters.com",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-      "datetime": 1790076427,
-      "summary": "Trump set for whirlwind UN meetings with wars in Iran, Ukraine on agenda\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3h6S0hQdGMwNVRQaDNROUhRQkNQamszQ1IyRGRGdkhPeUFrTm9icnhRQlZicTdZZ01EdEpWTmFiOTk0UllMN2hQbUJkaElUWjZOWWROZk96eGZPVVQxOHV0U3VOU0YzbXZTVmNQVHRlUkFySURHeXJSdlZMUFpwWXdMa2tWRVp3dkRsWkhhb2NZbWRGa3pMejQ1QUNNMXFMTlVkc01IMTR2TzJiaU44QWNfVTNhUVBsdXd0WlVHcl8xUGo4NUV5ZVpsMA?oc=5",
+      "datetime": 1790076346,
+      "summary": "Global biofuel output to jump nearly 70% by 2030 due to Gulf energy crisis, study finds\u00a0\u00a0reuters.com",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEdfLVlEeU1GTjFkdDRlZ2NCN19kT0tNTEdKTnJBM29mNGk4OW9EMURHRm9WTEljdFBQY3Y1OTB6VnJBMFRMclpzV2xrV0M4NVMzZld6MlFJeHB1Rnp3Y01aVDJ4STB0Vk80bVE5X2JGaHRPeXlHM1h0WExNNHRlWEhuZkhjWWF0ajJYMGxsX0l1djRWYzRJbUZnbkpTM0k2LWZiT1AtWHA1QnhuajhwOVhjOExkWmNOcjkwXzJJTWJUWWlUazVtTDhR?oc=5",
-      "datetime": 1790072983,
-      "summary": "Iran ready to reopen Strait of Hormuz if US eases military pressure and lifts blockade\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "ECB, EU central banks oppose stablecoin bank deposit rule - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
-      "datetime": 1790072453,
-      "summary": "ECB, EU central banks oppose stablecoin bank deposit rule\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Saudi defence fund speeds up maritime sector push following Houthi advance - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWNNeVYtN1FzLTVSdXV0bkxULVlTcDRxV25FYjdwQV9tM0JmZ09KTHJpR2pjVkNYS0F3ck5kWnZQalJpdUJsN2x6QVdmVjVFZE1uSlZHUVVnWVZwNnVqWDFjU2NlRUgxaVBDQ3VQbWJJUHQ0eEdCZGJ2RmdXdVF4OEdDYUZJdVZSemtjTW14bDR0ZUpuYXdzc2NTVFlqbGVHNzhjZkdyN1NzSlVrTFNWamRLcEZGX3JPV2N4T01ybzZqNmRqR2V3?oc=5",
-      "datetime": 1790071185,
-      "summary": "Saudi defence fund speeds up maritime sector push following Houthi advance\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hormuz vessel traffic falls to two, data shows - Reuters",
+      "headline": "Hormuz vessel traffic falls to two, data shows - reuters.com",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXZjWS1OMHNhVnV5RklvMkdjSDBvbXI4TnRrNmJhVG9sTm1EdE9nSDJZXzJLeEtFOXQ2aGcwME5ncjNqRjBGYTJ6RFFDSDZDX2FWeElxLTF3emZMSUdPX3h0aEFJemh6V21ScXI3MVhCNERNa25CeVlZYTN3elVUbUQ0WWtTSm5NQVVXUDRhakFvU1lrY3d3RWRXMGQ?oc=5",
-      "datetime": 1790067943,
-      "summary": "Hormuz vessel traffic falls to two, data shows\u00a0\u00a0Reuters",
+      "datetime": 1790074663,
+      "summary": "Hormuz vessel traffic falls to two, data shows\u00a0\u00a0reuters.com",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Russia says Ukrainian drone attack kills one in its Samara region - Reuters",
+      "headline": "Consumer stocks lift UK indexes as investors await US-Iran talks - reuters.com",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUZGc3R0QWlvZG9mR3o3cTlMcF96eE14OXJkd29rRnRYRkV4djlSd24zN0lkSHhIN2hKbUFZQnh2UlJPOHhabDd1bjNHWkFUV3BzT1BpMHlBV08td0E4UExmWVgtVlFjVWVRcGlnOVcwT2FPQW5rcVdyQVRBUzFBT2FFQjdqWDRfcFhaM3RfM0RVT2NJZ093d25XWFVRTkNIQlVoU0h3NA?oc=5",
-      "datetime": 1790067343,
-      "summary": "Russia says Ukrainian drone attack kills one in its Samara region\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "China names Hu Changsheng as new Tibet party chief - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGFKVnhQN2tVX01XZXJKUk1MalJ6QVhwQ3pwMVp6VUdMMExuQlBDdFBRX3RVN1BnQnA4NFAwa042QnFNTUV5ZVl1TUdaNWlCb1h6OE9IaFBiTlRTNkoyRHE2Q0xBTnpYR0pnOXBuVmFrNzhmUXpvcjBuVzFEV0FJZ1lQMnlqbzBZUXFTOXhndDYzaXhkTHVoZnd0WQ?oc=5",
-      "datetime": 1790062306,
-      "summary": "China names Hu Changsheng as new Tibet party chief\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "South African rand subdued as investors eye US-Iran talks, domestic events - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXEzdDY5Y1k1d2JaWnZHOGFqNk5USC1QRVNlYUVQWklvTi1ibldrd2NfRDc0R2FYMmxCMGlsYWpBVmlUZ1BfU0VhcDJrcmV3RC1wSVhKci14T1NkUTZqOUExZWVlOUxLQUdCU2swdDEtNDZNSFFMWU5SazMyRVFHd2RKZTJ5dEstcmhFT1NBMFN4Ry0tWXVwY2V2cktOclJqOXJMS3Jlem9zM3ZMdmVldkpBd1pvbXV2ay1B?oc=5",
-      "datetime": 1790061849,
-      "summary": "South African rand subdued as investors eye US-Iran talks, domestic events\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India's PhonePe gets initial UAE central bank nod for payment licences - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ09TTHlmbG5mMFhMNWFLTEhQQk9vak1aMnRYdzVMZk9ZTWJQQUNoQzFnQTkxaUF6QWNqNC0wNFlqVUVyUjRpR1E0Q001ZmxFOUFJWmRfR21zdEw4SE40V1MwX0tjaGRVVld0ZWtQcGVRQWJYMERUVUFHcTM0MnZ5bkFCNllzbVQwZk1pRGxqa1NVaGJVSWlORVJaQVRubzE5S0d2NG5VYk5DaEkwbmVXZEhwRTdxYzhkemtB?oc=5",
-      "datetime": 1790059740,
-      "summary": "India's PhonePe gets initial UAE central bank nod for payment licences\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "No bitterness over World Cup omission, Azmoun says after Iran recall - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUJlc0NXVkdhZVR1bnVjclFRT2pjTnZMd0FkM2RSbUdjYlp1US1meGRDZTFRc25ZdEI0UU1Obk9NcjNkdUllOWlRa1Ayc09WSHA2Z3hYX3VaRnpud1pzaFhVeDYzODY5N0RtNGMtRXZ6ajhtRFJRZjJGRGIyVEtuX2dLZW1iRU9vUHh3bUpBVlUwWXpsVGJGbUdLX3FJcG1ZMHJMczR1ZVZlYUMxcXVFajZoQ1Z1TmJX?oc=5",
-      "datetime": 1790057460,
-      "summary": "No bitterness over World Cup omission, Azmoun says after Iran recall\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3JCUDhubW1Yb0o4bFpaMFdtVE9oYVVuUll5R0tpVS1YNXpjd285eWxWa1ZDUklJd0ZBNnZJdnJQdEVnZmJ6czA1TEYtMmFhNjlUcWZGeDdhMFdpNXRJd21TaWlmcjRiWTBHNEpDVmg2U0RicWlnUWNWRFkyUy01WXA4c09OREpKM2JNWUk5dHEyNDQ0SWM1U3BudkhJUENDWXVjdlUyRl9nZw?oc=5",
+      "datetime": 1790074089,
+      "summary": "Consumer stocks lift UK indexes as investors await US-Iran talks\u00a0\u00a0reuters.com",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
