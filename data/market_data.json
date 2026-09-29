@@ -9363,12 +9363,52 @@
   },
   "news": [
     {
+      "headline": "Cramer weighs in on Goldman amid CEO succession talks \u2014 plus, Boeing bounces back",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/cramers-take-on-goldman-ceo-succession-plus-boeing-bounces-back.html",
+      "datetime": 1790698092,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108255732-1769094884456-JogLU8aw.jpg?v=1769094964&w=1920&h=1080"
+    },
+    {
+      "headline": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+      "datetime": 1790696208,
+      "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368771-1790604797543-gettyimages-1756958183-ln1_9011.jpeg?v=1790604839&w=1920&h=1080"
+    },
+    {
+      "headline": "Iranians stagger under soaring costs of seven months of war - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkZiODJvYlVSWTFTXzU5NnY5dV9vQzAya01EME94cUZRdmtITkpwTnR2UWVLX0gtY2hOX0k5bE1mbUpSSjhGMU43NDRqQkJJaWVVVmt6d1p3cmJnVGdJQkg3U0RtUTZXVDRzVUNJdnB3bDdiUmVLTDF0ZXc1a3FnTi1qMVNOZUxxeVFZR1JxbDZUaFVmT2RIWDlTN292SFBUZlVYUDZwNG0?oc=5",
+      "datetime": 1790694618,
+      "summary": "Iranians stagger under soaring costs of seven months of war\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iraqi Airways to resume Iran flights in October after securing 'special exemption' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmhrZmNPS2RtZVBMZVFTS1F5NXZkbFpybE1oQzVOWHN5aDh6clVJQk9CY0xnV21HUGotSHNFQmh3Z2NQOGVzU3RJZkhjaTVSYWNpNGs3MW96dk1DZ0w4eml6OUIzaWhnVThqWjR0azJfc0xaN3B4TGtYME9ya2dHWHUxcHcxZ081dEZfMzlXdkF0MW9iOHVnWHpWS3FUQ2pOOS10WHRIMTRERVpneTE3aVpjOFlvRWtKSHFzQkFab3hDUHlVWmV3?oc=5",
+      "datetime": 1790690296,
+      "summary": "Iraqi Airways to resume Iran flights in October after securing 'special exemption'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
       "datetime": 1790688176,
       "summary": "No diversification needed: The 10-year total return stocks minus bonds is near the highest in history.",
       "image": "https://image.cnbcfm.com/api/v1/image/108368839-17906098212026-09-28t153554z_61414151_rc2dsnapy77x_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080"
+    },
+    {
+      "headline": "Most Gulf equities end lower amid cautious response to renewed US-Iran talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkFOX3FoaXBxc3NzemVSOHlWaFkxQnd1Wl9pOVd1TmZEMWZSTkZfckRiaEpzajRZNWM0bkFPREZXME93cVlBZU9rT25yZ0hMTDd6OHdNZWM1WlJIYlE3Z3U0ZXI5MU5NaVBucjRVQTJyVjdSUHh0ZHBrNTdfRnVnaWl3VUJDbFVRa3VoaUs1NG9yVURNUHRvSUxpNW1QM3gwZzBjaVJMUnlCaTZzY2k1aU1TeWNyTTUx?oc=5",
+      "datetime": 1790687790,
+      "summary": "Most Gulf equities end lower amid cautious response to renewed US-Iran talks\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
@@ -9395,6 +9435,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108353964-1787672944507-gettyimages-2280291162-ANTHROPIC_CIRCUIT.jpeg?v=1787672973&w=1920&h=1080"
     },
     {
+      "headline": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGhLcllsckhTZ1ZsYzVwdzc1V2p5UWhmZFpSa2xJbVhmNTJXckNxVTE2ckkzcGl0N25US0JaTjFId1hMZHFSelBoUWx0Y0VvNEZlVWstOWp1b2F0Wm5fOEZVNW1GRkIwbHYyaE1QSmRkSnpuNVo2UkJ5SHZpT094a0xkcmFKaE5GLU53U3hPTlVqWjFoNjRMUWY5cWRyN0pxa3BhUGU3My0tNEN4bTE1MTVVZXVKQTNTTG1FYl9oNE1MLVBUUkVCSHRIcS0?oc=5",
+      "datetime": 1790686486,
+      "summary": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Iran's Revolutionary Guards woo US voters with open letter - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3kyQVh0R2pNWkIyZVVNZUxZWHJTVVhrWkhYbmtSWTR2Mk9xT0UzcGYwRGkxMjRpSFBOaWhWaUN6SE9uTkhha2tJbUcwejRlZHpCZk1Icy1jX1h4VUNqVlRyWnFrRy1GbFdiU2U4emhaZWVFaHdwVzlxNDNTVVVoM2tlVlBQMFJWVjlpZlBCSThIalVGVDduaV9LU1lSeDdNX0E?oc=5",
@@ -9409,54 +9457,6 @@
       "datetime": 1790683537,
       "summary": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
       "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&w=1920&h=1080"
-    },
-    {
-      "headline": "Rubio says UK airbase incident involved a foreign state - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORFpiaUU2ZUhub0d4T044ZzdtZEhwSklBLXRIMk9RWk8wMUlSUElhV0FydEMyN3R4enJjVmttUS1Cb0xoeklqQmMwOG9Rb3F4Mzd1bmtXSHRVM0ZKSWE3X2oweDN3emF0SHpnXzhGbGJpSUg2Nk0wNlZlUTlLNl9SRU4tRWdqNHp2WHFpck5ha2s3SXhfNk0yREVTak1RQWM?oc=5",
-      "datetime": 1790677541,
-      "summary": "Rubio says UK airbase incident involved a foreign state\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Nominate a leader for the 2027 CNBC Changemakers list of women transforming business",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/2027-cnbc-changemakers-nominate-leader-women-transforming-business.html",
-      "datetime": 1790676924,
-      "summary": "CNBC is now accepting nominations for its annual Changemakers list of women leading and disrupting in business, from the S&P 500 to sports and philanthropy.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108130161-1744300984020-NUP_207394_03487.jpg?v=1744301546&w=1920&h=1080"
-    },
-    {
-      "headline": "Trump denies offering Iran sanctions relief, Tehran says it is ready for talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNDSVp4Qi1GQVY3bEJ2d0dpZzVBbEU4NUpYQzBpV2QwaW9uVGdwdHJnQkstVFlUSTNRazRHaUVFOVFWOTJXRjhnS2dncDBNLVVsa0JiWC0zN3ktZXdvV0tWN3FrakF4aUZIX0w2RjMwVHJWc0lBZUpYU09SWmsyUmdQd3dJdXh1N3lTb1pDZ1ZEYkhOUTVPV0lhak9YM3ZxTm1vR1BmRnFnZjNUMWF0M1NabHhLblkxd05FM3dn?oc=5",
-      "datetime": 1790664300,
-      "summary": "Trump denies offering Iran sanctions relief, Tehran says it is ready for talks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israel kills senior Hamas commander in Gaza strike - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlNQRWEzNEg3UzNvTHdIM1B1TEFCd1hQWUZwS2Z3UGRNaXJVQXlyU2lUWmhOV2xaWDgtVTloQWl6ay0yTW80emxfQ255TnN0NjBYQzlUR2xYVTFJSlZ0ZUdkMDV2bjJFclg3RWFmSEJDUGxXYWd6YXdpY1VmUlBxanVwemhHSFJLTld1UU5iNzBUd2ZwQzBtZVlxY1RVVFZ5NnRPTUhOcHljc1Fj?oc=5",
-      "datetime": 1790663940,
-      "summary": "Israel kills senior Hamas commander in Gaza strike\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5",
-      "datetime": 1790661900,
-      "summary": "US forces exit Iraq after two decades, leaving opening for Iran\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Battered bond market braces for a new era of interest rates - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
-      "datetime": 1790657220,
-      "summary": "Battered bond market braces for a new era of interest rates\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
