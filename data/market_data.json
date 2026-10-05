@@ -6349,6 +6349,30 @@
   },
   "news": [
     {
+      "headline": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+      "datetime": 1791225792,
+      "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108126887-1743790425897-gettyimages-2207863979-776305461sb01.jpeg?v=1747159112&w=1920&h=1080"
+    },
+    {
+      "headline": "Nvidia looks to take out its record high close \u2014 plus, don't worry about Intel's dip",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/nvidia-looks-to-take-out-its-record-high-close-plus-dont-worry-about-intels-dip.html",
+      "datetime": 1791224731,
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368701-1790598712807-108368701-1790598543513-jensen3.jpg?v=1790598750&w=1920&h=1080"
+    },
+    {
+      "headline": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html",
+      "datetime": 1791217798,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363230-17894969232026-09-15t182809z_1396824136_rc2ujnangc2w_rtrmadp_0_tech-ai.jpeg?v=1789496953&w=1920&h=1080"
+    },
+    {
       "headline": "These are the cheapest and most expensive U.S. flights this November",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
@@ -6419,30 +6443,6 @@
       "datetime": 1791038431,
       "summary": "David Robinson, formerly leading OpenAI\u2019s safety transparency efforts, wrote in The Atlantic that ChatGPT maker \u201chas thrived by trial and error\u201d",
       "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png"
-    },
-    {
-      "headline": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
-      "datetime": 1791036001,
-      "summary": "Gen Alpha kids are earning and spending their own money. Parents can use savings, investing and education tools to build healthy habits.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108371281-1790880196159-gettyimages-1400704404-ma93692.jpeg?v=1790880233&w=1920&h=1080"
-    },
-    {
-      "headline": "Portugal prosecutors probe legality of US use of Lajes base in Iran war - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalVaWllxS1FsVThCWHF3bXZTLXVRNWNhMTdNaERvemRJSWRtZU1iRHNTN19WSGt5THpaRjZpZkE5OGtMYkZPY3JOSG95ZlF3TU10M05VYkdCMHJ0bW93dlk5THJmYm9pM2daU1VteXJKWnp1bm5GSDBobkZyUDBzNDNkaExRSElQSG9zR3hfNFFtazQ4Y2ZtWk92a1NXZXRRbUd1Y0ZQOA?oc=5",
-      "datetime": 1791035715,
-      "summary": "Portugal prosecutors probe legality of US use of Lajes base in Iran war\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Fire, smoke seen near Aramco facility in Riyadh, witness says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1?oc=5",
-      "datetime": 1791034690,
-      "summary": "Fire, smoke seen near Aramco facility in Riyadh, witness says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
