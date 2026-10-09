@@ -7424,6 +7424,54 @@
   },
   "news": [
     {
+      "headline": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/09/cramer-investors-selling-apple-on-iphone-report-are-stupid-as-plywood.html",
+      "datetime": 1791564180,
+      "summary": "Cramer says investors who don't own the stock should use Friday's weakness to build a position.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365128-1789759496314-gettyimages-2295295597-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080"
+    },
+    {
+      "headline": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+      "datetime": 1791563204,
+      "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108252686-1768430174745-gettyimages-2255691654-verizon_08_adjan25.jpeg?v=1791561569&w=1920&h=1080"
+    },
+    {
+      "headline": "Four signs it is about to get uglier in the bond market as yields rise - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
+      "datetime": 1791562715,
+      "summary": "Four signs it is about to get uglier in the bond market as yields rise\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Jim Cramer sets a Starbucks buy level \u2014 plus his take on 3 stocks we just bought",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/09/cramer-sets-starbucks-buy-level-and-reviews-3-stocks-we-bought.html",
+      "datetime": 1791560835,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108259664-1769793014361-gettyimages-2258479926-NICCOL_INTERVIEW.jpeg?v=1789055210&w=1920&h=1080"
+    },
+    {
+      "headline": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
+      "datetime": 1791558473,
+      "summary": "Common Sense Media released its report about ChatGPT for Teens' new features, concluding the tool does not meet the safety standards OpenAI set.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374311-1791397647575-Teen_Girl_Using_Phone_While_Preparing_To_Do_Laundr-2185461236-Getty.jpg?v=1791397917&w=1920&h=1080"
+    },
+    {
+      "headline": "Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5",
+      "datetime": 1791557814,
+      "summary": "Houthi strikes on Riyadh airport killed three Saudis as war escalates\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
@@ -7470,54 +7518,6 @@
       "datetime": 1791550892,
       "summary": "Stocks are bouncing this morning after yesterday's sharp tech-driven selloff.",
       "image": "https://image.cnbcfm.com/api/v1/image/108114154-1741710289993-gettyimages-2203965898-porzycki-starlink250311_npDzQ.jpeg?v=1741710333&w=1920&h=1080"
-    },
-    {
-      "headline": "Houthi strikes on Riyadh airport killed three Saudis as war escalates - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEFCQWZhWGJXa25ZeDBOZlE3b3RWQldSSUM5MmRDd1JqdFNvbl83R19nc014ek1YTW1iQlBqbW1paUlManF3UzlNT21BTl81cG5NNGQ5MWhWOWZOMnpQamN6TmxrUFVLVXRCaTl2T0JYclhVc3dvLUpNeG5wY3JSci02OHVtWmRpemp2UExRUGRoTnpyN3lKUGlRQ3FHdS1pZDNvNVM0bWE2djAzNzNvNTg4RVdXVEhw?oc=5",
-      "datetime": 1791547044,
-      "summary": "Houthi strikes on Riyadh airport killed three Saudis as war escalates\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Ferrari\u2019s chairman is bullish on AI. He\u2019s less certain how businesses will cash in",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
-      "datetime": 1791546861,
-      "summary": "Ferrari chair John Elkann played down AI bubble fears, but acknowledged investment in the technology could outpace revenue generation.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108004801-17207223822024-06-21t132508z_2022917932_rc2lf8ahpeu7_rtrmadp_0_ferrari-electriccars.jpeg?v=1720722449&w=1920&h=1080"
-    },
-    {
-      "headline": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
-      "datetime": 1791546844,
-      "summary": "Despite the growing backlash against data centers, Kalshi odds show the buildout will continue to expand.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108372637-1791214004973-gettyimages-2298703473-mms22918_t6qdvpdy.jpeg?v=1791214175&w=1920&h=1080"
-    },
-    {
-      "headline": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
-      "datetime": 1791544322,
-      "summary": "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409569-1714667126496-107409569-1714666951042-gettyimages-2150563183-AFP_34QN2VN.jpeg?v=1714667145&w=1920&h=1080"
-    },
-    {
-      "headline": "Bipartisan majority of Americans blame Trump policies for rising costs, Reuters/Ipsos poll finds - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXotRVVHVGluZXJPazBzWGR5YjdFcjFVVWdvZS1Ib2FVNEJoSmdkcTAweHllQzR3STl3RHVZUkYzNy1hOWlPSGZIWG5pNEpvcXBpOGNNNmsxbG0tRllvSjVlRFVwalRsbnhxWV9pSm5Oby1pSzVtUnhYN0RwQmxDMFVmVWRaMXNoTmxGN1ZOb1dVUTY3M0dmS0dZbWh1X2t0RnAwUksyZDlWakFjQUl5TUFOLTBCTTFCYlFmV1J3?oc=5",
-      "datetime": 1791543689,
-      "summary": "Bipartisan majority of Americans blame Trump policies for rising costs, Reuters/Ipsos poll finds\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Four signs it is about to get uglier in the bond market - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-      "datetime": 1791541788,
-      "summary": "Four signs it is about to get uglier in the bond market\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
