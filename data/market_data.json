@@ -6009,11 +6009,43 @@
   },
   "news": [
     {
+      "headline": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/bear-to-bull-a-double-upgrade-of-salesforce-illustrates-the-folly-of-the-saaspocalypse-.html",
+      "datetime": 1791834619,
+      "summary": "Jim Cramer said bets against Salesforce were always wrong.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353411-1787591101647-gettyimages-2271704570-US_STOCKS.jpeg?v=1791803914&w=1920&h=1080"
+    },
+    {
+      "headline": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
+      "datetime": 1791830878,
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374361-1791402786453-gettyimages-2298479306-MICROSOFT_NVIDIA.jpeg?v=1791402821&w=1920&h=1080"
+    },
+    {
       "headline": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJ0NVNWU296YXNLZ1BDNC11S1V3MW5uY1ViQ2M3VmZ4eVZVLWtTT2x4MG4zOGJncUVrOFFyZkcwekpYZXpWRWhvc0lxWkhveHU3MmV0VW03dEo1RmN4dzVhSVFWajBzMXlZVDFQWXRkQ3V3eFdVTDdadFpJNjFCVzVlQ05WMkYxZEpmelV6RDdBaWhSN19YVDJROXcySFo0anBOWTNQYk81TENDaUY4?oc=5",
-      "datetime": 1791821147,
+      "datetime": 1791825145,
       "summary": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "What's in the diesel deal between Putin and Trump? - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVYyWUE3V0taZldlY0hsb2o0Rko0Y0QxTGJrbk80SHhyT3VKcWR1LTNfMFFEcEowbklSemZfRHp0Vk51cTBIQWFxNTBMSGZWTGZJejR4TUtoN1V6NGpWcnJtZWhScXY2MGotd1E4eW05UHd1cVZWb3NJLVI2NXl0QnJlRWlMeW1sVVFKSm1mQnBUd29yZVE?oc=5",
+      "datetime": 1791820803,
+      "summary": "What's in the diesel deal between Putin and Trump?\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
+      "datetime": 1791820091,
+      "summary": "Trump defends Russia diesel deal as lawmakers from both parties complain\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -6049,6 +6081,14 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "Saudi Arabia faces new missile and drone fire after major attacks on airports - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjQ4VHZvYkdYQm9yVEk1YjFFMmpzdkZlZURhdnpYUlNHTl9KMDZrbVFMSXB6WGRlU2ZIb2NnZm9yMjYwb2hYTnh0YnBrc2RkWWs0MzdxX01TUzllWERDajRXZHhxVXFIVmJhX0ljT0NWVHZMejdIdFhmWlZaOUFPQkVLUXZiN2hGVG1velpDX3FvTzY0VVhiQlpCQ1hoejRmSjhBZlVnYlNUcUlQOF9PeWVlMS0xT1RzS2Rlb1FUQlBwQQ?oc=5",
+      "datetime": 1791815325,
+      "summary": "Saudi Arabia faces new missile and drone fire after major attacks on airports\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Breakingviews - COMMENTARY: Riyadh attacks hit core of Saudi's economic pivot - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZENLRXVWdDdZX1BvTXFQN3E2TnRnYnJxUER4aldTVHFiR1pyenp6RllPeTMxeG55MjVrUE9TR3R2NzF2U1FEbjVHbS13S3JSNlJ5dldvWktocXZ6QzBkSEx6WV83SVBTN216X1BPYlhrSVoxZWp5a0REZkJjaVpBb2IteXBLN212R0lkRFJGeFdLaUhtb0ZuWFY1Q1BMT0pYWUZCZlhzX3JyUQ?oc=5",
@@ -6062,46 +6102,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUNxdUxmaThaQ0FLdXRxaWdHNE0tMm5OZjVZenR0X1h2cEtmODNEckpiejRHc0dtZXZnajFRZUQyLVo5ckgyR1lyTEN4YzdNNVo4OGptVC1QMkxUYUVGMDJzZnR0RXFZcXZ2NU9JMDNhVDlmLWQyMmhwZHVSRnRXWWVyTnBfX2Z3UXlxT3JRTnZ3R0xMRktqb0gwTWZRVXl4emZqU1NzWHMxX0hBeVE?oc=5",
       "datetime": 1791813781,
       "summary": "Europe set for another year of high gas prices as reserves hit lows\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "datetime": 1791810364,
-      "summary": "Salesforce landed a double-upgrade, and stock futures are muted to start a busy week of earnings and inflation data.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363089-1789485723223-gettyimages-2294922441-train0827.jpeg?v=1789485827&w=1920&h=1080"
-    },
-    {
-      "headline": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-      "datetime": 1791808265,
-      "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108397996-1791806689582-2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1791806787&w=1920&h=1080"
-    },
-    {
-      "headline": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2hyc2tfZ1c4OFc2WGEwN3J5Ri1jaWVLOWtWbmpYTzlMcnNyVVhrN0pEdGg1ZXlKdEJMRjNiNXpRRC1KVDNXaWdDQ0ptQ245VEJaY19RZVNMUGJDYTJjUGNwV2NrLTU0LTRVbEcwWGZmSzhoX3hEdkVGcHAzTGZLb285UTBwYXhxZTVSWmxRNkt3X2xISDZwZg?oc=5",
-      "datetime": 1791807718,
-      "summary": "India Sept inflation nears RBI tolerance ceiling, boosting case for further rate hikes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India inflation jumps to 5.54% in September, strengthening case for further rate hikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdUxxMHVta3BKU2dCLTBRTU5iRm1Xd1gwWWNBTzI4djlyVmFnYWpyZzRJbFQtamt5WHVoaFhCd1lMLVRWMUxpaGw5WERwT3dWZGJvbmRxYjhVUE5pU1Y4NjRzX2lVN1BpXzlBckQxMW4tYmhkNnpKOVQtdUQwSFJKUUZHUThxbnNRYllBZGtGSTV3MXFWZkc4cjRVUHJyU2c2MkNiRWczUl9NTUpVQ2tiSFVjR090Wk9yNjU3NkR4ZklId2o1akswcXNhZ3ptdw?oc=5",
-      "datetime": 1791807222,
-      "summary": "India inflation jumps to 5.54% in September, strengthening case for further rate hikes\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "UK's Farage pledges to suspend asylum claims for up to five years - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWld3U0dSQlAzcUtLTTljX1Z0VU9NcHVkc0ZHNG9jNTM5LUxINTB0Z01rLVVyZWh0aEotX3daRHM1bG5KOEZwaEZSMFFTdFVEZ3NaRWVZdVpTcWhkLXgxbXZjUmRzT2NvVXFDSUdkU3ZBbGk5OGotREhXMlNHZEh6NWZHUlpGeTVOQU0tMzh1TXpSYV9IdkRIX2hhTUFJbC10?oc=5",
-      "datetime": 1791803864,
-      "summary": "UK's Farage pledges to suspend asylum claims for up to five years\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
