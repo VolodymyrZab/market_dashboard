@@ -11179,6 +11179,22 @@
   },
   "news": [
     {
+      "headline": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+      "datetime": 1792074301,
+      "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080"
+    },
+    {
+      "headline": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5",
+      "datetime": 1792070899,
+      "summary": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
@@ -11193,6 +11209,30 @@
       "datetime": 1792068870,
       "summary": "This is a fulcrum day for the market.",
       "image": "https://image.cnbcfm.com/api/v1/image/108333423-1783694664972-gettyimages-2284861394-SK_HYNIX_IPO.jpeg?v=1783694687&w=1920&h=1080"
+    },
+    {
+      "headline": "You may never work with an Elizabeth Holmes\u2014but here's how to handle a co-worker who makes false claims",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/10/15/how-to-handle-coworker-giving-false-information-expert.html",
+      "datetime": 1792068541,
+      "summary": "You may never a co-worker as enigmatic as Elizabeth Holmes. But you might have one who doesn't deliver or misrepresents situations. Try these strategies.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108409086-1791990684066-261012_COWORKER_FALSE_INFO.png?v=1791990809&w=1920&h=1080"
+    },
+    {
+      "headline": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "datetime": 1792067743,
+      "summary": "US Treasury pushes global partners to rename AI as 'super intelligence'\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Prince Harry and wife Meghan make first joint appearance since UK return - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWRpS29iTXprM2w3Z19wY0xITWVabHJwYi1qclpkU085VHQ3eGhlM0xscWRTVVNLLUJuN1pxazRiS05HM25oTThUXzE5eEV1RkZVcllpRHVpcVg2QjY3MWI1QXYySnI4ZjdzQWJoWlFxQk9SSTFTRFJmN21YWHFtc0UwV0ZmYUtxbFB4OW5QbGNoTTRoOXNmMzRZeHBlWUJ0MHhyeW1kUXE2RW5PM216THJOaw?oc=5",
+      "datetime": 1792066755,
+      "summary": "Prince Harry and wife Meghan make first joint appearance since UK return\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Cboe to expand options trading hours for major stocks and ETFs",
@@ -11211,6 +11251,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108412618-1792042313040-gettyimages-2291975124-022a1276.jpeg?v=1792042497&w=1920&h=1080"
     },
     {
+      "headline": "India's goods trade deficit widens; focus turns to trade pacts to narrow gap - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlpEUE85Qnl6NWJNQXBnMU1Lek11TWVESkZWSFVzU2JrM3kyUmhWeGNHd3VRNE5YRzBXeC1ieElneF9CcjdoWkpBSHRsWFMxRVg2N1VyX29EQ0lHZDZaaHN2QkdIMHB0NVFKTENwb1pXc29GLVFhWFRId2MtYmJmU3ZJWDlFMVdjMzlHT1lrQzh1d1lCYWJvTXFLd1U1ejVCZ3dHSWlB?oc=5",
+      "datetime": 1792063625,
+      "summary": "India's goods trade deficit widens; focus turns to trade pacts to narrow gap\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "EU and Gulf states postpone summit due in Saudi Arabia - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOck10ZlptWXBhUE9nbDNFb1dWa0xGMXRRaC1wR29SZjVIbnVlMmJBZmI4ZzE3OG9RbjhCR0VjYUNVX0xyU0p0WkZFbEtfcjg3aFRyXzFSWjczRWU4WUx1NW9TWW1yZmNpUGQwLUdaNmlTSXdqMll5RVRzb3lZOWdPanhNNmN1QzFUNWMtUVktRzdFS0VQaGZSSW9CY18wSk9YVlNV?oc=5",
@@ -11225,54 +11273,6 @@
       "datetime": 1792062771,
       "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
       "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080"
-    },
-    {
-      "headline": "Oil shipping costs spike, lifting prices from pump to grocery - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHR0bzBmX1E0Y3RlbjBYNTQwY2dUSENTVFJ5ajc5aXo1bjFqWGpyRmVROERicENVczd6RWJSMHRYR3dEVWJKNDdaS25NNXVEQ29xTThlMXVjQk1NRjdyZkkwR3NVaktQYXd0YzZFcEdYbHhDZE1kXzZnY3JQeGpnLWNXRzRxTnV1emlYdS1mOEdTd2JBVTJfSkpHWlZva3g0UUFMNm9ORQ?oc=5",
-      "datetime": 1792059490,
-      "summary": "Oil shipping costs spike, lifting prices from pump to grocery\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "How Iran's precision strikes picked apart Gulf infrastructure - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",
-      "datetime": 1792058400,
-      "summary": "How Iran's precision strikes picked apart Gulf infrastructure\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "India's September merchandise trade deficit widens to $30.21 billion - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlpEUE85Qnl6NWJNQXBnMU1Lek11TWVESkZWSFVzU2JrM3kyUmhWeGNHd3VRNE5YRzBXeC1ieElneF9CcjdoWkpBSHRsWFMxRVg2N1VyX29EQ0lHZDZaaHN2QkdIMHB0NVFKTENwb1pXc29GLVFhWFRId2MtYmJmU3ZJWDlFMVdjMzlHT1lrQzh1d1lCYWJvTXFLd1U1ejVCZ3dHSWlB?oc=5",
-      "datetime": 1792056791,
-      "summary": "India's September merchandise trade deficit widens to $30.21 billion\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Hormuz shipping disruption is starting to hit harvests, UN agency says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3pFV3J3TU44dzNxVVVjWUoyeVc3bVFpV3RVWEducVZZUFk0UXNBdzlEcnpxSGUycUw0cTIyLUFvYnNxc1BOU0lOOHJVM21tRFVrWVp5Q0pKRENxc01LcFpJbk1JS0k1ZndiMURRRVBySmJ0MUltS1RoM2JCN3d0V0t6WkhfT2U3UHU4QWhKb1M5eGRoUVpaVVVNT2hzNWlFT2hPSVRuQlQ2cURjdTBPOVd2UzRCc0JGcTVMWQ?oc=5",
-      "datetime": 1792054903,
-      "summary": "Hormuz shipping disruption is starting to hit harvests, UN agency says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Bank of England's Breeden says cost-cutting by firms helping central bank - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRqOEp1TktZM3ZxOUZ4ZU9jUHJCX1JkRjJFS2Z6T0NwT00zSk8weGswQ3ZJWmVIdGxveko1ZUg0SU9kQ1Z6RXlMYUltaDZMSlRiRE9YeFlBbDVxRXlxOThrYTFsejg3ZEJjWkNLM3ZqaXpuMmZqTlo2aW4wUEdjS1pibTNEb0RQc09SNzNNQTRfUUVsUWFYMTNZRHN4T29EZFExX0RRUVgzcUhLeTl1T2xWWTA?oc=5",
-      "datetime": 1792054057,
-      "summary": "Bank of England's Breeden says cost-cutting by firms helping central bank\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gulf stocks fall after Houthis threaten more Saudi attacks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRno4UkRJYXkzMldxaU9XbzNpLWtsNVd4SmUtelluWEFxOHNCTjdpSmVJVzBac0h1TDF6TE8wY2FZNHBHaF9XTjZ0WTByY29yOTR4SDVKaG02YWItZkNVdXlQWWF6bWROd0ZSRDM5SDRSSEs2M0dBZHRVekJTVHhpYnMzemVCa3RQY3dmZ3g5UFBUZ2ZySWRjT0g0M2FuZElsaVkzUk1KSHB4ODRTdjBkbzJR?oc=5",
-      "datetime": 1792054028,
-      "summary": "Gulf stocks fall after Houthis threaten more Saudi attacks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
