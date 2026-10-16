@@ -17,10 +17,10 @@
       "gap_pct": 2.25,
       "volume": 5847752.747089,
       "rvol": 1.54,
-      "week52_high": null,
-      "week52_low": null,
-      "week52_pos": null,
-      "pe_ratio": null,
+      "week52_high": 98.75,
+      "week52_low": 58.95,
+      "week52_pos": 68.0,
+      "pe_ratio": 128.8736,
       "revenue_streak": [
         {
           "period": "2026-09-30",
@@ -4622,10 +4622,10 @@
       "industry": "Real Estate",
       "timing": "bmo",
       "eps_estimate": 0.3206,
-      "eps_actual": null,
+      "eps_actual": 0.38,
       "revenue_estimate": 81021996,
-      "revenue_actual": null,
-      "revenue_beat": null,
+      "revenue_actual": 53280000,
+      "revenue_beat": false,
       "market_cap": 1118951987.9026651,
       "last_close": 8.82,
       "prev_close": 8.63,
@@ -4637,6 +4637,16 @@
       "week52_pos": 11.3,
       "pe_ratio": 20.8451,
       "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.38,
+          "eps_estimate": 0.3206,
+          "surprise_pct": 18.5278,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 53280000,
+          "rev_estimate": 81021996
+        },
         {
           "period": "2026-06-30",
           "eps_actual": 0.24,
@@ -4657,28 +4667,24 @@
           "eps_estimate": 0.2414,
           "surprise_pct": -29.5775,
           "beat": false
-        },
-        {
-          "period": "2025-09-30",
-          "eps_actual": 0.25,
-          "eps_estimate": 0.2372,
-          "surprise_pct": 5.3963,
-          "beat": true
         }
       ],
       "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.38,
+          "eps_estimate": 0.3206,
+          "surprise_pct": 18.5278,
+          "beat": true,
+          "rev_beat": false,
+          "rev_actual": 53280000,
+          "rev_estimate": 81021996
+        },
         {
           "period": "2026-06-30",
           "eps_actual": 0.24,
           "eps_estimate": 0.2431,
           "surprise_pct": -1.2752,
-          "beat": false
-        },
-        {
-          "period": "2026-03-31",
-          "eps_actual": 0.22,
-          "eps_estimate": 0.2305,
-          "surprise_pct": -4.5553,
           "beat": false
         }
       ],
@@ -12542,6 +12548,62 @@
   },
   "news": [
     {
+      "headline": "Norwegian teen jailed for 20 years for UK murder plot after being recruited online - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmZOcW5JOVBKWUFDdmZYUWpCbUJndTRTUHlkOVBUOUtIQUF3MzFBQm5yQkJCX3lFRVpydU5tOGdfaFFhSWt4alFxNWZSeDl3dDQzZGxleDRpT0xEQUZqYU5KRTR6THFBWGxlOHBoZ3FrV0RYUnZjbVV4YU9CN1JsaXFuMUZRSWk0cllaYWp4dzJHaTBLU3BtQTVnNlJYOGlTeEdmQzlELVFoeXFEX2hnVUVBR1RmVGJGUXc2bnNXR2ZlT1p5Ri1Oc3l3?oc=5",
+      "datetime": 1792159254,
+      "summary": "Norwegian teen jailed for 20 years for UK murder plot after being recruited online\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "AI 'espionage' is a reality that companies need to be 'wary of,' Jay Clayton says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "datetime": 1792158956,
+      "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+      "image": "https://image.cnbcfm.com/api/v1/image/108335413-1784129206979-gettyimages-2286232250-dsc07925_tzjm86ts.jpeg?v=1784129229&w=1920&h=1080"
+    },
+    {
+      "headline": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+      "datetime": 1792158233,
+      "summary": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108122992-1743183626304-gettyimages-2206682242-porzycki-nvidiaan250328_np9jq.jpeg?v=1747333759&w=1920&h=1080"
+    },
+    {
+      "headline": "Our top 10 things to watch in the stock market Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "datetime": 1792156770,
+      "summary": "Wall Street is headed for a mixed open, as CoreWeave shares tumble again.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108288868-1775676373129-gettyimages-2263312294-AFP_998777X.jpeg?v=1776774289&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump says US may need to strike Iran's Pickaxe Mountain - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5",
+      "datetime": 1792155269,
+      "summary": "Trump says US may need to strike Iran's Pickaxe Mountain\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Major delays at Italian airports due to data network failure - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2ZBSmFBTmI3c3pYWTF2Z1NvTF9zVUZodUdvNTh2MGxlUWxCUGtQN2pBYnlhLTNnNzhWTGc3S1BYQWVnX2paSTZ5Y0Vwd3FzaGVVckZfeU1PR1RqSm9hZUNQU0ZuSUhrYTAwRjZlMndCM3hNeV9Qb0FCRHhUMWNrR1lrRXRkYUJRWUc1YzFaa1NiaENwNHliY3JxSGJ0QzR2clBqSGhhODNGYmZKYUVn?oc=5",
+      "datetime": 1792153663,
+      "summary": "Major delays at Italian airports due to data network failure\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Israeli settlers burn olive trees, injure journalist in West Bank attack - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkU1bHk0ei02ZkZRZndPemRvNGZFQnM5ODdrR2EyTU9WRjBUN3MwcGdtLXY2NnZnWld0UkM2MjBUMDUzWVV6ak1vcGNSV05KMllWVWotQS1TdGNLQnVFOERMRElid09YaVB2bUhGLXE4TlFJelBfRFg3QS1vOVBSLXVJWTV3R01CQ3FSZzVZMHlub3V1ZjFtYlJYNGwwRDRFeUxTeWFzNlJjS1dwSGo1a0xOaXRMc0tiWnlrbVBtMA?oc=5",
+      "datetime": 1792152721,
+      "summary": "Israeli settlers burn olive trees, injure journalist in West Bank attack\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "EXCLUSIVE: Iran ships some LPG, jet fuel despite US blockade, data shows - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW43alBLT1ZtZE5UZF9VNEY2ZDhBNjNOdk93dG1BZTNBZWZkQ050OVZGQmxUWURPdG16Q1pwTmRtNkFfQTNNWDJEazN2aHBRY1UwLW1MbGRSWXpLdVZRenB6SGY2cFhVcmFlRzRQZkhzV24xeTVtWnJfRTdfUHlIbktueERWSGNCLUw2bzIwdUw1a3FpQ3pMdEk4NE9HaVppTnlvaWNLV19xMy1pOEc0bw?oc=5",
@@ -12553,7 +12615,7 @@
       "headline": "On the campaign trail, JB Pritzker courts farmers like he's running for president - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9mNDloV2MxakdrMTJablNtYWZaQVhmMmYtMUdxSE9JR0ZVRWdYWnlucG1laHRRWXVhZkZjOGlyWkxZWlJVZlY1dU1nc1pHRUlzcGEtWXJEQi1XN1Z2N2VjTzR4YXBiSE55MUtsQjZ5RUFqUURxa2E2VGpOYUtHRXFQVU1sMzBuc1BSbGg0WG9GeHBCaXdVcjJySEdJUDVwWUxWNFpybGp1NVRxeExZTm4yTQ?oc=5",
-      "datetime": 1792148694,
+      "datetime": 1792152048,
       "summary": "On the campaign trail, JB Pritzker courts farmers like he's running for president\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
@@ -12579,62 +12641,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXVTNUVpMVVuX0R4S3dEYm15QjZ6MXBkdU5FN2xNTWFuVTNiZlB6QmljejgxWi1qaDRocVJjV3NRQUY3MDQ4OVpUbmxZYWtmSE1JTnhkWWZ1eG9MQVl4Qk5wMWZIa2F3c3ZmNUc5WVdZMFJaVnVYT1JPbDhMQ1ZUdDllX0NMWERiWmh6MWdacG1jdFNackp6QUF3OS1zQlBpMzZNM0VHS1NOLWM3?oc=5",
       "datetime": 1792129560,
       "summary": "Asian Tour postpone Saudi International after Riyadh attacks\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Morning Bid: Calm after CoreWeave shock, but for how long? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5",
-      "datetime": 1792125060,
-      "summary": "Morning Bid: Calm after CoreWeave shock, but for how long?\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "US Treasury says Japan no longer faces deflationary environment, yen level must change - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5",
-      "datetime": 1792123860,
-      "summary": "US Treasury says Japan no longer faces deflationary environment, yen level must change\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "datetime": 1792123707,
-      "summary": "Warsh said he's optimistic that AI will make economies that use it well more productive and wealthier, warning the road there will be \"very bumpy.\"",
-      "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&w=1920&h=1080"
-    },
-    {
-      "headline": "South Korea reviews expanding military mission in Middle East, report says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmF3NllOSF9QUzVkUjZzNWVkQlo1MWRmdHkxQ082ZE5DTGdEVWtoS2JpRjUwLWtSYnpNNG9nR2Uyak9ESFBZNlh4LXZQenczNnB3YUNubmlmTUN2cTlzSDEyUzB3eTlqa1MySVZFSzQwYm9vM0kxU3VTMkdYMGhMRUlvOUE0bjFEeURLMmE1VklPRmxfU1l3Y2lOQVNkalBxUGhUaFRvdmV0a1FwREVhdG14ODVHYVlXaFZfenFneDFBWms?oc=5",
-      "datetime": 1792123140,
-      "summary": "South Korea reviews expanding military mission in Middle East, report says\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Mideast war alters global bunker buying patterns, industry execs say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVpkb09PNk1QUW1DQ3BsSGh1WC0wMktpR19NNDJFSF9ZY0JlXy1uZElBakltTzR2MDZRMUFLMnpxVndDRk9MR1kwai1SWHk4RnNfOVZvX0NwMk1LTk5yUm5YU3JrOXhiZ21SVEQ0VUpoLUdVb05YbmwyRUlPYk1sandmYzdVNjBIeHZyR0FfMVhpUVBkMFhUT1RsM3BaRWNGZ0tqVzhMMVQ0cGFqV2t6VXl5ZjVhWjNIY1RISm9rMA?oc=5",
-      "datetime": 1792120740,
-      "summary": "Mideast war alters global bunker buying patterns, industry execs say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG5XUks5NHU3SnZ2Wk1EVklSZm9Od1ljNWFieUZmZTlibEZHOGJiSlBWWlVsMGttUi1pZjlkc2hfZjA4TEZaTGltSEJfMjdDUDJZZ2dLQ1hqX05TcklZd2J4dTFXQVA3V0p0ZG1uSWV2aFpGVnFrRUEza0hTUm9hdXVyMk1icGxLQk9LMUFrc3VTcF9RR1N3VHVxZjE4eld5dnM3TUxySGRfSXYzQV82R1haZUx6VDIwMi15YWJickk?oc=5",
-      "datetime": 1792117140,
-      "summary": "Bank of England's Bailey sees 'quite subdued' second-round price pressures so far\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil heads for weekly gain with focus on Middle East supply - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0FIVXBWc1k5eW1ObWUyOGNQS1NGZDA5anNoLVJmVDRoMGR0ZUM5aWdDYTFDX3lKN2dYbVlhZzhuTFUwcVo3N0xmTkpBNXJKV2JLVW9qUmdmNWdxaWFJVlFZLWVPVHJjZ0RTNUdYdGxoMk9RZms0aHpzQWlTVDd4LUNnQ1RKUlZmVkhFSS1FQlk5bWl1dkU2QTQ0bDA2dVdHVzMzcTlRZi00ZkM1THVWRFgzTnYtUm9id3pBM1BWeEI4ZVFqU1ltSDB2SQ?oc=5",
-      "datetime": 1792112220,
-      "summary": "Oil heads for weekly gain with focus on Middle East supply\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
