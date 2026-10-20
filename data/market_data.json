@@ -15052,6 +15052,638 @@
       "week52_pos": 7.8,
       "pct_vs_52h": -31.62
     },
+    "MOO": {
+      "name": "VanEck Agribusiness ETF",
+      "bars": [
+        {
+          "v": 507905.957367,
+          "vw": 87.8513,
+          "o": 87.85,
+          "c": 87.58,
+          "h": 88.32,
+          "l": 87.48,
+          "t": 1788840000000,
+          "n": 6238
+        },
+        {
+          "v": 1148128.768585,
+          "vw": 87.8691,
+          "o": 87.96,
+          "c": 87.69,
+          "h": 88.495,
+          "l": 87.51,
+          "t": 1788926400000,
+          "n": 3232
+        },
+        {
+          "v": 542352.949637,
+          "vw": 87.009,
+          "o": 87.52,
+          "c": 86.79,
+          "h": 87.98,
+          "l": 86.71,
+          "t": 1789012800000,
+          "n": 4628
+        },
+        {
+          "v": 399860.151483,
+          "vw": 86.7521,
+          "o": 87.04,
+          "c": 86.48,
+          "h": 87.38,
+          "l": 86.4,
+          "t": 1789099200000,
+          "n": 3608
+        },
+        {
+          "v": 277068.111013,
+          "vw": 86.5405,
+          "o": 86.88,
+          "c": 86.32,
+          "h": 86.97,
+          "l": 86.2,
+          "t": 1789358400000,
+          "n": 3037
+        },
+        {
+          "v": 247419.690078,
+          "vw": 86.3753,
+          "o": 85.96,
+          "c": 86.51,
+          "h": 86.94,
+          "l": 85.7001,
+          "t": 1789444800000,
+          "n": 3045
+        },
+        {
+          "v": 481748.569921,
+          "vw": 85.5888,
+          "o": 86.55,
+          "c": 85.29,
+          "h": 86.58,
+          "l": 84.95,
+          "t": 1789531200000,
+          "n": 3338
+        },
+        {
+          "v": 314588.755554,
+          "vw": 86.0518,
+          "o": 85.72,
+          "c": 86.23,
+          "h": 86.355,
+          "l": 85.56,
+          "t": 1789617600000,
+          "n": 2973
+        },
+        {
+          "v": 312731.462563,
+          "vw": 84.804,
+          "o": 85.66,
+          "c": 84.64,
+          "h": 85.66,
+          "l": 84.485,
+          "t": 1789704000000,
+          "n": 2675
+        },
+        {
+          "v": 318433.424917,
+          "vw": 84.2571,
+          "o": 84.82,
+          "c": 84.03,
+          "h": 84.985,
+          "l": 83.83,
+          "t": 1789963200000,
+          "n": 3376
+        },
+        {
+          "v": 423783.119528,
+          "vw": 84.496,
+          "o": 84.1,
+          "c": 84.56,
+          "h": 84.85,
+          "l": 83.93,
+          "t": 1790049600000,
+          "n": 4082
+        },
+        {
+          "v": 218853.969566,
+          "vw": 84.6798,
+          "o": 84.56,
+          "c": 84.31,
+          "h": 85.24,
+          "l": 84.23,
+          "t": 1790136000000,
+          "n": 2250
+        },
+        {
+          "v": 258305.668774,
+          "vw": 83.572,
+          "o": 84.37,
+          "c": 83.34,
+          "h": 84.43,
+          "l": 83.24,
+          "t": 1790222400000,
+          "n": 2998
+        },
+        {
+          "v": 298149.58949,
+          "vw": 83.1345,
+          "o": 83.65,
+          "c": 83.27,
+          "h": 83.87,
+          "l": 82.68,
+          "t": 1790308800000,
+          "n": 2135
+        },
+        {
+          "v": 209446.081751,
+          "vw": 83.0668,
+          "o": 83.3,
+          "c": 83.08,
+          "h": 83.38,
+          "l": 82.8437,
+          "t": 1790568000000,
+          "n": 2029
+        },
+        {
+          "v": 117585.468493,
+          "vw": 82.1834,
+          "o": 82.38,
+          "c": 82.13,
+          "h": 82.42,
+          "l": 81.9501,
+          "t": 1790654400000,
+          "n": 2206
+        },
+        {
+          "v": 557385.27442,
+          "vw": 81.9584,
+          "o": 82.33,
+          "c": 81.47,
+          "h": 82.385,
+          "l": 81.36,
+          "t": 1790740800000,
+          "n": 4449
+        },
+        {
+          "v": 723086.779464,
+          "vw": 80.6275,
+          "o": 80.89,
+          "c": 80.69,
+          "h": 81.1,
+          "l": 80.285,
+          "t": 1790827200000,
+          "n": 6121
+        },
+        {
+          "v": 225903.845739,
+          "vw": 81.2439,
+          "o": 80.79,
+          "c": 81.34,
+          "h": 81.72,
+          "l": 80.785,
+          "t": 1790913600000,
+          "n": 2667
+        },
+        {
+          "v": 113022.076817,
+          "vw": 81.7678,
+          "o": 81.27,
+          "c": 82.24,
+          "h": 82.47,
+          "l": 80.7,
+          "t": 1791172800000,
+          "n": 1584
+        },
+        {
+          "v": 176519.733986,
+          "vw": 82.4051,
+          "o": 82.46,
+          "c": 82.4,
+          "h": 82.8457,
+          "l": 82.1601,
+          "t": 1791259200000,
+          "n": 1899
+        },
+        {
+          "v": 156683.108249,
+          "vw": 81.4997,
+          "o": 82.36,
+          "c": 81.23,
+          "h": 82.4725,
+          "l": 81.18,
+          "t": 1791345600000,
+          "n": 2150
+        },
+        {
+          "v": 142343.344953,
+          "vw": 81.1493,
+          "o": 81.01,
+          "c": 81.26,
+          "h": 81.54,
+          "l": 80.8,
+          "t": 1791432000000,
+          "n": 1728
+        },
+        {
+          "v": 176924.714934,
+          "vw": 80.6992,
+          "o": 81.32,
+          "c": 80.46,
+          "h": 81.795,
+          "l": 80.374,
+          "t": 1791518400000,
+          "n": 2287
+        },
+        {
+          "v": 98854.950112,
+          "vw": 80.5723,
+          "o": 80.31,
+          "c": 80.83,
+          "h": 80.88,
+          "l": 80.31,
+          "t": 1791777600000,
+          "n": 1373
+        },
+        {
+          "v": 61752.541096,
+          "vw": 81.6259,
+          "o": 81.39,
+          "c": 81.97,
+          "h": 82.09,
+          "l": 81.05,
+          "t": 1791864000000,
+          "n": 991
+        },
+        {
+          "v": 246609.302229,
+          "vw": 82.0664,
+          "o": 82.17,
+          "c": 82.18,
+          "h": 82.4,
+          "l": 81.635,
+          "t": 1791950400000,
+          "n": 2323
+        },
+        {
+          "v": 180232.538595,
+          "vw": 82.226,
+          "o": 82.29,
+          "c": 82.14,
+          "h": 82.62,
+          "l": 81.78,
+          "t": 1792036800000,
+          "n": 2215
+        },
+        {
+          "v": 87985.923522,
+          "vw": 81.8727,
+          "o": 82.31,
+          "c": 81.79,
+          "h": 82.605,
+          "l": 81.55,
+          "t": 1792123200000,
+          "n": 1300
+        },
+        {
+          "v": 432159.279261,
+          "vw": 80.9785,
+          "o": 81.66,
+          "c": 80.69,
+          "h": 81.79,
+          "l": 80.68,
+          "t": 1792382400000,
+          "n": 4375
+        }
+      ],
+      "last_close": 80.69,
+      "volume": 432159.279261,
+      "rvol": 1.8,
+      "day_perf": -1.34,
+      "week_perf": -1.56,
+      "month_perf": -4.67,
+      "year_perf": 11.13,
+      "week52_high": 89.3,
+      "week52_low": 69.32,
+      "week52_pos": 56.9,
+      "pct_vs_52h": -9.64
+    },
+    "ERTH": {
+      "name": "Invesco MSCI Sustainable Future ETF",
+      "bars": [
+        {
+          "v": 1310.059252,
+          "vw": 45.8046,
+          "o": 45.67,
+          "c": 45.778,
+          "h": 45.89,
+          "l": 45.67,
+          "t": 1788840000000,
+          "n": 84
+        },
+        {
+          "v": 1666.311,
+          "vw": 45.3417,
+          "o": 45.325,
+          "c": 45.2386,
+          "h": 45.325,
+          "l": 45.23,
+          "t": 1788926400000,
+          "n": 68
+        },
+        {
+          "v": 1249.732,
+          "vw": 44.6839,
+          "o": 44.68,
+          "c": 44.6204,
+          "h": 44.68,
+          "l": 44.57,
+          "t": 1789012800000,
+          "n": 82
+        },
+        {
+          "v": 1388.020663,
+          "vw": 44.8936,
+          "o": 44.9,
+          "c": 44.85,
+          "h": 45.01,
+          "l": 44.78,
+          "t": 1789099200000,
+          "n": 71
+        },
+        {
+          "v": 2135.368374,
+          "vw": 44.2907,
+          "o": 44.27,
+          "c": 44.1372,
+          "h": 44.43,
+          "l": 44.13,
+          "t": 1789358400000,
+          "n": 83
+        },
+        {
+          "v": 3742.56225,
+          "vw": 43.7594,
+          "o": 43.8799,
+          "c": 43.7389,
+          "h": 43.8799,
+          "l": 43.7,
+          "t": 1789444800000,
+          "n": 92
+        },
+        {
+          "v": 5750.352495,
+          "vw": 43.8768,
+          "o": 43.85,
+          "c": 43.5022,
+          "h": 44,
+          "l": 43.375,
+          "t": 1789531200000,
+          "n": 123
+        },
+        {
+          "v": 8375.8992,
+          "vw": 44.1017,
+          "o": 44.05,
+          "c": 44.12,
+          "h": 44.2405,
+          "l": 43.78,
+          "t": 1789617600000,
+          "n": 109
+        },
+        {
+          "v": 41854.91518,
+          "vw": 43.9314,
+          "o": 44.17,
+          "c": 43.9745,
+          "h": 44.17,
+          "l": 43.93,
+          "t": 1789704000000,
+          "n": 80
+        },
+        {
+          "v": 3233.995845,
+          "vw": 44.1026,
+          "o": 44.08,
+          "c": 44.1587,
+          "h": 44.23,
+          "l": 43.8916,
+          "t": 1789963200000,
+          "n": 112
+        },
+        {
+          "v": 1022.72702,
+          "vw": 44.2926,
+          "o": 44.281,
+          "c": 44.382,
+          "h": 44.382,
+          "l": 44.171,
+          "t": 1790049600000,
+          "n": 69
+        },
+        {
+          "v": 2195.0019,
+          "vw": 44.0332,
+          "o": 44.2084,
+          "c": 43.6415,
+          "h": 44.2084,
+          "l": 43.6415,
+          "t": 1790136000000,
+          "n": 69
+        },
+        {
+          "v": 5212.5932,
+          "vw": 43.1383,
+          "o": 43.26,
+          "c": 43.0772,
+          "h": 43.26,
+          "l": 42.965,
+          "t": 1790222400000,
+          "n": 184
+        },
+        {
+          "v": 3114.986134,
+          "vw": 43.1915,
+          "o": 43.34,
+          "c": 43.1516,
+          "h": 43.34,
+          "l": 43.015,
+          "t": 1790308800000,
+          "n": 99
+        },
+        {
+          "v": 3670.240696,
+          "vw": 42.9139,
+          "o": 43.04,
+          "c": 42.7155,
+          "h": 43.04,
+          "l": 42.7155,
+          "t": 1790568000000,
+          "n": 103
+        },
+        {
+          "v": 1401.446134,
+          "vw": 42.3852,
+          "o": 42.55,
+          "c": 42.3566,
+          "h": 42.55,
+          "l": 42.23,
+          "t": 1790654400000,
+          "n": 81
+        },
+        {
+          "v": 1002.4921,
+          "vw": 42.5284,
+          "o": 42.6,
+          "c": 42.3537,
+          "h": 42.6,
+          "l": 42.3537,
+          "t": 1790740800000,
+          "n": 67
+        },
+        {
+          "v": 11326.81883,
+          "vw": 42.0466,
+          "o": 41.79,
+          "c": 42.0478,
+          "h": 42.075,
+          "l": 41.77,
+          "t": 1790827200000,
+          "n": 91
+        },
+        {
+          "v": 6097.0233,
+          "vw": 42.3597,
+          "o": 42.25,
+          "c": 42.33,
+          "h": 42.385,
+          "l": 42.25,
+          "t": 1790913600000,
+          "n": 91
+        },
+        {
+          "v": 5317.354587,
+          "vw": 42.3403,
+          "o": 42.17,
+          "c": 42.32,
+          "h": 42.45,
+          "l": 42.17,
+          "t": 1791172800000,
+          "n": 119
+        },
+        {
+          "v": 1055.120834,
+          "vw": 42.7361,
+          "o": 42.63,
+          "c": 42.7556,
+          "h": 42.7556,
+          "l": 42.63,
+          "t": 1791259200000,
+          "n": 78
+        },
+        {
+          "v": 1155.6259,
+          "vw": 42.1996,
+          "o": 42.37,
+          "c": 42.235,
+          "h": 42.37,
+          "l": 42.13,
+          "t": 1791345600000,
+          "n": 79
+        },
+        {
+          "v": 3775.3449,
+          "vw": 41.6839,
+          "o": 41.9,
+          "c": 41.982,
+          "h": 41.982,
+          "l": 41.615,
+          "t": 1791432000000,
+          "n": 92
+        },
+        {
+          "v": 956.8964,
+          "vw": 42.3153,
+          "o": 42.35,
+          "c": 42.3249,
+          "h": 42.35,
+          "l": 42.265,
+          "t": 1791518400000,
+          "n": 62
+        },
+        {
+          "v": 3177.719471,
+          "vw": 42.1524,
+          "o": 42.22,
+          "c": 42.04,
+          "h": 42.22,
+          "l": 42.04,
+          "t": 1791777600000,
+          "n": 79
+        },
+        {
+          "v": 6603.047844,
+          "vw": 42.1922,
+          "o": 42.09,
+          "c": 42.2805,
+          "h": 42.315,
+          "l": 42.07,
+          "t": 1791864000000,
+          "n": 122
+        },
+        {
+          "v": 2979.022,
+          "vw": 41.4827,
+          "o": 41.65,
+          "c": 41.4165,
+          "h": 41.685,
+          "l": 41.32,
+          "t": 1791950400000,
+          "n": 111
+        },
+        {
+          "v": 1993.91164,
+          "vw": 41.2261,
+          "o": 41.16,
+          "c": 41.6158,
+          "h": 41.6158,
+          "l": 41.065,
+          "t": 1792036800000,
+          "n": 63
+        },
+        {
+          "v": 5037.28073,
+          "vw": 41.5451,
+          "o": 41.87,
+          "c": 41.3617,
+          "h": 41.88,
+          "l": 41.295,
+          "t": 1792123200000,
+          "n": 120
+        },
+        {
+          "v": 2857.022937,
+          "vw": 41.2006,
+          "o": 41.5,
+          "c": 41.1155,
+          "h": 41.5,
+          "l": 41.1155,
+          "t": 1792382400000,
+          "n": 58
+        }
+      ],
+      "last_close": 41.1155,
+      "volume": 2857.022937,
+      "rvol": 0.81,
+      "day_perf": -0.6,
+      "week_perf": -2.76,
+      "month_perf": -6.5,
+      "year_perf": -14.04,
+      "week52_high": 51.45,
+      "week52_low": 41.06,
+      "week52_pos": 0.5,
+      "pct_vs_52h": -20.09
+    },
     "TAN": {
       "name": "Invesco Solar ETF",
       "bars": [
@@ -19795,6 +20427,54 @@
   },
   "news": [
     {
+      "headline": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+      "datetime": 1792505558,
+      "summary": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365083-1789755531776-gettyimages-2266843677-NVIDIA_GTC.jpeg?v=1789755572&w=1920&h=1080"
+    },
+    {
+      "headline": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFRNd3JZYUQ0bDBIdTYxNDczNExsX1h3ZUN5RU0xdTRUeThLVVljcjBHTkRlRUpxaUotM2tTUExONi15T29YQlJTZ2FPaEpoS0VkMXdiUlBGcTNNWXFoc0lEVUlHT0pIZWRZR1RUeXpVYW5aRlNZd2dGZXFIVFMyanFXcGh3V1JQcXRzM1ZzNnBSazBIT2NSVDNCa2pRTlZhNWt1cGpNeFNZTTFkd09iQ1hKZURpLThleHlNUmpFdVp2Yjg0WVA3VThydDI?oc=5",
+      "datetime": 1792505274,
+      "summary": "Turkey submits Saudi-Pakistan defence pact to parliament for ratification, sources say\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Britain says it will carry out defensive air missions over Saudi Arabia - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5",
+      "datetime": 1792504502,
+      "summary": "Britain says it will carry out defensive air missions over Saudi Arabia\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Apple shares aren't cheap. Here's how to get long for less",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
+      "datetime": 1792503833,
+      "summary": "The primary headwind for Apple is valuation.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365128-1789759496314-gettyimages-2295295597-APPLE_IPHONE_18.jpeg?v=1789759546&w=1920&h=1080"
+    },
+    {
+      "headline": "SpaceX reports after the bell. Here's what options traders expect",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+      "datetime": 1792503628,
+      "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316639-1780576646880-gettyimages-2278970792-yanow-notitle260603_npysS.jpeg?v=1780576706&w=1920&h=1080"
+    },
+    {
+      "headline": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXpWQlZUSjN2cnJReUppaUEyRldXVWpqOVNvVFpMZ0xMc09WanRpdEhEeE9iZmpMUnIyWmlGeVdNVTczOWIxYUd5VnZ2Mk80VGFheGlPVTdyM1NWS1pCdmhHekh1ZlhKbHdfNnRObnQyNVhycjFtdGQ5RmgydVhHRkthWDlBYWhkQnlsOUlsV0wzNzg2bGZqWGNVcURLMVBpNFZRaWZ6b2NBaGNCMGpuLWFndTRqd21mZzNUSVJ0Q3gzUFlnWGdLN0xQUUdOcHM?oc=5",
+      "datetime": 1792503295,
+      "summary": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
@@ -19819,6 +20499,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108283570-17745429042026-03-26t163339z_1972272553_rc2dcka2eeqm_rtrmadp_0_novo-nordisk.jpeg?v=1774542953&w=1920&h=1080"
     },
     {
+      "headline": "US single-family housing starts, building permits tumble in September - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2htS1FUS3p1M0dBYTAxbU9HY1ViSVBFQ1JpU3NERnNQSkVTWFBTS1R4ekZVb0NEajZtM3RwTnlGVi1VZmxQdms4cHVqVGgyVWdvbERHc0ZLdUNvTFRCNVowOFR6OTFmUml2cmtsdzdfRE9sRHdDYnVXS3dtTEFqUmdjZ2tUSlNranZGNklxNzhWcmd0dHdFUElxRlA1cm9JXzcxNzhmeXphenFCUHJz?oc=5",
+      "datetime": 1792500038,
+      "summary": "US single-family housing starts, building permits tumble in September\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
@@ -19827,67 +20515,11 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108414314-1792071553946-gettyimages-2245498483-raa-coreweav251110_npnHA.jpeg?v=1792071586&w=1920&h=1080"
     },
     {
-      "headline": "Britain says it will carry out defensive air missions over Saudi Arabia - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5",
-      "datetime": 1792498222,
-      "summary": "Britain says it will carry out defensive air missions over Saudi Arabia\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-      "datetime": 1792497602,
-      "summary": "NBA star Draymond Green said he would love to retire as a member of the Warriors but plans to keep playing next season even if that means joining another team.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108432771-1792420713935-gettyimages-2300899125-es2_6954_csisntth.jpeg?v=1792420777&w=1920&h=1080"
-    },
-    {
       "headline": "Iran prolongs talks in stalemate to influence US midterms, officials say - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEYwdEFGeHhKUmdIMXF2VEppVElubGVKYlNlbk5xRGlnY1pVMEFsc0pma1ZGOGdOXzFBWUVCWHVab2MxQ2t5ZlNGRG1oZkdCMENnOFktSm1OakZNUUZJX0w2ZHJmM1ZLV2JyS245RjFoUVNPTmZ3dVNfNDNWemZ2V3dZdTFZdmFwdTJhRVdjODhObHZIbXp5c181UFdKOVJTX2o0LWFDN3E3dm1TOGpj?oc=5",
-      "datetime": 1792493534,
+      "datetime": 1792498282,
       "summary": "Iran prolongs talks in stalemate to influence US midterms, officials say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israeli fire kills four people in Gaza, medics say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTMzR3ZQMmZ1R0RFZHQyOUxldnFwaXF4QVhEUmpwUUEwM2lGYUZXUXBILVhjS3BUZXl1WUNCbTNZTDY1RnYwWDg2Qi1EbGxqczBnY2FwcGE0eUxzOG1OQmJEZWdWbHFkbTctcHdKcDVOXzRsQ2JJQjJRUDdyN2lUUTJIYXJxSk1mLVJLYUs0UEdFTVZMMG5QcEVyRWgtWUQ4RVE?oc=5",
-      "datetime": 1792492783,
-      "summary": "Israeli fire kills four people in Gaza, medics say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "GE Aerospace raises 2026 profit forecast as services strength drives growth - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnVUT0tINU83dGVFSG5iTnFZNFlyQk9vT3lHZEY0dU5rUUFJRGlTYndPWEdiM2M0a0lKLU5FUW5CV2JvZ2NJTDI5MXlkVk85NlFwOU1XdUk0VzdKZ2FpZXJDUUJNMlZWZURPcVpXLWVKQzZ4SUcyYkEwQnhZY2xUd0VIc3g3dHEyU0RncnZrVkV5MzQtTGdWbFAwXzJzR1RNU1BBb2pjdm5EcVBaTVZtajBzV1B4XzRHY2YyaG93YXR1Z05ESGR4TlAxR0N6Q2xq?oc=5",
-      "datetime": 1792492183,
-      "summary": "GE Aerospace raises 2026 profit forecast as services strength drives growth\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Most Gulf bourses retreat after Houthis claim attacks on Saudi energy, airport sites - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXpWQlZUSjN2cnJReUppaUEyRldXVWpqOVNvVFpMZ0xMc09WanRpdEhEeE9iZmpMUnIyWmlGeVdNVTczOWIxYUd5VnZ2Mk80VGFheGlPVTdyM1NWS1pCdmhHekh1ZlhKbHdfNnRObnQyNVhycjFtdGQ5RmgydVhHRkthWDlBYWhkQnlsOUlsV0wzNzg2bGZqWGNVcURLMVBpNFZRaWZ6b2NBaGNCMGpuLWFndTRqd21mZzNUSVJ0Q3gzUFlnWGdLN0xQUUdOcHM?oc=5",
-      "datetime": 1792484169,
-      "summary": "Most Gulf bourses retreat after Houthis claim attacks on Saudi energy, airport sites\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Oil majors face spending test from Iran war windfall cash - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-      "datetime": 1792476240,
-      "summary": "Oil majors face spending test from Iran war windfall cash\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjl5VmhGZHJ1bUpkdTZQaElWaWdnSFVkdVVQOUhzN3Y5SFdHOUNpS0pXQjdsVzhMVm1YOFloSGhHbnNYT29talRoNVJWdlRDVkdCM0VQV1lIUFZSbG9MV3BPclJZZGVtejVZZFNNWWxxdFdBM19hS2pQdHNaWm51MFRFNWxLWHdzVzQwN1ZxeXFFenRPREthTGRvVW9vOW1JdWpiVWk0VE9UQWlqRnZJWEJ0aFVYd2xBR3FN?oc=5",
-      "datetime": 1792476120,
-      "summary": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
