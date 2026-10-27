@@ -40533,6 +40533,54 @@
   },
   "news": [
     {
+      "headline": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
+      "datetime": 1793117587,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080"
+    },
+    {
+      "headline": "American Airlines hikes annual fees on rewards cards for first time since 2018",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
+      "datetime": 1793115591,
+      "summary": "American Airlines joined other airlines and banks in raising their airline credit card fee for one of their major cards.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108437672-1792506957192-gettyimages-2276591210-urbanandsport-diversea260429_np9T3.jpeg?v=1792507007&w=1920&h=1080"
+    },
+    {
+      "headline": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTFPZl9fajZtLVJ5V3dXM00xVHAtT2p6VUF5X1loNWtHZ2hSZl9CY1ZtdW01SHgxalNGbXpRVTdkZ09LanNSdVBhZ2YtRzJabk1JdFdEU25pWVMyRU40UmhnZ1UwcXpmMG4yVGJzZ1Y5QWlZYVViWVpvMVJUdGlvU0tUYnRuZUhhRHFzNkpsLURLd0w0dXBocjktUXo0Y1IxOWNMOHdGT29kcFBra2NrT2UySTNNbHNXZGFF?oc=5",
+      "datetime": 1793115301,
+      "summary": "Two men charged in UK over RAF Fairford incident allegedly linked to Iran\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "datetime": 1793111809,
+      "summary": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "High inflation to persist globally into next year, Reuters poll shows - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
+      "datetime": 1793108504,
+      "summary": "High inflation to persist globally into next year, Reuters poll shows\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Most Gulf bourses advance as Saudi defence pact countries push for peace - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWG9tLV9mV2h5cUZBVmtpdmdNWEFHcUhXR1IyNWJXSGJpY1ZFRTVVdEhEX0l4aWtXRjBBMlBsYU5SSXBISk43OHVfcmFYemVmcm03YndWYzE2OXg4MkRqbnNhNUhnOG1BeDFuQjB5SWp3STNvSWZtMFBaTGNOeWM2a3lDeGROenNGZ19wdDJCaktmc3dOdmZRbGJNZHUySk5BS3hITDc1bkVLMlpfRW1kZw?oc=5",
+      "datetime": 1793107623,
+      "summary": "Most Gulf bourses advance as Saudi defence pact countries push for peace\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
@@ -40541,11 +40589,11 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108317327-1780663281295-gettyimages-2279132019-BLOOMBERG_TECH.jpeg?v=1780663408&w=1920&h=1080"
     },
     {
-      "headline": "Two men charged in UK with helping Iran over RAF Fairford incident - Reuters",
+      "headline": "Germany's Merz: Russia, US cannot settle Ukraine war without Kyiv, Europe - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQTFPZl9fajZtLVJ5V3dXM00xVHAtT2p6VUF5X1loNWtHZ2hSZl9CY1ZtdW01SHgxalNGbXpRVTdkZ09LanNSdVBhZ2YtRzJabk1JdFdEU25pWVMyRU40UmhnZ1UwcXpmMG4yVGJzZ1Y5QWlZYVViWVpvMVJUdGlvU0tUYnRuZUhhRHFzNkpsLURLd0w0dXBocjktUXo0Y1IxOWNMOHdGT29kcFBra2NrT2UySTNNbHNXZGFF?oc=5",
-      "datetime": 1793105289,
-      "summary": "Two men charged in UK with helping Iran over RAF Fairford incident\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVc2emkxZkxNNXJ3U2E3TTJ5UVhOSGJHQnZKYzZuSjFOVXZiaC1QVkc4dE9pMWJsd2RteE50M1czVlBhN1dRNWhjUjc4VUpNRXVjZ3RrdklENUVTWWNtVVlHQXExRE9DZGZBUXdaRnVOb3RXNlFHY3NVbThyNWRFME9fMElTR19iclFxaUczRkpaOGphRXVlMENMM2tHdWNnUHZKXzl5YWctYVcxLVhEdXhtLTVjcEtab1o3ZnVvaFBDdw?oc=5",
+      "datetime": 1793104561,
+      "summary": "Germany's Merz: Russia, US cannot settle Ukraine war without Kyiv, Europe\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -40565,68 +40613,20 @@
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
+      "headline": "Iran security chief meets Supreme Leader after talks with Mecca pact countries - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVBrY1paZGo4aDlvd1Yta3RvNmNENmRFQXlyQm1PQ1FBVnlkYVVzLWlXRWd4eDNydGJybUpHM09KSElhbjZIOTExUzlMNjFEQ3lSOEpNdllQRmUyWE1mS1BqQ2ltZDdEV0l4cnRJTUpvalRyOXhlakxINTNaZ0tBdEhuVGFUa1Z3M1hESkx5XzU0ZVc2Zmh0anNaY2p6a3plQ0U5WHB4NFJpd1ppSGhDS2h1OFZJa1V5VEE4R1FSMnpraWxLcEF3UVl6Q3Fjdw?oc=5",
+      "datetime": 1793103366,
+      "summary": "Iran security chief meets Supreme Leader after talks with Mecca pact countries\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "SpaceX, Tesla and Anthropic may reshape the S&P 500\u2014but not right away",
       "source": "CNBC",
       "url": "https://www.cnbc.com/make-it/2026/10/27/spacex-tesla-anthropic-and-sp-500-index-rules.html",
       "datetime": 1793102401,
       "summary": "SpaceX, Tesla and Anthropic could become major S&P 500 holdings. Here's what that could mean for index fund investors.",
       "image": "https://image.cnbcfm.com/api/v1/image/108465533-1793046282976-Dario_Musk.jpg?v=1793046379&w=1920&h=1080"
-    },
-    {
-      "headline": "US stock futures gain as oil pulls back ahead of Fed decision - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-      "datetime": 1793100468,
-      "summary": "US stock futures gain as oil pulls back ahead of Fed decision\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Three Arab states back Greece in dispute over Turkey-Libya maritime accord - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHo5c1VJcGJJTENxTHVjdXBoTHY3SHpjd2tyYnItcjFROVBBdU1Zd1dNSG5USDJqTklBdXlVeHNpcWxubFpFSE9kLXBnRVNnZXB2MDZ2UnBFaU5TYURGQzZkcFJGRGdweWJ2eGdYQnN2ZV9LZjdQT2psem9HTEVZc1VfUmFiRUpSWWlBZmRGZ18zMldNX000U3JpTFJ1ZzhhZThoNWRMeXN3NFhJQS05Z0xUdGZncVdwLTFZVk9HRHZXck0?oc=5",
-      "datetime": 1793098689,
-      "summary": "Three Arab states back Greece in dispute over Turkey-Libya maritime accord\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "China hands former security regulator anti-graft official suspended death sentence - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREFlOHg3dHlOSU1aQmo1akw2RDZMclRUQmZFMk5Hb3N6alVMUWFnMWQ5ZW00Rk82V1FuVTNOdXp4eF9DZ0ZZdkUxY08tTmtXR0hOSXp4Qnc3Y0xPN3F4SXV2R0Y0Q201S2tib2ZhSU1RQk5tVnp4LWdVRGljcU1PWnJ5WVNLaWxFV09LYzJvQkpLMHNtOUVNeUZxZldoQkdmTEFrZzlSZGpVbnhLYUlVTTZFM0lRdGtHOElwVDd3?oc=5",
-      "datetime": 1793096931,
-      "summary": "China hands former security regulator anti-graft official suspended death sentence\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Qatar extends force majeure on LNG cargoes to Italy's Edison until end-December - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWRlZmpfTjMzTk8wb2tLV1hzbFprenNTR2JMcDVlWmFUQ3hkemhVVzd3X0loUXlGeHRENDd0Nll3cTh2eUpOSVJNVU53MThUaC1HYjJwSkFpa1BreXRxdm0teFoyZGJpaXowcXgtUmE0OTdSYXdDVzhuV0hCSlZqUjdpMHRNUjJxbDAzNDBfbDRjZjFpZUU2djNfV3RPaENwb1M2TzNUV0xIRUZFTVMtSDVhWmpFQU1ZaG0zZzhEa29Udw?oc=5",
-      "datetime": 1793094657,
-      "summary": "Qatar extends force majeure on LNG cargoes to Italy's Edison until end-December\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Norway's prime minister, Finland's president in phone call with Putin - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
-      "datetime": 1793094547,
-      "summary": "Norway's prime minister, Finland's president in phone call with Putin\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iraqi court sentences six French men to life in prison for Islamic State membership - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODJZd1BDLS1XVXdna2ZzbmJyWExPa3NqUTZ3UHdjcVlhVWIweldRSW5tTzUzWS12T3BRQnF1RTBYazh4dUpIZ2pod2pnODRWYnFHa1J4M2ItclhEWXQ4X29IaDVrc3dmRjFaMEE5QlAzM3BrbnBuMFN3ZzZ1S2pSaFkzRFZDamVhSmZ6OXNWaFh4VkZ2S2JYSXp6VTZsYjdVeTVOWVlFYTJQNlZ3Ui1ORkNpUFB4UEtBclBFVjV1WDN0b25TakE?oc=5",
-      "datetime": 1793094223,
-      "summary": "Iraqi court sentences six French men to life in prison for Islamic State membership\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "China to send envoy to Middle East in near future amid conflict spillover - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmZiSXVsLUdKMnk3anBIc0VMUmpabGtQZlh0YW0tWm9FNkJFT0dWNi1GWkFPMU1JUk5lTkZXWnBMR2hoYUE0dE1HNVF5MU9kRkJYUlNhWVdKX0pRbTk5ejU5ZXlpRVlwVEJqbFFXMldPb0lKelR1NHNVSTJac2pPdHd0amR6QTNBa250elZFRTgyRlRJb042d09mZnNabDBnNnN1ZkRMZGhkV0ZyMGFXVXhn?oc=5",
-      "datetime": 1793090540,
-      "summary": "China to send envoy to Middle East in near future amid conflict spillover\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
