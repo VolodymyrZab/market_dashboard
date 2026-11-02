@@ -13864,20 +13864,84 @@
   },
   "news": [
     {
+      "headline": "Trump focuses on Reflecting Pool in final public speech before midterms",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "datetime": 1793651340,
+      "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108505677-1793648203497-gettyimages-2303173670-ah800934_n41gt6qw.jpeg?v=1793651228&w=1920&h=1080"
+    },
+    {
+      "headline": "2 of our banks are at the heart of this week's biggest tech deals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/02/2-of-our-banks-are-at-the-heart-of-this-weeks-biggest-tech-deals.html",
+      "datetime": 1793646955,
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108374028-1791380786533-gettyimages-2278658609-TAIWAN_COMPUTEX.jpeg?v=1791380820&w=1920&h=1080"
+    },
+    {
+      "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+      "datetime": 1793646926,
+      "summary": "Just a day before the midterms, Kalshi traders give Democrats a 74% of controlling the Senate.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108486263-1793366029709-gettyimages-2300011914-US_MIDTERMS.jpeg?v=1793643769&w=1920&h=1080"
+    },
+    {
+      "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "datetime": 1793645644,
+      "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108438001-1792513420468-2026-Midterms-Combos-Recovered.jpg?v=1792513565&w=1920&h=1080"
+    },
+    {
+      "headline": "Apple reports after the bell. Options traders expect a big move",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+      "datetime": 1793643543,
+      "summary": "Apple reports after the bell. Options traders expect a big move.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108170751-1752235564971-gettyimages-2223867522-20090101250711-99-426957.jpeg?v=1761738046&w=1920&h=1080"
+    },
+    {
+      "headline": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+      "datetime": 1793643362,
+      "summary": "Apple, Palantir puts were in demand ahead of earnings.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358009-1788376886015-gettyimages-2292651452-G20_INNOVATION_MINISTERIAL.jpeg?v=1788376911&w=1920&h=1080"
+    },
+    {
+      "headline": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
+      "datetime": 1793641562,
+      "summary": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
+      "datetime": 1793639831,
+      "summary": "Sectors bracing for a pivot as US midterm elections loom\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "TotalEnergies says Iran war could accelerate energy transition - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNiSHhwUjBpRnJnUW4yZFM5NUp6QWlXOUJldXZ6ODRpZXdRbENpTFp3d2RJWG9tVVRTWXVzTDZQRjBLcXJOaU5EeWRBUTY2ZGJZQzJlaFVKaFJMckcwdkV2QTNSWFoyYkM4WFBlUEhwWThiS25XM2VObEJDalQyMmNLcmVPZXRBZmZNNVU3MWltVjRNNlZNcU1rcGFKLTNNWC05WDdhVGItRVpkTngxMw?oc=5",
+      "datetime": 1793639772,
+      "summary": "TotalEnergies says Iran war could accelerate energy transition\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
       "datetime": 1793639074,
       "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
       "image": "https://image.cnbcfm.com/api/v1/image/108316343-1780518921561-gettyimages-2243418927-NVIDIA_AI_KEYNOTE.jpeg?v=1780519019&w=1920&h=1080"
-    },
-    {
-      "headline": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
-      "datetime": 1793639022,
-      "summary": "Sectors bracing for a pivot as US midterm elections loom\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe: Reports",
@@ -13894,70 +13958,6 @@
       "datetime": 1793636376,
       "summary": "We're offsetting our Boeing purchase from earlier Monday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108302164-1777982144479-DSC_8925.JPG?v=1783612928&w=1920&h=1080"
-    },
-    {
-      "headline": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVJGdUotaWhuOVFjZ2VTVHZ5bkxnbmVXd3BUS0JEenI2QkpMYXJSVUxpUGJrNHpaMkFtZ244cE93RWhCWExKTmJFdm5FbFZEck14aVdnaW0tdU5DdHY0UUk3TkpqbW5vb1RzMW85Z1VkZHFBSnlRMkRVUTlxRDgyR2Z1N3BBSkRsdzI2Mm9WQmxjaFpiOUpqR3k5WjRZUVVZaUtGWGVscXhlS01PZjBUTWRMNHpIU28?oc=5",
-      "datetime": 1793634170,
-      "summary": "China's Wang urges Middle East dialogue in meetings with Iranian, Saudi officials\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Stock market after midterm elections: What S&P 500 history shows",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "datetime": 1793634072,
-      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-      "image": "https://image.cnbcfm.com/api/v1/image/108503920-1793626236128-gettyimages-2302713434-AFP_D66N3CZ.jpeg?v=1793626603&w=1920&h=1080"
-    },
-    {
-      "headline": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-      "datetime": 1793633441,
-      "summary": "VIX deemed \"unreactive\" by options traders",
-      "image": "https://image.cnbcfm.com/api/v1/image/108476692-1793220772154-gettyimages-2301924853-WARSH_FOMC_NYSE.jpeg?v=1793220807&w=1920&h=1080"
-    },
-    {
-      "headline": "Yemen's Houthis advance to within 80 km of Aden, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlRCZUUyWF9VckZ3NWJGbUV2Z3luSldoNGZIVk1zTkN4MEZ1ajdSZm4zYmNLYjhVbU5TQU9yYTU2YVVrSFY3QzNPU21wT2EwVlFlRG9mMGxkeG84RHptSzlsOUw3Zmd6SHRqZGdzM1UxQnpWZlZ4MFJSYTFTZ296c2U1T1NGZFBqd3hnazg3clVMUFJ4SWNzYUtjOVoxY2FHMHpzY3RKZkNudw?oc=5",
-      "datetime": 1793632731,
-      "summary": "Yemen's Houthis advance to within 80 km of Aden, sources say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iran says contacts over ending war continue after talks finish with no breakthrough - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
-      "datetime": 1793632524,
-      "summary": "Iran says contacts over ending war continue after talks finish with no breakthrough\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
-      "datetime": 1793631028,
-      "summary": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "TotalEnergies CEO sees no gas shortage in Europe this winter - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2M2U1Z4ejdLX3c0WjZSMXFIbF9IbVpnX3c2cFVlMzdfa0lENEwtRzJJMHdzUVhmbnljMHhMVEZZUDZtelNSREpMZldfc092S1dFMUdzVzJjNTFxX09YaV9OalplOXZ4US13RGs5a29sUU5qMHlTclUwdGxQbFNYVlBZaUx2cGpocjdXOUwwMnlpWWMweDFPdGZ6MHVlS0J4TUItU21fUQ?oc=5",
-      "datetime": 1793628943,
-      "summary": "TotalEnergies CEO sees no gas shortage in Europe this winter\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "TotalEnergies says Iran war could accelerate energy transition - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDNiSHhwUjBpRnJnUW4yZFM5NUp6QWlXOUJldXZ6ODRpZXdRbENpTFp3d2RJWG9tVVRTWXVzTDZQRjBLcXJOaU5EeWRBUTY2ZGJZQzJlaFVKaFJMckcwdkV2QTNSWFoyYkM4WFBlUEhwWThiS25XM2VObEJDalQyMmNLcmVPZXRBZmZNNVU3MWltVjRNNlZNcU1rcGFKLTNNWC05WDdhVGItRVpkTngxMw?oc=5",
-      "datetime": 1793628386,
-      "summary": "TotalEnergies says Iran war could accelerate energy transition\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
