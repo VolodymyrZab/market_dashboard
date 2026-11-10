@@ -2487,6 +2487,347 @@
       ]
     },
     {
+      "symbol": "CWEN",
+      "name": "Clearway Energy Inc",
+      "industry": "Utilities",
+      "timing": "amc",
+      "eps_estimate": 0.5771,
+      "eps_actual": 0.42,
+      "revenue_estimate": 520991520,
+      "revenue_actual": 522000000,
+      "revenue_beat": true,
+      "market_cap": 6574950000.0,
+      "last_close": 34.7,
+      "prev_close": 34.1,
+      "gap_pct": 1.76,
+      "volume": 1168940.236466,
+      "rvol": 0.8,
+      "week52_high": 41.74,
+      "week52_low": 28.57,
+      "week52_pos": 46.5,
+      "pe_ratio": null,
+      "revenue_streak": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.42,
+          "eps_estimate": 0.5771,
+          "surprise_pct": -27.2223,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 522000000,
+          "rev_estimate": 520991520
+        },
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1,
+          "eps_estimate": 0.3468,
+          "surprise_pct": 188.3506,
+          "beat": true
+        }
+      ],
+      "prev_quarters": [
+        {
+          "period": "2026-09-30",
+          "eps_actual": 0.42,
+          "eps_estimate": 0.5771,
+          "surprise_pct": -27.2223,
+          "beat": false,
+          "rev_beat": true,
+          "rev_actual": 522000000,
+          "rev_estimate": 520991520
+        },
+        {
+          "period": "2026-06-30",
+          "eps_actual": 1,
+          "eps_estimate": 0.3468,
+          "surprise_pct": 188.3506,
+          "beat": true
+        }
+      ],
+      "bars": [
+        {
+          "v": 1071203.950652,
+          "vw": 29.0249,
+          "o": 29.13,
+          "c": 29.14,
+          "h": 29.49,
+          "l": 28.57,
+          "t": 1790827200000,
+          "n": 18963
+        },
+        {
+          "v": 969811.701965,
+          "vw": 29.4965,
+          "o": 29.55,
+          "c": 29.34,
+          "h": 29.835,
+          "l": 29.3,
+          "t": 1790913600000,
+          "n": 17562
+        },
+        {
+          "v": 1689726.00399,
+          "vw": 29.617,
+          "o": 29.35,
+          "c": 29.52,
+          "h": 29.89,
+          "l": 29.2,
+          "t": 1791172800000,
+          "n": 20533
+        },
+        {
+          "v": 1742449.270507,
+          "vw": 30.4393,
+          "o": 30,
+          "c": 30.73,
+          "h": 30.73,
+          "l": 29.75,
+          "t": 1791259200000,
+          "n": 24247
+        },
+        {
+          "v": 1154244.032624,
+          "vw": 30.2376,
+          "o": 30.32,
+          "c": 30.29,
+          "h": 30.435,
+          "l": 30.01,
+          "t": 1791345600000,
+          "n": 19424
+        },
+        {
+          "v": 1432091.108382,
+          "vw": 29.9414,
+          "o": 30.22,
+          "c": 29.95,
+          "h": 30.365,
+          "l": 29.67,
+          "t": 1791432000000,
+          "n": 18990
+        },
+        {
+          "v": 960917.372922,
+          "vw": 30.1622,
+          "o": 30.08,
+          "c": 30.19,
+          "h": 30.42,
+          "l": 29.89,
+          "t": 1791518400000,
+          "n": 14087
+        },
+        {
+          "v": 789485.532112,
+          "vw": 30.4462,
+          "o": 30.19,
+          "c": 30.44,
+          "h": 30.595,
+          "l": 30,
+          "t": 1791777600000,
+          "n": 13777
+        },
+        {
+          "v": 949544.378932,
+          "vw": 30.3889,
+          "o": 30.4,
+          "c": 30.43,
+          "h": 30.67,
+          "l": 30.02,
+          "t": 1791864000000,
+          "n": 15871
+        },
+        {
+          "v": 1163087.166049,
+          "vw": 29.665,
+          "o": 30.07,
+          "c": 29.61,
+          "h": 30.11,
+          "l": 29.375,
+          "t": 1791950400000,
+          "n": 15514
+        },
+        {
+          "v": 937188.414139,
+          "vw": 29.8144,
+          "o": 29.52,
+          "c": 29.96,
+          "h": 29.995,
+          "l": 29.3572,
+          "t": 1792036800000,
+          "n": 16253
+        },
+        {
+          "v": 1028488.745926,
+          "vw": 29.9536,
+          "o": 29.98,
+          "c": 29.93,
+          "h": 30.25,
+          "l": 29.67,
+          "t": 1792123200000,
+          "n": 14531
+        },
+        {
+          "v": 904915.707388,
+          "vw": 29.547,
+          "o": 29.97,
+          "c": 29.55,
+          "h": 29.97,
+          "l": 29.365,
+          "t": 1792382400000,
+          "n": 12572
+        },
+        {
+          "v": 1124463.38325,
+          "vw": 30.1049,
+          "o": 29.48,
+          "c": 30.24,
+          "h": 30.28,
+          "l": 29.48,
+          "t": 1792468800000,
+          "n": 18623
+        },
+        {
+          "v": 1755825.863854,
+          "vw": 31.518,
+          "o": 30.62,
+          "c": 31.61,
+          "h": 31.85,
+          "l": 30.5693,
+          "t": 1792555200000,
+          "n": 29824
+        },
+        {
+          "v": 1135112.562794,
+          "vw": 31.2502,
+          "o": 31.2,
+          "c": 31.43,
+          "h": 31.5199,
+          "l": 30.58,
+          "t": 1792641600000,
+          "n": 18839
+        },
+        {
+          "v": 815614.21782,
+          "vw": 31.178,
+          "o": 31.09,
+          "c": 31.11,
+          "h": 31.345,
+          "l": 31.03,
+          "t": 1792728000000,
+          "n": 14132
+        },
+        {
+          "v": 856880.59888,
+          "vw": 31.4927,
+          "o": 31.34,
+          "c": 31.41,
+          "h": 31.72,
+          "l": 31.25,
+          "t": 1792987200000,
+          "n": 16609
+        },
+        {
+          "v": 880130.253787,
+          "vw": 32.631,
+          "o": 31.85,
+          "c": 32.72,
+          "h": 32.92,
+          "l": 31.75,
+          "t": 1793073600000,
+          "n": 16160
+        },
+        {
+          "v": 1033592.304066,
+          "vw": 32.7486,
+          "o": 32.87,
+          "c": 32.77,
+          "h": 32.92,
+          "l": 32.11,
+          "t": 1793160000000,
+          "n": 19266
+        },
+        {
+          "v": 1039777.53578,
+          "vw": 32.9052,
+          "o": 32.89,
+          "c": 32.88,
+          "h": 33.17,
+          "l": 32.77,
+          "t": 1793246400000,
+          "n": 15279
+        },
+        {
+          "v": 1603444.587662,
+          "vw": 32.0331,
+          "o": 32.41,
+          "c": 32.03,
+          "h": 32.57,
+          "l": 31.74,
+          "t": 1793332800000,
+          "n": 19678
+        },
+        {
+          "v": 4246538.230813,
+          "vw": 33.5488,
+          "o": 32.48,
+          "c": 33.9,
+          "h": 34,
+          "l": 32.35,
+          "t": 1793595600000,
+          "n": 38346
+        },
+        {
+          "v": 2808329.741148,
+          "vw": 34.5857,
+          "o": 33.97,
+          "c": 34.43,
+          "h": 35.08,
+          "l": 33.745,
+          "t": 1793682000000,
+          "n": 35555
+        },
+        {
+          "v": 1958448.138897,
+          "vw": 35.5361,
+          "o": 34.86,
+          "c": 35.71,
+          "h": 35.78,
+          "l": 34.57,
+          "t": 1793768400000,
+          "n": 26815
+        },
+        {
+          "v": 2174909.246631,
+          "vw": 34.2467,
+          "o": 35.67,
+          "c": 34.28,
+          "h": 35.8919,
+          "l": 33.6806,
+          "t": 1793854800000,
+          "n": 29600
+        },
+        {
+          "v": 1913793.263332,
+          "vw": 34.0686,
+          "o": 34.52,
+          "c": 34.1,
+          "h": 34.52,
+          "l": 33.79,
+          "t": 1793941200000,
+          "n": 27894
+        },
+        {
+          "v": 1168940.236466,
+          "vw": 34.7654,
+          "o": 34.54,
+          "c": 34.7,
+          "h": 35.16,
+          "l": 34.15,
+          "t": 1794200400000,
+          "n": 20428
+        }
+      ]
+    },
+    {
       "symbol": "CWST",
       "name": "Casella Waste Systems, Inc.",
       "industry": "Commercial Services & Supplies",
@@ -34897,347 +35238,6 @@
       ]
     },
     {
-      "symbol": "CWEN",
-      "name": "CWEN",
-      "industry": "",
-      "timing": "amc",
-      "eps_estimate": 0.5771,
-      "eps_actual": 0.42,
-      "revenue_estimate": 520991520,
-      "revenue_actual": 522000000,
-      "revenue_beat": true,
-      "market_cap": null,
-      "last_close": 34.7,
-      "prev_close": 34.1,
-      "gap_pct": 1.76,
-      "volume": 1168940.236466,
-      "rvol": 0.8,
-      "week52_high": 41.74,
-      "week52_low": 28.57,
-      "week52_pos": 46.5,
-      "pe_ratio": null,
-      "revenue_streak": [
-        {
-          "period": "2026-09-30",
-          "eps_actual": 0.42,
-          "eps_estimate": 0.5771,
-          "surprise_pct": -27.2223,
-          "beat": false,
-          "rev_beat": true,
-          "rev_actual": 522000000,
-          "rev_estimate": 520991520
-        },
-        {
-          "period": "2026-06-30",
-          "eps_actual": 1,
-          "eps_estimate": 0.3468,
-          "surprise_pct": 188.3506,
-          "beat": true
-        }
-      ],
-      "prev_quarters": [
-        {
-          "period": "2026-09-30",
-          "eps_actual": 0.42,
-          "eps_estimate": 0.5771,
-          "surprise_pct": -27.2223,
-          "beat": false,
-          "rev_beat": true,
-          "rev_actual": 522000000,
-          "rev_estimate": 520991520
-        },
-        {
-          "period": "2026-06-30",
-          "eps_actual": 1,
-          "eps_estimate": 0.3468,
-          "surprise_pct": 188.3506,
-          "beat": true
-        }
-      ],
-      "bars": [
-        {
-          "v": 1071203.950652,
-          "vw": 29.0249,
-          "o": 29.13,
-          "c": 29.14,
-          "h": 29.49,
-          "l": 28.57,
-          "t": 1790827200000,
-          "n": 18963
-        },
-        {
-          "v": 969811.701965,
-          "vw": 29.4965,
-          "o": 29.55,
-          "c": 29.34,
-          "h": 29.835,
-          "l": 29.3,
-          "t": 1790913600000,
-          "n": 17562
-        },
-        {
-          "v": 1689726.00399,
-          "vw": 29.617,
-          "o": 29.35,
-          "c": 29.52,
-          "h": 29.89,
-          "l": 29.2,
-          "t": 1791172800000,
-          "n": 20533
-        },
-        {
-          "v": 1742449.270507,
-          "vw": 30.4393,
-          "o": 30,
-          "c": 30.73,
-          "h": 30.73,
-          "l": 29.75,
-          "t": 1791259200000,
-          "n": 24247
-        },
-        {
-          "v": 1154244.032624,
-          "vw": 30.2376,
-          "o": 30.32,
-          "c": 30.29,
-          "h": 30.435,
-          "l": 30.01,
-          "t": 1791345600000,
-          "n": 19424
-        },
-        {
-          "v": 1432091.108382,
-          "vw": 29.9414,
-          "o": 30.22,
-          "c": 29.95,
-          "h": 30.365,
-          "l": 29.67,
-          "t": 1791432000000,
-          "n": 18990
-        },
-        {
-          "v": 960917.372922,
-          "vw": 30.1622,
-          "o": 30.08,
-          "c": 30.19,
-          "h": 30.42,
-          "l": 29.89,
-          "t": 1791518400000,
-          "n": 14087
-        },
-        {
-          "v": 789485.532112,
-          "vw": 30.4462,
-          "o": 30.19,
-          "c": 30.44,
-          "h": 30.595,
-          "l": 30,
-          "t": 1791777600000,
-          "n": 13777
-        },
-        {
-          "v": 949544.378932,
-          "vw": 30.3889,
-          "o": 30.4,
-          "c": 30.43,
-          "h": 30.67,
-          "l": 30.02,
-          "t": 1791864000000,
-          "n": 15871
-        },
-        {
-          "v": 1163087.166049,
-          "vw": 29.665,
-          "o": 30.07,
-          "c": 29.61,
-          "h": 30.11,
-          "l": 29.375,
-          "t": 1791950400000,
-          "n": 15514
-        },
-        {
-          "v": 937188.414139,
-          "vw": 29.8144,
-          "o": 29.52,
-          "c": 29.96,
-          "h": 29.995,
-          "l": 29.3572,
-          "t": 1792036800000,
-          "n": 16253
-        },
-        {
-          "v": 1028488.745926,
-          "vw": 29.9536,
-          "o": 29.98,
-          "c": 29.93,
-          "h": 30.25,
-          "l": 29.67,
-          "t": 1792123200000,
-          "n": 14531
-        },
-        {
-          "v": 904915.707388,
-          "vw": 29.547,
-          "o": 29.97,
-          "c": 29.55,
-          "h": 29.97,
-          "l": 29.365,
-          "t": 1792382400000,
-          "n": 12572
-        },
-        {
-          "v": 1124463.38325,
-          "vw": 30.1049,
-          "o": 29.48,
-          "c": 30.24,
-          "h": 30.28,
-          "l": 29.48,
-          "t": 1792468800000,
-          "n": 18623
-        },
-        {
-          "v": 1755825.863854,
-          "vw": 31.518,
-          "o": 30.62,
-          "c": 31.61,
-          "h": 31.85,
-          "l": 30.5693,
-          "t": 1792555200000,
-          "n": 29824
-        },
-        {
-          "v": 1135112.562794,
-          "vw": 31.2502,
-          "o": 31.2,
-          "c": 31.43,
-          "h": 31.5199,
-          "l": 30.58,
-          "t": 1792641600000,
-          "n": 18839
-        },
-        {
-          "v": 815614.21782,
-          "vw": 31.178,
-          "o": 31.09,
-          "c": 31.11,
-          "h": 31.345,
-          "l": 31.03,
-          "t": 1792728000000,
-          "n": 14132
-        },
-        {
-          "v": 856880.59888,
-          "vw": 31.4927,
-          "o": 31.34,
-          "c": 31.41,
-          "h": 31.72,
-          "l": 31.25,
-          "t": 1792987200000,
-          "n": 16609
-        },
-        {
-          "v": 880130.253787,
-          "vw": 32.631,
-          "o": 31.85,
-          "c": 32.72,
-          "h": 32.92,
-          "l": 31.75,
-          "t": 1793073600000,
-          "n": 16160
-        },
-        {
-          "v": 1033592.304066,
-          "vw": 32.7486,
-          "o": 32.87,
-          "c": 32.77,
-          "h": 32.92,
-          "l": 32.11,
-          "t": 1793160000000,
-          "n": 19266
-        },
-        {
-          "v": 1039777.53578,
-          "vw": 32.9052,
-          "o": 32.89,
-          "c": 32.88,
-          "h": 33.17,
-          "l": 32.77,
-          "t": 1793246400000,
-          "n": 15279
-        },
-        {
-          "v": 1603444.587662,
-          "vw": 32.0331,
-          "o": 32.41,
-          "c": 32.03,
-          "h": 32.57,
-          "l": 31.74,
-          "t": 1793332800000,
-          "n": 19678
-        },
-        {
-          "v": 4246538.230813,
-          "vw": 33.5488,
-          "o": 32.48,
-          "c": 33.9,
-          "h": 34,
-          "l": 32.35,
-          "t": 1793595600000,
-          "n": 38346
-        },
-        {
-          "v": 2808329.741148,
-          "vw": 34.5857,
-          "o": 33.97,
-          "c": 34.43,
-          "h": 35.08,
-          "l": 33.745,
-          "t": 1793682000000,
-          "n": 35555
-        },
-        {
-          "v": 1958448.138897,
-          "vw": 35.5361,
-          "o": 34.86,
-          "c": 35.71,
-          "h": 35.78,
-          "l": 34.57,
-          "t": 1793768400000,
-          "n": 26815
-        },
-        {
-          "v": 2174909.246631,
-          "vw": 34.2467,
-          "o": 35.67,
-          "c": 34.28,
-          "h": 35.8919,
-          "l": 33.6806,
-          "t": 1793854800000,
-          "n": 29600
-        },
-        {
-          "v": 1913793.263332,
-          "vw": 34.0686,
-          "o": 34.52,
-          "c": 34.1,
-          "h": 34.52,
-          "l": 33.79,
-          "t": 1793941200000,
-          "n": 27894
-        },
-        {
-          "v": 1168940.236466,
-          "vw": 34.7654,
-          "o": 34.54,
-          "c": 34.7,
-          "h": 35.16,
-          "l": 34.15,
-          "t": 1794200400000,
-          "n": 20428
-        }
-      ]
-    },
-    {
       "symbol": "GMRS",
       "name": "GMRS",
       "industry": "",
@@ -43166,6 +43166,62 @@
   },
   "news": [
     {
+      "headline": "Fed officials open door to a half-point hike after inflation beats expectations - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+      "datetime": 1794334475,
+      "summary": "Fed officials open door to a half-point hike after inflation beats expectations\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Defiant Hegseth blasts impeachment effort ahead of House vote - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+      "datetime": 1794332870,
+      "summary": "Defiant Hegseth blasts impeachment effort ahead of House vote\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "COMMENTARY: China's crude oil imports recover, fuel exports not so much - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazhScG1vNWotRURNakQ0YTRxZ2JXY180M3hPQ2VpdDF3UnBRXy1RSHcxSWRvOFJqTERXSDMteGZuSGVOYzI5Y0x3c1VPQlZpSDBJN255X3UxdGQybXFPNWw2N1BfR2l3azB4ang1Z29LMzU4MXo5RVNrMFR2XzRndDdqU3BfOHNWZ0xfNGhJOXZPV3ROXzBJWW9XSUtfWW9ja1VrU0RZQ2ZKVG9Pa0Frc0lSbnoxUkYwTFhLTnBfc05sTUxm?oc=5",
+      "datetime": 1794330928,
+      "summary": "COMMENTARY: China's crude oil imports recover, fuel exports not so much\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Iran's top security official says no talks underway with US - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXVfMkI3S19RUFdwVWNlT3EyYkFfVUpBOW5ldjdoaUNXREN6OW8yaEVMb2Fwbkhhcm1seVYzR0FjMFQxTGt2NFZ6enpxaXFBSE0wQThJT2dRQ0E0aFhyamc5Y1g5djFKaE52OUJ6cTZOOFVYMGFEMWpuRHZVMGVCS18tYmo0NVFBT0tFRHlVNExEVnluNndNSnJkRk5IN0lyWlJ4VFduZTFhRzZIX0EtU2VB?oc=5",
+      "datetime": 1794329981,
+      "summary": "Iran's top security official says no talks underway with US\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Vanishing vessels and missing sailors: The Iran war's human cost at sea - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk9OX194dlU4RDNVOWNKU0tNME9BVThqb09FME14bDBYM29rdjN4V0RDZXl5aFhTZWhzZ3M0S3pQTUU3RGZULW9jY0Voa1JhbW5rQTJRRDg3dzJidzI5NkZDUVgwNktsanhNOE1NZjFGbTRwby00eTgyZXB2VkVZbzc2b0Q4UXowNnNBSGVQWnA0ZldOOUcwSWhWSF9qZHVxZWY0Wmk5OXl5WnpLOXBkSVF3?oc=5",
+      "datetime": 1794329668,
+      "summary": "Vanishing vessels and missing sailors: The Iran war's human cost at sea\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMm1PTnVENERxQ3laRzBVcGVRVkQ0eHVqMDZzRllQSU4tSFphMU1QS3RzSDVld29NUWVjZDkwWlQ2MXJXVng2bDEyLVFRaXY5c0E2VV9udlZUYlFUT2FpR25tSjdkTXdxSnBoYmsycXBUbTh6U3VVbTJ0anhqN2xjSllSYUFKeDRud25PdDBXS0xhcl8zSFFVdDVBcTNVWnRLVUgxR193cG5JRTNSWW1rTmlrMGNwcTYyOU1tVnVZRQ?oc=5",
+      "datetime": 1794328704,
+      "summary": "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+      "datetime": 1794328201,
+      "summary": "Former Google recruiter Farah Sharghi shares her best advice for how to turn coffee chats into real introductions and interviews.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108546813-1794256831946-gettyimages-2301131029-_jay1805e.jpeg?v=1794257079&w=1920&h=1080"
+    },
+    {
       "headline": "U.S. gas prices fall below $4 for the first time since July",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
@@ -43174,91 +43230,35 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108326995-1782410954087-gettyimages-2283298117-bb2_3232_vro9rv0n.jpeg?v=1782411333&w=1920&h=1080"
     },
     {
-      "headline": "What are the impeachment articles facing Pete Hegseth? - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NMbXZsZWM1TUpORFVzUVhKMFIyS3VPSk5SRHZkQ1VCcjhJU3JReEI3N3NSbW9vRGc0R3Z4WTZWWllUbEU0ODRJWkxxOXVLNy1uQTBCbWNtWlNYY0ZRUWstcWU4dlhUaVgtU2pqMW9wWkltVDBYUGxNblFDZU1aSmd5eXgzYzZfcy1TWDRNOEc1WlJIZ2IwVDJR?oc=5",
-      "datetime": 1794322888,
-      "summary": "What are the impeachment articles facing Pete Hegseth?\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Wall St opens lower after October's hot inflation print - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
-      "datetime": 1794321304,
-      "summary": "Wall St opens lower after October's hot inflation print\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Does anyone feel safe from layoffs right now?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html",
-      "datetime": 1794321056,
-      "summary": "AI fears and a lackluster job market are fueling a looming worry that layoffs are around the corner, even if you do your job well.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108546622-1794246738892-gettyimages-2233257780-27-07-2025-casualntpdsc_1661.jpeg?v=1794246751&w=1920&h=1080"
-    },
-    {
-      "headline": "Rubio says no need for major combat operations on Iran given US economic campaign - Reuters",
+      "headline": "Rubio says no need for major combat operations against Iran given US economic campaign - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-      "datetime": 1794320898,
-      "summary": "Rubio says no need for major combat operations on Iran given US economic campaign\u00a0\u00a0Reuters",
+      "datetime": 1794328063,
+      "summary": "Rubio says no need for major combat operations against Iran given US economic campaign\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Pentagon chief Hegseth calls moves to impeach him a farce and sabotage - Reuters",
+      "headline": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
-      "datetime": 1794320397,
-      "summary": "Pentagon chief Hegseth calls moves to impeach him a farce and sabotage\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+      "datetime": 1794328033,
+      "summary": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "datetime": 1794319688,
-      "summary": "Futures are down after a higher-than-expected consumer price index this morning stoked inflation concerns.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342840-1785448082345-gettyimages-2280291202-ANTHROPIC_CIRCUIT.jpeg?v=1789490011&w=1920&h=1080"
-    },
-    {
-      "headline": "France summons Iran envoy over supermarket fridge hack, warns of response - Reuters",
+      "headline": "Fed's Logan calls for two more rate hikes, possibly rapidly - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFRPZy1SWjNiT21UM05JSTBmN3JnWW9Gb3pweVRYSFhxZzNfRlBtbEpCNEZ6VHJQZnhpaFZaZ05jTkpWOTNWaGhZMVlISGdxSzlVX2xKRmE2VXZzTmZ3ZElya0ZLQUs1UVM4MXRMNnR3al84MXZOREM1SzhjZHAzTTJYVkpiMzFTOUJ0VC1SNnJvRE5KTEVpUkE2SkJ1RklfSjREc1BzdGV5aGlWaElrYXVDUUt4bmh0dFE?oc=5",
-      "datetime": 1794317213,
-      "summary": "France summons Iran envoy over supermarket fridge hack, warns of response\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0xfUlI5TmlGa3Z4Z0QtTF9FcVRjZ0hwNEFSOVNTX0otSERvdUdrZzBKazRheFd2Vlc3bWZhazZfY2haNFNKVi1WOWNnWWVfTmgyVk9iSXFqRTR3aHcwRV93UkF0ejRGVFdOdVR4N2NWalZkYkFhS3NTLWtsY1FjazJld1JBX0lBRmM4M1RhdHk3UDBjZFFWOUNQVm40bkU?oc=5",
+      "datetime": 1794326143,
+      "summary": "Fed's Logan calls for two more rate hikes, possibly rapidly\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
-      "headline": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
-      "datetime": 1794316753,
-      "summary": "The cliche is one of those smart-sounding rules of thumb that proves true just often enough to remain a Wall Street clich\u00e9 in good standing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108535115-17940025492026-11-06t215649z_1836567939_rc2jioag2mr7_rtrmadp_0_usa-stocks.jpeg?v=1794002579&w=1920&h=1080"
-    },
-    {
-      "headline": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Reuters",
+      "headline": "Wall St falls as hot inflation data fuels rate-hike jitters - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
-      "datetime": 1794316454,
-      "summary": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Gulf stocks close higher as Trump dials back Iran strike talk - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVhYVkx5WEEtWEJFanhNSTZMMVdIQ0NHcjR2dTNNZXJwWXFDMUg0THpNV1BEdnl4dlhXaHRSdy1oUjgwekg3c01kTGVvWFhRYnhhbWRRelFHbFdzZms2TmYxWlJQRHBRRUFIYzMzallCTl9zT3hGSmRCY0hZMzJpRVVhY1dJWV8tX2ttQzZCa0Rod0dNRWtIVVpoVncwZWNJbW90eEpBeldyd2s?oc=5",
-      "datetime": 1794316450,
-      "summary": "Gulf stocks close higher as Trump dials back Iran strike talk\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMm1PTnVENERxQ3laRzBVcGVRVkQ0eHVqMDZzRllQSU4tSFphMU1QS3RzSDVld29NUWVjZDkwWlQ2MXJXVng2bDEyLVFRaXY5c0E2VV9udlZUYlFUT2FpR25tSjdkTXdxSnBoYmsycXBUbTh6U3VVbTJ0anhqN2xjSllSYUFKeDRud25PdDBXS0xhcl8zSFFVdDVBcTNVWnRLVUgxR193cG5JRTNSWW1rTmlrMGNwcTYyOU1tVnVZRQ?oc=5",
-      "datetime": 1794316352,
-      "summary": "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
+      "datetime": 1794324074,
+      "summary": "Wall St falls as hot inflation data fuels rate-hike jitters\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
