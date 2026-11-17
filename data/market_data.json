@@ -30139,12 +30139,36 @@
   },
   "news": [
     {
+      "headline": "We\u2019re watching Cramer\u2019s favorite market indicator for a signal to buy stocks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+      "datetime": 1794942927,
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553208-1794932257620-Traders-Photo-20261116-KK-PRESS-009.jpg?v=1794932755&w=1920&h=1080"
+    },
+    {
+      "headline": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+      "datetime": 1794937254,
+      "summary": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy on weakness",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
       "datetime": 1794933741,
       "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
       "image": "https://image.cnbcfm.com/api/v1/image/108289438-1775762935321-gettyimages-2269517561-US_STOCKS.jpeg?v=1777726782&w=1920&h=1080"
+    },
+    {
+      "headline": "Trump and Tehran gamble on time as Iran war stalemate deepens - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
+      "datetime": 1794932622,
+      "summary": "Trump and Tehran gamble on time as Iran war stalemate deepens\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
@@ -30155,19 +30179,19 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080"
     },
     {
-      "headline": "Wall St slips ahead of Nvidia results, Anthropic IPO - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-      "datetime": 1794930040,
-      "summary": "Wall St slips ahead of Nvidia results, Anthropic IPO\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
       "headline": "North Macedonia, Greece say they uncovered Iran-linked assassination plot - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDI2eEdMQzBuWElTakJTMzAxa1BMY3k5aVRYS3JpZEZ0cmE2b1Y4SGlRYnZFX19oYVVGQWhWT2JXcUdUbXEyMW5vSnVBeXhWcXMyNnNLR0Z0S2ROTTJOVHlWbXB1NjkyMy1saGFFdDB4YzY5TUU4a3BkMzRDMkFZN1cxdC05dXdic3ZYZGQ1RmdYVzE0eERjME1qeUg2dGp4MzFXZUFMN2xSMVVkZV9PMHIzaG1xd2s1cl9TMjM3WEhQVWpK?oc=5",
       "datetime": 1794929334,
       "summary": "North Macedonia, Greece say they uncovered Iran-linked assassination plot\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Britain to supply Ukraine with more than 1,000 short-range missiles - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmQ3aVVVaXczTFF5VmRXOXhSa2hEbF9vRG9SRE9paXRIUjM0N0lpVngxRndkTTJUd01qY1puYlliMGxZdXlPRnJBNFpQUUhJekZ2Z1p4RURWYlc0RFFnLURPUnpRaXZuS3BkbEdtcmp5NUstaGl6NUVqYzNBTEczcm9IcTlUcHJ2M1hJbU11V2VEMGhaSVBKQmxOcmJRQmwtRi0tM1ZrTTk1TDU4VEVkSWZtTHE2SENGMG5iUXRPOE5IVmJM?oc=5",
+      "datetime": 1794927969,
+      "summary": "Britain to supply Ukraine with more than 1,000 short-range missiles\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -30177,6 +30201,14 @@
       "datetime": 1794927901,
       "summary": "\"You need a clear, disciplined plan for when to sell,\" says Karen Finerman. Here are seven smart reasons to sell \u2014 and when not to sell.",
       "image": "https://image.cnbcfm.com/api/v1/image/108552320-1794857247025-gettyimages-1366061593-322.jpeg?v=1794857489&w=1920&h=1080"
+    },
+    {
+      "headline": "US homebuilder sentiment tumbles to more than 14-1/2-year low in November - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2RIcTE0dE9xcDUxZ1RJeFFDdTNVM2UwVUI4OW9mUmRpN2FVYWxUcEFENmx1YzdnbXdaZTBpWGxpTnFObnJ0MXdjT0dmNUptc3FwT1QyWmVmMlBrblB0WlMyXzlxdU5GelNGWUFLMTh1aHZqUjJHczdWRGZmNHVQcXFuZHNtY2tFVk5YbmFqQ3h0enBzT1dtSEhmRlBSenh1cnBzWFYtM2NZaTJWQm1IVA?oc=5",
+      "datetime": 1794927801,
+      "summary": "US homebuilder sentiment tumbles to more than 14-1/2-year low in November\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
       "headline": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
@@ -30201,38 +30233,6 @@
       "datetime": 1794924044,
       "summary": "Can't understate how huge this Nvidia earnings day is.",
       "image": "https://image.cnbcfm.com/api/v1/image/108546817-1794257349290-gettyimages-2303916046-NVIDIA_HQ.jpeg?v=1794257470&w=1920&h=1080"
-    },
-    {
-      "headline": "US retail sales increase moderately in October - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFYQzF0Y092amNQX1ZybEpWNGF0TkJ6SDY0eWtIenJRRWE2by1QSXROdzVLLUF3MjJqNGxyZkJVVWEzeUZGNXlIekdaT0pMUFRmd2pPbl9BZTRGZERFSnFOend6M0FKU3laSWdPdEpiWkw3TlVTejkwdFZaeHJyR3dTb2o5Y0toVnZaVkxIeWEwZw?oc=5",
-      "datetime": 1794923003,
-      "summary": "US retail sales increase moderately in October\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iraqi leader's planned crackdown on pro-Iran militias is riskiest move yet - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVV95bnRSWlVFU1dhSExfODRXN3Q5b1d1VHZZT2Z5Tk1nXzJBUHBFUkNibzBIY1I5NkdoeFAyU1ltNE9tYTVONzA1Smt4YWxmNWlSeVh6ZjVmMVNhbDluZGFwSW1ocExKb3Q0a1g2dFZNWFk3Vy1xclZDd0lRTVlJSFdnUU1ka29SM2wwbVhpTDJITlJzcllObUV3bFNfejhJMlBpdS0xcjIzYzRjVHR5ZE9kQktzTWZiY2VUdXFFOVVudw?oc=5",
-      "datetime": 1794922175,
-      "summary": "Iraqi leader's planned crackdown on pro-Iran militias is riskiest move yet\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
-      "datetime": 1794921344,
-      "summary": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking exits.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552269-1794855081505-gettyimages-2304454689-ANTHROPIC_IPO_ROADSHOW.jpeg?v=1794855094&w=1920&h=1080"
-    },
-    {
-      "headline": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-      "datetime": 1794921196,
-      "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/105221557-IMG_7670.JPG?v=1695322238&w=1920&h=1080"
     }
   ],
   "sentiment": {
