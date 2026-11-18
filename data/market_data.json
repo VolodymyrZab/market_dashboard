@@ -17286,6 +17286,86 @@
   },
   "news": [
     {
+      "headline": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "datetime": 1795028988,
+      "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554444-1795025697370-image-1_1024.jpg?v=1795026170&w=1920&h=1080"
+    },
+    {
+      "headline": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "datetime": 1795028924,
+      "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476200-1793214642067-gettyimages-2301908904-AFP_D4QJ6NG.jpeg?v=1793214690&w=1920&h=1080"
+    },
+    {
+      "headline": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
+      "datetime": 1795028859,
+      "summary": "Nvidia's commentary on its buyback and AI ecosystem support was encouraging. But it's not a shock to see the stock down Wednesday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354636-1787762833729-gettyimages-2291592328-2026_aug_26_nvidia_0293.jpeg?v=1787762914&w=1920&h=1080"
+    },
+    {
+      "headline": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+      "datetime": 1795028222,
+      "summary": "Big moves have options traders wondering if Anthropic's IPO is spurring a rotation trade.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363766-1789576270705-gettyimages-2295603713-157a1906_copy_os06z6tu.jpeg?v=1789576365&w=1920&h=1080"
+    },
+    {
+      "headline": "Read Jim Cramer\u2019s full interview with Nvidia\u2019s Colette Kress: Demand, buybacks and China",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+      "datetime": 1795025682,
+      "summary": "Interim CEO Kress sat down with CNBC\u2019s Jim Cramer Tuesday evening shortly after the AI chip giant delivered a quarterly beat and strong guidance.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553673-1794958809316-Screenshot_2026-11-17_at_63623_PM.png?v=1794959300&w=1920&h=1080"
+    },
+    {
+      "headline": "Is Apple the safe haven investors think it is?\u00a0Here's a way to trade it with less risk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
+      "datetime": 1795025421,
+      "summary": "Traders have flocked to Apple's perceived safety in the wake of Nvidia's scandal. It may not be so safe, says Mike Khouw",
+      "image": "https://image.cnbcfm.com/api/v1/image/108452175-1792771212053-gettyimages-2301112872-APPLE_DUO.jpeg?v=1792771251&w=1920&h=1080"
+    },
+    {
+      "headline": "Investigators make progress in hunt for cause of FAA ground stop",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+      "datetime": 1795022971,
+      "summary": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554363-1795021285948-gettyimages-2304593499-AFP_D7GL3L4.jpeg?v=1795021325&w=1920&h=1080"
+    },
+    {
+      "headline": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+      "datetime": 1795022434,
+      "summary": "Israel launches ground operation in central Gaza, dozens flee\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Threats from Iran have increased substantially, US intelligence director says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVIOHhPWnFWVF94TVJ0cTI0YU5hNERTcWNyU0phOVlSejlUbVFmYmkwSlZUNGNHenVpZHlydHpHdW9kWHc2UFF6aXJfQVZYcElYVlFsT0Y1RUV4Wnl2aVloNU1nY196aHRMNmV0NTFhWDhtVFlSV19MTElzZVRpUEJNYkpKcURQLUtFd1JfNlB3cmRvYmtONW1vNzBHTmgtYXhmMnNLNE54c1hpd2dZNi1mSlRnOG8?oc=5",
+      "datetime": 1795021825,
+      "summary": "Threats from Iran have increased substantially, US intelligence director says\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "datetime": 1795021373,
+      "summary": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese\u00a0battery giant CATL.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554182-1795013717847-Final_inspection.jpg?v=1795014061&w=1920&h=1080"
+    },
+    {
       "headline": "Jim Cramer looks at what turned the market lower and where stocks could go next",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/11/18/cramer-looks-at-what-turned-the-market-lower-where-stocks-could-go-next.html",
@@ -17294,91 +17374,11 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108549233-1794422029824-CNBC_INVSTNG_CLB_BB_110626_0290.JPG?v=1794423061&w=1920&h=1080"
     },
     {
-      "headline": "Jeffries wins Democratic House speaker race, on track to make history in January",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
-      "datetime": 1795018491,
-      "summary": "Jeffries will still need to win a floor vote in January to officially become House speaker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554287-1795017953077-gettyimages-2305071801-AFP_D7RD4FT.jpeg?v=1795018343&w=1920&h=1080"
-    },
-    {
-      "headline": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Reuters",
+      "headline": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
-      "datetime": 1795016779,
-      "summary": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-      "datetime": 1795016501,
-      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108553846-1794983985885-gettyimages-2301087438-vcg111675450902.jpeg?v=1794984267&w=1920&h=1080"
-    },
-    {
-      "headline": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUtHTXhXeG5haF9PeGN6aWVDRzdwejZOZHNyWmZTTXpKc2Fwa3VsZ0Q1VnZNc3lVSmltbFdzMjQtQ2E1ZGxhZlJjX19yRHVKNmF1QmZ1eEJ3UVh2eW1HUU5qMnctQXp1d1NUNkk4XzJ4TWlibHRPXzZmOWdIdU5fdFo4d2h2M1ZhbHpGNmtGZWdGMTg2bFNGV0Z4MzNDd2syblpaa0NmeHhScmRmb0lR?oc=5",
-      "datetime": 1795014732,
-      "summary": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Tech outages are causing people to panic buy. Costco is benefitting",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "datetime": 1795013873,
-      "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods",
-      "image": "https://image.cnbcfm.com/api/v1/image/108415077-1792082548621-gettyimages-2298322115-dsc0251_costco01_10022026.jpeg?v=1792082596&w=1920&h=1080"
-    },
-    {
-      "headline": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5",
-      "datetime": 1795013034,
-      "summary": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Israeli military begins a new thrust in Gaza, witnesses say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
-      "datetime": 1795012903,
-      "summary": "Israeli military begins a new thrust in Gaza, witnesses say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Small investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-      "datetime": 1795010957,
-      "summary": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080"
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1795010768,
-      "summary": "Can Nvidia hold these gains after earnings?",
-      "image": "https://image.cnbcfm.com/api/v1/image/108447197-1792682617949-gettyimages-2301325199-3h4a6821_7uqxvgux.jpeg?v=1792682661&w=1920&h=1080"
-    },
-    {
-      "headline": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-      "datetime": 1795010572,
-      "summary": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+,  vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550474-1794514351694-6ae12503a2c3bf5ff4e281ad_26Q3_FDA-peptide-vial_newsroom_1920x1008_2.jpeg?v=1794514425&w=1920&h=1080"
-    },
-    {
-      "headline": "Russia's A7 payment network plans further expansion in Africa, executive says - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHhpOGdhVGtPN1JhbnpxelVucEFfOWxzM3RiUkRBNXVmOTBWTEc1Z0dVcW9kVXllaE5jbHlLYVViNDNjZUp1cnVIbE5GQlJydE5rajd1aldFcW1HNTRFSWFMUWEydEJDN1NuQmVtTjU5a0trYTZ2dXFSOUxJLVhZUlF5dWk2WU95ekJiZFZteFFQOGlQOXA5SmhNQVhOQkRoTVNRbDladlF3R3J1eUtEMk5heUpFOVRNTWhaN193?oc=5",
-      "datetime": 1795008826,
-      "summary": "Russia's A7 payment network plans further expansion in Africa, executive says\u00a0\u00a0Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTZfWHVZQkZBSHhzWl9pY3ZMUk9HQVhEUmtmckJNcVBYUXFHQ2ZDZF9XUkpESEF2bjM1cjh3S2R6T3N4cG8xeDJCS0NOQ1JLMDRRcFZvUjl0X3YzREVxM1RheFRESF9QekdKTnpFRC1oaW51Mkwwb0w1REYwSngzRjh1VXA1ZVJick5SczdmTjltWExrV0JEeXRVUmVpbDhEQ0lORlAzWGpWaG50UWJFOGpValMzd09jZGhQNQ?oc=5",
+      "datetime": 1795020259,
+      "summary": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
