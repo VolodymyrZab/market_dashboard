@@ -17979,6 +17979,70 @@
   },
   "news": [
     {
+      "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "datetime": 1795114557,
+      "summary": "An ongoing shortage of Sanofi\u2019s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107214198-16795930042023-03-23t060022z_1657066164_rc28su90is2e_rtrmadp_0_sanofi-fr-regeneron-pharms-dupixent.jpeg?v=1715634692&w=1920&h=1080"
+    },
+    {
+      "headline": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
+      "datetime": 1795114109,
+      "summary": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555523-1795111672104-108555523-1795107117775-gettyimages-2305334469-ANTHROPIC_IPO.jpg?v=1795111682&w=1920&h=1080"
+    },
+    {
+      "headline": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BENXJsTm9KVlRxVjk0SENfVmszM1ZXVFpjQzJZcVRneVFiR210MTNseE0yUlJqWmRObE9ndjlKQkZUVFJqd0Joc3hFLWNhcW5KQ0ZKZWdBWDZ5Q1BCNWFQcDdBN1N5MDllSGNNYjdOUG1IaG5BNjB2S3hPMHRTSGpDM2phXzkzSUF6TkJtMktQRWpodkdiRVVSM0FJZ0lDOVRLZk5Dby1SdXV1elBEaW5GM0k?oc=5",
+      "datetime": 1795113609,
+      "summary": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Trump says US will 'see what happens' in conflict with Iran after January 1 - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
+      "datetime": 1795113463,
+      "summary": "Trump says US will 'see what happens' in conflict with Iran after January 1\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
+      "datetime": 1795108533,
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357983-1788375067852-gettyimages-2272649609-gchanceo-3-2_s0j0mwfy.jpeg?v=1788375145&w=1920&h=1080"
+    },
+    {
+      "headline": "We're adding to a consumer stock as the market enters oversold territory",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
+      "datetime": 1795108366,
+      "summary": "The S&P Oscillator officially moved into oversold territory after Wednesday's session.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554309-17950192062026-11-18t162222z_659947811_rc2dqoayx25y_rtrmadp_0_usa-stocks.jpeg?v=1795033008&w=1920&h=1080"
+    },
+    {
+      "headline": "US weekly jobless claims edge up, but labor market remains resilient - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjdpV0lCY3lUWlhjZzVkdTNNa1hrazREdFRCMjFSRlpzYmpXNlpYeXdOeXJyZk44NGQwT0FuN1cxdWRyUWtLenNCTGNDSVM0NERhNW5PemtfbTI1UkFtcDdvUklKdjZZM2c4NTZlUVBlYVF5SVBubVFnbkhueHNTWDhLd1c4MVJLM2g1ekQ3bHo?oc=5",
+      "datetime": 1795108017,
+      "summary": "US weekly jobless claims edge up, but labor market remains resilient\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Houthi attacks on Saudi Arabia - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXVIQUMwVTA5TllQb203X3V6XzNUVlNqaHhXd3NlNjJ0VF9rVUp1OTdRRjBWaVFMREswSVlfNjVESFAwb2w0NGMyVk5LeWNjTU42RnBIOWRsR05kWFktNFhrNnJtMm84cGNmekdUYmlvREJLQkt6NjUxMEZ2Sy1wUjVQbnhMS2JG?oc=5",
+      "datetime": 1795105238,
+      "summary": "Houthi attacks on Saudi Arabia\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
       "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
@@ -17992,14 +18056,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlc2MHpUb3VmbGltejJydzV6TVc3bVFyZTdEYVlkZmVKTVlwOVhyMHVyQnp5b21RTHIybHJ6WHl3c3pTNFhHTlRmOUpMVVdaaXZhZVlFeWtKbTZTbjdNdndrVWIwcVljRDVJM3dIdDFmaWM4YUZobldOZkJ2c3AzV19GT1NoaDdFcFhfUGZobEpKX2ZmQy1KUUhYQmF6U09XcnpDSWNtVUJzMzhEN1ZZOHJFZDcyWGllRFJpZVNmYw?oc=5",
       "datetime": 1795103794,
       "summary": "EU countries, Parliament agree to delay EU methane regulation by two years\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1BENXJsTm9KVlRxVjk0SENfVmszM1ZXVFpjQzJZcVRneVFiR210MTNseE0yUlJqWmRObE9ndjlKQkZUVFJqd0Joc3hFLWNhcW5KQ0ZKZWdBWDZ5Q1BCNWFQcDdBN1N5MDllSGNNYjdOUG1IaG5BNjB2S3hPMHRTSGpDM2phXzkzSUF6TkJtMktQRWpodkdiRVVSM0FJZ0lDOVRLZk5Dby1SdXV1elBEaW5GM0k?oc=5",
-      "datetime": 1795099501,
-      "summary": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -18017,62 +18073,6 @@
       "datetime": 1795096811,
       "summary": "Anthropic is set to make its record-breaking Nasdaq debut.",
       "image": "https://image.cnbcfm.com/api/v1/image/108552269-1794855081505-gettyimages-2304454689-ANTHROPIC_IPO_ROADSHOW.jpeg?v=1794855094&w=1920&h=1080"
-    },
-    {
-      "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-      "datetime": 1795096801,
-      "summary": "The Anthropic IPO and a flood of AI wealth are spurring the creation of new family offices built for the era of artificial intelligence.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108469373-1793113062661-gettyimages-2301777659-boivin-photoill261027_np36o.jpeg?v=1793113123&w=1920&h=1080"
-    },
-    {
-      "headline": "Gold's bad year is getting worse. Why its price keeps falling",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "datetime": 1795095472,
-      "summary": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
-      "image": "https://image.cnbcfm.com/api/v1/image/104902147-RTX3SM45-gold.jpg?v=1795091794&w=1920&h=1080"
-    },
-    {
-      "headline": "Somalia orders UAE ambassador to leave, citing 'invasion' - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
-      "datetime": 1795093694,
-      "summary": "Somalia orders UAE ambassador to leave, citing 'invasion'\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Iraqi forces strike compromise with powerful pro-Iran militia, security officials say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE54c3Eza3gxMTYwRmh4U0tZR0ZvWmctdm1OV1dkN1BzZXNXdFFiTjZkZlc5Mk01YVQzN2ZkZFZzUVVPdmMtc3ZzRjJZY28wdFE3ejFtcnlkbWZmUkZicXFKMU1ydEJZalZwZlFnQkhWSGVaMXFUUkt5T0pVaUp1WUxJMjdiVDhCWnlOLXRKaFh2UXhvQnNNQnNnZVBkWEdwMFBPOEEtc1ZzOTFIOHNfZklhZWJuQVVJaDBpU3hPNk4ycllOcTg4WmZoRG5zaDg?oc=5",
-      "datetime": 1795092311,
-      "summary": "Iraqi forces strike compromise with powerful pro-Iran militia, security officials say\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-      "datetime": 1795091470,
-      "summary": "Family offices continued to boost their stock holdings, but they hedged the AI trade with financials, according to the CNBC Family Office Portfolio Tracker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108280599-1773956111350-gettyimages-2267437819-anotherday197764726_agd3gqcv.jpeg?v=1773956163&w=1920&h=1080"
-    },
-    {
-      "headline": "Anthropic IPO could create thousands of multimillionaire employees",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-      "datetime": 1795091401,
-      "summary": "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108553482-1794949305479-gettyimages-2280291125-ANTHROPIC_CIRCUIT.jpeg?v=1794950481&w=1920&h=1080"
-    },
-    {
-      "headline": "Trump says US will 'see what happens' in conflict with Iran after January 1 - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-      "datetime": 1795090423,
-      "summary": "Trump says US will 'see what happens' in conflict with Iran after January 1\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     }
   ],
   "sentiment": {
