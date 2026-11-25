@@ -12326,19 +12326,51 @@
   },
   "news": [
     {
-      "headline": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
-      "datetime": 1795628103,
-      "summary": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "datetime": 1795637277,
+      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433967-1792440076573-gettyimages-2297619001-TRUMPWHITEHOUSE.jpeg?v=1792519423&w=1920&h=1080"
+    },
+    {
+      "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "datetime": 1795633965,
+      "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273730-1772650267944-gettyimages-2264789557-6e6a3473_copy_nnciksci.jpeg?v=1772650329&w=1920&h=1080"
     },
     {
       "headline": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
-      "datetime": 1795627138,
+      "datetime": 1795633084,
       "summary": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "datetime": 1795630979,
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080"
+    },
+    {
+      "headline": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+      "datetime": 1795629760,
+      "summary": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets\u00a0\u00a0Reuters",
+      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+    },
+    {
+      "headline": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
+      "datetime": 1795628103,
+      "summary": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery\u00a0\u00a0Reuters",
       "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
     },
     {
@@ -12388,38 +12420,6 @@
       "datetime": 1795622445,
       "summary": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
       "image": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080"
-    },
-    {
-      "headline": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-      "datetime": 1795619909,
-      "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108438990-1792529087333-gettyimages-2301197366-_04a5027_adb1ugww.jpeg?v=1793028319&w=1920&h=1080"
-    },
-    {
-      "headline": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-      "datetime": 1795618801,
-      "summary": "Done right, bonds can be used to reduce taxes rather than defer them.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107303341-16951583342023-09-15t100209z_1279820053_rc2sh2ama57v_rtrmadp_0_usa-biden-rural.jpeg?v=1695158401&w=1920&h=1080"
-    },
-    {
-      "headline": "Israeli strike kills Hamas official, his wife and children - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
-      "datetime": 1795616393,
-      "summary": "Israeli strike kills Hamas official, his wife and children\u00a0\u00a0Reuters",
-      "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
-    },
-    {
-      "headline": "Our top 10 things to watch in the stock market Wednesday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1795616130,
-      "summary": "We're headed for a sharply lower open on Wall Street.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108228573-1763579956976-gettyimages-2246881263-HL_JBEUNARDEAU_2962087.jpeg?v=1774534634&w=1920&h=1080"
     }
   ],
   "sentiment": {
